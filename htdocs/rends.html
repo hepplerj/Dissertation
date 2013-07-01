@@ -1,0 +1,16 @@
+---
+title: rends
+layout: none
+---
+
+<h2>Tags</h2>
+{% tag_cloud %}
+
+<h2>Categories</h2>
+<ul>
+{% for category in site.sorted_categories %}
+<li>{{ category | first }} {{ category | last | size }}</li>
+{%endfor%}
+</ul>
+
+
