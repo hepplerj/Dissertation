@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>{{ page.title }}</title>
+<meta name="viewport" content="width=device-width">
+
+<!-- syntax highlighting CSS -->
+<link rel="stylesheet" href="{{site.url}}/assets/css/syntax.css">
+
+<!-- Custom CSS -->
+<link rel="stylesheet" href="{{site.url}}/assets/css/main.css">
+
+<!-- Fonts -->
+<link href='http://fonts.googleapis.com/css?family=Lustria' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'>
+
+<!-- Data viz -->
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/d3.geo.projection.v0.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+
+</head>
+<body>
+
+
+<div class="navigation">
+  <a href="/" class="navigation-title">Machines in the Valley</a>
+  <div class="navigation-links">
+    <ul>
+      {% for link in site.links %}
+      <li itemscope itemtype="http://schema.org/SiteNavigationElement"><a href="{{ site.url }}{{ link.url }}" itemprop="url"><span itemprop="name">{{ link.title }}</span></a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div class="head-section" style="height: 700px; width: 100%">
+  <div class="text head-text">
+    Machines in the Valley
+    <div class="head-summary">Growth, Conflict, and Environmental Politics in Silicon Valley</div>
+    <div class="head-by head-by-main"><em>by</em> <span class="head-by-author">Jason A. Heppler</span></div>
+  </div>
+
+</div>
+
+<div class="article">
+
+    <div class="text">
+      {{ content }}
+    </div>
+
+</div>
+
+<script>
+
+// script start
+
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<head>
+<style>
+
+#map {
+  width: 960px;
+  height: 500px;
+}
+
+#map {
+  width: 960px;
+  height: 500px;
+}
+
+svg {
+  position: relative;
+}
+
+path {
+  fill: #000;
+  fill-opacity: .2;
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+path:hover {
+  fill: brown;
+  fill-opacity: .7;
+}
+
+</style>
+
+<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.css" />
+<script src="http://cdn.leafletjs.com/leaflet-0.7.2/leaflet.js?2"></script>
+<script src="lib/d3.v3.min.js"></script>
+<script src="http://d3js.org/d3.geo.projection.v0.min.js"></script>
+<script src="lib/topojson.v1.min.js"></script>
+
+</head>
+
+<body>
+
+  <p id="map" class="leaflet-container leaflet-fade-anim" tabindex="0" style="position: relative;"></p>
+
+<script>
+
+    var map = new L.Map("map", {center: [37.33, -121.9], zoom: 10})
+        .addLayer(new L.TileLayer("http://{s}.tile.cloudmade.com/f933f99490284c68b2d3126a17e956a4/998/256/{z}/{x}/{y}.png"));
+
+    var svg = d3.select(map.getPanes().overlayPane).append("svg"),
+        g = svg.append("g").attr("class", "leaflet-zoom-hide");
+
+        d3.json("data/ca_counties.json", function(error, collection) {
+          var transform = d3.geo.transform({point:projectPoint}),
+              path = d3.geo.path().projection(transform),
+              bounds = path.bounds(collection);
+
+          var feature = g.selectAll(".subunits")
+              .data(collection.objects.subunits)
+              .enter().append("path");        
+        });
+
+    // Use Leaflet to implement a D3 geometric transformation.
+    function projectPoint(x, y) {
+      var point = map.latLngToLayerPoint(new L.LatLng(y, x));
+      this.stream.point(point.x, point.y);
+    }
+
+
+
+        //   svg.selectAll(".subunit")
+        //     .data(topojson.feature(ca, ca.objects.subunits).features)
+        //   .enter().append("path")
+        //     .attr("class", function(d) { return "subunit" + d.id; })
+        //     .attr("d", path);
+        //
+        //   svg.append("path")
+        //     .datum(topojson.mesh(ca, ca.objects.subunits, function(a, b) { return a !== b }))
+        //     .attr("d", path)
+        //     .attr("class", "subunit-boundary");
+
+    // d3.json("data/us-states.json", function(collection) {
+    //   var transform = d3.geo.transform({point: projectPoint}),
+    //       path = d3.geo.path().projection(transform),
+    //       bounds = path.bounds(collection);
+    //
+    //   var feature = g.selectAll("path")
+    //       .data(collection.features)
+    //     .enter().append("path");
+    //
+    //   map.on("viewreset", reset);
+    //   reset();
+    //
+    //   // Reposition the SVG to cover the features.
+    //   function reset() {
+    //     var topLeft = bounds[0],
+    //         bottomRight = bounds[1];
+    //
+    //     svg.attr("width", bottomRight[0] - topLeft[0])
+    //         .attr("height", bottomRight[1] - topLeft[1])
+    //         .style("left", topLeft[0] + "px")
+    //         .style("top", topLeft[1] + "px");
+    //
+    //     g.attr("transform", "translate(" + -topLeft[0] + "," + -topLeft[1] + ")");
+    //
+    //     feature.attr("d", path);
+    //   }
+    //
+    //   // Use Leaflet to implement a D3 geometric transformation.
+    //   function projectPoint(x, y) {
+    //     var point = map.latLngToLayerPoint(new L.LatLng(y, x));
+    //     this.stream.point(point.x, point.y);
+    //   }
+    // });
+
+</script>
+
+</body>
+</html>
