@@ -1,0 +1,15 @@
+.DS_Store
+*.scriv
+*.gz
+
+# Directories
+to_merge/
+wiki/
+notes/
+forms/
+sources/
+omeka/
+htdocs/
+design/
+prospectus/
+archives/
