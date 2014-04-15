@@ -5,55 +5,163 @@ author:
     affiliation: University of Nebraska-Lincoln
     email: jason.heppler@gmail.com
 date: April 14, 2014
-abstract: 
-bibliography: 
+abstract:
+bibliography: master.bib
 ...
 
 > "Palo Alto is half bedroom suburb, half futuristic 1970s science fiction
 > movies. . . . The big thing about Palo Alto is that, as a city, it designs
 > tons of incredibly powerful and scarry shit inside its science parks, which
-> are EVERYWHERE." 
-> 
+> are EVERYWHERE."
+>
 > Douglas Coupland, *Microserfs* (1995)
 
 The Cold War science complex, anchored by the Stanford Industrial Park, had
 transformed the landscape of the Midpenninsula. Between 1940 and 1947, the nine
 counties of the Bay Area became home for 676,000 more people, 330,000 new jobs,
-and $2.5 billion more in annual income.^[@omara, 103.] The Bay Area Council
+and $2.5 billion more in annual income.^[@omara2005citiesa, 103.] The Bay Area Council
 concluded that California would become an industrial powerhouse not by
 replicating the Midwest and Northeast, but through the promotion of new
-industries.^[@omara, 106.]
+industries.^[@omara2005cities, 106.]
 
-## Aspirations for California
+## Aspirations for Californi
 
 Anxieties over suburban growth and issues of clean air and water, open space, sprawl, and pollution defined environmental politics against its preservationist history. Postwar environmentalism largely became issues over quality-of-life as new worries about chemicals used in products, pollution of water resources, pesticides, and overrun national parks became key political issues. The publication of bestselling books, including Stewart Udall's The Quiet Crisis, Rachel Carson's The Silent Spring, and Paul Ehrlich's The Population Bomb, made the case for greater regulation of growth and pollution. The passage of new legislation embodied new attempts to protect land, air, and water, such as the Wilderness Act of 1964, the National Environmental Policy Act of 1970, the creation of the Environmental Protection Agency, the Clean Air Act of 1972, and Endangered Species Act of 1973.
 
-Rapid growth in western cities encouraged new concerns about their environmental impact, which had the effect of changing local and regional politics. World War II defense industries, Cold War military and industrial buildup, and tourism and recreation encouraged widespread growth in western cities. The region's population more than doubled by 1960. Santa Clara County alone counted 800 factory workers in 1950, which jumped to 264,000 manufacturing workers and more than 3,000 electronics firms by 1980.^[Abbott, *How Cities Won the West*, 181.] While growth brought new prosperity and wealth, it also unsettled westerners who watched rural landscapes vanish under four-lane highways, parking lots, office buildings, and residential developments. By the 1960s, some westerners began pushing back against the tide of change and fueled new antigrowth and environmental politics throughout the region. Comprised mostly of middle-class professionals, suburban liberals and conservatives found common ground over environmental damage, uncontrolled growth, poor planning and development, trampled wilderness, and disappearing open space.^[Childers, 70-72.] 
+Rapid growth in western cities encouraged new concerns about their environmental
+impact, which had the effect of changing local and regional politics. World War
+II defense industries, Cold War military and industrial buildup, and tourism and
+recreation encouraged widespread growth in western cities. The region's
+population more than doubled by 1960. Santa Clara County alone counted 800
+factory workers in 1950, which jumped to 264,000 manufacturing workers and more
+than 3,000 electronics firms by 1980.^[@abbott2008cities, 181.] While growth
+brought new prosperity and wealth, it also unsettled westerners who watched
+rural landscapes vanish under four-lane highways, parking lots, office
+buildings, and residential developments. By the 1960s, some westerners began
+pushing back against the tide of change and fueled new antigrowth and
+environmental politics throughout the region. Comprised mostly of middle-class
+professionals, suburban liberals and conservatives found common ground over
+environmental damage, uncontrolled growth, poor planning and development,
+trampled wilderness, and disappearing open space.^[@childers2010ski, 70-72.]
 
-Quality-of-life and antigrowth activists argued that uncontrolled growth lay at the center of the West's social and environmental problems. Air pollution, loss of open space, damaged wilderness areas, industrialization, and urban sprawl threatened the very qualities that led millions of Americans to move West after World War II. The region's vast public lands, economic opportunities, and clean air, activists argued, were under threat by the continuous growth characterizing western metropolitan areas. By the 1970s, residents began arguing for limits on growth in order to protect their quality of life.^[Childers, 72.]
+Quality-of-life and antigrowth activists argued that uncontrolled growth lay at
+the center of the West's social and environmental problems. Air pollution, loss
+of open space, damaged wilderness areas, industrialization, and urban sprawl
+threatened the very qualities that led millions of Americans to move West after
+World War II. The region's vast public lands, economic opportunities, and clean
+air, activists argued, were under threat by the continuous growth characterizing
+western metropolitan areas. By the 1970s, residents began arguing for limits on
+growth in order to protect their quality of life.^[@childers2010ski, 72.]
 
-## Industrial Parks in the United States
 
-Stanford Industrial Park emerged amid changes in postwar industrial architecture.^[The best accounts of Stanford Industrial Park's planning and development are in O'Mara and Findlay.] Thirty-three industrial parks existed in the United States in 1940, quickly rising to 307 by 1957. The increase in industrial parks coincided with them becoming less likely to locate within cities, leading to 75 percent of parks built after World War II being located in areas whose populations were between 25,000 and 500,000 people. By the 1950s, parks were locating outside of city centers and instead found homes in suburbs, allowing firms in the parks to take advantage of a nearby workforce, new tax benefits, avoiding traffic congestion, bypassing old infrastructure, and locating out of reach from unions in older industrial cities. Although many firms remained in city centers to take advantage of certain benefits -- proximity to services such as public transportation -- many located themselves in suburban areas.^[1957 Dept of Commerce report; O'Mara, 66.]
+## Industrial Parks in the United State
 
-The suburbanization of industry led land developers to adhere to higher standards in urban design. The real estate consultancy Arthur D. Little, Inc., noted in 1958 that,
+Stanford Industrial Park emerged amid changes in postwar industrial
+architecture.^[The best accounts of Stanford Industrial Park's planning and
+development are in @omara2005cities and @findlay1991cityscapes.] Thirty-three
+industrial parks existed in the United States in 1940, quickly rising to 307 by
+1957. The increase in industrial parks coincided with them becoming less likely
+to locate within cities, leading to 75 percent of parks built after World War II
+being located in areas whose populations were between 25,000 and 500,000 people.
+By the 1950s, parks were locating outside of city centers and instead found
+homes in suburbs, allowing firms in the parks to take advantage of a nearby
+workforce, new tax benefits, avoiding traffic congestion, bypassing old
+infrastructure, and locating out of reach from unions in older industrial
+cities. Although many firms remained in city centers to take advantage of
+certain benefits -- proximity to services such as public transportation -- many
+located themselves in suburban areas.^[1957 Dept of Commerce report;
+@omara2005cities, 66.] The suburbanization of industry led land developers to
+adhere to higher standards in urban design. The real estate consultancy Arthur
+D. Little, Inc., noted in 1958 that, 
 
-> An industrial park is a planned or organized industrial district with a comprehensive plan which is designed to insure compatibility between the industrial operations therein and the existing activities and character of the community in which the park is located. The plan must provide for streets designed to facilitate truck and other traffic, proper setbacks, lot size minimums, land/use ratio minimums, architectural provisions, landscaping requirements, and specific use requirements, all for the purposes of promoting the degrees of openness and park-like character which are appropriate to harmonious integration into the neighborhood. The industrial park must be of sufficient size and must be suitably zoned to protect the areas surrounding it from being devoted to lower uses.^[Quoted in O'Mara, 65.]
+> An industrial park is a planned or organized industrial district with
+> a comprehensive plan which is designed to insure compatibility between the
+> industrial operations therein and the existing activities and character of the
+> community in which the park is located. The plan must provide for streets
+> designed to facilitate truck and other traffic, proper setbacks, lot size
+> minimums, land/use ratio minimums, architectural provisions, landscaping
+> requirements, and specific use requirements, all for the purposes of promoting
+> the degrees of openness and park-like character which are appropriate to
+> harmonious integration into the neighborhood. The industrial park must be of
+> sufficient size and must be suitably zoned to protect the areas surrounding it
+> from being devoted to lower uses.^[Quoted in @omara2005cities, 65.]
 
-Affluent suburbanites were willing to take advantage of new tax revenues and job opportunities present in new industries, but were unwilling to accommodate those industries if they had an affect on their quality of life. Smokestacks, traffic congestion, and air or noise pollution would not be tolerated.
+Affluent suburbanites were willing to take advantage of new tax revenues and job
+opportunities present in new industries, but were unwilling to accommodate those
+industries if they had an affect on their quality of life. Smokestacks, traffic
+congestion, and air or noise pollution would not be tolerated.
 
-Industry had another reason to locate near suburban areas: to strengthen its ties to research institutions. <!-- expand -->
+Industry had another reason to locate near suburban areas: to strengthen its
+ties to research institutions. <!-- expand -->
 
 ## "The Miracle of Palo Alto"
 
-Stanford University benefitted from location. The towns around Stanford grew rapidly during and after World War II as middle-class families moved to the area to take advantage of new defense and related industries. Menlo Park grew from a town of 3,000 to 27,000 between 1940 and 1960, while Palo Alto grew from under 17,000 to 52,000 in the same period. To Stanford's chagrin, however, most commercial activity located elsewhere on the Peninsula. The majority of commercial development around Stanford were retail and services.^[ O'Mara, 107.] If Stanford was to become the center of a new western economy, they needed new industries. They found those industries from technology firms that started in the area, including Hewlett-Packard and Varian Associates. 
+In 1951 the Stanford Industrial Park opened its doors. Carved out of Stanford's
+vast land holdings on the San Francisco Peninsula, the industrial park marked
+the emergence of the campus's drive to suburbanize and determine nonacademic
+uses for its lands.
 
-The development of Stanford Industrial Park marked the emergence of the modern West: a region less reliant on what economist Thomas Michael Power called "folk economics" -- define this --  and more reliant on postindustrial economies of tourism and technology.^[Michael Thomas Power, *Lost Landscapes and Failed Economies: The Search for a Value of Place* (Washington, D.C.: Island Press, 1996), 19-21. <!-- WHAT ELSE ON TOURISM?-->] The economic shift meant a cultural shift as well. As farmland, pastures, and ranches became subdivisions, technology companies, and service industries. As technology industries grew, the new economic activity began to reshape how people thought about the Valley. Namely, the expansion of industry carried with it a contentious debate about the effects of industrialization on the Valley's landscape and a debate over how it would be shaped.^[On postwar suburban growth, see Kenneth Jackson, *Crabgrass Frontier: The Suburbanization of the United States* (New York: Oxford University Press, 1985); Robert Fishman, *Bourgeois Utopias: The Rise and Fall of Suburbia* (New York: Basic Books, 1987), 155–81; Carl Abbott, *The Metropolitan Frontier Cities in the Modern American West* (Tucson: University of Arizona Press, 1998); Andres Duany et al., *Suburban Nation: The Rise of Sprawl and the Decline of the American Dream* (New York: North Point Press, 2001); Becky Nicolaides, *My Blue Heaven: Life and Politics in the Working-Class Suburbs of Los Angeles, 1920-1965* (Chicago: University of Chicago Press, 2002); Owen Gutfreund, *Twentieth-Century Sprawl: Highways and the Reshaping of the American Landscape* (New York: Oxford University Press, 2004).]
+The railroad baron and businessman Leland Stanford and his wife, Jane, founded
+the university in 1891 in the memory of their son Leland Stanford, Jr., who died
+at age fifteen from typhoid fever. The Leland Stanford Junior University was
+established on Leland's vast land holdings -- nearly nine thousand acres of
+prime agricultural land -- and bestowed all of the land to the university, which
+could lease the land however it saw fit but could never sell it. The university
+was the largest land holder on the Peninsula, and would own the Farm
+permanently. For sixty years after the university's founding, the Farm would
+remain just that before becoming some of the most valuable land in the country.
+Most of the land was leased to farmers and ranchers and the rolling foothills
+would largely remain undeveloped.^[@omara2005cities, 102;
+@findlay1991cityscapes, 120.]
+
+The Second World War introduced a surge in the population of the Bay Area.
+Although San Francisco had long been a prominent feature of the United States
+military, the rest of the Bay Area had largely remained out of militarization
+until the Cold War. <!-- expand -->
+
+The spatial distribution of industry followed a postwar trend in industrial
+design and development. Industry no longer developed in central cities as it
+historically had. Rather, industrial manufacturing sought cheaper and more
+spacious outlying lands that had adequate space for parking, loading facilities,
+and room for plant expansions. Industries also sought more amenable work
+environments. City ordinances in the latter half of the twentieth century began
+pushing industry to less desirable areas of cities, while industrial facilities
+sought the same amenities as suburbanites: a pleasant environment, suburban
+neighborhoods, distance from urban problems, and lower taxes, while remaining in
+proximity of city services and infrastructure.^[@findlay1991cityscapes, 120.]
+
+Stanford University benefitted from location. The towns around Stanford grew
+rapidly during and after World War II as middle-class families moved to the area
+to take advantage of new defense and related industries. Menlo Park grew from
+a town of 3,000 to 27,000 between 1940 and 1960, while Palo Alto grew from under
+17,000 to 52,000 in the same period. To Stanford's chagrin, however, most
+commercial activity located elsewhere on the Peninsula. The majority of
+commercial development around Stanford were retail and
+services.^[@omara2005cities, 107.] If Stanford was to become the center of a new
+western economy, they needed new industries. They found those industries from
+technology firms that started in the area, including Hewlett-Packard and Varian
+Associates.
+
+The development of Stanford Industrial Park marked the emergence of the modern
+West: a region less reliant on what economist Thomas Michael Power called "folk
+economics" <~-- define this -->  and more reliant on postindustrial economies of
+tourism and technology.^[@power1996landscapes, 19-21. <!-- WHAT ELSE ON
+TOURISM?-->] The economic shift meant a cultural shift as well. As farmland,
+pastures, and ranches became subdivisions, technology companies, research firms,
+and service industries. As technology industries grew, the new economic activity
+began to reshape how people thought about the Valley.  Namely, the expansion of
+industry carried with it a contentious debate about the effects of
+industrialization on the Valley's landscape and a debate over how it would be
+shaped.^[On postwar suburban growth, see @jackson1985crabgrass;
+@fishman1987bourgeois, 155–81; @abbott1998frontier; @duany2001suburban;
+@nicolaides2002heavan; @gutfreund2004sprawl.]
 
 <!-- focus on land development; Stanford as a developer helps launch
 environmentalism -->
 
-<!-- IDEA: Lets de-emphasize Terman; he's cited everywhere, by O'Mara, Findley, the celebratory works. The real work of building the Valley came from Terman, Alf Brandin, the Board of Trustees, and Colbert Coldwell (real estate advisor). 
+<!-- IDEA: Lets de-emphasize Terman; he's cited everywhere, by O'Mara, Findley,
+the celebratory works. The real work of building the Valley came from Terman,
+Alf Brandin, the Board of Trustees, and Colbert Coldwell (real estate advisor).
 -->
 
 ## Stanford University, Suburban Environmentalism, and the Battle of the Hills
@@ -88,31 +196,31 @@ The spatial arrangements of cities and zoning shaped how residents responded to 
 
 Ad hoc community and  environmental coalitions formed in the wake of Stanford's announcement. Residents of Palo Alto responded to Stanford's plans to develop the foothills by organizing the Citizens Committee on Regional Planning (CCRP) in March. The organization, under the initial leadership of Robert Mahan, an insurance executive from Palo Alto, began by organizing a letter writing campaign to voice their opposition to the foothills plans. Before the group officially organized as the CCRP, residents printed a copy of a letter in the Palo Alto Times and urged readers to clip the letter from the newspaper and mail the clipping to the Stanford Board of Trustees to illustrate grassroots opposition to industrialization.^["Anti-foothill industry drive launched here," Palo Alto Times, March 8, 1960, 2; "Industry opponents organize, name head," Palo Alto Times, March 11, 1960, 1.] <!-- {What does this letter say? What's the argument? Examples? Find this.} --> Within two days of publishing the letter, the Stanford Board of Trustees had received 250 letters voicing opposition to the plan; many of the letters were clipped from the CCRP's Palo Alto Times letter.^["Industry opponents organize," *Palo Alto Times*, March 11, 1960, 1; "13 residents protest foothill zoning change," *Palo Alto Times*, March 4, 1960, 17.]
 
-Los Altos Hills also expressed their disapproval of the plans. Residents, irate that their residential-only incorporation would be encroached upon by industrialized foothills, expressed their displeasure through letters and newspaper editorials. 
+Los Altos Hills also expressed their disapproval of the plans. Residents, irate that their residential-only incorporation would be encroached upon by industrialized foothills, expressed their displeasure through letters and newspaper editorials.
 
-Resistance from residents targeted the city council as well. The Palo Alto Residents Association (PARA) called for "a vigorous campaign" against the Palo Alto City Council's plans to allow industrial development in the foothills.^["Residents oppose industry," *Palo Alto Times*, March 10, 1960, 1.] Resistance stemmed from the potential for degrading the landscape. Peter Hughes, an officer of PARA, charged that developing the foothills would destroy the landscape. Calculating that the Ampex site would cover thirty acres of parking lot and another twelve acres for buildings, Hughes challenged that "if anyone can lay down that amount of building without changing the contour of the land he is an engineer the like of which I have never seen."^["Residents oppose industry," *Palo Alto Times*, March 10, 1960, 1.] 
+Resistance from residents targeted the city council as well. The Palo Alto Residents Association (PARA) called for "a vigorous campaign" against the Palo Alto City Council's plans to allow industrial development in the foothills.^["Residents oppose industry," *Palo Alto Times*, March 10, 1960, 1.] Resistance stemmed from the potential for degrading the landscape. Peter Hughes, an officer of PARA, charged that developing the foothills would destroy the landscape. Calculating that the Ampex site would cover thirty acres of parking lot and another twelve acres for buildings, Hughes challenged that "if anyone can lay down that amount of building without changing the contour of the land he is an engineer the like of which I have never seen."^["Residents oppose industry," *Palo Alto Times*, March 10, 1960, 1.]
 
-Letters poured into Stanford. Wallace Sterling received around 400 letters in opposition to the plan and only fifty in support.^[O'Mara, Cities of Knowledge, 134.] 
+Letters poured into Stanford. Wallace Sterling received around 400 letters in opposition to the plan and only fifty in support.^[O'Mara, Cities of Knowledge, 134.]
 
-Residents also pointed to a conflict of interest relationship between Palo Alto Mayor Noel Porter and David Packard in their effort to protect the foothills. 
+Residents also pointed to a conflict of interest relationship between Palo Alto Mayor Noel Porter and David Packard in their effort to protect the foothills.
 
-Letters poured into the *Palo Alto Times*. 
+Letters poured into the *Palo Alto Times*.
 
 A common complaint was the pastoral scenery that would disappear in the face of industrial buildings.^[Letter from Wallace Sterling to Gordon Johnson, March 6, 1960, FF8, Box A29, SC 216, SUA.]
 
-When letter and editorial campaigns failed to initiate the planning that protesters wanted to see, they turned to the next available tool: the referendum. In June a petition campaign initiated by opponents of foothills industrialization began circulating through Palo Alto. The petition called on the city council to rescind its decision to rezone the land for light industry or to allow residents a vote on the issue. Four days before the rezoning ordinance was to become official, the referendum petition was filed to the city having collected over two-thousand signatures, above the necessary 1,000 that was needed. 
+When letter and editorial campaigns failed to initiate the planning that protesters wanted to see, they turned to the next available tool: the referendum. In June a petition campaign initiated by opponents of foothills industrialization began circulating through Palo Alto. The petition called on the city council to rescind its decision to rezone the land for light industry or to allow residents a vote on the issue. Four days before the rezoning ordinance was to become official, the referendum petition was filed to the city having collected over two-thousand signatures, above the necessary 1,000 that was needed.
 
 ## Referendum
 
-Palo Alto residents responded to Stanford's plans to expand the Industrial Park by initiating a referendum campaign and putting the issue to a city-wide vote. A "yes" on the ballot would allow for the expansion. 
+Palo Alto residents responded to Stanford's plans to expand the Industrial Park by initiating a referendum campaign and putting the issue to a city-wide vote. A "yes" on the ballot would allow for the expansion.
 
 As the referendum campaign dragged on through the summer, editorials to the Times attempted to flip complaints about the loss of the foothills upside-down. An editorial in the Palo Alto Times expressed "gratitude" to Stanford for "so generously permitting thousands of people to freely enjoy the rolling, tree-studded hills, the lakes, and views of the campus."^[Esther B. Clark, M.D., Letter to the Editor, *Palo Alto Times*, March 28, 1960, FF 11, Box A29, SC 216, SUA.] The Times even spoke in favor of the expansion, writing that the community owed Stanford a debt for keeping the area's lands free of intrusive industry. The Times argued that Stanford's large landholdings "constituted a free park" for Palo Alto and surrounding communities. Had these lands fallen into the hands of private owners, they "long ago would have been converted to the houses, business places and industries where so many of us live and work."^[Editorial, *Palo Alto Times*, November 1960, Stanford Lands Scrapbook V, 1960-61, Subject File 1300/9, SUA.]
 
 Referendum supporters were not without their critics. Donald Carlson referred to them as "malcontents in the community," and the *San Francisco Examiner* referred to "wild-eyed claims" of the protesters.^[Letter from Donald Carlson to Ben Allen, May 12, 1960, FF8, Box A29, SC 216, SUA; "Groups Clash over Use of Stanford Land,"* San Francisco Examiner*, March 18, 1960.]
 
-Too often, the city of Palo Alto happily yielded to Stanford's wishes. 
+Too often, the city of Palo Alto happily yielded to Stanford's wishes.
 
-Stanford administrators felt they understood the debate, or at the least could not understand why residents were up in arms about Stanford's development plans. Alf Brandin recalled that Stanford had an issue with semantics, arguing that "we tried to say it has got to be clean, no smoke, no heavy manufacturing. Light manufacturing that is clean and electronic."^[Brandin oral history, 42.] Stanford took this to heart, renaming the Industrial Park to Stanford Research Park shortly after the Battle of the Hills in order to avoid industrializations association with the area. But Stanford's belief that the issue revolved around semantics -- that the word "industry" in Stanford Industrial Park was confusing residents -- reveals that Stanford had no understanding of citizen's real concerns. Citizens rightfully argued that industrialization -- light manufacturing or otherwise -- was going to have an enormous impact on the environment. Frequently claims of "clean" industry were revealed to be false. Complaints about light and noise pollution could be controlled to a degree by Stanford, but other pollutants -- radiation, smog, and toxic solvents -- would remain uncontrolled, sometimes invisible, and have greater repercussions. One resident noted in the heat of the Battle of the Hills debate that a Lockheed plant hear his home resulted in a "federal agency [that] has been checking the shrubs in our back yard for radioactivity."^["Pros and Cons of Foothill Industry Zone Debated," Palo Alto Times, April 21, 1960, 13.] No amount of planning, architectural prowess, and top-notch landscaping could get around the visible and invisible pollution resulting from high technology manufacturing. 
+Stanford administrators felt they understood the debate, or at the least could not understand why residents were up in arms about Stanford's development plans. Alf Brandin recalled that Stanford had an issue with semantics, arguing that "we tried to say it has got to be clean, no smoke, no heavy manufacturing. Light manufacturing that is clean and electronic."^[Brandin oral history, 42.] Stanford took this to heart, renaming the Industrial Park to Stanford Research Park shortly after the Battle of the Hills in order to avoid industrializations association with the area. But Stanford's belief that the issue revolved around semantics -- that the word "industry" in Stanford Industrial Park was confusing residents -- reveals that Stanford had no understanding of citizen's real concerns. Citizens rightfully argued that industrialization -- light manufacturing or otherwise -- was going to have an enormous impact on the environment. Frequently claims of "clean" industry were revealed to be false. Complaints about light and noise pollution could be controlled to a degree by Stanford, but other pollutants -- radiation, smog, and toxic solvents -- would remain uncontrolled, sometimes invisible, and have greater repercussions. One resident noted in the heat of the Battle of the Hills debate that a Lockheed plant hear his home resulted in a "federal agency [that] has been checking the shrubs in our back yard for radioactivity."^["Pros and Cons of Foothill Industry Zone Debated," Palo Alto Times, April 21, 1960, 13.] No amount of planning, architectural prowess, and top-notch landscaping could get around the visible and invisible pollution resulting from high technology manufacturing.
 
 ## Committee for Green Foothills
 

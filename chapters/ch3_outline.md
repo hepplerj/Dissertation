@@ -61,12 +61,13 @@
   - The Farm would remain just that for the next sixty years, leased often to
   ranchers and farmers through which the university generated a small profit.
   The landscape in the minds of early Stanford students and residents was
-  a rolling countryside, what Ray Lyman Wilbur called a "spirit of open air and
-  a sense of freedom and independence which have become the background of the
-  Stanford spirit," a retreat away from the turbulent cities, a place where
-  students could find quiet contemplation among the foothills and lakes. "Poppy
-  fields, rolling green hills, and winding country roads! The 'Old Grad' loves to
-  dream of them!" recalled one alum in 1927.^[Wilbur and alum quoted in @omara, 102.]
+  a rolling countryside, what University President Ray Lyman Wilbur called
+  a "spirit of open air and a sense of freedom and independence which have
+  become the background of the Stanford spirit," a retreat away from the
+  turbulent cities, a place where students could find quiet contemplation among
+  the foothills and lakes. "Poppy fields, rolling green hills, and winding
+  country roads! The 'Old Grad' loves to dream of them!" recalled one alum in
+  1927.^[Wilbur and alum quoted in @omara2005cities, 102.]
   - But the natural landscape was already highly planned. Orchards, farms, rural
   campus.
   - Administrators focused on the university's campus and attracting professors
@@ -84,12 +85,45 @@
   had pushed industries to less desirable parts of cities. Businesses wanted the
   same amenities as suburban residents: environment, separation from undesirable
   neighborhoods, distance from urban problems, and lower taxes while remaining
-  within proximity of city services and amenities.^[@findlay, 120.]. 
+  within proximity of city services and amenities.^[@findlay1991cityscapes, 120.].
   - Stanford Industrial Park opened in 1951 as a light manufacturing district, but
   soon became more closely associated with high technology research and
   development.
   - Stanford entered the land development game in order to improve its
-  reputation and attract new talent.
+  reputation and attract new talent. Stanford developed a reputation with microwave
+  technology, then aeronautical engineering, and solid-state electronics.
+  - In 1945 the university established a planning office and two years later
+  tasked Lewis Mumford to give advice on moving forward. Mumford suggested that
+  Stanford keep an urban core but maintain the "rural setting" and urged that
+  the university shoul resist the "tendency toward scattering and suburban
+  isolation." Mumford's advise was not heeded. Rents paid by
+  agricultural leasees hardly covered the cost of property taxes, and the
+  suburbanization of the surrounding lands added additional pressure to the
+  drive to develop. Furthermore, state law called for the "highest and best use"
+  of the land, which it used for its assessment for taxes. The university needed
+  income to supprot its growing educatonal and research endeavors and needed to
+  prove it did everything in its power to raise the money. The Industrial Park
+  proved too lucrative.
+  - The impetous for development was driven by the incoming university president
+  J. E. Wallace Sterling, who assumed office in 1949. Sterling and Frederick
+  Terman, the Dean of Engineering, and Coldwell led the drive for Stanford's
+  development of its lands for nonacademic use. On the fringes of the land, they
+  began leasing for a shopping center, residential development, and
+  manufacturing tract. Selecting the southeast corner of the property because of
+  its proximity to a railroad and could be hidden from the main campus by
+  planting trees, the section was selected for light industrial development. 
+  - In 1953 the university hired the San Francisco office of Skidmore, Owings,
+  and Merrill to develop a master plan for the Stanford lands.  The university
+  ignored the firm's advice, rejecting the firm's advice to raise money through
+  residential development and suburban development. Terman wanted "a community
+  of technical scholars," and the acerage for residential tracts shrank
+  dramatically. In 1956, the acreage devoted to industry had doubled, and by
+  1960 industrial uses occuped the Stanford lands more than any other function
+  save the campus. 
+  - Despite Stanford's outward claims of following master plans and working with
+  surrounding communities, the university never followed a long-term plan. It
+  considered projects on merit rather than considered planning and land use
+  policies. The only theme of the new industrial park was high technology.
 6. In CA, growth brought prosperity. But intense debates formed around growth in
    foothills, routes of freeways.
   - In response to these issues, coalitions emerged such as Committee for Green
