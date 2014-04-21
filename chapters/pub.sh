@@ -21,6 +21,7 @@ echo "Generating Word files"
 pandoc $file \
 	--bibliography=/Users/jheppler/Writing/bib/master.bib \
 	--csl=chicago-fullnote-bibliography-no-ibid.csl \
+  --reference-docx=reference.docx \
 	-o drafts/$file.docx
 
 # hide the log

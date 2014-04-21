@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+
+<link href='http://fonts.googleapis.com/css?family=Lato:300,400,700' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300' rel='stylesheet' type='text/css'>
+
+<link href="style.css" rel="stylesheet" type="text/css">
+<title>Geography of the Post</title>
+
+</head>
+
+<body>
+
+<script src="lib/d3.js"></script>
+<script src="http://d3js.org/queue.v1.min.js"></script>
+<script src="http://d3js.org/topojson.v0.min.js"></script>
+<script src="http://d3js.org/d3.geo.projection.v0.min.js"></script>
+
+<div id="info">
+    <h1>The Geography of the Nineteenth-Century Post</h1>
+  <div id="about">
+    <ul>
+        <li>Cameron Blevins</li>
+        <li><span class="sc">Stanford University</span></li>
+    </ul>
+  </div>
+</div>
+
+<script>
+
+//********************************************
+// Global variables
+//********************************************
+
+var width = 960,
+    height = 750,
+    barchart_margin = {top: 20, right: 20, bottom: 30, left: 40},
+    barchart_width = 960 - barchart_margin.left - barchart_margin.right,
+    barchart_height = 200 - barchart_margin.top - barchart_margin.bottom;
+
+// Scales
+var x = d3.scale.ordinal().rangeRoundBands([0, width], .1);
+var y = d3.scale.linear().range([barchart_height, 0]);
+public_x = d3.scale.ordinal();
+
+var parse_date = d3.time.format("%Y").parse;
+
+// Get our data ready
+//********************************************
+queue()
+    .defer(d3.json, "us.json")
+    .defer(d3.csv, "blevins.csv")
+    .await(ready);
+
+//********************************************
+// Map
+//********************************************
+
+   // azimuth projection
+var projection = d3.geo.azimuthalEqualArea()
+    .translate([680, 380])
+    .rotate([118.9, 0])
+    .center([0, 44.03])
+    .scale(1200 * 7);
+
+    // satellite projection
+    // use this one instead?
+var projection2 = d3.geo.satellite()
+    .distance(1.1)
+    .scale(5500)
+    .rotate([118.00, -34.50, 32.12])
+    .center([-2, 5])
+    .tilt(25)
+    .clipAngle(Math.acos(1 / 1.1) * 180 / Math.PI - 1e-6)
+    .precision(.1);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+var graticule = d3.geo.graticule()
+    .extent([[-98 - 45, 38 - 45], [-98 + 45, 38 + 45]])
+    .step([22.5 / 4, 22.5 / 4]);
+
+path = d3.geo.path()
+    .projection(projection)
+    .pointRadius(1.5);
+
+// Printing the map
+
+svg.append("path")
+    .datum(graticule.outline)
+    .attr("class", "background")
+    .attr("d", path);
+
+function ready(error, us, post) {
+  exposedpost = post;
+
+  svg.append("path")
+      .datum(topojson.object(us, us.objects.land))
+      .attr("class", "land")
+      .attr("d", path);
+
+  svg.append("path")
+      .datum(topojson.mesh(us, us.objects.counties, function(a, b) { return a.id !== b.id; }))
+      .attr("class", "boundary")
+      .attr("d", path);
+
+  // Printing all points
+  postoffices = svg.selectAll("g.points-est")
+      .data(post)
+    .enter().append("g")
+     .attr("class","points-est")
+     .attr("transform", function(d) {return "translate(" + projection([d.longitude, d.latitude) + ")"; });
+
+  postoffices
+    .append("circle")
+      .attr("r", 3)
+      .attr("class","points-est");
+
+
+  // *******************************************
+  // Printing the entire CSV file as a table
+  // *******************************************
+
+  // var columns = ["Name", "Est", "Dis1", "R1", "Dis2", "Re2", "Dis3", "Re3", "Dis4", "Re4", "Latitude", "Longitude"];
+  //
+  //   // Print the table by placing a `div` with `id` of `container` below
+  //   var table = d3.select("#container").append("table"),
+  //       thead = table.append("thead"),
+  //       tbody = table.append("tbody");
+  //
+  //   thead.append("tr")
+  //   .selectAll("th")
+  //     .data(columns)
+  //   .enter()
+  //     .append("th")
+  //     .text(function(column) { return column; });
+  //
+  //   var rows = tbody.selectAll("tr")
+  //     .data(post)
+  //   .enter()
+  //     .append("tr");
+  //
+  //   var cells = rows.selectAll("td")
+  //     .data(function(row) {
+  //         return columns.map(function(column) {
+  //             return {column: column, value: row[column]};
+  //         });
+  //     })
+  //   .enter()
+  //     .append("td")
+  //     .text(function(d) { return d.value; });
+
+});
+
+</script>
+
+<p>The visualizations above (built with <a href="http://d3js.org">D3</a>) plot the opening, closing, and in some cases the re-opening and re-closing, of nearly 1,500 post offices in Oregon between 1847 and 1902. Click and drag on the bar chart to filter the post offices. The colored points indicate whether a post office was opened, existed, or closed during that time period. The table below provides details on demand.</p>
+
+<p>The <span style="color: red;">Red</span> points blah blah blah, the <span style="color: blue;">Blue</span> points blah blah blah.... Hover over points on the map to view more information about that post office.</p>
+
+<p>Some questions to consider: What happens <a href="">year-by-year</a>? Do post offices react to national events like the <a href="">Civil War</a>? Are there unique groupings of post offices based on <a href="">historical events in Oregon?</a> Are there patterns to <a href="">closed</a> or <a href="">opened</a> post offices?</p>
+
+<!-- TODO: For the future: be able to click on a time-framed event and create the brush event for a given period of time. -->
+<div id="nav">
+    <ul>
+        <li><a href="#">Single Year</a></li>
+        <li><a href="#">Civil War</a></li>
+        <li><a href="#">Western Expansion</a></li>
+        <li><a href="#">Gilded Age</a></li>
+    </ul>
+</div>
+
+<div id="selections">
+  <h4>Offices</h4>
+  <form>
+    <input type="checkbox" name="maps" value="All">All<br>
+    <input type="checkbox" name="maps" value="Established">Established<br>
+    <input type="checkbox" name="maps" value="Reestablished">Reestablished
+  </form>
+</div>
+
+<!-- <div id="years_container"></div>-->
+<div id="container"></div>
+
+<footer>
+  <span style="float:right;">
+    Released under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html">Apache License 2.0</a>.
+  </span>
+  Visualized by <a href="http://www.jasonheppler.org">Jason Heppler</a> and Tara Balakrishnan. Special thanks to Elijah Meeks.
+</footer>

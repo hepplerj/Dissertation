@@ -6,6 +6,13 @@ Frederick E. Terman interpreted the landscape differently. The Stanford Universi
 
 These competing visions of the Santa Clara landscape reflected widely-held and conflicting ideas about the future of the Valley. In the face of residential growth and industrial development, the Santa Clara Valley's landscape changed remarkably. The arrival of machines in the Valley --- bulldozers and computers --- transformed the landscape, and in the process sparked local environmental activism. Valley residents, business leaders, city officials, and university administrators vied over the definition of Santa Clara Valley's future, and in the process shaped debates about environmental change. Unrestricted urban growth and economic development characterized much of Santa Clara Valley in the latter half of the twentieth century, but little told is the story of the environmental consequences of Silicon Valley and those who attempted to shape the region's environmental future.[^cf4] California voters became increasingly aware of the environmental impact urban and industrial development was having, leading by the 1970s to residents attempting to curtail industrialization, limit urban growth, and reject large-scale water projects. Environmental organizations, formal and ad hoc, such as the Silicon Valley Toxics Coalition, Friends of the Earth, Sierra Club, and California Tomorrow, began criticizing high technology firms and city leaders for their ignorance of ecological negligence. These organizations formed the evolving Bay Area environmental movement.
 
+
+<!-- Each generation remade the park through an understanding of nature that
+sprang from its own recreation activities. But who were these hikers, climbers,
+and campers, and what drew them to Yosemite? How did their environmental
+attitudes shape their understandings of what was and was not acceptable within
+the park? .... Such stories underscore the human aspect of Yosemite, and provide a deeper understanding of the importance of tourism and the West’s changing cultural landscapes. -->
+
 What gives rise to the environmental movement in the Santa Clara Valley are the spatial and cultural politics stemming from high-tech industrialization.
 
 By exploring the ways people created space, the politics they engaged in to protect that space, and examining the physical changes to the landscape this dissertation argues for the importance of understanding how space creates politics. The story of Silicon Valley told here is over who's place the Valley would become: Industrial powerhouse? Fertile and beautiful? Residential paradise? Metropolitan leader?

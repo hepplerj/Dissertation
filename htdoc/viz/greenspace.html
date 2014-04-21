@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0"/>
 
-<title>Leaflet vector tile map of rivers</title>
+<title>Leaflet</title>
 
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.5/leaflet.css" />
 <!--[if lte IE 8]>
@@ -136,6 +136,11 @@ new L.TileLayer.d3_topoJSON("http://tile.openstreetmap.us/vectiles-water-areas/{
 //   style: function(d) { return "stroke-width: " + roadSizes[d.properties.kind]; }
 // }).addTo(map);
 
+
+// Get our data ready
+queue()
+    .defer(d3.csv, "/data/companies.csv")
+    .await(ready);
 
 </script>
 </body></html>
