@@ -471,7 +471,7 @@ Trustees," 1960, FF8, Box A29, SC 216, SUA, pp. 2-3.] Preston Burchard, the
 spokesman for the group, noted the petition already had 146 signatures before
 the insert ran in the *Review*. 
 
-![Bay Area Stanford Alumni insert, 1960. Source: FF8, Box A29, SC 216, SUA.](/figures/basa_insert.png)
+![Bay Area Stanford Alumni insert, 1960. Source: FF8, Box A29, SC 216, SUA.](figures/basa_insert.png)
 
 As the referendum campaign dragged on through the summer, editorials to the
 *Times* attempted to flip complaints about the loss of the foothills upside-down.
@@ -481,23 +481,61 @@ tree-studded hills, the lakes, and views of the campus."^[Esther B. Clark, M.D.,
 Letter to the Editor, *Palo Alto Times*, March 28, 1960, FF 11, Box A29, SC 216,
 SUA.] The *Times* itself continued its enthusiasm for Stanford, writing that the
 community owed Stanford a debt for keeping the area's lands free of intrusive
-industry.  The Times argued that Stanford's large landholdings "constituted
+industry.  The *Times* argued that Stanford's large landholdings "constituted
 a free park" for Palo Alto and surrounding communities. Had these lands fallen
 into the hands of private owners, they "long ago would have been converted to
 the houses, business places and industries where so many of us live and
 work."^[Editorial, *Palo Alto Times*, November 1960, Stanford Lands Scrapbook V,
-1960-61, Subject File 1300/9, SUA.] Stanford itself was quick to remind critics
-of the efforts the university had put towards city development. As Sterling
-reminded one critic, overseeing the vast domain of land on the Peninsula meant
-"the hills are not likely to be overrun by any commercial developments in your
-lifetime or mine."^["Letter from Wallace Sterling to Gordon Johnson," March 6,
-1960, FF8, Box A29, SC 216, SUA.]
+1960-61, Subject File 1300/9, SUA.] One editorial writer to the *Times*
+admonished the former "solid supporters of free enterprise" who were now staging
+"violent public quarrels about what they're going to do with someone else's
+property" that "the land isn't theirs" and Stanford could -- and should -- do
+what it needs to do.^[Editorial by Daniel S. Endsley, *Palo Alto TImes*,
+November 1, 1960.] Stanford itself was quick to remind critics of the efforts
+the university had put towards city development. As Sterling reminded one
+critic, overseeing the vast domain of land on the Peninsula meant "the hills are
+not likely to be overrun by any commercial developments in your lifetime or
+mine."^["Letter from Wallace Sterling to Gordon Johnson," March 6, 1960, FF8,
+Box A29, SC 216, SUA. Editorials to the *Palo Alto Times* made the same claims.
+See, for example, the editorial by Louise Brisebat, *Palo Alto Times*, November
+4, 1960.] In other cases, they were willing to dismiss them
+entirely. Donald Carlson referred to them as "malcontents in the community" and
+complained in another letter that industrialization would only affect "one
+little foothill." {CITATION}^[Letter from Donald Carlson to Ben Allen, May 12,
+1960, FF8, Box A29, SC 216, SUA; "Groups Clash over Use of Stanford Land,"* San
+Francisco Examiner*, March 18, 1960.]
 
+The referendum was defeated in a close vote, allowing Stanford to pursue its
+development plans for the foothills. On the one hand, the campaign against the
+Ampex development could be considered a victory. The company, after the
+drawn-out political process, elected to build its research facility elsewhere.
+On the other hand, the new zoning of the foothills opened the path for new light
+industry to join the Stanford Industrial Park. But environmentalists learned
+lessons from the campaign. {EXPLAIN}. Stanford learned lessons as well,
+reflected in later public battles with communities. Most notably a year later
+when Palo Alto considered the expansion of Oregon Avenue into an expressway,
+a route that ran through desirable residential land, residents began organizing
+resistance. But another community group calling themselves the Traffic Action
+Committee emerged to support the expansion. The pro-expressway movement arose
+from grassroots, but its support would not remain limited to citizens and, it
+appears, Stanford played a role in helping create the group. Stanford supported
+the expressway because it would serve as a much-needed traffic artery to the
+Park. Donald Carlson noted that "Stanford is a nasty word" and the university
+was "not goig to suddenly turn on any lights, show the truth and make them love
+us." Carlson did not "see much harm in our taking a background role in the
+Traffic Action Committee" and provide public support to the mayor and city
+council who were "anxious to get the thing turned around somehow and get some of
+that bond money applied to the city's traffic problem where it hurts the
+most."^[Letter from Donald Carlson to Frederic Glover, September 20, 1961, Box
+A22, SUA. See also @omara2005cities, 138-139.]
+
+<!--
 Referendum supporters were not without their critics. Donald Carlson referred to
 them as "malcontents in the community," and the *San Francisco Examiner*
 referred to "wild-eyed claims" of the protesters.^[Letter from Donald Carlson to
 Ben Allen, May 12, 1960, FF8, Box A29, SC 216, SUA; "Groups Clash over Use of
 Stanford Land,"* San Francisco Examiner*, March 18, 1960.]
+-->
 
 Too often, the city of Palo Alto happily yielded to Stanford's wishes.
 
@@ -513,20 +551,23 @@ semantics -- that the word "industry" in Stanford Industrial Park was confusing
 residents -- reveals that Stanford had no understanding of citizen's real
 concerns. Citizens rightfully argued that industrialization -- light
 manufacturing or otherwise -- was going to have an enormous impact on the
-environment. Frequently claims of "clean" industry were revealed to be false.
-Complaints about light and noise pollution could be controlled to a degree by
-Stanford, but other pollutants -- radiation, smog, and toxic solvents -- would
-remain uncontrolled, sometimes invisible, and have greater repercussions. One
-resident noted in the heat of the Battle of the Hills debate that a Lockheed
-plant hear his home resulted in a "federal agency [that] has been checking the
-shrubs in our back yard for radioactivity."^["Pros and Cons of Foothill Industry
-Zone Debated," Palo Alto Times, April 21, 1960, 13.] No amount of planning,
-architectural prowess, and top-notch landscaping could get around the visible
-and invisible pollution resulting from high technology manufacturing.
+environment.^[@omara2005cities, 137.] Frequently claims of "clean" industry were
+revealed to be false.  Complaints about light and noise pollution could be
+controlled to a degree by Stanford, but other pollutants -- radiation, smog, and
+toxic solvents -- would remain uncontrolled, sometimes invisible, and have
+greater repercussions. One resident noted in the heat of the Battle of the Hills
+debate that a Lockheed plant hear his home resulted in a "federal agency [that]
+has been checking the shrubs in our back yard for radioactivity."^["Pros and
+Cons of Foothill Industry Zone Debated," Palo Alto Times, April 21, 1960, 13.]
+No amount of planning, architectural prowess, and top-notch landscaping could
+get around the visible and invisible pollution resulting from high technology
+manufacturing.
 
 ## The Committee for Green Foothills
 
-In the wake of Stanford's victory, residents of the area, increasingly concerned
+The controversies over Stanford Industrial Park and Stanford's economic
+development plans spurred the emergence of grassroots environmental activism. In
+the wake of Stanford's victory, residents of the area, increasingly concerned
 that Stanford might overrun the foothills and irritated by the university's
 seemingly cavalier attitude towards citizen's concerns and favoritism towards
 industry, continued organizing. Among the most prominent groups to emerge was
@@ -539,4 +580,14 @@ Bancroft, p. 8.] The Committee was founded, Wallace Stegner explained, because
 happen" and a "fear of what Stanford might do in the hills."^[Stegner oral
 history, Bancroft, pp. 7-8.]
 
-![Board Members, Committee for Green Foothills. Front row, from left: Pat Barrentine, George Norton, Ruth Spangenberg, Lois Crozier-Hogle, Kent Dedrick, and Tom Jordan; back row: Kirke Comstock, Claire Dedrick, Larry Dawson, Marry Moffat, Mary Gordon, Paul Smith, Eleanor Boushey, Norman KcKee, Kathryn Stedman, and Morgan Stedman. Photo by Lowell Johnson. From Richard Walker, Country in the City.](figures/foothills_members.png)
+<!--
+Some of the original members of the Committee had an active part in the Battle
+of the Hills, among them Morgan and Kathryn Stedman and Ruth and Karl Spangenberg.
+-->
+
+![Board Members, Committee for Green Foothills. *Front row, from left*: Pat
+Barrentine, George Norton, Ruth Spangenberg, Lois Crozier-Hogle, Kent Dedrick,
+and Tom Jordan; *back row*: Kirke Comstock, Claire Dedrick, Larry Dawson, Marry
+Moffat, Mary Gordon, Paul Smith, Eleanor Boushey, Norman KcKee, Kathryn Stedman,
+and Morgan Stedman. Photo by Lowell Johnson. From Walker, *Country in
+the City*.](figures/foothills_members.png)
