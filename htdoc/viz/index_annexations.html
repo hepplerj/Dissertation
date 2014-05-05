@@ -54,7 +54,16 @@ path { fill: #fee6ce; }
 .subunit087 { fill: #DDCCDD; }
 .subunit001 { fill: #fde0dd; }
 
-.annexations { fill: blue; opacity: .5; }
+.annexations { fill: blue; opacity: .3; }
+
+.openspace { fill: green; opacity: .5; }
+
+.openspace-boundary {
+  fill: none;
+  stroke: #777;
+  stroke-dasharray: 1,2;
+  stroke-linejoin: round;
+}
 
 .subunit-boundary {
   fill: none;
@@ -134,9 +143,10 @@ parseDate = d3.time.format("%y/%m/%d").parse;
 queue()
     .defer(d3.json, "data/sj_annex_full.json")
     .defer(d3.json, "data/ca_counties.json")
+    .defer(d3.json, "data/openspace_santaclara.json")
     .await(ready);
 
-function ready(error, sj_annexations, ca_counties) {
+function ready(error, sj_annexations, ca_counties, openspace) {
 
   svg.selectAll(".subunit")
     .data(topojson.feature(ca_counties, ca_counties.objects.subunits).features)
@@ -164,6 +174,18 @@ function ready(error, sj_annexations, ca_counties) {
   .enter().append("path")
     .attr("class", function(d) { return "annexations" })
     .attr("d", path);
+
+  // Display green space
+  svg.selectAll(".openspace")
+      .data(topojson.feature(openspace, openspace.objects.units_sc).features)
+    .enter().append("path")
+      .attr("class", function(d) { return "openspace" })
+      .attr("d", path);
+
+    // svg.append("path")
+    //   .datum(topojson.mesh(openspace, openspace.objects.units_sc, function(a, b) { return a !== b }))
+    //   .attr("d", path)
+    //   .attr("class", "openspace-boundary");
 
   // Printing city names
   svg.append("path")

@@ -1,0 +1,193 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="lib/normalize.min.css">
+<link rel="stylesheet" href="lib/foundation.min.css">
+<script src="lib/d3.v3.min.js" charset="utf-8"></script>
+<style>
+p {
+  font-size: 18px;
+}
+#time-unix-till-due, #time-standard-till-due, #time-standard-till-ch1 {
+  color: red;
+}
+.due {
+  font-weight: bold;
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="medium-12 columns">
+    <h1>Dissertation Countdown</h1>
+  </div>
+</div>
+<div class="row">
+  <div class="medium-4 columns">
+    <p>It is <span id="time-unix-now"></span>.</p>
+  </div>
+  <div class="medium-4 columns">
+    <p>The defense is at <span id="time-unix-defense"></span>.</p>
+  </div>
+  <div class="medium-4 columns">
+    <p>That's in <span id="time-unix-till-defense"></span> seconds.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="medium-4 columns">
+    &nbsp;
+  </div>
+  <div class="medium-4 columns">
+    <p>But the dissertation is due at <span id="time-unix-due"></span>.</p>
+  </div>
+  <div class="medium-4 columns">
+    <p class="due">So you have <span id="time-unix-till-due"></span> seconds
+    to hand in the dissertation.</p> </div>
+</div>
+
+<div class="row">
+  <hr>
+</div>
+
+<div class="row">
+  <div class="medium-4 columns">
+    <p>It is <span id="time-standard-now"></span>.</p>
+  </div>
+  <div class="medium-4 columns">
+    <p>The defense is at <span id="time-standard-defense"></span>.</p>
+  </div>
+  <div class="medium-4 columns">
+    <p>That's in <span id="time-standard-till-defense"></span> days.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="medium-4 columns">
+    &nbsp;
+  </div>
+  <div class="medium-4 columns">
+    <p>But the dissertation is due at <span
+      id="time-standard-due"></span>.</p>
+  </div>
+  <div class="medium-4 columns">
+    <p class="due">So you have <span id="time-standard-till-due"></span> days
+    to hand in the dissertation.</p> 
+  </div>
+</div>
+
+<div class="row">
+  <hr>
+</div>
+
+<div class="row">
+  <div class="medium-4 columns">
+    &nbsp;
+  </div>
+  <div class="medium-4 columns">
+    <p>The introduction is due at <span
+      id="time-standard-ch1"></span>.</p>
+  </div>
+  <div class="medium-4 columns">
+    <p class="due">So you have <span id="time-standard-till-ch1"></span> days
+    to hand in the introduction.</p> </div>
+</div>
+
+<script type="text/javascript" charset="utf-8">
+
+function timeUnixNow() {
+  var timeNow = Math.floor(Date.now() / 1000);
+  return timeNow;
+}
+
+function timeUnixGiven(time) {
+  var seconds = Math.floor(new Date(time) / 1000);
+  return seconds;
+}
+
+function timeUnixTill(start, end) {
+  return end - start;
+}
+
+function timeStandardNow() {
+  return new Date();
+}
+
+
+function timeStandardGiven(time) {
+  return new Date(time);
+}
+
+function timeStandardTill(start, end) {
+  return Math.round((end - start) / 60 / 60 / 24 * 10) / 10000;
+}
+
+function main() {
+
+  var defense = "May 1, 2015 14:00:00 PST",
+      due     = "December 31, 2014 12:00:00 PST",
+      ch1     = "May 1, 2014 17:00:00 PST",
+      ch2     = "July 1, 2014 17:00:00 PST",
+      ch3     = "September 1, 2014 17:00:00 PST",
+      ch5     = "November 1, 2014 17:00:00 PST";
+
+  // Unix
+
+  setInterval(function() {
+    d3.select("#time-unix-now").text(timeUnixNow().toLocaleString());
+  }, 47);
+
+    d3.select("#time-unix-defense").text(timeUnixGiven(defense).toLocaleString());
+
+  // d3.select("#time-date-defense").text(timeUnixGiven(defense).toLocaleString());
+
+
+  setInterval(function() {
+    d3.select("#time-unix-till-defense")
+    .text(timeUnixTill(timeUnixNow(), timeUnixGiven(defense)).toLocaleString());
+  }, 47);
+
+  d3.select("#time-unix-due").text(timeUnixGiven(due).toLocaleString());
+
+  setInterval(function() {
+    d3.select("#time-unix-till-due")
+    .text(timeUnixTill(timeUnixNow(), timeUnixGiven(due)).toLocaleString());
+  }, 47);
+
+  // Standard
+
+  setInterval(function() {
+    d3.select("#time-standard-now").text(timeStandardNow().toString());
+  }, 47);
+
+  d3.select("#time-standard-defense")
+  .text(timeStandardGiven(defense).toString());
+
+
+  setInterval(function() {
+    d3.select("#time-standard-till-defense")
+    .text(timeStandardTill(timeStandardNow(), timeStandardGiven(defense)).
+         toString());
+  }, 47);
+
+  d3.select("#time-standard-due").text(timeStandardGiven(due).toString());
+
+  setInterval(function() {
+    d3.select("#time-standard-till-due")
+    .text(timeStandardTill(timeStandardNow(), timeStandardGiven(due)));
+  }, 47);
+
+  d3.select("#time-standard-ch1").text(timeStandardGiven(ch1).toString());
+
+  setInterval(function() {
+    d3.select("#time-standard-till-ch1")
+    .text(timeStandardTill(timeStandardNow(), timeStandardGiven(ch1)));
+  }, 47);
+}
+
+main();
+</script>
+</body>
+</html>

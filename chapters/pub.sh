@@ -12,7 +12,7 @@ echo "Generating PDF files"
 pandoc $file \
 	--bibliography=/Users/jheppler/Writing/bib/master.bib \
 	--template xelatex.template \
-	--csl=chicago-fullnote-bibliography-no-ibid.csl \
+	--csl=chicago-jah.csl \
 	--latex-engine=xelatex \
 	-o drafts/$file.pdf
 
@@ -20,8 +20,7 @@ echo "Generating Word files"
 #file="$1"
 pandoc $file \
 	--bibliography=/Users/jheppler/Writing/bib/master.bib \
-	--csl=chicago-fullnote-bibliography-no-ibid.csl \
-  --reference-docx=reference.docx \
+	--csl=chicago-jah.csl \
 	-o drafts/$file.docx
 
 # hide the log

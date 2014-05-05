@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+body {
+  margin: 0;
+  font: 10pt sans-serif;
+}
+
+path {
+  fill: red;
+  stroke: #000;
+  stroke-linejoin: round;
+  stroke-width: .5px;
+}
+
+.tooltip {
+  font-size: 10pt;
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid silver;
+  padding: .5em;
+  max-width: 200px;
+  pointer-events: none;
+  z-Index: 1000;
+}
+
+</style>
+<body>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/d3.geo.tile.v0.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+<script>
+
+var width = Math.max(960, window.innerWidth),
+    height = Math.max(500, window.innerHeight - 150);
+
+var tile = d3.geo.tile()
+    .size([width, height]);
+
+var projection = d3.geo.mercator()
+    .scale((1 << 19) / 2 / Math.PI)
+    .translate([width / 2, height / 2]);
+
+var center = projection([-122.0375, 37.3711]);
+
+var path = d3.geo.path()
+    .projection(projection);
+
+var zoom = d3.behavior.zoom()
+  .scale(projection.scale() * 2 * Math.PI)
+  .scaleExtent([1 << 1, 16 << 19])
+  .translate([width - center[0], height - center[1]])
+  .on("zoom", zoomed);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width)
+    .attr("height", height);
+
+    var tooltip = d3.select("body").append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
+var raster = svg.append("g");
+
+var vector = svg.append("path");
+
+d3.csv("data/SV-companies.csv", type, function(error, companies) {
+  svg.call(zoom);
+  vector.datum({type: "FeatureCollection", features: companies});
+  vector
+    .on("mouseover", function(d,i) {
+      tooltip.transition().duration(200).style("opacity", .8);
+      tooltip.html("<br><strong>" + d.company + "</strong>" +
+              (d.date_founded?"<br>" + "Founded: "+d.date_founded:"") + "<br>" +
+              "Address: " + d.address + "<br>" +
+              (d.description?"<hr>"+d.description:""))
+    })
+    .on("mouseout", function(d,i) {
+      tooltip.transition().duration(500).style("opacity", 0);
+    });
+  zoomed();
+});
+
+function type(d) {
+  return {
+    type: "Feature",
+    properties: {
+      name: d.name,
+      address: d.address
+    },
+    geometry: {
+      type: "Point",
+      coordinates: [+d.longitude, +d.latitude]
+    }
+  };
+}
+
+function zoomed() {
+  var tiles = tile
+      .scale(zoom.scale())
+      .translate(zoom.translate())
+      ();
+
+  projection
+      .scale(zoom.scale() / 2 / Math.PI)
+      .translate(zoom.translate());
+
+  vector
+      .attr("d", path);
+
+  var image = raster
+      .attr("transform", "scale(" + tiles.scale + ")translate(" + tiles.translate + ")")
+    .selectAll("image")
+      .data(tiles, function(d) { return d; });
+
+  image.exit()
+      .remove();
+
+  image.enter().append("image")
+      .attr("xlink:href", function(d) { return "http://" + ["a", "b", "c", "d"][Math.random() * 4 | 0] + ".tiles.mapbox.com/v3/examples.map-vyofok3q/" + d[2] + "/" + d[0] + "/" + d[1] + ".png"; })
+      .attr("width", 1)
+      .attr("height", 1)
+      .attr("x", function(d) { return d[0]; })
+      .attr("y", function(d) { return d[1]; });
+}
+
+</script>
