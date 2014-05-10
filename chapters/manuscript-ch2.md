@@ -26,3 +26,22 @@ Observers commented on the suburban character of San Jose. T. H. Bowden noted th
 Staggering growth was "business as usual" for the County Planning Commission.^[Belser, Planning Progress 1956, 1. William H. Whyte, a critic of sprawl, identified Santa Clara County as a typical case. In The Organizational Man, Whyte criticized the “packaged communities” of the Valley and worried about “the paradox of prosperity lowering our real standard of living” and the depletion of prime soil. William H. Whyte, The Organization Man (New York: Simon & Schuster, 1956), 10; Whyte, “Urban Sprawl,” 124. On Whyte and the critique of sprawl see Rome, The Bulldozer in the Countryside: Suburban Sprawl and the Rise of American Environmentalism, 119–152.]
 
 ![The Nation, March 8, 1965.](figures/TheNation-bulldozedcrops.png)
+
+  Year      Population
+  :----:    :-----------------:
+  1852      6,764
+  1860      11,912
+  1870      26,246
+  1880      35,039
+  1890      48,005
+  1900      50,216
+  1910      83,539
+  1920      100,676
+  1930      145,118
+  1940      174,949
+  1950      290,547
+  1960      658,700
+  1970      1,064,714
+  1980      1,265,200
+
+  Table: Santa Clara County Population, 1852--1980
