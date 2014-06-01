@@ -19,7 +19,7 @@ author:
 > communities. Universities are in brief a natural resource just as are raw
 > materials, transportation, climate, etc."
 > 
-> Frederick Terman, 1963
+> Frederick Terman (1963)
 
 > "This is your land we are talking about."
 >
@@ -225,7 +225,7 @@ and service industries, the new economic activity began to reshape how people
 thought about the Valley.  Namely, the expansion of industry carried with it
 a contentious debate about the effects of industrialization on the Valley's
 landscape and a debate over how it would be shaped.^[On postwar suburban growth,
-see @jackson1985crabgrass; @fishman1987bourgeois, 155–81; @abbott1998frontier;
+see @jackson1985crabgrass; @fishman1987bourgeois, 155–81; @abbott1995frontier;
 @duany2001suburban; @nicolaides2002heavan; @gutfreund2004sprawl.] By the late
 1950s residents in Palo Alto began seeing the industrial park as a threat to
 their suburban lifestyles, especially visible through increased traffic,
@@ -235,7 +235,10 @@ inadvertently, helped launch an environmental movement on the Mid-Peninsula.
 
 <!-- IDEA: Lets de-emphasize Terman; he's cited everywhere, by O'Mara, Findley,
 the celebratory works. The real work of building the Valley came from Terman,
-Alf Brandin, the Board of Trustees, and Colbert Coldwell (real estate advisor).
+Alf Brandin, the Board of Trustees, and Colbert Coldwell (real estate 
+advisor). The story of Terman's centrality seems to come from historical 
+sources that give him credit. Not to undermine Terman, but that the process 
+was more complicated than just Terman.
 -->
 
 ## Stanford University, Suburban Environmentalism, and the Battle of the Hills
@@ -289,17 +292,19 @@ this event towards understanding how Stanford understood itself as an urban
 planner rather than community concerns that arose from environmental issues. See
 @omara2005cities, 135-139.]
 
-In 1960, roughly six-hundred acres of undeveloped university land lay between
-Junipero Serra, West Fremont, Arastradero, and Page Mill Roads. Originally zoned
-for residential development according to the Santa Clara County Master Plan,
-Stanford administrators decided to rezone the land as light industry without
-consulting or seeking approval from the county or surrounding neighborhoods. To
-rezone the land, procedure dictated that Stanford offer the land to Palo Alto
-for annexation. The Palo Alto city council and planning commission, then, had
-the authority to rezone the land. The process meant the land would remain
-controlled by Stanford policies, taxes collected by the city, and the land could
-be leased to industrial developers.^["Decision now will determine future," *Palo
-Alto Times*, February 11, 1960, 16.]
+In 1960, roughly six-hundred acres of undeveloped university land lay between 
+Junipero Serra, West Fremont, Arastradero, and Page Mill Roads. Originally 
+zoned for residential development, Stanford administrators decided to rezone 
+the land as light industry without consulting or seeking approval from the 
+county or surrounding neighborhoods. To rezone the land, procedure dictated 
+that Stanford offer the land to Palo Alto for annexation. The Palo Alto city 
+council and planning commission, then, had the authority to rezone the land. 
+The process meant the land would remain controlled by Stanford policies, taxes 
+collected by the city, and the land could be leased to industrial 
+developers.^["Decision now will determine future," *Palo Alto Times*, February 
+11, 1960, 16.]
+
+<!-- get a better figure-->
 
 ![Map of the proposed foothills development. *Palo Alto Times*, March 18, 1960.](figures/map_foothills.png)
 
@@ -344,17 +349,23 @@ natural beauty and attraction . . . [that] contributed so much toward making
 Stanford the top school in the west."^[Letter from Richard Bell to Wallace
 Sterling, August 2, 1960, FF8, Box A29, SC 216, SUA.]
 
-Complaints of potential industrialization of the foothills reflected not only
-arguments about the area's beauty, but also the noise and air pollution that
-accompanied development. In a letter to the Palo Alto Times, Morgan Stedman,
-a member of the Santa Clara County Planning Commission, argued that new
-foothills industrialization would increase traffic flow through neighborhoods,
-thus increasing smog, noise, and danger, large-scale cutting and filling of land
-would be required to support new buildings, parking lots, and roads, the loss of
-rainwater through runoff, and "irreparable damage to natural beauty."^[Newspaper
-clipping, "Area planning seen as needed," Palo Alto Times, March 12, 1960, from
-FF8, Box A29, SC 216, SUA.] Other residents expressed concern over tests being
-run on their shrubs to see if radiation levels were becoming too high.
+Complaints of potential industrialization of the foothills reflected not only 
+arguments about the area's beauty, but also the noise and air pollution that 
+accompanied development. The sounds of hammers driving nails into two-by-fours 
+was only part of a chorus of common sounds experienced by suburbanites. The 
+whirring and grinding of manufacturing equipment, the clattering of dump 
+trucks, the drone of automobile traffic, the belching of bulldozers -- these 
+became common sounds of the city. Concerned that such realities would become 
+even more common in Palo Alto, critics spoke up. In a letter to the *Palo Alto 
+Times*, Morgan Stedman, a member of the Santa Clara County Planning 
+Commission, argued that new foothills industrialization would increase traffic 
+flow through neighborhoods, thus increasing smog, noise, and danger, 
+large-scale cutting and filling of land would be required to support new 
+buildings, parking lots, and roads, the loss of rainwater through runoff, and 
+"irreparable damage to natural beauty."^[Newspaper clipping, "Area planning 
+seen as needed," Palo Alto Times, March 12, 1960, from FF8, Box A29, SC 216, 
+SUA.] Other residents expressed concern over tests being run on their shrubs 
+to see if radiation levels were becoming too high.
 
 The spatial arrangements of cities and zoning shaped how residents responded to
 the proposed industrialization. The majority of the foothills area were zoned
@@ -383,112 +394,117 @@ the area's environmental critics:
 > are!^[Letter from Gordon Johnson to Wallace Sterling, March 6, 1960, FF8, Box
 > A29, SC 216, SUA.]
 
-Ad hoc community and  environmental coalitions formed in the wake of Stanford's
-announcement. Residents of Palo Alto responded to Stanford's plans to develop
-the foothills by organizing the Citizens Committee on Regional Planning (CCRP)
-in March. The organization, under the initial leadership of Robert Mahan, an
-insurance executive from Palo Alto, began by organizing a letter writing
-campaign to voice their opposition to the foothills plans. Before the group
-officially organized as the CCRP, residents printed a copy of a letter in the
-Palo Alto Times and urged readers to clip the letter from the newspaper and mail
-the clipping to the Stanford Board of Trustees to illustrate grassroots
-opposition to industrialization.^["Anti-foothill industry drive launched here,"
-Palo Alto Times, March 8, 1960, 2; "Industry opponents organize, name head,"
-Palo Alto Times, March 11, 1960, 1.] <!-- {What does this letter say? What's the
-argument? Examples? Find this.} --> Within two days of publishing the letter,
-the Stanford Board of Trustees had received 250 letters voicing opposition to
-the plan; many of the letters were clipped from the CCRP's Palo Alto Times
-letter.^["Industry opponents organize," *Palo Alto Times*, March 11, 1960, 1;
-"13 residents protest foothill zoning change," *Palo Alto Times*, March 4, 1960,
-17.]
+Ad hoc community and  environmental coalitions formed in the wake of 
+Stanford's announcement, led by the Citizens Committee on Regional Planning 
+(CCRP). The organization, under the initial leadership of Robert Mahan, an 
+insurance executive from Palo Alto, organized a letter writing campaign to 
+voice their opposition to the foothills plans. Just weeks before the group 
+became officially known as CCRP, members printed a copy of a letter in the 
+*Palo Alto Times* urging readers to clip the letter from the newspaper and 
+mail it to the Stanford Board of Trustees to illustrate grassroots opposition 
+to industrialization.^["Anti-foothill industry drive launched here," Palo Alto 
+Times, March 8, 1960, 2; "Industry opponents organize, name head," Palo Alto 
+Times, March 11, 1960, 1.] <!-- {What does this letter say?  What's the 
+argument? Examples? Find this.} --> Within two days of publishing the letter, 
+the Stanford Board of Trustees had received 250 letters voicing opposition to 
+the plan; many of the letters were clipped from the CCRP's *Palo Alto Times* 
+letter.^["Industry opponents organize," *Palo Alto Times*, March 11, 1960, 1; 
+"13 residents protest foothill zoning change," *Palo Alto Times*, March 4, 
+1960, 17.] Resistance from residents targeted the city council as well. The 
+Palo Alto Residents Association (PARA) called for "a vigorous campaign" 
+against the Palo Alto City Council's plans to allow industrial development in 
+the foothills.^["Residents oppose industry," *Palo Alto Times*, March 10, 
+1960, 1.  Residents also pointed to a potential conflict of interest 
+relationship between Palo Alto Mayor Noel Porter and David Packard. Porter was 
+serving as vice president of Hewlett-Packard at the time. See "Industry 
+opponents organize, name head," *Palo Alto Times*, March 11, 1960.] Resistance 
+stemmed from the potential for degrading the landscape. Peter Hughes, an 
+officer of PARA, charged that developing the foothills would destroy the 
+landscape. Calculating that the Ampex site would cover thirty acres of parking 
+lot and another twelve acres for buildings, Hughes challenged that "if anyone 
+can lay down that amount of building without changing the contour of the land 
+he is an engineer the like of which I have never seen."^["Residents oppose 
+industry," *Palo Alto Times*, March 10, 1960, 1.]
 
-Los Altos Hills also expressed their disapproval of the plans. Residents, irate
-that their residential-only incorporation would be encroached upon by
-industrialized foothills, expressed their displeasure through letters and
-newspaper editorials. Mayor John Fowle and city council rebuffed Stanford in a letter to Alf
-Brandin, accusing Stanford of "jeopardizing existing zoning and land
-development" and charged that the university's plans are never "subject to
-public scrutiny." Furthermore, contrary to Stanford's claims that it was working
-with surrounding communities, Los Altos Hills was caught unaware of the
-university's plans.^["Stanford foothills plans hit by Hills," *Palo Alto Times*,
-February 10, 1960.]
+The neighboring community of Los Altos Hills also expressed their disapproval 
+of the plans. Residents, irate that their residential-only incorporation would 
+be besmirched by industrialized foothills, expressed their displeasure 
+through letters and newspaper editorials. Mayor John Fowle and city council 
+rebuffed Stanford in a letter to Alf Brandin, accusing Stanford of 
+"jeopardizing existing zoning and land development" and charged that the 
+university's plans were never "subject to public scrutiny." Furthermore, 
+contrary to Stanford's claims that it was working with surrounding 
+communities, Los Altos Hills claimed it was caught unaware of the university's 
+plans.^["Stanford foothills plans hit by Hills," *Palo Alto Times*, February 
+10, 1960.] 
 
-Resistance from residents targeted the city council as well. The Palo Alto
-Residents Association (PARA) called for "a vigorous campaign" against the Palo
-Alto City Council's plans to allow industrial development in the
-foothills.^["Residents oppose industry," *Palo Alto Times*, March 10, 1960, 1.
-Residents also pointed to a potential conflict of interest relationship between
-Palo Alto Mayor Noel Porter and David Packard. Porter was serving as vice
-president of Hewlett-Packard at the time. See "Industry opponents organize, name
-head," *Palo Alto Times*, March 11, 1960.] Resistance stemmed from the potential
-for degrading the landscape. Peter Hughes, an officer of PARA, charged that
-developing the foothills would destroy the landscape. Calculating that the Ampex
-site would cover thirty acres of parking lot and another twelve acres for
-buildings, Hughes challenged that "if anyone can lay down that amount of
-building without changing the contour of the land he is an engineer the like of
-which I have never seen."^["Residents oppose industry," *Palo Alto Times*, March
-10, 1960, 1.]
+Letters from residents poured into Stanford. University President Wallace 
+Sterling received around 400 letters in opposition to the plan and only fifty 
+in support over the course of four months.^[@omara2005cities, 134.] The 
+editorial page of the *Palo Alto Times* also became a key outlet for residents 
+to voice their frustrations and concerns. Many of the editorials focused on 
+WHAT <!--do some text analysis; what's here?-->
 
-Letters poured into Stanford. University President Wallace Sterling received
-around 400 letters in opposition to the plan and only fifty in
-support.^[@omara2005cities, 134.] Letters poured into the *Palo Alto Times* as
-well.
-
-For its part, Stanford pushed back by arguing that it needed to develop the
-lands in order to remain profitable. Thomas Ford, staff council for the
-university, claimed that he desired to see the land remain undeveloped but "the
-university's need for funds makes that impossible."^["Foothills industry can be
-beautiful," *Palo Alto Times*, March 2, 1960.] Stanford continued their refrain
-that the development of the foothills would not become an industry blight, but
-rather, in the words of Thomas Ford, would "be a thing of beauty" because of the
- design regulations enforced by Stanford.^["Foothill industry can be
-beautiful," *Palo Alto Times*, March 2, 1960.] Furthermore, Stanford positioned
-itself as a reluctant land developer only in the business of supporting
-education and research. Alf Brandin explained to the *Palo Alto
-Times* that the university was not "in the land development business per se" but
-that the university was "doing everything we possibly can to produce income [to
-support education]."^["Undeveloped acres prime resource," *Palo Alto Times*,
-March 4, 1960.] "People should feel thankful Stanford owns the land and not
-someone else," Brandin chided. "We try to look at the problems
-politically, sociologically, aesthetically, and economically."^["Stanford
-wouldn't do anything detrimental," *Palo Alto Times*, March 4, 1960.] Stanford
-urged residents to realize the role the university had played in preserving open
-space, the role residents played in causing traffic congestion, and Stanford's
-road construction efforts. Without Stanford, the university seemed to argue,
-none of these improvements would exist.^["Foothills industry can be beautiful,"
-*Palo Alto Times*, March 2, 1960; "Stanford wouldn't do anything detrimental,"
-*Palo Alto Times*, March 4, 1960; Letter from Gordon Johnson to Wallace
-Sterling, March 6, 1960, FF8, Box A29, SC 216, SUA.]
+For its part, Stanford pushed back by arguing that it needed to develop the 
+lands in order to remain profitable. Thomas Ford, staff council for the 
+university, claimed that he desired to see the land remain undeveloped but 
+"the university's need for funds makes that impossible."^["Foothills industry 
+can be beautiful," *Palo Alto Times*, March 2, 1960.] Stanford had good reason 
+to pursue this line of argument. The university had indeed fallen on financial 
+hard times, and its endowment was far below what it considered its peer 
+institutions. Stanford continued their refrain that the development of the 
+foothills would not become an industry blight, but rather, in the words of 
+Thomas Ford, would "be a thing of beauty" because of the design regulations 
+enforced by Stanford.^["Foothill industry can be beautiful," *Palo Alto 
+Times*, March 2, 1960.] Furthermore, Stanford positioned itself as a reluctant 
+land developer only in the business of supporting education and research. Alf 
+Brandin explained to the *Palo Alto Times* that the university was not "in the 
+land development business per se" but that the university was "doing 
+everything we possibly can to produce income [to support 
+education]."^["Undeveloped acres prime resource," *Palo Alto Times*, March 4, 
+1960.] "People should feel thankful Stanford owns the land and not someone 
+else," Brandin chided. "We try to look at the problems politically, 
+sociologically, aesthetically, and economically."^["Stanford wouldn't do 
+anything detrimental," *Palo Alto Times*, March 4, 1960.] Stanford urged 
+residents to realize the role the university had played in preserving open 
+space, the role residents played in causing traffic congestion, and Stanford's 
+road construction efforts. Without Stanford, the university seemed to argue, 
+none of these improvements would exist.^["Foothills industry can be 
+beautiful," *Palo Alto Times*, March 2, 1960; "Stanford wouldn't do anything 
+detrimental," *Palo Alto Times*, March 4, 1960; Letter from Gordon Johnson to 
+Wallace Sterling, March 6, 1960, FF8, Box A29, SC 216, SUA.]
 
 A common complaint was the pastoral scenery that would disappear in the face of
 industrial buildings.^[Letter from Wallace Sterling to Gordon Johnson, March 6,
 1960, FF8, Box A29, SC 216, SUA.]
 
 When letter and editorial campaigns failed to initiate the planning that
-protesters wanted to see, they turned to the next available tool: the
+critics wanted to see, they turned to the next available civic tool: the
 referendum. In June a petition campaign initiated by opponents of foothills
-industrialization began circulating through Palo Alto. The petition called on
-the city council to rescind its decision to rezone the land for light industry
+industrialization circulated through Palo Alto. The petition called on
+the city council to either rescind its decision to rezone the land for light industry
 or to allow residents a vote on the issue. Four days before the rezoning
 ordinance was to become official, the referendum petition was filed to the city
-having collected over two-thousand signatures, above the necessary 1,000 that
-was needed. Placed on the ballot for the November elections, a "yes" vote would
-allow for Stanford to carry forward with its expansion of the Industrial Park and
-pave the way for Ampex's research facility.^[Details about the petition's
-criticisms and intent can be found in a letter from Morgan Stedman to Wallace
-Sterling, June 20, 1960, FF8, Box A29, SC 216, SUA. In an explanatory sheet
-given to solicitors and signers of the petition, the referendum called for
-better planning of residential, industrial, and commercial areas and specifical
-criticized the sudden zoning change to light manufacturing, housing and traffic
-pressures that new industrialization would add to the area, the leveling of
-hills to accomodate new construction, and pointed to undeveloped lots already
-zoned for industry. Letter from Stedman to Sterling, June 20, 1960, FF8, Box
-A29, SC 216, SUA.]
+having collected over two-thousand signatures, well above the necessary 1,000 
+that was needed. The Stanford lands were now in the hands of the voters. 
+Placed on the ballot for the November elections, a "yes" vote would allow for 
+Stanford to carry forward with its expansion of the Industrial Park and pave 
+the way for Ampex's research facility.^[Details about the petition's 
+criticisms and intent can be found in a letter from Morgan Stedman to Wallace 
+Sterling, June 20, 1960, FF8, Box A29, SC 216, SUA. In an explanatory sheet 
+given to solicitors and signers of the petition, the referendum called for 
+better planning of residential, industrial, and commercial areas and 
+specifically criticized the sudden zoning change to light manufacturing, 
+housing and traffic pressures that new industrialization would add to the 
+area, the leveling of hills to accommodate new construction, and pointed to 
+undeveloped lots already zoned for industry as alternatives to foothills 
+development. Letter from Stedman to Sterling, June 20, 1960, FF8, Box A29, SC 
+216, SUA.]
 
 As referendum supporters were gathering signatures, additional pressure to
 resist land development came from Stanford alumni. In June, a group calling
 themselves the Bay Area Stanford Alumni printed an insert in the *Stanford
-Review*, a weekly periodical for alumni news, accusing Stanford of ignoring land
+Review*, the alumni news organ of the university, accusing Stanford of ignoring land
 development policies implemented by the Board of Trustees in 1958. The petition
 called on Stanford to find alternatives for earning money other than "defacing
 the beauty of the green and summertimes golden hills" and called on the
@@ -496,7 +512,28 @@ university to consult with the master plans of surrounding communities.^["A
 Message from Bay Area Stanford Alumni to President Sterling and the Board of
 Trustees," 1960, FF8, Box A29, SC 216, SUA, pp. 2-3.] Preston Burchard, the
 spokesman for the group, noted the petition already had 146 signatures before
-the insert ran in the *Review*. 
+the insert ran in the *Review*. The *Review* was quick to distance itself from 
+the bay Area Stanford Alumni. In the issue in which the insert ran, Kemper 
+Freeman, a graduate of Stanford and president of the Stanford Alumni 
+Association, noted that the alumni organization "emphatically disagrees with 
+the views and impressions" of the insert. Freeman placed distance between the 
+alumni association and the Bay Area group, noting that the group's members 
+accounted for "less than half of one per cent of the total" number of Stanford 
+alumni living in the Bay Area. The *Review* ran the insert, Freeman argued, 
+because the periodical "stands for freedom of expression," but "reject[ed] 
+their assumptions, criticisms, and conclusions."^[Kemper Freeman to Stanford 
+Alumnus, *Stanford Review*, June-July 1960, Folder 8, Box A29, SC 216, Wallace 
+Sterling Papers, SUA, p. 1.]
+
+Kemper's letter responded to the insert's criticism point by point, noting 
+that the Stanford lands were "never intended to be a wilderness" and concluded 
+that the development of lands not "needed for academic purposes is overdue." 
+Furthermore, the insert gave "no hint" that Stanford was "preserving 4,800 of 
+its 8,800 acres for academic purposes or that this reserve includes the 
+greater part of the 'rolling hills.' Nor does it reveal that for every two 
+acres of its land which Stanford has leased in the past decade, one acre has 
+been condemned for use by some governmental unit or agency." These 
+condemnations, Freeman concludes, are a threat. 
 
 ![Bay Area Stanford Alumni insert, 1960. Source: FF8, Box A29, SC 216, SUA.](figures/basa_insert.png)
 
@@ -529,7 +566,8 @@ Times* made the same claims.  See, for example, the editorial by Louise
 Brisebat, *Palo Alto Times*, November 4, 1960.] In other cases, they were
 willing to dismiss them entirely. Donald Carlson referred to them as
 "malcontents in the community" and complained in another letter that
-industrialization would only affect "one little foothill." {CITATION}^[Letter
+industrialization would only affect "one little foothill," dismissing their 
+concerns over something trivial. {CITATION}^[Letter
 from Donald Carlson to Ben Allen, May 12, 1960, FF8, Box A29, SC 216, SUA;
 "Groups Clash over Use of Stanford Land,"* San Francisco Examiner*, March 18,
 1960.]
@@ -550,7 +588,7 @@ from grassroots, but its support would not remain limited to citizens and, it
 appears, Stanford played a role in helping create the group. Stanford supported
 the expressway because it would serve as a much-needed traffic artery to the
 Park. Donald Carlson noted that "Stanford is a nasty word" and the university
-was "not goig to suddenly turn on any lights, show the truth and make them love
+was "not going to suddenly turn on any lights, show the truth and make them love
 us." Carlson did not "see much harm in our taking a background role in the
 Traffic Action Committee" and provide public support to the mayor and city
 council who were "anxious to get the thing turned around somehow and get some of
@@ -609,6 +647,12 @@ Bancroft, p. 8.] The Committee was founded, Wallace Stegner explained, because
 happen" and a "fear of what Stanford might do in the hills."^[Stegner oral
 history, Bancroft, pp. 7-8.]
 
+The organization was not anti-growth per se, and distinct from the no-growth 
+activists of the 1970s; rather, the organization and its members feared that 
+city leaders were not giving enough attention to the potential problems of 
+industrial growth and felt that residents should be protected from 
+encroachments from industry. 
+
 The Committee got its first major test in 1965 when plans were announced to
 extend Page Mill Road past Frenchman's Tower, a local landmark on Old Page Mill
 Road at the base of the foothills. Concerned that the new road would mean
@@ -616,6 +660,12 @@ building a cement canal to replace the creek that ran along the road, the
 Committee  organized resistance to the plan.^[Stegner oral history, Bancroft, p.
 9.] They formed the Page Mill Co-ordinating Committee in 1965 to begin
 pressuring Stanford to reroute the road.
+
+The Committee's attitude towards nature reveals an attitude of declension.
+Industry was the serpent in the garden of the world, tempting a fall from grace.
+Indeed, the Judeo-Christian language was so attractive that Wallace Stegner
+referred to the Santa Clara Valley as a "brief Eden" that disappeared under the
+encroaching sprawl of suburbanization and industrialization. 
 
 <!--
 Some of the original members of the Committee had an active part in the Battle
