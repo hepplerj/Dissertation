@@ -125,6 +125,22 @@ a "harmonious integration into the neighborhood."^[Quoted in @omara2005cities,
 65.] The principles of open spaces, architectural uniformity, and land use
 restrictions shaped the spatial influence parks had on suburban areas.
 
+Spatial ideas for industrial design shaped where and what sorts of industries 
+moved into the Industrial Park. The Park's location itself was a product of 
+spatial thinking. Silicon Valley's growth achieved its prominence thanks to 
+the availability of land in order to develop. Unlike the dense metropolitan 
+areas of New York and Atlanta, where decades of urbanization meant new high 
+tech ventures were limited in where they could build, the Valley had the space 
+necessary to accommodate new manufacturing and industrial buildings. Stanford 
+especially was well-suited to provide for space. As the largest land owner on 
+the Peninsula, the university used chunks of its nearly 9,000 acres to pursue 
+nonacademic uses for its lands.^[The importance of space to develop and its 
+comparisons to Philadelphia, Atlanta, and Palo Alto is most thoroughly argued 
+by @omara2005cities.] Not only would industry have room to develop the 
+sprawling warehouses and manufacturing facilities, but they would be able to 
+follow Stanford's strict design guidelines for green belts, landscaping, 
+hidden parking areas, wide lawns, and abundant trees.
+
 Affluent suburbanites were willing to take advantage of new tax revenues and job
 opportunities present in new industries, but were unwilling to accommodate those
 industries if they had an affect on their quality of life. Smokestacks, traffic
