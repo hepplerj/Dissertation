@@ -10,7 +10,7 @@ file="$1"
 echo "Generating PDF files"
 #file="$1"
 pandoc $file \
-	--bibliography=/Users/jheppler/Writing/bib/master.bib \
+	--bibliography=/Users/jheppler/acad/bib/master.bib \
 	--template xelatex.template \
 	--csl=chicago-jah.csl \
 	--latex-engine=xelatex \
@@ -19,7 +19,7 @@ pandoc $file \
 echo "Generating Word files"
 #file="$1"
 pandoc $file \
-	--bibliography=/Users/jheppler/Writing/bib/master.bib \
+	--bibliography=/Users/jheppler/acad/bib/master.bib \
 	--csl=chicago-jah.csl \
 	-o drafts/$file.docx
 
