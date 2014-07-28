@@ -665,6 +665,9 @@ around fifty in support over the course of four months.^[@omara2005cities ,
 134.] The editorial pages of the *Palo Alto Times* also became a key outlet 
 for residents to voice their frustrations and concerns.
 
+![Criticising Stanford's plans for the foothills. Folder 11, Box A29, SC 216, 
+SUA](figures/stanford_real_estate_hills.png)
+
 For its part, Stanford pushed back by arguing that it needed to develop the 
 lands in order to generate income for the University. Thomas Ford, staff 
 council for the university, claimed that he desired to see the land remain 
