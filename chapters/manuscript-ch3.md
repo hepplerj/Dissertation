@@ -34,7 +34,7 @@ innovation that would be mimicked around the country.^[@luger1991garden, 154;
 universities, Stanford sought to capitalize on the burgeoning science and 
 technology opportunities in order to fashion itself as a leader in academic 
 research and become a powerful influence in the new industrial age in the 
-American West. As the U.S.  government pursued Cold War scientific research 
+American West. As the U.S. government pursued Cold War scientific research 
 and development programs, places like Stanford Industrial Park fostered 
 specialized science-based industries. The Industrial Park's founders succeeded 
 so well in their mission to attract industry that the population exploded 
@@ -71,7 +71,7 @@ University was established on Leland's vast farmland --- in total, nearly nine
 thousand acres of prime agricultural land --- and bestowed all of the land to 
 the university with the stipulation that the university could lease the land 
 however it saw fit but could never sell it. The university was the largest 
-land holder on the Peninsula, and would own the land permanently. For sixty 
+landholder on the Peninsula, and would own the land permanently. For sixty 
 years after the university's founding, "The Farm," as it is colloquially 
 known, would remain just that --- leasing most of its land for agricultural 
 uses before becoming some of the most valuable land in the country by the 
@@ -94,7 +94,7 @@ census.abag.ca.gov; U.S. Bureau of the Census, 1970 Census, Santa Clara
 County, n.d., census.abag.ca.gov; U.S. Bureau of the Census, 1980 Census, 
 Santa Clara County, n.d., census.abag.ca.gov.] The towns around Stanford 
 grew rapidly during and after World War II as middle-class families moved 
-to the area to take advantage of new defense and related industries.  
+to the area to take advantage of new defense and related industries. 
 Menlo Park, to the north of Stanford, grew from a town of 3,000 to 27,000 
 between 1940 and 1960, while Palo Alto grew from under 17,000 to 52,000 
 in the same period. To Stanford's chagrin, however, most commercial 
@@ -211,8 +211,8 @@ middle-class Americans.^[@mozingo2011pastoral, 7-8; @findlay1993magic, chapter
 
 Stanford Industrial Park's location reflected the growing suburbanization of 
 corporations.^[The best accounts of Stanford Industrial Park's planning and 
-development can be found in @omara2005cities, 444-444, and @findlay1993magic, 
-444-444. See also @mozingo2011pastoral, chapter 2.] Thirty-three industrial 
+development can be found in @omara2005cities, 99-124, and @findlay1993magic, 
+129-142. See also @mozingo2011pastoral, chapter 2.] Thirty-three industrial 
 parks existed in the United States in 1940, quickly rising to 307 by 1957. The 
 increase in industrial parks coincided with industries becoming less likely to 
 locate within cities, leading to 75 percent of parks built after World War II 
@@ -271,7 +271,7 @@ was a product of spatial thinking. Silicon Valley's growth achieved its
 prominence thanks to the availability of land. Unlike the dense metropolitan 
 areas of New York and Atlanta, where decades of urbanization meant new high 
 tech ventures were restricted to existing infrastructure, the Valley had the 
-space necessary to accommodate new manufacturing and industrial buildings.  
+space necessary to accommodate new manufacturing and industrial buildings. 
 Stanford especially was well-suited to provide the physical space necessary 
 for low-rise, horizontal buildings. As the largest land owner on the 
 Peninsula, the university had the unique opportunity to lease chunks of its 
@@ -348,7 +348,7 @@ universities, figures that were similar to Stanford's
 own.^[@lowen1997creating, 150; "Questions and Answers About Stanford Land 
 Use," *Campus Report Supplement*, January 1971, 1, Page Mill Road Coordinating 
 Committee Records, Folder 16, Box 1, Stanford University Archives.] The pursuit of land development 
-projects and federal grants and contracts proved to be a lucrative business.  
+projects and federal grants and contracts proved to be a lucrative business. 
 In the 1950s Stanford's income rose from less than \$2 million in 1951 to over 
 \$8.3 million by 1960, the bulk of which came from Department of Defense and 
 Atomic Energy Commission grants.^[@omara2005cities, 109.]
@@ -407,11 +407,10 @@ housing, a regional shopping center, and an industrial park. Academic and
 industrial reserves quickly grew; by the 1960s 5,300 acres were set aside for 
 the campus. Acreage for industry and non-academic uses by 1960 amounted to the 
 largest segment of Stanford land use except for the main campus. The 
-Industrial Park was underway before the 1953 Master Plan. The designation for 
-light manufacturing in the southeast corner of the land holdings first 
-authorized in 1951. The first tenants arrived a year 
-later.^[@findlay1993magic, 129-141. See also Lowood, *From Steeples of 
-Excellence to Silicon Valley*.]
+Industrial Park was underway before the 1953 Master Plan. The Board of 
+Trustees authorized a light-manufacturing district in the southeast corner of 
+the university's land holdings in 1951. The first tenants arrived a year 
+later.^[@findlay1993magic, 129-141. See also @lowood1988steeples.]
 
 To have the continued support of Palo Alto and surrounding communities, the 
 university recognized the importance of suburban industrial planning. To 
@@ -493,7 +492,7 @@ quality, federal public lands, recreation, and economic opportunities. By the
 1960s, however, newcomers and old-timers alike believed too many people were 
 moving in and threatening their quality of life.^[On quality-of-life politics, 
 see @abbott2008cities, 205; @carney2007suburbanizing, 480-481; @scott2008hip, 
-253-255; @childers2010ski, 71-73.] 
+253-255; @childers2012ski, 71-73.] 
 
 In California, rapid growth brought prosperity to the state, but by the 1960s 
 Californians were questioning these benefits.  Stanford was aware of a growing 
@@ -516,48 +515,40 @@ existing Industrial Park. In particular, Stanford received interest from the
 Ampex Corporation, a manufacturer of high-end sound recording and broadcasting 
 electronics, to build a new research facility in the foothills. Surrounding 
 neighborhoods, however, fiercely opposed the development on Stanford's 
-property eventually leading to a referendum campaign. The year-long contest 
-was referred to by Stanford President Wallace Sterling as "the Battle of the 
-Hills."^[Margaret O'Mara provides an excellent account of the Battle of the 
-Hills in @omara2005cities. O'Mara argues for the importance of this event 
-towards understanding how Stanford understood itself as an urban planner 
-rather than community concerns that arose from environmental issues. See 
-@omara2005cities, 135-139.]
-
-<!-- explain this better -->
-Roughly six-hundred acres of undeveloped university land lay between 
-Junipero Serra, West Fremont, Arastradero, and Page Mill roads. Originally 
-zoned for residential development, Stanford administrators decided to rezone 
-the land as light industry without consulting or seeking approval from the 
-county or surrounding neighborhoods. To rezone the land, procedure dictated 
-that Stanford offer the land to Palo Alto for annexation. The Palo Alto city 
-council and planning commission, then, had the authority to rezone the land. 
-The process meant the land would remain controlled by Stanford policies, taxes 
-collected by the city, and the land could be leased to industrial developers.
-<!-- Explain this better -->
+property eventually leading to a referendum campaign. Stanford President 
+Wallace Sterling referred to the year-long contest as "the Battle of the 
+Hills."^[Letter from Wallace Sterling to John Francis Neylan, April 11, 1960, 
+Folder 8, Box A29, SC 216, Stanford University Archives. Margaret O'Mara 
+provides an excellent overview of the Battle of the Hills in 
+@omara2005cities, 132-139.] 
 
 ![Comparing the urban development of the area near the Ampex foothills proposal.](figures/ampex_compare.png)
 
-Electronics manufacturers had already sought out the area as prime real estate 
-for establishing research facilities, taking advantage of nearby residential 
-neighborhoods for employees to live, proximity to researchers at Stanford and 
-the Industrial Park, established city infrastructure, and a favorable tax 
-climate. In January 1960, Ampex and General Telephone and Electronics 
-Laboratories Corporation (GT&E) announced plans to build or expand their 
-operations in the Stanford foothills both north and south along Page Mill 
-Road, in part to take advantage of the proposed route of the new Junipero 
-Serra Freeway.^["Ampex plant just first in Stanford plan," *Palo Alto Times*, 
-January 14, 1960, 2; "Electronics research plant planned for foothills area," 
-*Palo Alto Times*, January 28, 1960, 1; letter from Wallace Sterling to Gordon 
-Johnson, March 16, 1960, FF8, Box A29, SC 216, Stanford University Archives.] Additional development 
-plans were laid out for a new shopping center and luxury homes in the Palo 
-Alto-Los Altos Hills foothills.^["103-acre foothill plan told," *Palo Alto 
-Times*, January 29, 1960, 1-2.] In May 1960, the Palo Alto City Council approved 
-the rezoning in a 9 to 4 vote.^[Letter from Thomas Hunt to Alumni, May 9, 
-1960, 2, Folder 8, Box A29, SC 216, Stanford University Archives.]
+Roughly six-hundred acres of undeveloped university land lay between Junipero 
+Serra, West Fremont, Arastradero, and Page Mill roads. Originally zoned for 
+residential development, Stanford administrators submitted an annexation 
+proposal to the City of Palo Alto, who would then have the authority to rezone 
+the land for light industry. Electronics manufacturers had already sought out 
+the area as prime real estate for establishing research facilities, taking 
+advantage of nearby residential neighborhoods for employees to live, proximity 
+to researchers at Stanford and the Industrial Park, established city 
+infrastructure, and a favorable tax climate. In January 1960, Ampex and 
+General Telephone and Electronics Laboratories Corporation (GT&E) announced 
+plans to build or expand their operations in the Stanford foothills both north 
+and south along Page Mill Road, in part to take advantage of the proposed 
+route of the new Junipero Serra Freeway.^["Ampex plant just first in Stanford 
+plan," *Palo Alto Times*, January 14, 1960, 2; "Electronics research plant 
+planned for foothills area," *Palo Alto Times*, January 28, 1960, 1; letter 
+from Wallace Sterling to Gordon Johnson, March 16, 1960, FF8, Box A29, SC 216, 
+Stanford University Archives.] Additional development plans were laid out for 
+a new shopping center and luxury homes in the Palo Alto-Los Altos Hills 
+foothills.^["103-acre foothill plan told," *Palo Alto Times*, January 29, 
+1960, 1-2.] In May 1960, the Palo Alto City Council approved the rezoning in a 
+9 to 4 vote.^[Letter from Thomas Hunt to Alumni, May 9, 1960, 2, Folder 8, Box 
+A29, SC 216, Stanford University Archives.]
 
 Residents had few objections for the proposed residential and shopping center 
-developments in the foothills. Industrialization, however, was unacceptable.  
+developments in the foothills. Industrialization, however, was unacceptable. 
 Ampex's proposed eighty-acre development location ran up against resistance 
 from neighboring communities, fueling quality-of-life and environmental 
 politics in surrounding neighborhoods. The proposed site ran along the Los 
@@ -589,7 +580,7 @@ natural beauty of the area.^[Letter from Thomas Hunt to Wallace Sterling, May
 Complaints of potential industrialization of the foothills reflected not only 
 arguments about the area's beauty, but also noise and air pollution that 
 accompanied development. The sounds of hammers driving nails into two-by-fours 
-was only part of a chorus of common sounds experienced by suburbanites. The 
+were only part of a chorus of common sounds experienced by suburbanites. The 
 whirring and grinding of manufacturing equipment, the clattering of dump 
 trucks, the drone of automobile traffic, the belching of bulldozers -- these 
 became common sounds of the growing city. Concerned that such realities would 
@@ -697,8 +688,7 @@ around fifty in support over the course of four months.^[@omara2005cities ,
 134.] The editorial pages of the *Palo Alto Times* also became a key outlet 
 for residents to voice their frustrations and concerns.
 
-![Criticising Stanford's plans for the foothills. Folder 11, Box A29, SC 216, 
-Stanford University Archives](figures/stanford_real_estate_hills.png)
+![Criticizing Stanford's plans for the foothills. Folder 11, Box A29, SC 216, Stanford University Archives](figures/stanford_real_estate_hills.png)
 
 For its part, Stanford pushed back by arguing that it needed to develop the 
 lands in order to generate income for the University. Thomas Ford, staff 
@@ -739,7 +729,7 @@ industrialization circulated through Palo Alto. The petition called on the
 city council to either rescind its decision to rezone the land for light 
 industry or to allow residents a vote on the issue. Four days before the 
 rezoning ordinance was to become official, the referendum petition was filed 
-to the city having collected over two-thousand signatures, well above the 
+to the city having collected over two thousand signatures, well above the 
 necessary 1,000 that was needed. The Stanford lands were now in the hands of 
 the voters. Placed on the ballot for the November elections, a "yes" vote 
 would allow for Stanford to carry forward with its expansion of the Industrial 
@@ -767,7 +757,7 @@ with the master plans of surrounding communities before making plans to rezone
 nearby areas.^["A Message from Bay Area Stanford Alumni to President Sterling 
 and the Board of Trustees," 1960, FF 8, Box A29, SC 216, Stanford University Archives, p 2-3.] 
 
-![A section of the Bay Area Stanford Alumni insert, 1960. Source: Folder 8, Box A29, SC 216, Stanford University Archives.](figures/reviewInsert.png)
+![A section of the Bay Area Stanford Alumni insert in the *Stanford Review*, 1960. Source: Folder 8, Box A29, SC 216, Stanford University Archives.](figures/reviewInsert.png)
 
 The *Review* was quick to distance itself from the Bay Area Stanford Alumni. 
 In the issue in which the insert ran, Kemper Freeman, president of the 
@@ -846,7 +836,7 @@ Stanford administrators never understood why residents were upset about
 Stanford's development plans. Alf Brandin recalled that Stanford had an issue 
 with semantics, arguing that "we tried to say it has got to be clean, no 
 smoke, no heavy manufacturing. Light manufacturing that is clean and 
-electronic."^[Brandin interview, n.d., 42.] Stanford took this to heart, renaming 
+electronic."^[Brandin interview, 42.] Stanford took this to heart, renaming 
 the Industrial Park to Stanford Research Park shortly after the Battle of the 
 Hills in order to avoid industrializations association with the area. But 
 Stanford's belief that the issue revolved around semantics -- that the word 
@@ -854,8 +844,8 @@ Stanford's belief that the issue revolved around semantics -- that the word
 Stanford had no understanding of citizen's real concerns. Citizens rightfully 
 argued that industrialization -- light manufacturing or otherwise -- was going 
 to have an enormous impact on the environment. Stanford's frequent claims of 
-"clean" industry often turned out to be false.  Complaints about light and 
-noise pollution could be controlled to a degree by Stanford, but other 
+"clean" industry often turned out to be false. Stanford could control 
+complaints about light and noise pollution to a degree, but other
 pollutants -- radiation, smog, and toxic solvents -- would remain harder to 
 regulate, sometimes invisible, and have great repercussions. One resident 
 noted in the heat of the Battle of the Hills debate that a Lockheed plant near 
@@ -908,27 +898,31 @@ burgeoning environmental coalitions in the Bay Area.
 Some of the original members of the Committee for Green Foothills had earned 
 reputations as conservationists.  Wallace Stegner had risen to prominence as a 
 conservationist in the late 1950s. His famous "Wilderness Letter" he published 
-in *Outdoor* in 1960 established Stegner as a bonafide defender of the 
-environment.^[LINK TO LETTER?] Several additional members of the Committee for 
-Green Foothills had either been long-time conservationists or would get their 
-first exposure to environmental activism with the Committee. Morgan Stedman, 
-an architect who had served on the Palo Alto Planning Commission and the Santa 
-Clara County Planning Commission, became a vocal critic of poor urban planning 
-throughout Santa Clara County. Many other members later devoted themselves to 
-various conservation and environmental protection campaigns throughout the Bay 
-Area. Barbara Eastman, for example, served as a key organizer of the Save Our 
-Seashore organization, founded in 1969 to expand the protection of Point Reyes 
-from logging and freeway construction along the western edge of Marin 
-County.^[@walker2007countrycity, 91.] Lois Hogle, Ruth Spangenberg, Morgan and 
-Katy Stedman, and Gary Girard would go on to lead several environmental 
-campaigns throughout the Peninsula, and in some cases find themselves in civic 
-leadership positions in their communities.^[Transcript of interview of Wallace Stegner by 
-Ann Lage. Regional Oral History Office, The Bancroft Library, University of 
-California-Berkeley, 1982,  10.] The 
-Committee counted among their powerful allies Bill and Mel Lane, owners of 
-*Sunset* Magazine; Dorothy Varian, wife of Varian Associates founder Russell 
-Varian and member of the Conservation Associates; and Tom Ford, a real estate 
-developer in the Bay Area.^[@walker2007countrycity, 101-103.] 
+in 1960 established Stegner as a bona fide defender of the 
+environment.^[Wallace Stegner, "Wilderness Idea," in *The Sound of Mountain 
+Water* (1969); originally written to the Outdoor Recreation Resources Review 
+Commission in 1960 to support legislation that would designate 
+wilderness areas in the United States.] Several additional members of the 
+Committee for Green Foothills had either been long-time conservationists or 
+would get their first exposure to environmental activism with the Committee. 
+Morgan Stedman, an architect who had served on the Palo Alto Planning 
+Commission and the Santa Clara County Planning Commission, became a vocal 
+critic of poor urban planning throughout Santa Clara County. Many other 
+members later devoted themselves to various conservation and environmental 
+protection campaigns throughout the Bay Area. Barbara Eastman, for example, 
+served as a key organizer of the Save Our Seashore organization, founded in 
+1969 to expand the protection of Point Reyes from logging and freeway 
+construction along the western edge of Marin County.^[@walker2007countrycity, 
+91.] Lois Hogle, Ruth Spangenberg, Morgan and Katy Stedman, and Gary Girard 
+would go on to lead several environmental campaigns throughout the Peninsula, 
+and in some cases find themselves in civic leadership positions in their 
+communities.^[Transcript of interview of Wallace Stegner by Ann Lage. Regional 
+Oral History Office, The Bancroft Library, University of California-Berkeley, 
+1982,  10.] The Committee counted among their powerful allies Bill and Mel 
+Lane, owners of *Sunset* Magazine; Dorothy Varian, wife of Varian Associates 
+founder Russell Varian and member of the Conservation Associates; and Tom 
+Ford, a real estate developer in the Bay Area.^[@walker2007countrycity, 
+101-103.] 
 
 The Committee's first major test came in 1965 when plans were announced to 
 straighten and widen Page Mill Road, a historic roadway running 
@@ -946,18 +940,19 @@ nearly a thousand trees, and potentially threatened Frenchman's Tower, a local
 historic landmark at the base of the hills.^[Stegner interview,  9; letter 
 from the Committee for Green Foothills to Friends of the Foothills, May 20, 
 1964, Folder 1, Box 1, Page Mill Road Coordinating Committee Records, M0970, 
-Stanford University Archives,  1; letter from Wallace Stegner to Martin Spangler, July 28, 1964, Folder 
-1, Box 1, Page Mill Road Coordinating Committee Records, M0970, Stanford University Archives, 1. Page 
-Mill Road dates to the late nineteenth century and was used by William Page, 
-who operated a lumber mill along Mill Creek. "Page's Mill Road" was a main 
-avenue for horse teams to haul lumber into Palo Alto for shipping and 
-construction.  Peter Coutts, a French land developer who purchased land along 
-the road in 1876, constructed Frenchman's Tower for the storage of water. 
-Leland Stanford bought Frenchman's Tower and the surrounding land in 1882. See 
-Ralph Hansen to Alf Brandin and Lois Hogle, August 11, 1964, Folder 9, Box 1, 
-Page Mill Road Coordinating Committee Records, M0970, Stanford University Archives, 1-3.  See also 
-"Historical Notes of Interest Surrounding Page Mill Road and Environs," Ralph 
-Hansen, Palo Alto City Historian, n.d., Folder 9, Box 1, Page Mill Road 
+Stanford University Archives,  1; letter from Wallace Stegner to Martin 
+Spangler, July 28, 1964, Folder 1, Box 1, Page Mill Road Coordinating 
+Committee Records, M0970, Stanford University Archives, 1. Page Mill Road 
+dates to the late nineteenth century and was used by William Page, who 
+operated a lumber mill along Mill Creek. "Page's Mill Road" was a main avenue 
+for horse teams to haul lumber into Palo Alto for shipping and construction.  
+Peter Coutts, a French land developer who purchased land along the road in 
+1876, constructed Frenchman's Tower for the storage of water.  Leland Stanford 
+bought Frenchman's Tower and the surrounding land in 1882. See Ralph Hansen to 
+Alf Brandin and Lois Hogle, August 11, 1964, Folder 9, Box 1, Page Mill Road 
+Coordinating Committee Records, M0970, Stanford University Archives, 1-3.  See 
+also "Historical Notes of Interest Surrounding Page Mill Road and Environs," 
+Ralph Hansen, Palo Alto City Historian, n.d., Folder 9, Box 1, Page Mill Road 
 Coordinating Committee Records, M0970, Stanford University Archives.]
 
 Unlike the Battle of the Hills where aesthetics and conservation defined the 
@@ -1073,7 +1068,7 @@ activists did succeed in placing restrictions on further expansion beyond
 Junipero Serra Way into the foothills. Despite the Coyote Hill and Sand Hill 
 developments moving forward, the criticisms of Stanford were effective enough 
 that by 1970 Stanford's own reports on land use began addressing 
-the potential environmental impact impact explicitly than the 
+the potential environmental impact explicitly than the 
 University had been previously.^["Questions and Answers About Stanford Land 
 Use," Campus Report Supplement, January 1971, Folder 16, Box 1, Page Mill Road Coordinating 
 Committee Records, M0970, Stanford University Archives, 2.]
@@ -1086,12 +1081,17 @@ near their communities. Stanford attempted to engage with a pastoral vision of
 suburban nature through campus planning that, outwardly, integrated neatly 
 into surrounding communities. But the spatial arrangement of suburbs and 
 industry led to conflicts with communities at a moment when environmental 
-issues were becoming significant political issues. The community reactions to 
-industrial development in the foothills illustrated a growing skepticism 
+issues were becoming politically significant. Many of the very critics had 
+been newcomers attracted to the region's new jobs, climate, and affordable 
+housing. By decade's end, these amenities appeared threatened as machinery 
+cut, filled, paved, released smog, whined, and radiated. Stanford claims to 
+the contrary, residents no longer considered high technology industry "clean." 
+Urban sprawl and industrial expansion met a challenge in the next decade: the 
+rise of no-growth activism and promoters of open space.
 
 
-The environmental critique that emerged in the 1960s around Stanford 
+<!--The environmental critique that emerged in the 1960s around Stanford 
 epitomized by the Citizens Committee for Regional Planning and the Committee 
 for Green Foothills reveals an emerging movement for the protection of the 
-environment and an ideal of protecting nature.
+environment and an ideal of protecting nature.-->
 
