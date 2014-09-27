@@ -1,1 +1,0 @@
-<div id="footer">powered by <a href="http://github.com/jgm/gitit/tree/master/">gitit</a> | licensed by <a href="http://jasonheppler.org">Jason A. Heppler</a> under <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">CC-BY-NC-SA 3.0</a></div>

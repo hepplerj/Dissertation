@@ -24,3 +24,5 @@ misc/
 *.xcf
 *.tex
 full.md
+wiki/
+master.bib
