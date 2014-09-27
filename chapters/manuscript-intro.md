@@ -5,6 +5,8 @@ author:
     email: jason.heppler@gmail.com
 ...
 
+This is a story about a place in flux.
+
 Wallace Stegner no longer recognized Santa Clara Valley in 1965. From his home 
 in the foothills of the Santa Cruz Mountains, the Stanford creative writing 
 professor lamented the urban sprawl that had overtaken the Valley. "The 
@@ -15,8 +17,8 @@ once-lovely coast hills reaching down the Peninsula below San Francisco have
 been crusted with houses in half a lifetime, the hilltops flattened, whole 
 hills carried off to fill the bay, the creeks turned into concrete storm 
 drains."[^cf1] In Stegner's lifetime, the Valley had transformed from prime 
-agricultural land to being better known for its urban sprawl, traffic jams, 
-and industrial complexes. 
+agricultural land to a place of urban sprawl, traffic jams, and industrial 
+complexes. 
 
 Frederick E. Terman interpreted the landscape differently. The Stanford 
 University provost and dean of engineering saw suburbanization and expansion 
@@ -56,11 +58,13 @@ high technology firms and city leaders for their ignorance of ecological
 negligence. These organizations formed the evolving Bay Area environmental 
 movement.
 
-<!-- Each generation remade the park through an understanding of nature that
-sprang from its own recreation activities. But who were these hikers, climbers,
-and campers, and what drew them to Yosemite? How did their environmental
-attitudes shape their understandings of what was and was not acceptable within
-the park? .... Such stories underscore the human aspect of Yosemite, and provide a deeper understanding of the importance of tourism and the West’s changing cultural landscapes. -->
+<!-- Each generation remade the park through an understanding of nature that 
+sprang from its own recreation activities. But who were these hikers, 
+climbers, and campers, and what drew them to Yosemite? How did their 
+environmental attitudes shape their understandings of what was and was not 
+acceptable within the park? .... Such stories underscore the human aspect of 
+Yosemite, and provide a deeper understanding of the importance of tourism and 
+the West's changing cultural landscapes. --> 
 
 What gives rise to the environmental movement in the Santa Clara Valley are 
 the spatial and cultural politics stemming from high-tech industrialization.

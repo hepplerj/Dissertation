@@ -61,7 +61,7 @@ Clara County's workforce was employed in high technology or research and
 development in 1951 (compared to 9.4% in the US as a whole), and by 1986 the 
 workforce reached twenty percent (compared to 8.5% in the 
 US).^[@luger1991garden, 130.] The rapid industrialization around Stanford 
-occurred just as several postwar trends were colliding.
+occurred just as several postwar trends were colliding. 
 
 Stanford's entry into land development benefited from space and location. The 
 railroad magnate and businessman Leland Stanford and his wife, Jane, founded 
@@ -223,20 +223,23 @@ new tax benefits, avoiding traffic congestion, bypassing old infrastructure,
 and locating out of reach from unions in older industrial cities. Although 
 many firms remained in city centers to take advantage of certain benefits -- 
 proximity to services such as public transportation -- many located themselves 
-in suburban areas.^[1957 Dept of Commerce report; @omara2005cities, 66; 
-@findlay1993magic, 118; @luger1991garden, 1-13.] The suburbanization of 
-industry led land developers to adhere to higher standards in urban design. 
-The real estate consultancy Arthur D. Little, Inc., noted in 1958 that 
-industrial parks were organized according to "a comprehensive plan" designed 
-to "insure compatibility between the industrial operations therein and the 
-existing activities and character of the community in which the park is 
-located." These parks were designed according to "proper setbacks, lot size 
-minimums, land/use ratio minimums, architectural provisions, landscaping 
-requirements, and specific use requirements" in order to maintain a 
-"harmonious integration into the neighborhood."^[Quoted in @omara2005cities, 
-65.] The principles of open spaces, architectural uniformity, and land use 
-restrictions shaped the spatial influence parks had on suburban areas as 
-well as the suburban design of the parks themselves.
+in suburban areas.^[@omara2005cities, 66; @findlay1993magic, 118; 
+@luger1991garden, 1-13.] The suburbanization of industry led land developers 
+to adhere to higher standards in urban design.  The real estate consultancy 
+Arthur D. Little, Inc., noted in 1958 that industrial parks were organized 
+according to "a comprehensive plan" designed to "insure compatibility between 
+the industrial operations therein and the existing activities and character of 
+the community in which the park is located." These parks were designed 
+according to "proper setbacks, lot size minimums, land/use ratio minimums, 
+architectural provisions, landscaping requirements, and specific use 
+requirements" in order to maintain a "harmonious integration into the 
+neighborhood."^[Quoted in @omara2005cities, 65.] The principles of open spaces, 
+architectural uniformity, and land use restrictions shaped the spatial influence 
+parks had on suburban areas as well as the suburban design of the parks themselves.
+
+![The rise of "industrial parks" across *New York Times* articles.](figures/ngram_nyt.png)
+
+![The rise of "industrial parks" across published books.](figures/ngram_gbooks.png)
 
 An additional influence on the design and location of industrial parks was the 
 Cold War policy of industrial dispersion. Fears of a potential "total war" 
@@ -955,9 +958,9 @@ also "Historical Notes of Interest Surrounding Page Mill Road and Environs,"
 Ralph Hansen, Palo Alto City Historian, n.d., Folder 9, Box 1, Page Mill Road 
 Coordinating Committee Records, M0970, Stanford University Archives.]
 
-Unlike the Battle of the Hills where aesthetics and conservation defined the 
-political response, the convergence of recreation and conservation formed the 
-crux of their criticism opposing the changes of Page Mill. The protection of 
+Unlike the Battle of the Hills where *aesthetics* and *conservation* defined the 
+political response, the convergence of *recreation* and *conservation* formed the 
+crux of criticism charged at the proposed changes to Page Mill Road. The protection of 
 the environment around Page Mill became their central concern, largely 
 revolving around recreational access. In addition to cutting into hills and
 threatening the creek and numerous trees, changes to the road had the 
@@ -1058,19 +1061,27 @@ Foothills filed suit against the University and the City of Palo Alto citing
 irregularities in the rezoning process and a conflict of interest with two 
 City Council members in the development of Coyote Hill.^["Questions and 
 Answers about Stanford Land Use," *Campus Report Supplement*, January 1971, 
-Folder 16, Box 1, Page Mill Road Coordinating Committee Records, Stanford University Archives, 11; 
-@walker2007countrycity, 101.] On-campus organizers also expressed their 
-disapproval of Stanford's land development plans. Among these groups was 
-GRASS ROOTS, a coalition that issued sharp criticisms toward Stanford and 
-specifically targeted their criticisms at the Dillingham plans. Although 
-Stanford won the lawsuit against the Committee for Green Foothills, the 
-activists did succeed in placing restrictions on further expansion beyond 
-Junipero Serra Way into the foothills. Despite the Coyote Hill and Sand Hill 
-developments moving forward, the criticisms of Stanford were effective enough 
-that by 1970 Stanford's own reports on land use began addressing 
-the potential environmental impact explicitly than the 
-University had been previously.^["Questions and Answers About Stanford Land 
-Use," Campus Report Supplement, January 1971, Folder 16, Box 1, Page Mill Road Coordinating 
+Folder 16, Box 1, Page Mill Road Coordinating Committee Records, Stanford 
+University Archives, 11; @walker2007countrycity, 101.] On-campus organizers 
+also expressed their disapproval of Stanford's land development plans. Among 
+these groups was GRASS ROOTS, a coalition that issued sharp criticisms toward 
+Stanford and specifically targeted the Dillingham plans.^[GRASS ROOTS, for 
+example, charged that Stanford pursued “destructive trends in land use” and 
+led to “smog, overcrowding, the destruction of the foothills, and a housing 
+shortage.” The privileging of offices and factories over housing was 
+“escalating the environmental crisis.” See GRASS ROOTS flyer, Folder 16, Box 
+1, Page Mill Road Coordinating Committee Records, M0970, Stanford University 
+Archives. See also “House People, Not Profits: A Grass Roots Commentary on the 
+planned Dillingham ‘Palo Alto Square’,” Grass Roots, Folder 16, Box 1, Page 
+Mill Road Coordinating Committee Records, M0970, Stanford University 
+Archives.] Although Stanford won the lawsuit against the Committee for Green 
+Foothills, the activists did succeed in placing restrictions on further 
+expansion beyond Junipero Serra Way into the foothills. Despite the Coyote 
+Hill and Sand Hill developments moving forward, the criticisms of Stanford 
+were effective enough that by 1970 Stanford's own reports on land use began 
+addressing the potential environmental impact explicitly than the University 
+had been previously.^["Questions and Answers About Stanford Land Use," Campus 
+Report Supplement, January 1971, Folder 16, Box 1, Page Mill Road Coordinating 
 Committee Records, M0970, Stanford University Archives, 2.]
 
 ![GRASS ROOTS political cartoon, n.d., Folder 16, Box 1, Page Mill Coordinating Committee Records, Stanford University Archives.](figures/grassroots.png)
