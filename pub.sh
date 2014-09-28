@@ -11,7 +11,7 @@ echo "Generating PDF files"
 #file="$1"
 pandoc $file \
 	--bibliography=/Users/jheppler/acad/bib/master.bib \
-	--template article.template \
+	--template academic-article \
 	--csl=chicago-jah.csl \
 	--latex-engine=xelatex \
 	-o drafts/$file.pdf
@@ -21,7 +21,6 @@ echo "Generating Word files"
 pandoc $file \
 	--bibliography=/Users/jheppler/acad/bib/master.bib \
 	--csl=chicago-jah.csl \
-	--reference-docx=reference.docx \
 	-o drafts/$file.docx
 
 # hide the log
