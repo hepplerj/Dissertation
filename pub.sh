@@ -11,7 +11,7 @@ echo "Generating PDF files"
 #file="$1"
 pandoc $file \
 	--bibliography=/Users/jheppler/acad/bib/master.bib \
-	--template academic-article \
+	--template article.template \
 	--csl=chicago-jah.csl \
 	--latex-engine=xelatex \
 	-o drafts/$file.pdf
