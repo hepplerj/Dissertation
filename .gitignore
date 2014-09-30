@@ -10,7 +10,6 @@
 *.out
 *.pdf
 *.pdfsync
-*.png
 *.Rdata
 *.run.xml
 .DS_store
