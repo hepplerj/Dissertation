@@ -1,10 +1,7 @@
 ---
-title: '"Carved from a Forest of Fruit Trees": Land Use, Suburbs, and
-the Environmental Limits of Growth Politics'
+title: '"Carved from a Forest of Fruit Trees": Land Use, Suburbs, and the Environmental Limits of Growth Politics'
 author:
-    - name: Jason A. Heppler
-      affiliation: University of Nebraska-Lincoln
-      email: jason.heppler@gmail.com
+- 'Jason A. Heppler'
 ...
 
 > Hammer in hand, the county went noisily about the job of transforming itself 
@@ -15,20 +12,20 @@ author:
 > thoroughfares. Fleets of ready-mix trucks disgorged concrete into the 
 > foundation forms of every kind of building — in every part of the county.
 > 
-> --- Karl J. Belser, *Planning Progress 1956*^[Karl J. Belser, *Planning 
+> ---Karl J. Belser, *Planning Progress 1956*^[Karl J. Belser, *Planning 
 > Progress 1956* (San Jose: County of Santa Clara Planning Commission, July 
 > 1956), California Room, San Jose Public Library, 1.] 
 
 > Do you know the way to San Jose? It's simple: annex more, plan less density 
 > and develop, develop, develop. 
 > 
-> --- *Seattle Times*^[James B. Weatherby and Stephanie L. Witt, *The Urban 
+> ---*Seattle Times*^[James B. Weatherby and Stephanie L. Witt, *The Urban 
 > West: Managing Growth and Decline* (Westport: Praeger, 1994), 37–38.]
 
 > Perhaps the only use we will ever find for the hydrogen bomb will be to 
 > erase this great mistake from the face of the earth. 
 > 
-> --- Karl J. Belser
+> ---Karl J. Belser^[@matthews2003dreams, 102.]
 
 Joe Ruscigno spent his lifetime working the land on his San Jose farm.  Son of 
 first-generation Italian immigrants, Ruscigno and his family had run the farm 
@@ -39,7 +36,7 @@ trees since the first of the year," he told a *San Francisco Chronicle*
 reporter. Ruscigno lamented the uprooting of the fruit trees to the bulldozer 
 he now controlled, but "what can you do? . . . The subdivisions were coming in 
 all around us and when they made a good offer I sold out."^["Santa Clara 
-County — Scene of the Big Boom," San Francisco Chronicle, May 11, 1952.] In 
+County---Scene of the Big Boom," *San Francisco Chronicle*, May 11, 1952.] In 
 the decades after 1945, every municipality in the Bay Area participated in the 
 process of metropolitan development and, by extension, the erosion of 
 agricultural land. San Jose, the largest city in the Valley, was composed 
@@ -50,15 +47,15 @@ Planning Commission noted in 1974 that the 1970 Census reported 50,282 persons
 employed in Palo Alto, the highest ratio of jobs to population in any Bay Area 
 community, and that between 1960 and 1970 commuting workers increased from 
 20,000 to 40,000 while those commuting out of Palo Alto dropped slightly. Palo 
-Alto Planning Commission, Palo Alto Comprehensive Plan Impact Report, July 1, 
+Alto Planning Commission, *Palo Alto Comprehensive Plan Impact Report*, July 1, 
 1974, p. 45. See also Paul Griffin and Ronald Chatham, "An Industrial 
-Analysis: North Santa Clara County," Appendix A: Employee Work-Trip Charts, 
+Analysis: North Santa Clara County," *Appendix A: Employee Work-Trip Charts*, 
 County of Santa Clara Planning Department, 1958.] By the 1970s, San Jose had 
 become so suburban that researchers at Rand labeled the city "a bedroom 
-community for its suburbs"^[Daniel J. Alesch and Robert Levine, Growth in San 
-Jose (Santa Monica: Rand, 1973), viii.] and referred to Santa Clara County "a 
-giant suburb" of San Francisco.^[Daniel J. Alesch, Local Government's Ability 
-to Manage Growth in a Metropolitan Context (Santa Monica: Rand, 1974), 16.] 
+community for its suburbs"^[Daniel J. Alesch and Robert Levine, *Growth in San 
+Jose* (Santa Monica: Rand, 1973), viii.] and referred to Santa Clara County "a 
+giant suburb" of San Francisco.^[Daniel J. Alesch, *Local Government's Ability 
+to Manage Growth in a Metropolitan Context* (Santa Monica: Rand, 1974), 16.] 
 The city lacked an urban core of business surrounded by bedroom communities, 
 leading urban historian Robert Fishman to call San Jose the "archetypal 
 technoburb."^[@fishman1987bourgeois, 17.] 
@@ -67,13 +64,13 @@ Ruscigno's experience reflected the shifting land use of the South Bay. As the
 Valley's orchards disappeared underneath suburban tracts, the bulldozer came 
 to symbolize the progress of postwar urban transformations. Between 1935 and 
 1957, over 70,000 acres of orchards left production as suburban development 
-accelerated.^[Roy Hitchcock, "Taking the Pulse of the Prune," California 
-Farmer, September 14, 1957.] "The most common sounds heard in the Santa Clara 
+accelerated.^[Roy Hitchcock, "Taking the Pulse of the Prune," *California 
+Farmer*, September 14, 1957.] "The most common sounds heard in the Santa Clara 
 Valley this spring is not the call of the meadowlark in the tall grass among 
-the orchards," reported the San Francisco Chronicle, "but the roar of the 
+the orchards," reported the *San Francisco Chronicle*, "but the roar of the 
 bulldozer ripping up rows of fruit trees and the rhythmic sound of the 
-pounding hammer."^["Santa Clara County -- Scene of the Big Boom," San 
-Francisco Chronicle, May 11, 1952.] San Jose became an icon of suburban growth 
+pounding hammer."^["Santa Clara County---Scene of the Big Boom," *San 
+Francisco Chronicle*, May 11, 1952.] San Jose became an icon of suburban growth 
 in the mid-1950s, an oft-cited example of how cities should engage in urban 
 planning and aggressive development in postwar America until the 1970s, when 
 critics leveled charges against the sprawl, environmental damage, congestion, 
@@ -82,24 +79,24 @@ and spatial patterns of industrialization and suburbanization.
 ![Clearing out orchards. *Planning Progress, 1956*.](figures/progress_bulldozer.png)
 
 San Jose's pattern of residential and industrial development was distinct from 
-other cities in the Bay Area. Northern Bay Area cities — Sunnyvale, Palo Alto, 
-Mountain View, Santa Clara — tended to build more industry than housing 
+other cities in the Bay Area. Northern Bay Area cities---Sunnyvale, Palo Alto, 
+Mountain View, Santa Clara---tended to build more industry than housing 
 throughout the postwar decades, leading eventually to severe housing and 
 utility shortages and traffic congestion.^[The City of Palo Alto was already 
 facing severe housing shortages as early as 1945. When Wallace and Mary 
 Stegner moved to Stanford, they were unable to purchase a home in the city. 
 Instead, the Stegner's originally tried to set up the community of Ladero with 
 other Stanford professors before eventually settling in Los Altos Hills. 
-Wallace Stegner, "Four Hundred Families Plan a House, "The Magazine of the 
-Year, April 1947, 63-66; Jackson J. Benson, Wallace Stegner: His Life and 
-Times (New York: Viking, 1996), 152, 153, 195.] San Jose, on the other hand, 
+Wallace Stegner, "Four Hundred Families Plan a House," *The Magazine of the 
+Year*, April 1947, 63-66; Jackson J. Benson, *Wallace Stegner: His Life and 
+Times* (New York: Viking, 1996), 152, 153, 195.] San Jose, on the other hand, 
 housed almost half of the county's population, but provided only one-third of 
 the jobs since most industry tended to cluster around Stanford 
 University.^[@findlay1993magic, p. 156.] By examining "the Capital of 
 Silicon Valley," we can better understand the process of residential 
 suburbanization and the environmental limits to city growth. Such limits came 
 primarily in two forms, the first from residents who began encouraging limited 
-growth, and the second by the environment itself.  Looking at the relationship 
+growth, and the second by the environment itself. Looking at the relationship 
 between metropolitan fragmentation, suburban economic regulation, and 
 burgeoning environmental activism, all across the Valley newcomers fought with 
 farmers, planners, agency officials, and elected politicians to determine 
@@ -147,20 +144,26 @@ environment/politics? -->
 
 # A Booster Ethos
 
-The origins of San Jose's postwar pro-growth attitude traces itself to the 
-1940s when, in 1944, an ambitious group of young merchants, lawyers, 
-industrialists, and property owners formed the Progress Committee. Members of 
-the Progress Committee took issue with City Manager C. B. Goodwin and 
-political boss Charles "Boss" Bigley, accusing them of not doing enough to 
-promote San Jose's development. Voters, and the newspaper, agreed. Aided by 
-the newspaper's endorsement, the Progress Committee swept the city council 
-elections in 1944 and committed themselves to building "a new metropolis in 
-the place of sleepy San Jose."^[Quoted in @trounstine1982movers, 87.] The new 
-members of the city council promptly fired the police chief and fire chief, 
-charging them with "bossism," "mismanagement," and "political interference," 
-and fired City Manager Goodwin.^[@trounstine1982movers, 87.] 
+A range of economic interests---an ambitious group of young merchants, 
+lawyers, industrialists, and property owners---endorsed the importance of San 
+Jose's growth in order for the city to achieve the greatness they felt it 
+deserved. The city's political machinery in the early 1940s was controlled by 
+a taxi service operator and political boss Charles "Boss" Bigley and the City 
+Manager C. B. Goodwin. The 1944 election gave opponents of Bigley and Goodwin 
+an opening. When six of the seven city council seats were open for election, 
+in part because two members left to serve in World War II, opponents formed 
+the Progress Committee and accused Bigley, Goodwin, and the city council of 
+not doing enough for San Jose's future. Voters, and the newspaper, agreed.  
+Aided by the newspaper's endorsement, six members of the Progress 
+Committee---among them key political figures Al Ruffo and Ernest 
+Renzel---swept the city council elections. They committed themselves to 
+building "a new metropolis in the place of sleepy San Jose." Their first step 
+was to promptly fire the police chief and fire chief, charging them with 
+"bossism", "mismanagement", and "political interference", and fired City 
+Manager Goodwin.^[@trounstine1982movers, 87. Box 6, Ernest Reznel Papers, History San 
+Jose Research Library, San Jose, California.] 
 
-Their first plans were aimed at attracting industry to San Jose. With 
+The new city council's immediate plans were aimed at attracting industry to San Jose. With 
 subsidies from city and county government, the Chamber of Commerce began a 
 \$60,000 advertising campaign that lured the industries of Food Machinery and 
 Chemical Corporation, already a local to the area, International Business 
@@ -182,7 +185,7 @@ voted on general obligation bonds that allowed the city to borrow money
 long-term at low interest rates. These bonds were paid for by increases on 
 property taxes---a move voters often disagreed with. Bonds were repeatedly 
 voted down, even as the city dealt with its unique problem of sewage given its 
-widespread cannery business. Voters especially refused to give special 
+large cannery business. Voters refused to give special 
 treatment to canneries, even when the state of California declared San Jose in 
 violation of pollution regulations in 1948.^[@trounstine1982movers, 88.] 
 
@@ -190,9 +193,9 @@ The Progress Committee dissolved shortly after their victory, but their
 pro-growth ideology remained entrenched in San Jose politics for the next 
 three decades.
 
-# Progress Town U.S.A
+<!-- # Progress Town U.S.A -->
 
-World War II and the postwar years witnessed an explosion in the
+\thoughtbreak{World War II and the postwar years} witnessed an explosion in the
 population of northern California. San Francisco, Oakland, and Berkeley,
 the traditional urban centers in the Bay Area, had seen their
 populations rise during the war years, but in the postwar years
@@ -235,8 +238,8 @@ services, and tourism and recreation.^[On the metropolitan West, see
 that Bernard DeVoto once described as a "plundered province" had become
 an economic pacesetter in the latter twentieth century, propelled by
 world war, new economic pursuits, demographic shifts, and federal
-funding.^[Bernard DeVoto, "The West: A Plundered Province," Harper's
-Magazine 169 (August 1934), 355--364. On the West and World War II, see
+funding.^[Bernard DeVoto, "The West: A Plundered Province," *Harper's
+Magazine* 169 (August 1934), 355--364. On the West and World War II, see
 @nash1999landscape. Additional work on World War II and
 the postwar West include @shragge1994federalcity, 333--361; 
 @clayton1967coldwar, 449--473. See also @lotchin1992fortress and @lotchin2003badcity.] 
@@ -245,14 +248,14 @@ San Jose lay at the center of northern California's population boom (see
 figure). A rural farming community of 68,457 in 1940, San Jose would be among 
 the top ten largest metropolitan areas in the nation by the end of the 
 century. By the 1960s the town's population numbered 204,196, and doubled by 
-1970 to 445,779.^[U.S. Bureau of the Census, 1960 Census, Santa Clara County, 
-n.d., census.abag.ca.gov; U.S. Bureau of the Census, 1970 Census, Santa Clara 
+1970 to 445,779.^[U.S. Bureau of the Census, *1960 Census*, Santa Clara County, 
+n.d., census.abag.ca.gov; U.S. Bureau of the Census, *1970 Census*, Santa Clara 
 County, n.d., census.abag.ca.gov.] By century's end, San Jose would become the 
 largest city in northern California and largely served as the suburban home 
 for the Bay Area's technology commuters working in Sunnyvale, Mountain View, 
-and Palo Alto.^[U.S. Bureau of the Census, 1950 Census, Santa Clara County, 
-n.d., census.abag.ca.gov; U.S. Bureau of the Census, 1960 Census, Santa Clara 
-County, n.d., census.abag.ca.gov; U.S. Bureau of the Census, 1970 Census, 
+and Palo Alto.^[U.S. Bureau of the Census, *1950 Census*, Santa Clara County, 
+n.d., census.abag.ca.gov; U.S. Bureau of the Census, *1960 Census*, Santa Clara 
+County, n.d., census.abag.ca.gov; U.S. Bureau of the Census, *1970 Census*, 
 Santa Clara County, n.d., census.abag.ca.gov; U.S.  Bureau of the Census,1980 
 Census, Santa Clara County, n.d., census.abag.ca.gov.] The city limits rapidly 
 expanded from 17 square miles in 1950 to 137 square miles in 1970, sprawling 
@@ -283,23 +286,25 @@ the Progress Committee, San Jose city leaders faced reluctant voters who
 continually refused to fund general obligation bonds. But with the
 city's rapidly expanding population and attendant needs to support the
 newcomer---mainly, infrastructure that included roads, utilities, and
-sewers--- the city needed to find someone to convince voters to support
+sewers---the city needed to find someone to convince voters to support
 the measures they believed necessary for San Jose's growth. 
 
 The city council found that person in Anthony P. "Dutch" Hamann. Hamann 
 epitomized San Jose's postwar pro-growth outlook. The forty-year-old former 
 businessman, teacher, and oil company representative had a strong attachment 
-to the city and solid connections throughout the community.^[@trounstine1982movers, 89.] A graduate of the University of Santa Clara, Hamann 
-had not served in political office until he was appointed by the city council 
-in 1950 in a split 4 to 3 vote. As the city began its drive for growth, Hamann 
-hoped to avoid the fate that had befallen his home of Orange County in 
-Southern California with many competing medium-sized cities.^["Hamann: San 
-Jose's Growth Guru," *San Jose Mercury*, 1999.] He wanted San Jose to dominate 
-the county, and thus avoid what he saw as petty competition among small towns. 
-To grow and make available the funds to sustain growth, Hamann reasoned, the 
-city needed to annex and tax.^[@matthews2003dreams, 96.] "You don't build 
-a city by staying in a vacuum," Hamann declared. "You build, you sell. . 
-. . And I was the gun for hire."^[Hamann quoted in @trounstine1982movers, 96.] 
+to the city and solid connections throughout the 
+community.^[@trounstine1982movers, 89.] A graduate of the University of Santa 
+Clara, Hamann had not served in political office until he was appointed by the 
+city council in 1950 in a split 4 to 3 vote. As the city began its drive for 
+growth, Hamann hoped to avoid the fate that had befallen his home of Orange 
+County in Southern California with many competing medium-sized 
+cities.^["Hamann: San Jose's Growth Guru," *San Jose Mercury*, 1999.] He 
+wanted San Jose to dominate the county, and thus avoid what he saw as petty 
+competition among small towns.  To grow and make available the funds to 
+sustain growth, Hamann reasoned, the city needed to annex and 
+tax.^[@matthews2003dreams, 96.] "You don't build a city by staying in a 
+vacuum," Hamann declared. "You build, you sell. .  . . And I was the gun for 
+hire."^[Hamann quoted in @trounstine1982movers, 96.] 
 
 And build San Jose did. The city approved over 1,400 annexations between 1945 
 and 1970 including many that were narrow strips---"shoestring" 
@@ -382,42 +387,103 @@ general obligation bonds in elections held in 1957, 1961, 1966, and
 
 Residential growth, home ownership, and widespread annexation in San Jose was 
 taken as a sign of progress.<!--[ Look into Cohen's Consumer Republic here on 
-home ownership; also Crabgrass Frontier.]--> In 1956 the *San Jose Mercury* ran 
-a special series on "Metropolitan San Jose---Progress Town U.S.A." detailing 
-the various changes in the city the newspaper considered signs of a bright new 
-future.^["Metropolitan San Jose---Progress Town U.S.A," *San Jose Mercury*, 
-January 15, 1956.] The newspaper specifically called out agriculture, 
-industry, education, culture, and recreation, and residential living as key 
-indicators in San Jose's new prosperous future. The *Mercury* praised the 
-industrial diversification of the city and its promise of "year-round 
-employment and production" instead of the seasonal employment often found in 
-the agricultural industries. A town less reliant on agriculture meant avoiding 
-economic dips, more opportunities for employment and education, and additional 
-wealth.^["Diversification Gives Solid Balance to Area," *San Jose Mercury*, 
-January 15, 1956.] 
-
-In 1956 the *Mercury* eagerly applauded the planning and development of San 
-Jose. <!-- keepgoing -->
+home ownership; also Crabgrass Frontier.]--> In 1956 the *San Jose Mercury* 
+ran a special series on "Metropolitan San Jose---Progress Town U.S.A." 
+detailing the various changes in the city the newspaper considered signs of a 
+bright new future.^["Metropolitan San Jose---Progress Town U.S.A.," *San Jose 
+Mercury*, January 15, 1956.] The paper applauded the arrival of "new plants 
+bearing some of the biggest names in the nation's business," the "highly 
+diversified farming," the "educational, recreational and cultural benefits" of 
+the region, and the growth of retail, outlets, and store 
+chains.^["Metropolitan San Jose---Progress Town U.S.A.," *San Jose Mercury*, 
+January 15, 1956.] The *Mercury* praised the industrial diversification of the 
+city and its promise of "year-round employment and production" instead of the 
+seasonal employment found in the agricultural industries. A town less 
+reliant on agriculture meant avoiding economic dips, more opportunities for 
+employment and education, and additional wealth.^["Diversification Gives Solid 
+Balance to Area," *San Jose Mercury*, January 15, 1956.] 
 
 San Jose's rapid growth came with a price. Nearby towns attempted
 to protect themselves from becoming part of the city. In the 1950s,
-suburban governments expanded rapidly. For various reasons, towns were
+suburban governments proliferated. For various reasons, towns were
 not willing partners in San Jose's growth and instead sought strict
-economic regulations within the city boundaries in order to control the
-development and character of the municipality. Some cities attempted
+economic regulations within their boundaries in order to control the
+development and character of their municipality. Some cities used
 incorporation as one method for protecting themselves from San Jose's
-sprawling annexations and maintain their identities. Campbell became a
+sprawling annexations and maintain their identities (see Figure). Campbell became a
 city in 1952, followed by Milpitas in 1954, Cupertino in 1955, and
 Saratoga in 1956.^["Hamann: San Jose's Growth Guru," *San Jose Mercury*,
 1999.] County-wide, between 1952 and 1957 seven cities incorporated,
-thereby doubling the number of municipalities in the county.^[Cavin,
-491.] In other cases, cities found themselves resisting attempts at
-municipal consolidation. In the case of Alviso and Milpitas...
+doubling the number of municipalities in the county.^[@cavin2012siliconvalley,
+491.] 
 
-The situation was exacerbated by larger towns who likewise annexed large 
-swaths of land. In particular, San Jose was competing with Santa Clara---what 
-locals began calling the "annexation wars"---in order to maintain its own 
-influence and growth in the South Bay.
+<!-- add a figure for these cities; visualization of city foundings? -->
+
+In other cases, cities found themselves resisting attempts at
+municipal consolidation.^[Consolidation and annexation are very different 
+issues. Consolidation means the joining of two independent municipalities; 
+annexation means the expansion of municipal boundaries to control 
+unincorporated land.] Alviso, located to the north of San Jose at the 
+southern tip of the San Francisco Bay, was an 
+incorporated city long desired by civic leaders in San Jose. City leaders 
+sought two key developments with Alviso. The first, San Jose desired access to 
+the San Francsico Bay for the location of a deep water port.^[Land-locked San Jose began 
+looking to Alviso's port as early as 1895. In the 1930s, the city was so 
+certain it would control the port that it prematurely released a pamphlet 
+boasting of the "San José Deep Water Port." In 1958, the city's Master Plan 
+still mentioned their goal of a deep water port located in Alviso.] Second, the city 
+wanted to locate a sewage treatment plant in the suburban fringe rather than 
+inside the city. In {YEAR} For pro-growth Alvisans, incorporation with San Jose would 
+allow the city to regain control over it's development while also providing 
+the city with a larger tax base to fund capital improvements. Alvisans, one 
+pro-consolidation advertisement wrote, are "tired of wallowing in the mud, are 
+tired of having our children play in the streets . . . are tired of seeing all 
+of our neighboring areas make great strides forward while we just stand still. 
+SUPPORT PROGRESS."^[Gross, "Covenant and Betrayal."] While debates continued 
+in Alviso, San Jose annexed a narrow one-hundred-foot strip of land to the 
+border of Alviso, and there built a sewage treatment plant. That plant would 
+become the basis for more annexations as it allowed the city to extend 
+municipal services cheaply.^[While San Jose prided itself on industrial and 
+commercial development, the city made most of its revenue through residential 
+property taxes. These taxes, however, were unbalanced. The city desired more 
+industrial land to expand its tax base, and locating industrial facilities 
+northward allowed it to tap into the growing inudstries of Silicon Valley. San 
+Jose City Planning Commission, *Master Plan of the City of San Jose*, 50.]
+
+Once again, however, the very choices of annexation, zoning, and construction 
+introduced environmental problems. When San Jose located a sewage 
+treatment plant near Alviso, they were attempting to push such services away 
+from the city's downtown in order to maintain a pristine image and high 
+property values. The sewage treatment plan required massive amounts of 
+chlorine, which was shipped to the plant by rail across Alviso's borders. 
+Alvisans not only dealt with the daily stench of the plant, but were also 
+exposed to potential chemical spills and sewage leaks. For San Jose, 
+controlling Alviso's space was a way of offloading the environmental 
+consequences of pollution to neighboring cities.
+
+Complaints and campaigns were not enough to stop San Jose's drive. In January 
+1968, voters approved consolidation by the razor-thin margin of nine votes. 
+However, many of the developments pro-consolidation Alvisans anticipated were 
+never realized. No deep water port could be constructed because the dredging 
+necessary ran up against new environmental laws passed in the earl 1970s. The 
+port had also become less important to San Jose since new industries relied 
+far less on water for shipping and more on the new interstate system. Yet 
+while commercial developments ran aground, the city continued to expand its 
+sanitation facilities. Large land owners began selling their land to the city. 
+Ton Santos sold his land to San Jose that allowed the city to create a huge 
+landfill, which became so polluted that the Environmental Protection Agency 
+declared the site a Superfund site in 1986.^["Rules and Regulations," *Federal 
+Register* 51, no. 111 (June 10, 1986): 21054--21077.] Bill Zanker sold his property to 
+the city for \$1.5 million and moved to Sunnyvale. Zanker's land became the 
+site of an expanded sewage plant that encompassed 1,764 acres and quadrupled 
+its capacity.^["Covenant and Betrayal."] The new sewage plant became San 
+Jose's key to growth, allowing the plant to handle the municipal waste of the 
+whole region, including the industrial sewage from high technology industries. 
+The plant eventually grew to service twenty-four cities.^["Alviso 
+Report---Minutes of the San Jose City Council," August 13, 1973, 14, Folder 
+ADM; Boards and Commissions; Local Agency Formation Commission; Cities--San 
+Jose; detach--Alviso #1, Records of the Santa Clara County Local Agency 
+Formation Commission.]
 
 ![Urban areas of the Bay Area, 2014.](figures/urban_areas_2014.png)
 
@@ -427,22 +493,48 @@ José—promoted suburban growth along their routes, allowing subdivisions
 to spread across the Santa Clara Valley.^[Alesch, Local Government's
 Ability to Manage Growth in a Metropolitan Context, 20.] -->
 
-# Green Gold and Green Belts
+The city's political coalition of businessmen, newspaper publishers, real 
+estate developers, and the Chamber of Commerce allowed the political machinery 
+to pursue growth, while the city's council-manager system of government 
+insulated political leaders from the electoral decisions. Widespread 
+annexation became an avenue for development, provided the city with a broad 
+tax base of industrial, residential, and commercial land, provided itself more 
+power over surrounding cities, and let San Jose's leaders think about the city 
+as a regional powerhouse. Although historians have perceived this period as a 
+time when pro-growth political regimes across the Sunbelt could pursue any 
+project they desired, the story in San Jose complicates this perception. The 
+combination of environmental politics and the limits of the environment itself 
+shaped contests over metropolitan space, environmental degradation, and 
+municipal government.^[Kevin Starr, *Golden Dreams: California in an Age of 
+Abundance, 1950--1963 (New York: New York University Press, 2009); Harvey 
+Molotch, "The City as a Growth Machine: Towards a Political Economy of Place," 
+*The American Journal of Sociology*, 82 (1976): 309--332; Glenna Matthews, 
+"The Los Angeles of the North: San Jose's Transition from Fruit Capital to 
+High-Tech Metropolis," *Journal of Urban History* 25 (May 1999): 459--476; 
+James C. Cobb, *The Selling of the South: The Southern Crusade for Industrial 
+Development, 1936--1980 (Baton Rouge: Louisiana State University Press, 1982); 
+Richard M. Bernard and Bradley R. Rice, eds., *Sunbelt Cities: Politics and 
+Growth Since World War II* (Austin: University of Texas Press, 1983); David C. 
+Perry and Alfred J. Watkins, eds., *The Rise of the Sunbelt Cities* (Beverly 
+Hills: Sage, 1977); @cavin2012siliconvalley, 29--31.] 
 
-As city leaders defined the details of San Jose's suburban future in the
+<!-- # Green Gold and Green Belts -->
+
+\thoughtbreak{As city leaders defined the details of San Jose's suburban 
+future} in the
 late 1940s and early 1950s, a sizable contingent of city residents
-questioned whether the link between growth and prosperity was certain.
+began questioning whether the link between growth and prosperity was guaranteed.
 
 The rapid growth of the city led farmers to feel threatened. Industrial and 
 residential lots were replacing one acre of farmland every ninety minutes in 
-1959.^[Cavin, "Borders of Citizenship," 209.] Often land developers would pay 
+1959.^[@cavin2012siliconvalley, 209.] Often land developers would pay 
 for property at rates well above what farmers originally paid. When the Santa 
 Clara fruit grower Carl Wesley Haman died in 1955, his 41.44-acre lot was 
 purchased by a Palo Alto developer for \$287,000---over seventeen times more 
 than what Haman paid when he originally purchased the land. Desirable land 
 could fetch upwards of \$7,000 an acre by the mid-1950s.^["41.44 Acres Bring 
-Price of \$287,000," San Jose Mercury, September 17, 1955; Cavin, "Borders of 
-Citizenship," 212.] By the 1970s, pockets of agricultural land were being sold 
+Price of \$287,000," *San Jose Mercury*, September 17, 1955; 
+@cavin2012siliconvalley, 212.] By the 1970s, pockets of agricultural land were being sold 
 for $18,000 an acre, and one land owner refused an offer of 
 \$2,300,000.^[Stanford Law Review, *San Jose*, 8.] Often the small farmers 
 could not afford to stay in business in the face of rising tax assessments, 
@@ -456,40 +548,65 @@ California*, (Washington, D.C.: Division of Research and Statistics, Home
 Owners' Loan Corporation, September 18, 1937), 2, quoted in Cavin, "Borders of 
 Citizenship," 208.] The rapid suburbanization of San Jose eradicated farmland. 
 Between 1935 and 1957, nearly 70,000 acres of farmland left production.^[Roy 
-Hitchock, "Taking the Pulse of the Prune," California Farmer, September 4, 
-1957; "The Indispensable Man at Harvest Time," San Jose Mercury, August 28, 
+Hitchock, "Taking the Pulse of the Prune," *California Farmer*, September 4, 
+1957; "The Indispensable Man at Harvest Time," *San Jose Mercury*, August 28, 
 1955.] "As the people came," the *San Jose Mercury* noted in 1956, "the orchards 
 went."^["Population Growth Created Demand for Housing; Subdivisions on Grand 
 Scale Provided the Homes," *San Jose Mercury*, January 15, 1956, p. 3P.] 
 
-As shown above, the city had no problem annexing land for what they saw as the 
-appropriate and correct use: new industry and new suburban homes. But this 
+As we saw above, city leaders had no problem annexing land for what they saw as the 
+appropriate and correct use for land: new industry and new suburban homes. But this 
 vision of the landscape came into conflict with farmers, whose own ideas about 
 land use also meant protecting their livelihoods. Right as suburbs were 
 expanding across the valley floor, their farming neighbors began organizing an 
-effort at agricultural land preservation.
+effort at agricultural land preservation. Farmers began working with the 
+County Planning Commission to create new zoning ordinances that would maintain 
+greenbelts between cities. Pressure by farmers led the state legislature to 
+pass the Green Belt Exclusion Law in 1955 and the Agricultural Assessment Law 
+in 1957, both efforts thought to help farmers hold on to their land.
+
+The Green Belt Exclusion Law sought to create zones where no subdivisions, 
+industry, or commerce could establish itself. The land would remain the 
+exclusive use of agricultural production. This was aided by the Agricultural 
+Assessment Law, which sought to help farmers maintain low tax assessments on 
+their land. By allowing green belts to be preserved, assessments of land would 
+remain low since no non-farming activity would be located on neighboring land. 
+The exclusive zoning expanded the county's agricultural land by almost sixty 
+percent, from 40,000 acres in 1958 to 70,000 acres in 1960.^[@nader1973land, 
+32--34.]
 
 ![Simplified outline of farmland zoning (light gray) separating urban areas (dark gray). From Green Gold (Santa Clara County Planning Department, November
 1958).](figures/green_space_planned.png)
 
-Santa Clara's farmers caught the eye of William Whyte, a leading critic
-of suburban sprawl. The disappearing orchards and countryside---what
-many equated as "nature"---gained the attention of William H. Whyte, a
-nationally-known critic of suburban development. Writing in 1958, Santa
-Clara County was his example of sprawl---"vast, smog-filled deserts that
-are neither city, suburb, nor country."^[Whyte, "Urban Sprawl," 124. On
-Whyte and urban sprawl see Rome, *The Bulldozer in the Countryside*,
-119–152.]
+The disappearing orchards and countryside---what many equated as 
+"nature"---gained the attention of William H. Whyte, a nationally-known critic 
+of suburban development. Writing in 1958, Santa Clara County was his example 
+of sprawl---"vast, smog-filled deserts that are neither city, suburb, nor 
+country."^[Whyte, "Urban Sprawl," 124. On Whyte and urban sprawl, see 
+@rome2001bulldozer, 119–152.]
 
-Suburban homeowners came to expect that the places they moved to not
-only had low property taxes, provided property ownership as an avenue
+By the mid-1960s, however, the exclusive agricultural zoning would begin to 
+fall under the gerrymandered annexations. Although farmers had felt themselves 
+under pressure in the 1950s to preserve their lands, many, like Ruscigno, 
+began to realize the value they could extract from the sale of their 
+lands.^[@nader1973land, 35; Whyte, *The Last Landscape*, __.] The patterns of 
+leapfrogged annexations angered growers as well, which encouraged other 
+farmers to sell their land to urban developers well before the land was needed 
+for the city.^[@conard1985green, 6.] 
+
+The contest over the agricultural landscape revealed not only an effort by 
+farmers to protect their livelihoods, but a broader debate about land use and 
+the environmental costs exacted on the land for its various uses.
+
+\thoughtbreak{Suburban homeowners came to expect that the places they moved to not
+only had low property taxes}, provided property ownership as an avenue
 for upward mobility, and segregated neighborhoods, but a pleasant
 environment as well.^[On the issues of social mobility, radicalized
-suburban space, and taxes, see Self, American Babylon, 96-100; Ronald
+suburban space, and taxes, see @self2003babylon, 96--100; Ronald
 Tobey, Charles Wetherell, and Jay Bringham, "Moving Out and Settling In:
 Residential Mobility, Home Owning, and the Public Enframing of
-Citizenship, 1921-1950," American Historical Review 95 (December 1990);
-Nicolaides, My Blue Heaven, 185-237.] Such views put residents at odds
+Citizenship, 1921-1950," *American Historical Review* 95 (December 1990);
+Nicolaides, *My Blue Heaven*, 185-237.] Such views put residents at odds
 with the concerns of developers and boosters, who tended to privilege
 the sale of land for profit, taxes, and jobs---the very core of
 "growth." But home-owning suburbanites approached property differently,
@@ -508,7 +625,7 @@ surroundings as a way to entice prospective homebuyers. Yet often the
 farmland---were quickly giving way to suburban housing developments. It
 was not uncommon for a new homeowner, enticed by the idea of a
 countryside home, to suddenly be in the midst of sprawling subdivisions
-in only a few years.
+in only a few years.^[Stanford Law Review.]
 
 ![Subdivisions among the orchards. Planning for Growth: A Report on the Status 
 of City and County Planning in California (Sacramento: Assembly of the State 
@@ -520,16 +637,16 @@ anticipate. The City of San Jose eagerly approved subdivisions in
 floodplains, hillsides, fault lines, and wetlands. Such flexible land
 use gave San Jose city leaders what they wanted, drawing developers to
 the city rather than its neighbors whose land use policies were more
-restrictive.^[Troustine, Movers and Shakers, 95.] Sometimes housing
+restrictive.^[@trounstine1982movers, 95.] Sometimes housing
 developments occurred on land originally blocked by the county as
 improper for development, only to be annexed by a city and opened to
-development^["Proper Storm Drainage Possible, Says Planner," San Jose
-Mercury, January 5, 1956.]. No type of land, it seemed, would be off the
+development^["Proper Storm Drainage Possible, Says Planner," *San Jose
+Mercury*, January 5, 1956.]. No type of land, it seemed, would be off the
 table for San Jose civic leaders. 
 
 San Jose had to confront more than the politics surrounding the environment. 
 They confronted the environment itself, which had its own ways of dictating 
-the limits of urban growth.  The approval of development in areas prone to 
+the limits of urban growth. The approval of development in areas prone to 
 flooding provides one example of the environmental limits of growth. The 
 city's poor planning exacerbated flooding problems. As more and more soil was 
 paved over or built upon, the less area remained to absorb excess 
@@ -542,7 +659,7 @@ February 11, 1966, Box 72, Folder 3, Don Edwards Congressional Papers,
 MSS-1995-001, San Jose State University Library Special Collections and 
 Archives.] Furthermore, building in low areas frequently flooded in winter and 
 spring rains, places often sold to lower-income families.^[Downie, "A 
-Misplanned Suburb," Washington Post, December 30, 1973, p. C5. According to 
+Misplanned Suburb," *Washington Post*, December 30, 1973, p. C5. According to 
 Downie, such sales were made primarily to lower-income families and allowed 
 developers "profit risk-free." The homes were guaranteed by FHA loans, which 
 were often leased to black and Hispanic homebuyers.] 
@@ -553,7 +670,7 @@ to the San Francisco Bay, experienced a change in their grade from the
 subsidence. In other words, the sinking land caused the rivers to adjust their 
 angle more sharply downward, causing them to transport more and larger river 
 material than they had previously.^[J. Robert Roll, "Effect of Subsidence on 
-Well Fields," Journal (American Water Works Association) 59, no. 1 (January 1, 
+Well Fields," *Journal (American Water Works Association)* 59, no. 1 (January 1, 
 1967): 80–88.] 
 
 In addition to runoff and drainage
@@ -563,8 +680,8 @@ depleted and the soil and clay above the aquifer compressed from the
 weight above it. Subsidence exacerbated flooding problems. The area had
 been facing problems of subsidence since the early twentieth century as
 groundwater levels dropped as much as ninety-five feet from heavy
-pumping from the county's more than 2,000 wells.^[Scott, San Francisco
-Bay Area, 229-230.] Alviso, located at the southern tip of the San
+pumping from the county's more than 2,000 wells.^[Scott, *San Francisco
+Bay Area*, 229-230.] Alviso, located at the southern tip of the San
 Francisco Bay to the north of San Jose, sank six feet in the postwar
 years through a combination of agricultural groundwater pumping and,
 later, increased water pumping to supply subdivisions. By comparison,
@@ -575,23 +692,23 @@ in a Christmas 1955 deluge that flooded nearby Sunnyvale and Alviso,
 requiring the Santa Clara County Flood Control and Water District and
 the Army Corps of Engineers to begin building a system of levies and
 dikes to protect the communities.^[Joseph F. Poland, "Case History No.
-9.14. Santa Clara Valley, California, USA," in Guidebook to Studies of
-Land Subsidence Due to Ground-water Withdrawal, ed. Joseph F. Poland
-(Paris: UNESCO, 1984), 281, 283; Andrew Trice, Review of Economic
-Aspects of the Corps of Engineers' Draft Report on Coyote Creek, March
+9.14. Santa Clara Valley, California, USA," in *Guidebook to Studies of
+Land Subsidence Due to Ground-water Withdrawal*, ed. Joseph F. Poland
+(Paris: UNESCO, 1984), 281, 283; Andrew Trice, *Review of Economic
+Aspects of the Corps of Engineers' Draft Report on Coyote Creek*, March
 22, 1971, Box 84, Folder 140, Don Edwards Congressional Papers,
 MSS-1995-01, San Jose State University Library Special Collections and
-Archives; "Proper Storm Drainage Possible, Says Planner," San Jose
-Mercury, January 5, 1956; "Orchardist Orders Dike Builders Off His
-Land," San Jose Mercury, January 5, 1956; "A ‘Walled' City of Alviso May
-Be Answer to Problem," San Jose Mercury, January 6, 1956, p. 4.]
+Archives; "Proper Storm Drainage Possible, Says Planner," *San Jose
+Mercury*, January 5, 1956; "Orchardist Orders Dike Builders Off His
+Land," *San Jose Mercury*, January 5, 1956; "A ‘Walled' City of Alviso May
+Be Answer to Problem," *San Jose Mercury*, January 6, 1956, p. 4.]
 
 Subsidence unwittingly caused infrastructure problems as well. As
 aquifer levels fell, farmers had to run their wells deeper and, in turn,
 use more electrical power and larger pump equipment to bring the water
 to the surface. Furthermore, the sinking of the ground caused damage to
 well casings, sewers, water mains, and other underground
-infrastructure.^[Scott, San Francisco Bay Area, 230.] At the very moment
+infrastructure.^[Scott, *San Francisco Bay Area*, 230.] At the very moment
 that the city needed its infrastructure the most, the rapid urbanization
 it was promoting was putting stress on existing systems.
 
@@ -604,12 +721,12 @@ city. The county sought scenic roads projects to limit the "unsightly
 development" on the land and provide "visual amenity" for the
 area.^[Belser, *Planning Progress 1956*, 12. See also Belser's remarks in
 *Beauty for America: Proceedings of the White House Conference on Natural
- Beauty* (Washington, D.C.: Government Printing Office, 1965), 190-295.]
+Beauty* (Washington, D.C.: Government Printing Office, 1965), 190-295.]
 Journalist Leonard Downie, writing about the city in 1973, concluded
 that all that remained of scenic open space was the "carefully tended
 and regularly watered greenery along the shoulders of the county's many
-freeways."^[Downie, "A Misplanned Suburb," Washington Post, December 30,
-1973. Quotes from Cavin, 497.]
+freeways."^[Downie, "A Misplanned Suburb," *Washington Post*, December 30,
+1973. Quotes from @cavin2012siliconvalley, 497.]
 
 ![*The Nation*, March 8, 1965.](figures/TheNation-bulldozedcrops.png)
 

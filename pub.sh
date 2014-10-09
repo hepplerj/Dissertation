@@ -11,9 +11,9 @@ echo "Generating PDF files"
 #file="$1"
 pandoc $file \
 	--bibliography=/Users/jheppler/acad/bib/master.bib \
-	--template article.template \
 	--csl=chicago-jah.csl \
-	--latex-engine=xelatex \
+	-V documentclass:acadpaper \
+	-V fontsize:12pt \
 	-o drafts/$file.pdf
 
 echo "Generating Word files"
@@ -21,11 +21,12 @@ echo "Generating Word files"
 pandoc $file \
 	--bibliography=/Users/jheppler/acad/bib/master.bib \
 	--csl=chicago-jah.csl \
+	--smart \
 	-o drafts/$file.docx
 
 # hide the log
-echo "Hiding log files"
-mv "*.log" ".logged"
+#echo "Hiding log files"
+#mv "*.log" ".logged"
 
 # delete all the junk files
 echo "Removing temp files"

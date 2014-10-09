@@ -6,6 +6,11 @@
 > 
 > Harrison Ca, 1888
 
+> "A veritable Paradise"
+> 
+> ---C. L. Lawrence, 1927^[C. L. Lawrence, *Poems Along the Way*. (San Jose: 
+> Tucker Printing Company, 1927).]
+
 The region now known as Silicon Valley has gone through numerous 
 redefinitions. The Ohlone people, Penutian-speakers who likely migrated to the 
 Valley from the eastern foothills of the Central Valley around the 6th century 

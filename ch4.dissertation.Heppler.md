@@ -11,7 +11,14 @@ author:
 > and of an overall environment that is diminished daily by pollution and 
 > noise and blight. This, in brief, is the quiet conservation crisis.  
 > 
-> Stewart Udall, *The Quiet Crisis*
+> ---Stewart Udall, *The Quiet Crisis*
+
+> From the work bays of the light-industry sheds that the speculators were 
+> beginning to build in the valley, you could look out and see the raggedy 
+> little apricot trees they had never bothered to bulldoze after they bought 
+> the land from the farmers" (Wolfe 1983: 356).
+> 
+> ---Tom Wolfe, 1983^[*Esquire*, 1983, 356.]
 
 
 <!--ARGUMENT: As "nature" receded underneath asphalt, Bay Area environmentalists 
