@@ -84,27 +84,28 @@ Mountain View, Santa Clara---tended to build more industry than housing
 throughout the postwar decades, leading eventually to severe housing and 
 utility shortages and traffic congestion.^[The City of Palo Alto was already 
 facing severe housing shortages as early as 1945. When Wallace and Mary 
-Stegner moved to Stanford, they were unable to purchase a home in the city. 
+Stegner moved to Stanford, they were unable to purchase a home in the city.  
 Instead, the Stegner's originally tried to set up the community of Ladero with 
-other Stanford professors before eventually settling in Los Altos Hills. 
+other Stanford professors before eventually settling in Los Altos Hills.  
 Wallace Stegner, "Four Hundred Families Plan a House," *The Magazine of the 
 Year*, April 1947, 63-66; Jackson J. Benson, *Wallace Stegner: His Life and 
 Times* (New York: Viking, 1996), 152, 153, 195.] San Jose, on the other hand, 
 housed almost half of the county's population, but provided only one-third of 
 the jobs since most industry tended to cluster around Stanford 
-University.^[@findlay1993magic, p. 156.] By examining "the Capital of 
-Silicon Valley," we can better understand the process of residential 
-suburbanization and the environmental limits to city growth. Such limits came 
-primarily in two forms, the first from residents who began encouraging limited 
-growth, and the second by the environment itself. Looking at the relationship 
-between metropolitan fragmentation, suburban economic regulation, and 
-burgeoning environmental activism, all across the Valley newcomers fought with 
-farmers, planners, agency officials, and elected politicians to determine 
-whose vision of the Valleys' future would prevail. Zoning and regulation 
-became tools to protect what residents viewed as encroachments onto their 
-suburban investments.^[Aaron Cavin's dissertation is especially noteworthy in 
-this regard, in which he examines the racial and spatial politics of Santa 
-Clara Valley. See, especially, @cavin2012siliconvalley, chapter 6.] 
+University.^[@findlay1993magic, p. 156.] By examining "the Capital of Silicon 
+Valley," we can better understand the process of residential suburbanization 
+and the environmental limits to city growth. Such limits came primarily in two 
+forms, the first from residents who began encouraging limited growth before 
+the no-growth activism of the 1970s, and the second by the environment itself.  
+Looking at the relationship between metropolitan fragmentation, suburban 
+economic regulation, and burgeoning environmental activism, all across the 
+Valley newcomers fought with farmers, planners, agency officials, and elected 
+politicians to determine whose vision of the Valleys' future would prevail.  
+Zoning and regulation became tools to protect what residents viewed as 
+encroachments onto their suburban investments.^[Aaron Cavin's dissertation is 
+especially noteworthy in this regard, in which he examines the racial and 
+spatial politics of Santa Clara Valley. See, especially, 
+@cavin2012siliconvalley, chapter 6.] 
 
 Historians have debated the issue of whether criticisms of
 urban growth and growth control really reflected an environmental
@@ -153,7 +154,7 @@ Manager C. B. Goodwin. The 1944 election gave opponents of Bigley and Goodwin
 an opening. When six of the seven city council seats were open for election, 
 in part because two members left to serve in World War II, opponents formed 
 the Progress Committee and accused Bigley, Goodwin, and the city council of 
-not doing enough for San Jose's future. Voters, and the newspaper, agreed.  
+not doing enough for San Jose's future. Voters, and the newspaper, agreed. 
 Aided by the newspaper's endorsement, six members of the Progress 
 Committee---among them key political figures Al Ruffo and Ernest 
 Renzel---swept the city council elections. They committed themselves to 
@@ -433,13 +434,14 @@ certain it would control the port that it prematurely released a pamphlet
 boasting of the "San José Deep Water Port." In 1958, the city's Master Plan 
 still mentioned their goal of a deep water port located in Alviso.] Second, the city 
 wanted to locate a sewage treatment plant in the suburban fringe rather than 
-inside the city. In {YEAR} For pro-growth Alvisans, incorporation with San Jose would 
+inside the city. For pro-growth Alvisans, incorporation with San Jose would 
 allow the city to regain control over it's development while also providing 
 the city with a larger tax base to fund capital improvements. Alvisans, one 
 pro-consolidation advertisement wrote, are "tired of wallowing in the mud, are 
 tired of having our children play in the streets . . . are tired of seeing all 
 of our neighboring areas make great strides forward while we just stand still. 
-SUPPORT PROGRESS."^[Gross, "Covenant and Betrayal."] While debates continued 
+SUPPORT PROGRESS."^["Covenant and Betrayal," *San Jose 
+Mercury*, March 28, 1993.] While debates continued 
 in Alviso, San Jose annexed a narrow one-hundred-foot strip of land to the 
 border of Alviso, and there built a sewage treatment plant. That plant would 
 become the basis for more annexations as it allowed the city to extend 
@@ -462,28 +464,30 @@ controlling Alviso's space was a way of offloading the environmental
 consequences of pollution to neighboring cities.
 
 Complaints and campaigns were not enough to stop San Jose's drive. In January 
-1968, voters approved consolidation by the razor-thin margin of nine votes. 
-However, many of the developments pro-consolidation Alvisans anticipated were 
-never realized. No deep water port could be constructed because the dredging 
-necessary ran up against new environmental laws passed in the earl 1970s. The 
-port had also become less important to San Jose since new industries relied 
-far less on water for shipping and more on the new interstate system. Yet 
-while commercial developments ran aground, the city continued to expand its 
-sanitation facilities. Large land owners began selling their land to the city. 
-Ton Santos sold his land to San Jose that allowed the city to create a huge 
-landfill, which became so polluted that the Environmental Protection Agency 
-declared the site a Superfund site in 1986.^["Rules and Regulations," *Federal 
-Register* 51, no. 111 (June 10, 1986): 21054--21077.] Bill Zanker sold his property to 
-the city for \$1.5 million and moved to Sunnyvale. Zanker's land became the 
-site of an expanded sewage plant that encompassed 1,764 acres and quadrupled 
-its capacity.^["Covenant and Betrayal."] The new sewage plant became San 
-Jose's key to growth, allowing the plant to handle the municipal waste of the 
-whole region, including the industrial sewage from high technology industries. 
-The plant eventually grew to service twenty-four cities.^["Alviso 
-Report---Minutes of the San Jose City Council," August 13, 1973, 14, Folder 
-ADM; Boards and Commissions; Local Agency Formation Commission; Cities--San 
-Jose; detach--Alviso #1, Records of the Santa Clara County Local Agency 
-Formation Commission.]
+1968, voters approved consolidation by the thin margin of nine 
+votes.^["Covenant and Betrayal," *San Jose Mercury*, March 28, 1993.] However, 
+many of the developments pro-consolidation Alvisans anticipated were never 
+realized. No deep water port could be constructed because the dredging 
+necessary to accommodate large ships ran up against new environmental laws 
+passed in the earl 1970s. The port had also become less important to San Jose 
+since new industries relied far less on water for shipping and more on the new 
+interstate system. Yet while commercial developments ran aground, the city 
+continued to expand its sanitation facilities. Large land owners began selling 
+their land to the city. Tony Santos sold his land to San Jose that allowed the 
+city to create a huge landfill, which became so polluted that the 
+Environmental Protection Agency declared it a Superfund site in 
+1986.^["Rules and Regulations," *Federal Register* 51, no. 111 (June 10, 
+1986): 21054--21077.] Bill Zanker sold his property to the city for \$1.5 
+million and moved to Sunnyvale. Zanker's land became the site of an expanded 
+sewage plant that encompassed 1,764 acres and quadrupled its 
+capacity.^["Covenant and Betrayal."] The new sewage plant became San Jose's 
+key to growth, allowing the plant to handle the municipal waste of the whole 
+region, including the industrial effluence from high technology industries. The 
+plant eventually grew to service twenty-four cities.^["Alviso Report---Minutes 
+of the San Jose City Council," August 13, 1973, 14, Folder ADM; Boards and 
+Commissions; Local Agency Formation Commission; Cities--San Jose; 
+detach--Alviso #1, Records of the Santa Clara County Local Agency Formation 
+Commission.]
 
 ![Urban areas of the Bay Area, 2014.](figures/urban_areas_2014.png)
 
@@ -499,31 +503,31 @@ to pursue growth, while the city's council-manager system of government
 insulated political leaders from the electoral decisions. Widespread 
 annexation became an avenue for development, provided the city with a broad 
 tax base of industrial, residential, and commercial land, provided itself more 
-power over surrounding cities, and let San Jose's leaders think about the city 
-as a regional powerhouse. Although historians have perceived this period as a 
-time when pro-growth political regimes across the Sunbelt could pursue any 
-project they desired, the story in San Jose complicates this perception. The 
-combination of environmental politics and the limits of the environment itself 
-shaped contests over metropolitan space, environmental degradation, and 
-municipal government.^[Kevin Starr, *Golden Dreams: California in an Age of 
-Abundance, 1950--1963 (New York: New York University Press, 2009); Harvey 
-Molotch, "The City as a Growth Machine: Towards a Political Economy of Place," 
-*The American Journal of Sociology*, 82 (1976): 309--332; Glenna Matthews, 
-"The Los Angeles of the North: San Jose's Transition from Fruit Capital to 
-High-Tech Metropolis," *Journal of Urban History* 25 (May 1999): 459--476; 
-James C. Cobb, *The Selling of the South: The Southern Crusade for Industrial 
-Development, 1936--1980 (Baton Rouge: Louisiana State University Press, 1982); 
-Richard M. Bernard and Bradley R. Rice, eds., *Sunbelt Cities: Politics and 
-Growth Since World War II* (Austin: University of Texas Press, 1983); David C. 
-Perry and Alfred J. Watkins, eds., *The Rise of the Sunbelt Cities* (Beverly 
-Hills: Sage, 1977); @cavin2012siliconvalley, 29--31.] 
+power over surrounding cities, letting San Jose's leaders think about the city 
+as a regional powerhouse. The combination of environmental politics and the 
+limits of the environment itself shaped contests over metropolitan space, 
+environmental degradation, and municipal government.^[Kevin Starr, *Golden 
+Dreams: California in an Age of Abundance, 1950--1963 (New York: New York 
+University Press, 2009); Harvey Molotch, "The City as a Growth Machine: 
+Towards a Political Economy of Place," *The American Journal of Sociology*, 82 
+(1976): 309--332; Glenna Matthews, "The Los Angeles of the North: San Jose's 
+Transition from Fruit Capital to High-Tech Metropolis," *Journal of Urban 
+History* 25 (May 1999): 459--476; James C. Cobb, *The Selling of the South: 
+The Southern Crusade for Industrial Development, 1936--1980 (Baton Rouge: 
+Louisiana State University Press, 1982); Richard M. Bernard and Bradley R. 
+Rice, eds., *Sunbelt Cities: Politics and Growth Since World War II* (Austin: 
+University of Texas Press, 1983); David C.  Perry and Alfred J. Watkins, eds., 
+*The Rise of the Sunbelt Cities* (Beverly Hills: Sage, 1977); 
+@cavin2012siliconvalley, 29--31.] 
 
 <!-- # Green Gold and Green Belts -->
 
 \thoughtbreak{As city leaders defined the details of San Jose's suburban 
-future} in the
-late 1940s and early 1950s, a sizable contingent of city residents
-began questioning whether the link between growth and prosperity was guaranteed.
+future} in the late 1940s and early 1950s, a sizable contingent of city residents
+began questioning whether the link between growth and prosperity was 
+guaranteed. A sizable contingent of farmers began to organize legal challenges 
+to San Jose's unrestricted growth and initiated a campaign to conserve 
+farmland. 
 
 The rapid growth of the city led farmers to feel threatened. Industrial and 
 residential lots were replacing one acre of farmland every ninety minutes in 
@@ -554,6 +558,11 @@ Hitchock, "Taking the Pulse of the Prune," *California Farmer*, September 4,
 went."^["Population Growth Created Demand for Housing; Subdivisions on Grand 
 Scale Provided the Homes," *San Jose Mercury*, January 15, 1956, p. 3P.] 
 
+Expansion happened rapidly beyond city borders and into unincorporated county 
+lands, leaving the county to try and resolve the urban issues of neighborhood 
+and community recreation, police and fire, sanitation, street lights, and 
+storm drainage.^[@scott1959bayarea, 273.]
+
 As we saw above, city leaders had no problem annexing land for what they saw as the 
 appropriate and correct use for land: new industry and new suburban homes. But this 
 vision of the landscape came into conflict with farmers, whose own ideas about 
@@ -578,8 +587,20 @@ percent, from 40,000 acres in 1958 to 70,000 acres in 1960.^[@nader1973land,
 ![Simplified outline of farmland zoning (light gray) separating urban areas (dark gray). From Green Gold (Santa Clara County Planning Department, November
 1958).](figures/green_space_planned.png)
 
+The San Jose Chamber of Commerce noted those in the community who feared the 
+encroachment of industrial development. In an industrial survey, the Chamber 
+noted that 
+
+> there were some sincere and intelligent people who looked askance at this 
+> industrial development. They had genuine fears that smokestacks would 
+> "encircle the city"; that "blighted areas" would spring up in industrial 
+> sections; that orchards would be torn up "by the hundreds"; and that by past 
+> standards, this accelerated trend in the establishment of new industry might 
+> result in an unbalanced, top-heavy economy destined to collapse at some 
+> undetermined  time in the future.^[Quoted in @scott1959bayarea, 273.]
+
 The disappearing orchards and countryside---what many equated as 
-"nature"---gained the attention of William H. Whyte, a nationally-known critic 
+"nature"---captured the attention of William H. Whyte, a nationally-known critic 
 of suburban development. Writing in 1958, Santa Clara County was his example 
 of sprawl---"vast, smog-filled deserts that are neither city, suburb, nor 
 country."^[Whyte, "Urban Sprawl," 124. On Whyte and urban sprawl, see 
@@ -587,7 +608,7 @@ country."^[Whyte, "Urban Sprawl," 124. On Whyte and urban sprawl, see
 
 By the mid-1960s, however, the exclusive agricultural zoning would begin to 
 fall under the gerrymandered annexations. Although farmers had felt themselves 
-under pressure in the 1950s to preserve their lands, many, like Ruscigno, 
+under pressure in the early 1950s to preserve their lands, many, like Ruscigno, 
 began to realize the value they could extract from the sale of their 
 lands.^[@nader1973land, 35; Whyte, *The Last Landscape*, __.] The patterns of 
 leapfrogged annexations angered growers as well, which encouraged other 
@@ -847,6 +868,14 @@ The environment of the neighborhood generated health problems. In the
 early 1950s, lack of sewers and poorly managed cesspools led to an
 outbreak of amoebic dysentery in the area. One hundred and twenty 27
 five cases occurred on only two blocks.
+
+The sewer system of San Jose became a key tool in the city's growth: by 
+offering cities a chance to connect to San Jose's sewer system, which whisked 
+sewage away into the San Francisco Bay, they gave neighboring areas a highly 
+desirable price. Joining the sewer system was the price for annexation. "We're 
+in this fight to the finish," Dutch Hamann argued, "and if we have to use 
+sewage disposal to bring Santa Clara [County municipalities] to some point of 
+reasoning, we'll do it."^[Quoted in @pellowpark2002dreams, 70.]
 
 # Conclusion 
 

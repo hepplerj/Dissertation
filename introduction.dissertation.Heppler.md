@@ -5,6 +5,22 @@ author:
     email: jason.heppler@gmail.com
 ...
 
+> A geographer speaks as though his knowledge of space and place were derived 
+> exclusively from books, maps, aerial photographs, and structured field 
+> surveys. He writes as though people were endowed with mind and vision and no 
+> other sense with which to apprehend the world and find meaning in it. He and 
+> the architect-planner tend to assume familiarity---the fact that we are 
+> oriented in space and at home in place---rather than describe and try to 
+> understand what "being-in-the-world" is truly like.
+>
+> ---Yi-Fu Tuan^[Yi-Fu Tuan, *Space and Place: The Perspective of Experience* (Minneapolis: 
+University of Minnesota Press, 1997): 200-201.
+]
+
+> The word "nature" is a notorious semantic and metaphysical trap.
+> 
+> ---Leo Marx^[Leo Marx, "The Idea of Nature in America," *Daedulus* 137:2 (Spring 2008): 9.]
+
 This is a story about a place in flux.
 
 Wallace Stegner no longer recognized Santa Clara Valley in 1965. From his home 
@@ -58,16 +74,16 @@ high technology firms and city leaders for their ignorance of ecological
 negligence. These organizations formed the evolving Bay Area environmental 
 movement.
 
-<!-- Each generation remade the park through an understanding of nature that 
-sprang from its own recreation activities. But who were these hikers, 
-climbers, and campers, and what drew them to Yosemite? How did their 
-environmental attitudes shape their understandings of what was and was not 
-acceptable within the park? .... Such stories underscore the human aspect of 
-Yosemite, and provide a deeper understanding of the importance of tourism and 
-the West's changing cultural landscapes. --> 
-
-What gives rise to the environmental movement in the Santa Clara Valley are 
-the spatial and cultural politics stemming from high-tech industrialization.
+Newcomers and oldtimers alike remade the valley through an understanding of 
+nature that sprang from their own understandings of recreation and 
+countryside. Who were these newcomers? What drew them to the Bay Area and 
+compelled them to seek out hiking, camping, open space, and retreats away from 
+the city? How did their environmental attitudes shape their understanding of 
+what was and was not acceptable in Santa Clara Valley? Such stories underscore 
+the human aspect of Silicon Valley, and provide a deeper understanding of the 
+importance of nature in the Valley's cultural landscape. The spatial and 
+cultural politics of high-tech industrialization shaped the environmental 
+consciousness of the Bay Area's conservationists and environmentalists.
 
 By exploring the ways people created space, the politics they engaged in to 
 protect that space, and examining the physical changes to the landscape this 
