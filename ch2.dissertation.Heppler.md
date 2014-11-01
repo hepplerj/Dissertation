@@ -194,9 +194,9 @@ The Progress Committee dissolved shortly after their victory, but their
 pro-growth ideology remained entrenched in San Jose politics for the next 
 three decades.
 
-<!-- # Progress Town U.S.A -->
+# Progress Town U.S.A
 
-\thoughtbreak{World War II and the postwar years} witnessed an explosion in the
+World War II and the postwar years witnessed an explosion in the
 population of northern California. San Francisco, Oakland, and Berkeley,
 the traditional urban centers in the Bay Area, had seen their
 populations rise during the war years, but in the postwar years
@@ -245,8 +245,8 @@ Magazine* 169 (August 1934), 355--364. On the West and World War II, see
 the postwar West include @shragge1994federalcity, 333--361; 
 @clayton1967coldwar, 449--473. See also @lotchin1992fortress and @lotchin2003badcity.] 
 
-San Jose lay at the center of northern California's population boom (see 
-figure). A rural farming community of 68,457 in 1940, San Jose would be among 
+San Jose lay at the center of northern California's population boom. A rural 
+farming community of 68,457 in 1940, San Jose would be among 
 the top ten largest metropolitan areas in the nation by the end of the 
 century. By the 1960s the town's population numbered 204,196, and doubled by 
 1970 to 445,779.^[U.S. Bureau of the Census, *1960 Census*, Santa Clara County, 
@@ -520,10 +520,10 @@ University of Texas Press, 1983); David C.  Perry and Alfred J. Watkins, eds.,
 *The Rise of the Sunbelt Cities* (Beverly Hills: Sage, 1977); 
 @cavin2012siliconvalley, 29--31.] 
 
-<!-- # Green Gold and Green Belts -->
+# Green Gold and Green Belts
 
-\thoughtbreak{As city leaders defined the details of San Jose's suburban 
-future} in the late 1940s and early 1950s, a sizable contingent of city residents
+As city leaders defined the details of San Jose's suburban 
+future in the late 1940s and early 1950s, a sizable contingent of city residents
 began questioning whether the link between growth and prosperity was 
 guaranteed. A sizable contingent of farmers began to organize legal challenges 
 to San Jose's unrestricted growth and initiated a campaign to conserve 
@@ -608,19 +608,27 @@ country."^[Whyte, "Urban Sprawl," 124. On Whyte and urban sprawl, see
 
 By the mid-1960s, however, the exclusive agricultural zoning would begin to 
 fall under the gerrymandered annexations. Although farmers had felt themselves 
-under pressure in the early 1950s to preserve their lands, many, like Ruscigno, 
-began to realize the value they could extract from the sale of their 
+under pressure in the early 1950s to preserve their lands, many, like 
+Ruscigno, began to realize the value they could extract from the sale of their 
 lands.^[@nader1973land, 35; Whyte, *The Last Landscape*, __.] The patterns of 
 leapfrogged annexations angered growers as well, which encouraged other 
 farmers to sell their land to urban developers well before the land was needed 
-for the city.^[@conard1985green, 6.] 
+for the city.^[@conard1985green, 6.] Local historian Yvonne Jacobson estimated 
+that 77,000 acres left production in a span of thirty years. By 1982 20,000 
+acres of agricultural land remained left in the Valley which, by 2001, fell to 
+just 4,500 mostly located near the South Bay cities of Morgan Hill and 
+Gilroy.^[Jacobson, *Passing Farms, Enduring Values*, 231--236; 
+@griffin1958urban, 203; "From Fertile Fields, a High-Tech Harvest," *San Jose 
+Mercury News*, June 20, 2001.]
 
 The contest over the agricultural landscape revealed not only an effort by 
 farmers to protect their livelihoods, but a broader debate about land use and 
 the environmental costs exacted on the land for its various uses.
 
-\thoughtbreak{Suburban homeowners came to expect that the places they moved to not
-only had low property taxes}, provided property ownership as an avenue
+# The Suburban Landscape
+
+Suburban homeowners came to expect that the places they moved to not
+only had low property taxes, provided property ownership as an avenue
 for upward mobility, and segregated neighborhoods, but a pleasant
 environment as well.^[On the issues of social mobility, radicalized
 suburban space, and taxes, see @self2003babylon, 96--100; Ronald
