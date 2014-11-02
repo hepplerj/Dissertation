@@ -3,10 +3,10 @@ PDF		:= $(patsubst %.md,%.md.pdf, $(wildcard *.md))
 TEX		:= $(patsubst %.md,%.md.tex, $(wildcard *.md))
 DOCX	:= $(patsubst %.md,%.md.docx, $(wildcard *.md))
 
-dissertation.Heppler.pdf: dissertation.Heppler.text $(TEX) epigraph.dissertation.Heppler.tex
+dissertation.Heppler.pdf: dissertation.Heppler.tex $(TEX)
 	latexmk $<
 
-all: dissertation.Heppler.df $(PDF) $(DOCX)
+all: dissertation.Heppler.pdf $(PDF) $(DOCX)
 
 %.md.pdf: %.md
 	pandoc $< -o $@ -V documentclass:acadpaper -V fontsize:12pt

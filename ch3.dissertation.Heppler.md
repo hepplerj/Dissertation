@@ -1,9 +1,7 @@
 ---
 title: "Machines in the Garden: Suburban Environmentalism and Stanford Industrial Park"
 author:
-    - name: Jason A. Heppler
-      affiliation: University of Nebraska-Lincoln
-      email: jason.heppler@gmail.com
+- 'Jason A. Heppler'
 ...
 
 > Palo Alto is half bedroom suburb, half futuristic 1970s science fiction 
@@ -119,6 +117,7 @@ associations, such as the Bay Area Council (BAC), sought to make California an
 industrial center not by replicating the industrial Northeast or Midwest but 
 by promoting new industries.^[@omara2005cities, 106]
 
+<!--
 -------------------------------------------------------------------------------------------
 Fiscal Year   Total Budget Outlays    R&D Expenditures    R&D as Percentage of Total Budget
 -----------   --------------------    ----------------    ---------------------------------
@@ -169,6 +168,7 @@ Table: Federal Research and Development Expenditures as a Percentage of the
 U.S. Budget, 1950-1970 (millions of dollars). Source: National Science 
 Foundation, *Federal Funds for Research, Development, and Other Scientific 
 Activities* (Washington: U.S. Government Printing Office, 1972), 3.
+-->
 
 Regional electronics manufacturing grew quickly. The Western Electronics 
 Manufacturers Association listed twenty members in the Bay Area in 1951; by 

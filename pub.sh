@@ -12,7 +12,7 @@ echo "Generating PDF files"
 pandoc $file \
 	--bibliography=/Users/jheppler/acad/bib/master.bib \
 	--csl=chicago-jah.csl \
-	-V documentclass:acadpaper \
+	-V documentclass:acadpaper.csl \
 	-V fontsize:12pt \
 	-o drafts/$file.pdf
 
