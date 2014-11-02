@@ -9,7 +9,7 @@ author:
 > tons of incredibly powerful and scarry shit inside its science parks, which 
 > are EVERYWHERE.
 > 
-> -- Douglas Coupland, Microserfs (1995)
+> -- Douglas Coupland, *Microserfs* (1995)
 
 > Universities are rapidly developing into more than mere places of learning. 
 > They are becoming major economic influences in the nation's industrial life, 

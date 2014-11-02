@@ -12,17 +12,17 @@ author:
 > thoroughfares. Fleets of ready-mix trucks disgorged concrete into the 
 > foundation forms of every kind of building — in every part of the county.
 > 
-> ---Karl J. Belser, Planning Progress 1956[^cf1]
+> ---Karl J. Belser, *Planning Progress 1956*[^cf1]
 
 > Do you know the way to San Jose? It's simple: annex more, plan less density 
 > and develop, develop, develop.
 >
-> ---Seattle Times[^cf2]
+> ---*Seattle Times*[^cf2]
 
 > Perhaps the only use we will ever find for the hydrogen bomb will be to 
 > erase this great mistake from the face of the earth.
 >
-> ---Karl J. Belser[^cf3]
+> ---*Karl J. Belser*[^cf3]
 
 In the decades after 1945, every municipality in the Bay Area participated in 
 the process of metropolitan development and, by extension, the erosion of 
@@ -270,7 +270,7 @@ Top six years by number of annexations. Data courtesy the City of San Jose.
 -->
 
 San Jose's pro-growth contingent received enthusiastic support from the city's 
-newspaper, the San Jose Mercury, and its new manager, Joseph Ridder. The 
+newspaper, the *San Jose Mercury*, and its new manager, Joseph Ridder. The 
 Ridder family newspaper empire owned several large publications in the United 
 States, including the *St. Paul Dispatch*, *Duluth Herald*, *Manhattan's Journal of 
 Commerce*, and the *Seattle Times*. When the family of Everis Hayes sold the 
@@ -296,7 +296,7 @@ of the city and its promise of "year-round employment and production" instead
 of the seasonal (and uncertain) employment found in the agricultural 
 industries. A town less reliant on agriculture meant avoiding economic dips, 
 more opportunities for employment and education, and additional wealth.[^cf41]
-The Mercury News' emphasis on the shifting economic center of the city was 
+The *Mercury News*' emphasis on the shifting economic center of the city was 
 important as, over time, the paper devoted less and less space to agricultural 
 news. The paper argued for the importance of the "irreplaceable asset" of 
 farmland and the greenbelts that the land provided urban areas, but continued 
@@ -629,10 +629,10 @@ sprawling subdivisions in only a few years.[^cf79]
 
 ![An advertisement for homes in San Jose that features a subdivision "nestled 
 in a beautiful walnut and cherry orchard" that the builder is "leaving . . . 
-for your enjoyment." San Jose Mercury, January 18, 1956.](figures/ad2.png)
+for your enjoyment." *San Jose Mercury*, January 18, 1956.](figures/ad2.png)
 
 ![An advertisement for homes in San Jose boasting of the "calm of the 
-country." San Jose Mercury, January 18, 1956.](figures/ad1.png)
+country." *San Jose Mercury*, January 18, 1956.](figures/ad1.png)
 
 Suburban homeowners came to expect that the places they moved to not only had 
 low property taxes, provided property ownership as an avenue for upward 
@@ -754,184 +754,322 @@ over the next two decades, leading to a growing intensity of environmental
 critique and more strident demands for open space and growth limits. Such 
 concerns begin to boil over around Stanford University in 1960.
 
-[^cf1]: Karl J. Belser, Planning Progress 1956 (San Jose: County of Santa Clara Planning Commission, July 1956), California Room, San Jose Public Library, 1.
+[^cf1]: Karl J. Belser, *Planning Progress 1956* (San Jose: County of Santa Clara Planning Commission, July 1956), California Room, San Jose Public Library, 1.
 
-[^cf2]: James B. Weatherby and Stephanie L. Witt, The Urban West: Managing Growth and Decline (Westport: Praeger, 1994), 37–38.
+[^cf2]: James B. Weatherby and Stephanie L. Witt, *The Urban West: Managing 
+Growth and Decline* (Westport: Praeger, 1994), 37–38.
 
-[^cf3]: Glenna Matthews, Silicon Valley, Women, and the California Dream: Gender, Class, and Opportunity in the Twentieth Century (Stanford: Stanford University Press, 2003), 102.
+[^cf3]: @matthews2003dreams, 102.
 
-[^cf4]: An urban planning study by the Palo Alto Planning Commission noted in 1974 that the 1970 Census reported 50,282 persons employed in Palo Alto, the highest ratio of jobs to population in any Bay Area community, and that between 1960 and 1970 commuting workers increased from 20,000 to 40,000 while those commuting out of Palo Alto dropped slightly. Palo Alto Planning Commission, Palo Alto Comprehensive Plan Impact Report, July 1, 1974, p. 45. See also Paul Griffin and Ronald Chatham, "An Industrial Analysis: North Santa Clara County," Appendix A: Employee Work-Trip Charts, County of Santa Clara Planning Department, 1958.
+[^cf4]: An urban planning study by the Palo Alto Planning Commission noted in 
+1974 that the 1970 Census reported 50,282 persons employed in Palo Alto, the 
+highest ratio of jobs to population in any Bay Area community, and that 
+between 1960 and 1970 commuting workers increased from 20,000 to 40,000 while 
+those commuting out of Palo Alto dropped slightly. Palo Alto Planning 
+Commission, *Palo Alto Comprehensive Plan Impact Report*, July 1, 1974, p. 45. 
+See also Paul Griffin and Ronald Chatham, "An Industrial Analysis: North Santa 
+Clara County," *Appendix A: Employee Work-Trip Charts*, County of Santa Clara Planning Department, 1958.
 
-[^cf5]: Daniel J. Alesch and Robert Levine, Growth in San Jose (Santa Monica: Rand, 1973), viii.
+[^cf5]: Daniel J. Alesch and Robert Levine, *Growth in San Jose* (Santa 
+Monica: Rand, 1973), viii.
 
-[^cf6]: Daniel J. Alesch, Local Government's Ability to Manage Growth in a Metropolitan Context (Santa Monica: Rand, 1974), 16.
+[^cf6]: Daniel J. Alesch, *Local Government's Ability to Manage Growth in a 
+Metropolitan Context* (Santa Monica: Rand, 1974), 16.
 
-[^cf7]: Robert Fishman, Bourgeois Utopias: The Rise and Fall of Suburbia (New York: Basic Books, 1987), 17.
+[^cf7]: @fishman1987bourgeois, 17.
 
-[^cf8]: Roy Hitchcock, "Taking the Pulse of the Prune," California Farmer, September 14, 1957.
+[^cf8]: Roy Hitchcock, "Taking the Pulse of the Prune," *California Farmer*, September 14, 1957.
 
-[^cf9]: "Santa Clara County—Scene of the Big Boom," San Francisco Chronicle, May 11, 1952.
+[^cf9]: "Santa Clara County—Scene of the Big Boom," *San Francisco Chronicle*, May 11, 1952.
 
-[^cf10]: The City of Palo Alto was already facing severe housing shortages as early as 1945. When Wallace and Mary Stegner moved to Stanford, they were unable to purchase a home in the city. Instead, the Stegner's originally tried to set up the community of Ladero with other Stanford professors before eventually settling in Los Altos Hills. Wallace Stegner, "Four Hundred Families Plan a House," The Magazine of the Year, April 1947, 63-66; Jackson J. Benson, Wallace Stegner: His Life and Times (New York: Viking, 1996), 152, 153, 195.
+[^cf10]: The City of Palo Alto was already facing severe housing shortages as 
+early as 1945. When Wallace and Mary Stegner moved to Stanford, they were 
+unable to purchase a home in the city. Instead, the Stegner's originally tried 
+to set up the community of Ladero with other Stanford professors before 
+eventually settling in Los Altos Hills. Wallace Stegner, "Four Hundred 
+Families Plan a House," *The Magazine of the Year*, April 1947, 63-66; Jackson 
+J. Benson, *Wallace Stegner: His Life and Times* (New York: Viking, 1996), 152, 
+153, 195.
 
-[^cf11]: John M. Findlay, Magic Lands: Western Cityscapes and American Culture After 1940 (University of California Press, 1993), p. 156.
+[^cf11]: @findlay1993magic, 156.
 
-[^cf12]: Karl J. Belser, "The Making of Slurban America," Cry California (Fall 1970); "Idyllic Valley Now Urban Anthill, Planner Charges," New York Times, September 3, 1970; Robert C. Fellmeth, Politics of Land: Ralph Nader's Study Group Report on Land Use in California (New York: Grossman, 1973), 352-401; Thomas Sugrue, Origins of the Urban Crisis; Matthew Klingle, Emerald City; Matthews, Valley of Dreams; Self, American Babylon; Kevin Starr, Golden Dreams: California in an Age of Abundance, 1950–1963 (New York: New York University Press, 2009); Harvey Molotch, "The City as a Growth Machine: Towards a Political Economy of Place," The American Journal of Sociology, 82 (1976): 309–332; Glenna Matthews, "The Los Angeles of the North: San Jose's Transition from Fruit Capital to High-Tech Metropolis," Journal of Urban History* 25 (May 1999): 459–476; James C. Cobb, The Selling of the South: The Southern Crusade for Industrial Development, 1936–1980 (Baton Rouge: Louisiana State University Press, 1982); Richard M. Bernard and Bradley R. Rice, eds., Sunbelt Cities: Politics and Growth Since World War II* (Austin: University of Texas Press, 1983); David C. Perry and Alfred J. Watkins, eds., The Rise of the Sunbelt Cities (Beverly Hills: Sage, 1977); Cavin,"Borders of Citizenship., 29–31.
+[^cf12]: Karl J. Belser, "The Making of Slurban America," *Cry California* (Fall 
+1970); "Idyllic Valley Now Urban Anthill, Planner Charges," *New York Times*, 
+September 3, 1970; Robert C. Fellmeth, *Politics of Land: Ralph Nader's Study 
+Group Report on Land Use in California* (New York: Grossman, 1973), 352-401; 
+Thomas Sugrue, *Origins of the Urban Crisis*; Matthew Klingle, *Emerald City*; 
+@matthews2003dreams; @self2003babylon; Kevin Starr, *Golden 
+Dreams: California in an Age of Abundance, 1950–1963* (New York: New York 
+University Press, 2009); Harvey Molotch, "The City as a Growth Machine: 
+Towards a Political Economy of Place," *The American Journal of Sociology* 82 
+(1976): 309–332; Glenna Matthews, "The Los Angeles of the North: San Jose's 
+Transition from Fruit Capital to High-Tech Metropolis," *Journal of Urban 
+History* 25 (May 1999): 459–476; James C. Cobb, *The Selling of the South: The 
+Southern Crusade for Industrial Development, 1936–1980* (Baton Rouge: Louisiana 
+State University Press, 1982); Richard M. Bernard and Bradley R. Rice, eds., 
+*Sunbelt Cities: Politics and Growth Since World War II* (Austin: University of 
+Texas Press, 1983); David C. Perry and Alfred J. Watkins, eds., *The Rise of 
+the Sunbelt Cities* (Beverly Hills: Sage, 1977); @cavin2012siliconvalley, 29–31.
 
-[^cf13]: Mike Davis, City of Quartz, 188.
+[^cf13]: @davis1992quartz, 188.
 
-[^cf14]: Peter Siskind, "Suburban Growth and Its Discontents: The Logic and Limits of Reform on the Postwar Northeast Corridor," in The New Suburban History, ed. by Kevin M. Kruse and Thomas Sugrue, (Chicago: University of Chicago Press, 2006), 163, p. 163. See also Dyble, "Revolt Against Sprawl: Transportation and the Origins of the Marin County Growth-Control Regime"; Amy Scott, "Remaking Urban in the American West: Urban Environmentalism, Lifestyle Politics, and Hip Capitalism in Boulder, Colorado," in The Political Culture of the New West, ed. by Jeff Roche, (Lawrence: University Press of Kansas, 2008), 253–255.
+[^cf14]: Peter Siskind, "Suburban Growth and Its Discontents: The Logic and 
+Limits of Reform on the Postwar Northeast Corridor," in *The New Suburban 
+History*, ed. by Kevin M. Kruse and Thomas Sugrue, (Chicago: University of 
+Chicago Press, 2006), 163. See also Dyble, "Revolt Against Sprawl: 
+Transportation and the Origins of the Marin County Growth-Control Regime"; Amy 
+Scott, "Remaking Urban in the American West: Urban Environmentalism, Lifestyle 
+Politics, and Hip Capitalism in Boulder, Colorado," in *The Political Culture 
+of the New West*, ed. by Jeff Roche, (Lawrence: University Press of Kansas, 
+2008), 253–255.
 
-[^cf15]: See, specifically, Carl Abbott, Metropolitan Frontier: Cities in the Modern American West (Tucson: University of Arizona Press, 1995); Cavin,"Borders of Citizenship.; Matthews,Silicon Valley, Women, and the California Dream; Philip Trounstine and Terry Christensen, Movers and Shakers: The Study of Community Power (New York: St. Martin's Press, 1982).
+[^cf15]: See, specifically, @abbott1995frontier; @cavin2012siliconvalley; 
+@matthews2003dreams; @trounstine1982movers.
 
-[^cf16]: Exceptions to this include Pellow and Park; Ted Smith book. These accounts have tended to focus on environmental justice and place much of their attention on occupational health, working conditions, and electronic waste.
+[^cf16]: Exceptions to this include @pellowpark2002dreams; 
+@smith2006challenging. These accounts have tended to focus on environmental 
+justice and place much of their attention on occupational health, working 
+conditions, and electronic waste.
 
-[^cf17]: Quoted in Trounstine, and Christensen, Movers and Shakers, 87; Mandich, "Growth and Development," 44-47; Arbuckle, San Jose, 44.
+[^cf17]: Quoted in @trounstine1982movers, 87; @mandich1975sanjose, 44-47; 
+Clyde Arbuckle, *San Jose*, 44.
 
-[^cf18]: Trounstine, and Christensen, Movers and Shakers, 88; Mandich, "Growth and Development," 47-49.
+[^cf18]: @trounstine1982movers, 88; @mandich1975sanjose, 47-49.
 
-[^cf19]: Trounstine, and Christensen, Movers and Shakers, 88.
+[^cf19]: @trounstine1982movers, 88.
 
-[^cf20]: Belser, Planning Progress 1956, 2; U.S. Bureau of the Census, 1960 Census, Santa Clara County, n.d., census.abag.ca.gov; U.S. Bureau of the Census, 1970 Census, Santa Clara County, n.d., census.abag.ca.gov; U.S. Bureau of the Census, 1980 Census, Santa Clara County, n.d., census.abag.ca.gov.
+[^cf20]: Belser, *Planning Progress 1956*, 2; U.S. Bureau of the Census, *1960 
+Census*, Santa Clara County, n.d., census.abag.ca.gov; U.S. Bureau of the 
+Census, *1970 Census*, Santa Clara County, n.d., census.abag.ca.gov; U.S. Bureau 
+of the Census, *1980 Census*, Santa Clara County, n.d., census.abag.ca.gov.
 
-[^cf21]: Abbott,Metropolitan Frontier, p. 4.
+[^cf21]: @abbott1995frontier, 4.
 
-[^cf22]: On the metropolitan West, see Carl Abbott, How Cities Won the West: Four Centuries of Urban Change in Western North America (Albuquerque: University of New Mexico Press, 2008); Abbott,Metropolitan Frontier; See also Athur R. Gomez, Quest for the Golden Circle: The Four Corners and the Metropolitan West, 1945-1970 (Lawrence: University Press of Kansas, 2000); Robert M. Fogelson, The Fragmented Metropolis: Los Angeles, 1850-1930 (Cambridge: Harvard University Press, 1967); William Issel and Robert Cherny, San Francisco, 1865-1932: Politics, Power, and Urban Development (Berkeley: University of California Press, 1986); Peter Wiley and Robert Gottleib, Empires in the Sun: The Rise of the New American West (New York: G. P. Putnam's Sons, 1982).
+[^cf22]: On the metropolitan West, see @abbott2008cities; @abbott1995frontier. 
+See also Athur R. Gomez, *Quest for the Golden Circle: The Four Corners and the 
+Metropolitan West, 1945-1970* (Lawrence: University Press of Kansas, 2000); 
+Robert M. Fogelson, *The Fragmented Metropolis: Los Angeles, 1850-1930* 
+(Cambridge: Harvard University Press, 1967); William Issel and Robert Cherny, 
+*San Francisco, 1865-1932: Politics, Power, and Urban Development* (Berkeley: 
+University of California Press, 1986); Peter Wiley and Robert Gottleib, 
+*Empires in the Sun: The Rise of the New American West* (New York: G. P.  
+Putnam's Sons, 1982).
 
-[^cf23]: Bernard DeVoto, "The West: A Plundered Province," Harper's Magazine 169 (August 1934), 355–364. On the West and World War II, see Gerald D. Nash, The Federal Landscape: An Economic History of the Twentieth-Century West (Tucson: University of Arizona Press, 1999). Additional work on World War II and the postwar West include Abraham Shragge, "‘A New Federal City': San Diego During World War II," Pacific Historical Review 6 (August 1994): 333–361, 333–361; James Clayton, "The Impact of the Cold War on the Economies of California and Utah," Pacific Historical Review 36, no. 4 (November 1967): 449–473, 449–473. See also Roger W. Lotchin, Fortress California, 1911–1960: From Warfare to Welfare (New York: Oxford University Press, 1992) and Roger W. Lotchin, The Bad City in the Good War: San Francisco, Los Angeles, Oakland, and San Diego (Indiana University Press, 2003).
+[^cf23]: Bernard DeVoto, "The West: A Plundered Province," *Harper's Magazine* 
+169 (August 1934), 355–364. On the West and World War II, see Gerald D. Nash, 
+*The Federal Landscape: An Economic History of the Twentieth-Century West*
+(Tucson: University of Arizona Press, 1999). Additional work on World War II 
+and the postwar West include Abraham Shragge, "‘A New Federal City': San Diego 
+During World War II," *Pacific Historical Review* 6 (August 1994): 333–361, 
+333–361; James Clayton, "The Impact of the Cold War on the Economies of 
+California and Utah," *Pacific Historical Review* 36, no. 4 (November 1967): 
+449–473, 449–473. See also Roger W. Lotchin, *Fortress California, 1911–1960: 
+From Warfare to Welfare* (New York: Oxford University Press, 1992) and Roger W. 
+Lotchin, *The Bad City in the Good War: San Francisco, Los Angeles, Oakland, 
+and San Diego* (Indiana University Press, 2003).
 
-[^cf24]: U.S. Bureau of the Census, 1960 Census, Santa Clara County, n.d., census.abag.ca.gov; U.S. Bureau of the Census, 1970 Census, Santa Clara County, n.d., census.abag.ca.gov.
+[^cf24]: U.S. Bureau of the Census, *1960 Census*, Santa Clara County, n.d., 
+census.abag.ca.gov; U.S. Bureau of the Census, *1970 Census*, Santa Clara County, n.d., census.abag.ca.gov.
 
-[^cf25]: U.S. Bureau of the Census, 1950 Census, Santa Clara County, n.d., census.abag.ca.gov; U.S. Bureau of the Census, 1960 Census, Santa Clara County, n.d., census.abag.ca.gov; U.S. Bureau of the Census, 1970 Census, Santa Clara County, n.d., census.abag.ca.gov; U.S. Bureau of the Census,1980 Census, Santa Clara County, n.d., census.abag.ca.gov.
+[^cf25]: U.S. Bureau of the Census, *1950 Census*, Santa Clara County, n.d., 
+census.abag.ca.gov; U.S. Bureau of the Census, *1960 Census*, Santa Clara 
+County, n.d., census.abag.ca.gov; U.S. Bureau of the Census, *1970 Census*, 
+Santa Clara County, n.d., census.abag.ca.gov; U.S. Bureau of the Census, *1980 
+Census*, Santa Clara County, n.d., census.abag.ca.gov.
 
-[^cf26]: Stanford Environmental Law Review, San Jose: Sprawling City: A Report on Land use Policies and Practices in San Jose, California, March 1971, 2.
+[^cf26]: Stanford Environmental Law Review, *San Jose: Sprawling City: A Report 
+on Land use Policies and Practices in San Jose*, California, March 1971, 2.
 
-[^cf27]: "County Grows Too Fast for Mapmakers," Palo Alto Times, September 12, 1952; Cavin,"Borders of Citizenship," 209; "Notes for a Gazetteer," The New Yorker, May 4, 1963, 148.
+[^cf27]: "County Grows Too Fast for Mapmakers," *Palo Alto Times*, September 
+12, 1952; @cavin2012siliconvalley, 209; "Notes for a Gazetteer," *The New 
+Yorker*, May 4, 1963, 148.
 
-[^cf28]: Trounstine, and Christensen,Movers and Shakers, 89; Arbuckle, San Jose, 44-45.
+[^cf28]: @trounstine1982movers, 89; Arbuckle, *San Jose*, 44-45.
 
-[^cf29]: "Hamann: San Jose's Growth Guru," San Jose Mercury, 1999.
+[^cf29]: "Hamann: San Jose's Growth Guru," *San Jose Mercury*, 1999.
 
-[^cf30]: Matthews,Silicon Valley, Women, and the California Dream, 96.
+[^cf30]: @matthews2003dreams, 96.
 
-[^cf31]: Hamann quoted in Trounstine, and Christensen, Movers and Shakers, 96.
+[^cf31]: Hamann quoted in @trounstine1982movers, 96.
 
-[^cf32]: "Annexations by Year", 2011, City of San Jose Planning Division; "City Size by Year", 2011, City of San Jose Planning Division; Belser, Planning Progress 1956, 47; Trounstine, and Christensen,Movers and Shakers, 93; "Correcting San Jose's Boomtime Mistake," Business Week, September 19, 1970, p. 74; Stanford Law Review, San Jose, 5.
+[^cf32]: "Annexations by Year", 2011, City of San Jose Planning Division; 
+"City Size by Year", 2011, City of San Jose Planning Division; Belser, 
+*Planning Progress 1956*, 47; @trounstine1982movers, 93; "Correcting San 
+Jose's Boomtime Mistake," *Business Week*, September 19, 
+1970, 74; Stanford Law Review, *San Jose*, 5.
 
-[^cf33]: Trounstine, and Christensen,Movers and Shakers, 93.
+[^cf33]: @trounstine1982movers, 93.
 
-[^cf34]: Stanford Environmental Law Society, San Jose: Sprawling City, 17. See also Matthews, "Los Angeles of the North," Journal of Urban History, ###.
+[^cf34]: Stanford Law Review, *San Jose*, 17. See also @matthews1999sanjose.
 
-[^cf35]: "Hamann: San Jose's Growth Guru," San Jose Mercury, 1999.
+[^cf35]: "Hamann: San Jose's Growth Guru," *San Jose Mercury*, 1999.
 
-[^cf36]: "The Ridders Buy Again," Time, August 4, 1952.
+[^cf36]: "The Ridders Buy Again," *Time*, August 4, 1952.
 
-[^cf37]: San Jose Mercury, July 1952, quoted in Trounstine, and Christensen, Movers and Shakers, 89; Abbott, Metropolitan Frontier, 40.
+[^cf37]: *San Jose Mercury*, July 1952, quoted in @trounstine1982movers, 89; 
+@abbott1995frontier, 40.
 
-[^cf38]: Quoted in Stanford Law Review, San Jose, 17.
+[^cf38]: Quoted in Stanford Law Review, *San Jose*, 17.
 
-[^cf39]: "Metropolitan San Jose—Progress Town U.S.A.," San Jose Mercury, January 15, 1956.
+[^cf39]: "Metropolitan San Jose—Progress Town U.S.A.," *San Jose Mercury*, January 15, 1956.
 
-[^cf40]: "Metropolitan San Jose—Progress Town U.S.A.," San Jose Mercury, January 15, 1956.
+[^cf40]: "Metropolitan San Jose—Progress Town U.S.A.," *San Jose Mercury*, January 15, 1956.
 
-[^cf41]: "Diversification Gives Solid Balance to Area," San Jose Mercury, January 15, 1956.
+[^cf41]: "Diversification Gives Solid Balance to Area," *San Jose Mercury*, January 15, 1956.
 
-[^cf42]: "Greenbelts Protect Irreplaceable Asset," San Jose Mercury, January 15, 1956.
+[^cf42]: "Greenbelts Protect Irreplaceable Asset," *San Jose Mercury*, January 15, 1956.
 
-[^cf43]: Dorothy Thompson, "Farm Price Program Real Mess," San Jose Mercury News, April 7, 1950; Alpers, "Valley of Heart's Delight," 37.
+[^cf43]: Dorothy Thompson, "Farm Price Program Real Mess," *San Jose Mercury*, 
+April 7, 1950; @alpert2010sjmn, 37.
 
-[^cf44]: Alpers, "Valley of Heart's Delight," 44–45.
+[^cf44]: @alpert2010sjmn, 44–45.
 
-[^cf45]: "1954—A Year of Amazing Growth in County," San Jose Mercury, January 3, 1955.
+[^cf45]: "1954---A Year of Amazing Growth in County," *San Jose Mercury*, January 3, 1955.
 
-[^cf46]: "Population Growth Created Demand for Housing; Subdivisions on Grand Scale Provided the Homes," San Jose Mercury, January 15, 1956, p. 3P; "198 Tracts Provide 11,631 Home Sites," San Jose Mercury, January 15, 1960.
+[^cf46]: "Population Growth Created Demand for Housing; Subdivisions on Grand 
+Scale Provided the Homes," *San Jose Mercury*, January 15, 1956; "198 
+Tracts Provide 11,631 Home Sites," *San Jose Mercury*, January 15, 1960.
 
-[^cf47]: "Estimate of Homeowners: 75%," San Jose Mercury, January 15, 1956, p. 3P.
+[^cf47]: "Estimate of Homeowners: 75%," *San Jose Mercury*, January 15, 1956.
 
-[^cf48]: Trounstine, Movers and Shakers, pp. 95-96.
+[^cf48]: @trounstine1982movers, 95--96.
 
-[^cf49]: "Hamann: San Jose's Growth Guru," San Jose Mercury, 1999.
+[^cf49]: "Hamann: San Jose's Growth Guru," *San Jose Mercury*, 1999.
 
-[^cf50]: Cavin,"Borders of Citizenship., 491.
+[^cf50]: @cavin2012siliconvalley, 491.
 
-[^cf51]: Consolidation and annexation are very different issues. Consolidation means the joining of two independent municipalities; annexation means the expansion of municipal boundaries to control unincorporated land.
+[^cf51]: Consolidation and annexation are very different issues. Consolidation 
+means the joining of two independent municipalities; annexation means the 
+expansion of municipal boundaries to control unincorporated land.
 
-[^cf52]: Land-locked San Jose began looking to Alviso's port as early as 1895. In the 1930s, the city was so certain it would control the port that it prematurely released a pamphlet boasting of the "San José Deep Water Port." In 1958, the city's Master Plan still mentioned their goal of a deep water port located in Alviso. See Cavin, "Borders of Citizenship," 323; "Trip on Alviso Channel," San Francisco Call, August 30, 1895; San Jose City Planning Commission, Master Plan of the City of San Jose, 50.
+[^cf52]: Land-locked San Jose began looking to Alviso's port as early as 1895. 
+In the 1930s, the city was so certain it would control the port that it 
+prematurely released a pamphlet boasting of the "San José Deep Water Port." In 
+1958, the city's Master Plan still mentioned their goal of a deep water port 
+located in Alviso. See Cavin, "Borders of Citizenship," 323; "Trip on Alviso 
+Channel," *San Francisco Call*, August 30, 1895; San Jose City Planning 
+Commission, *Master Plan of the City of San Jose*, 50.
 
-[^cf53]: "Covenant and Betrayal," San Jose Mercury, March 28, 1993.
+[^cf53]: "Covenant and Betrayal," *San Jose Mercury*, March 28, 1993.
 
-[^cf54]: While San Jose prided itself on industrial and commercial development, the city made most of its revenue through residential property taxes. These taxes, however, were unbalanced. The city desired more industrial land to expand its tax base, and locating industrial facilities northward allowed it to tap into the growing inudstries of Silicon Valley. San Jose City Planning Commission, Master Plan of the City of San Jose, 50.
+[^cf54]: While San Jose prided itself on industrial and commercial 
+development, the city made most of its revenue through residential property 
+taxes. These taxes, however, were unbalanced. The city desired more industrial 
+land to expand its tax base, and locating industrial facilities northward 
+allowed it to tap into the growing industries of Silicon Valley. San Jose City 
+Planning Commission, *Master Plan of the City of San Jose*, 50.
 
-[^cf55]: Trounstine and Christensen, Movers and Shakers, 97; Joel Garreau, Edge City: Life on the New Frontier (New York: Anchor Books, 1992), 224-227.
+[^cf55]: @trounstine1982movers, 97; Joel Garreau, 
+*Edge City: Life on the New Frontier* (New York: Anchor Books, 1992), 224-227.
 
-[^cf56]: Quoted in David N. Park and Lisa Sun-Hee Pellow, The Silicon Valley of Dreams: Environmental Injustice, Immigrant Workers, and the High-Tech Global Economy (New York: New York University Press, 2002), 70.
+[^cf56]: Quoted in @pellowpark2002dreams, 70.
 
-[^cf57]: "Covenant and Betrayal," San Jose Mercury, March 28, 1993.
+[^cf57]: "Covenant and Betrayal," *San Jose Mercury*, March 28, 1993.
 
-[^cf58]: "Rules and Regulations," Federal Register 51, no. 111 (June 10, 1986): 21054–21077; Cavin, "Borders of Citizenship," 333.
+[^cf58]: "Rules and Regulations," *Federal Register* 51, no. 111 (June 10, 1986): 21054–21077; Cavin, "Borders of Citizenship," 333.
 
-[^cf59]: "Covenant and Betrayal," San Jose Mercury; Cavin, "Borders of Citizenship," 333.
+[^cf59]: "Covenant and Betrayal," *San Jose Mercury*; Cavin, "Borders of Citizenship," 333.
 
 [^cf60]: Greater San Jose Chamber of Commerce, "Blossomtime Tours: Santa Clara Valley Blossom Routes", ca. 1953, Santa Clara City Library.
 
-[^cf61]: "Agriculture," San Jose Mercury, January 15, 1956; Alpers, "Valley of Heart's Delight," 16; Cavin, "Borders of Citizenship," 224.
+[^cf61]: "Agriculture," *San Jose Mercury*, January 15, 1956; @alpert2010sjmn, 
+16; @cavin2012siliconvalley, 224.
 
-[^cf62]: "41.44 Acres Bring Price of $287,000," San Jose Mercury, September 17, 1955; Cavin,"Borders of Citizenship., 212.
+[^cf62]: "41.44 Acres Bring Price of $287,000," *San Jose Mercury*, September 
+17, 1955; Cavin, "Borders of Citizenship," 212.
 
 [^cf63]: U.S. Census, 1940. http://www.archives.com/1940-census/joe-ruscigno-ca-34378841.
 
-[^cf64]: "Santa Clara County—Scene of the Big Boom," San Francisco Chronicle, May 11, 1952.
+[^cf64]: "Santa Clara County--Scene of the Big Boom," *San Francisco 
+Chronicle*, May 11, 1952.
 
-[^cf65]: Stanford Law Review, San Jose, 8.
+[^cf65]: Stanford Law Review, *San Jose*, 8.
 
-[^cf66]: T. H. Bowden, Report of a Survey in San Jose, California, (Washington, D.C.: Division of Research and Statistics, Home Owners' Loan Corporation, September 18, 1937), 2, quoted in Cavin, "Borders of Citizenship," 208.
+[^cf66]: T. H. Bowden, *Report of a Survey in San Jose, California*, 
+(Washington, D.C.: Division of Research and Statistics, Home Owners' Loan 
+Corporation, September 18, 1937), 2, quoted in Cavin, "Borders of 
+Citizenship," 208.
 
-[^cf67]: Jacobson, Passing Farms, Enduring Values, 231–236; Paul F. Griffin and Ronald L. Chatham, "Urban Impact on Agriculture in Santa Clara County, California," Annals of the Association of American Geographers 48, no. 3 (september 1958): 195–208, 203; "From Fertile Fields, a High-Tech Harvest," San Jose Mercury News, June 20, 2001; Roy Hitchock, "Taking the Pulse of the Prune," California Farmer, September 4, 1957; "The Indispensable Man at Harvest Time," San Jose Mercury, August 28, 1955.
+[^cf67]: Jacobson, *Passing Farms, Enduring Values*, 231–236; Paul F. Griffin 
+and Ronald L. Chatham, "Urban Impact on Agriculture in Santa Clara County, 
+California," *Annals of the Association of American Geographers* 48 
+(September 1958): 203; "From Fertile Fields, a High-Tech Harvest," 
+*San Jose Mercury News*, June 20, 2001; Roy Hitchock, "Taking the Pulse of the 
+Prune," *California Farmer*, September 4, 1957; "The Indispensable Man at 
+Harvest Time," *San Jose Mercury*, August 28, 1955.
 
-[^cf68]: "Population Growth Created Demand for Housing; Subdivisions on Grand Scale Provided the Homes," San Jose Mercury, January 15, 1956.
+[^cf68]: "Population Growth Created Demand for Housing; Subdivisions on Grand 
+Scale Provided the Homes," *San Jose Mercury*, January 15, 1956.
 
-[^cf69]: Conard, "Green Gold," 6-8.
+[^cf69]: @conard1985green, 6-8.
 
-[^cf70]: Assembly Interim Committee on Conservation, Planning and Public Works, Planning for Growth: A Report on the Status of City and County Planning in California (Sacramento: Assembly of the State of California, January 1955), 43.
+[^cf70]: Assembly Interim Committee on Conservation, *Planning and Public 
+Works, Planning for Growth: A Report on the Status of City and County Planning 
+in California* (Sacramento: Assembly of the State of California, January 1955), 
+43.
 
 [^cf71]: Santa Clara County Planning Department, "Green Gold: A Proposal for a Pilot Experiment in the Conservation of Agricultural Open Space," (San Jose, 1958), n.p., quoted in Conard, "Green Gold," 12.
 
-[^cf72]: Although the county and state level farm bureaus supported the local plan, Rebecca Conard argues that the planner-farmer coalition at the local level collapsed once land use issues reached the state level. Conard, "Green Gold," 14.
+[^cf72]: Although the county and state level farm bureaus supported the local 
+plan, Rebecca Conard argues that the planner-farmer coalition at the local 
+level collapsed once land use issues reached the state level. Conard, "Green 
+Gold," 14.
 
-[^cf73]: Robert C. Fellmeth, Politics of Land: Ralph Nader's Study Group Report on Land Use in California (Grossman Publishers, 1973), 32–34.
+[^cf73]: Robert C. Fellmeth, *Politics of Land: Ralph Nader's Study Group 
+Report on Land Use in California* (Grossman Publishers, 1973), 32–34.
 
-[^cf74]: Quoted in Scott, Bay Area, 273.
+[^cf74]: Quoted in Scott, *Bay Area*, 273.
 
-[^cf75]: Fellmeth, Politics of Land, 35.
+[^cf75]: Fellmeth, *Politics of Land*, 35.
 
-[^cf76]: Rebecca Conard, "Green Gold: 1950s Greenbelt Planning in Santa Clara County, California," Environmental Review: ER 9, no. 1 (April 1985): 5–18, 6.
+[^cf76]: @conard1985green, 5–18, 6.
 
-[^cf77]: Hal Rothman, Saving the Planet: The American Response to the Environment in the Twentieth Century (Chicago: Ivan R. Dee, 2000), 95.
+[^cf77]: @rothman2000saving, 95.
 
-[^cf78]: Jon Teaford, Post-Suburbia: Government and Politics in Edge Cities (Baltimore: John Hopkins University Press, 1997), 7.
+[^cf78]: Jon Teaford, *Post-Suburbia: Government and Politics in Edge Cities* (Baltimore: John Hopkins University Press, 1997), 7.
 
-[^cf79]: Stanford Law Review, San Jose, 23-24.
+[^cf79]: Stanford Law Review, *San Jose*, 23-24.
 
-[^cf80]: On the issues of social mobility, racialized suburban space, and taxes, see Robert O. Self, American Babylon: Race and the Struggle for Postwar Oakland (Princeton: Princeton University Press, 2003), 96–100; Ronald Tobey, Charles Wetherell, and Jay Bringham, "Moving Out and Settling In: Residential Mobility, Home Owning, and the Public Enframing of Citizenship, 1921-1950," American Historical Review 95 (December 1990); Nicolaides, My Blue Heaven, 185-237.
+[^cf80]: On the issues of social mobility, racialized suburban space, and 
+taxes, see @self2003babylon, 96–100; Ronald Tobey, 
+Charles Wetherell, and Jay Bringham, "Moving Out and Settling In: Residential 
+Mobility, Home Owning, and the Public Enframing of Citizenship, 1921-1950," 
+*American Historical Review* 95 (December 1990); Nicolaides, *My Blue Heaven*, 
+185-237.
 
-[^cf81]: Trounstine, and Christensen,Movers and Shakers, 95.
+[^cf81]: @trounstine1982movers, 95.
 
-[^cf82]: "Proper Storm Drainage Possible, Says Planner," San Jose Mercury, January 5, 1956.
+[^cf82]: "Proper Storm Drainage Possible, Says Planner," *San Jose Mercury*, January 5, 1956.
 
-[^cf83]: Leonard Downie Jr., "A Misplanned Suburb," Washington Post, December 30, 1973, p. C5.
+[^cf83]: Leonard Downie Jr., "A Misplanned Suburb," *Washington Post*, December 30, 1973.
 
 [^cf84]: Bill Zanker to Don Edwards, February 11, 1966, Box 72, Folder 3, Don Edwards Congressional Papers, MSS-1995-001, San Jose State University Library Special Collections and Archives.
 
-[^cf85]: Downie, "A Misplanned Suburb," Washington Post, December 30, 1973, p. C5. According to Downie, such sales were made primarily to lower-income families and allowed developers "profit risk-free." The homes were guaranteed by FHA loans, which were often leased to black and Hispanic homebuyers.
+[^cf85]: Downie, "A Misplanned Suburb," *Washington Post*, December 30, 1973. 
+According to Downie, such sales were made primarily to lower-income families 
+and allowed developers "profit risk-free." The homes were guaranteed by FHA 
+loans, which were often leased to black and Hispanic homebuyers.
 
-[^cf86]: Scott, San Francisco Bay Area, 229-230.
+[^cf86]: Scott, *San Francisco Bay Area*, 229-230.
 
-[^cf87]: Joseph F. Poland, "Case History No. 9.14. Santa Clara Valley, California, USA," in Guidebook to Studies of Land Subsidence Due to Ground-water Withdrawal, ed. Joseph F. Poland (Paris: UNESCO, 1984), 281, 283; Andrew Trice, Review of Economic Aspects of the Corps of Engineers' Draft Report on Coyote Creek, March 22, 1971, Box 84, Folder 140, Don Edwards Congressional Papers, MSS-1995-01, San Jose State University Library Special Collections and Archives; "Proper Storm Drainage Possible, Says Planner," San Jose Mercury, January 5, 1956; "Orchardist Orders Dike Builders Off His Land," San Jose Mercury, January 5, 1956; "A ‘Walled' City of Alviso May Be Answer to Problem," San Jose Mercury, January 6, 1956, p. 4.
+[^cf87]: Joseph F. Poland, "Case History No. 9.14. Santa Clara Valley, 
+California, USA," in *Guidebook to Studies of Land Subsidence Due to 
+Ground-water Withdrawal*, ed. Joseph F. Poland (Paris: UNESCO, 1984), 281, 283; 
+Andrew Trice, *Review of Economic Aspects of the Corps of Engineers' Draft 
+Report on Coyote Creek*, March 22, 1971, Box 84, Folder 140, Don Edwards 
+Congressional Papers, MSS-1995-01, San Jose State University Library Special 
+Collections and Archives; "Proper Storm Drainage Possible, Says Planner," *San 
+Jose Mercury*, January 5, 1956; "Orchardist Orders Dike Builders Off His Land," 
+*San Jose Mercury*, January 5, 1956; "A ‘Walled' City of Alviso May Be Answer to 
+Problem," *San Jose Mercury*, January 6, 1956, p. 4.
 
-[^cf88]: J. Robert Roll, "Effect of Subsidence on Well Fields," Journal (American Water Works Association) 59, no. 1 (January 1, 1967): 80–88.
+[^cf88]: J. Robert Roll, "Effect of Subsidence on Well Fields," *American Water Works Association* 59 (January 1967): 80–88.
 
-[^cf89]: Scott, San Francisco Bay Area, 230.
+[^cf89]: Scott, *San Francisco Bay Area*, 230.
 
-[^cf90]: Belser, Planning Progress 1956, 12. See also Belser's remarks in Beauty for America: Proceedings of the White House Conference on Natural Beauty (Washington, D.C.: Government Printing Office, 1965), 190-295.
+[^cf90]: Belser, *Planning Progress 1956*, 12. See also Belser's remarks in 
+*Beauty for America: Proceedings of the White House Conference on Natural 
+Beauty* (Washington, D.C.: Government Printing Office, 1965), 190-295.
 
-[^cf91]: Downie, "A Misplanned Suburb," Washington Post, December 30, 1973. Quotes from Cavin,"Borders of Citizenship., 497.
+[^cf91]: Downie, "A Misplanned Suburb," *Washington Post*, December 30, 1973. 
+Quotes from Cavin, "Borders of Citizenship," 497.
