@@ -19,7 +19,7 @@ author:
 > --- Leo Marx[^cf2]
 
 Wallace Stegner no longer recognized the Santa Clara Valley in 1965. From his
-home in the foothills of the Santa Cruz Mountains that creeps along the
+home in the foothills of the Santa Cruz Mountains that creep along the
 western edge of the valley, the Stanford creative writing professor lamented
 the urban sprawl that had overtaken the former farmland in the flatlands. "The
 orchards that used to be a spring garden of bloom down the long trough of the
@@ -281,24 +281,6 @@ Landscapes are both physically and mentally constructed according to our
 preferences and experiences. In turn, these expectations shape and reshape the
 environment.[^cf22]
 
-The political and cultural story intertwines with a spatial story. The Santa
-Clara Valley was the site of one of the nation's greatest modernizations of
-urban space. More than 138,000 acres of farmland were paved over, built upon,
-unearthed, or buried between 1940 and 1960, all in an effort to support an
-expanding high tech industry and its rapidly growing workforce.[^cf23]
-Space forms a critical understanding the history of Santa Clara Valley. Within
-space, as Robert Self writes in his analysis of Oakland, people "competed to
-put those resources to use to create particular and concrete places."[^cf24]
-Space is not just an abstract consideration of a place, but rather is
-historically concrete---the growth of suburban factories, residential and
-commercial growth, and environmental politics all operated in space and place.
-Historical actors and their spaces they operate in are inseparable. The
-experiences of people, communities, and institutions take place in the very
-fabric of life and space. The calls for urban reform, environmental concerns,
-and critiques against industry did not take place abstractly; political actors
-made specific demands about specific places. Space does not tell the entire
-story, but overlooking space is to miss a significant part.[^cf25]
-
 The grassroots approach of this work reveals that environmentalists often
 cared less about political affiliations of Republican and Democrat but more
 often cared about their identities as homeowners and taxpayers. Environmental
@@ -389,7 +371,7 @@ Chickadees, and hundreds of additional bird species thrived in the Valley's
 skies.
 
 The agricultural landscape John Muir observed at the turn of the century was
-just beginning to shift under the influence of humans.[^cf33] The exceptional
+just beginning to shift under the influence of American settlement.[^cf33] The exceptional
 growing climate, fertile soil, and plentiful water from artesian wells allowed
 farmers to transform the landscape into the fruit capital it would be known as
 worldwide.[^cf34] The cultivation and processing of apricots, prunes, pears,
@@ -609,6 +591,21 @@ talk about "life hacks" or are pursuing ways to "disrupt higher education." By
 asking new questions of the Valley's history, this work's digital component
 seeks to probe the public to think more about Silicon Valley and its attendant
 costs.
+
+The history is also about the history that Silicon Valley has inherited. The 
+Valley often thinks of itself as outside of history---always looking to the 
+future, at the forefront of change and progress. But the organization and 
+imagination of Silicon Valley---its landscape, its space, its 
+relationships---are inseparable from its past. People here live with its 
+history daily. We must recognize how desires for beauty, nature, and pleasure 
+shape our spatial history, landscape, and nostalgia are embodied in cities.  
+Landscapes, the novelist Italo Calvino reminds us in *Invisible Cities*, are 
+"like lines on a hand, wirtten in the corners of the streets and the gratings 
+of the buildings."^[Italo Calvino, *Invisible Cities*, trans. (New York: 
+Harcourt Brace and Company, 1974), 11.] Cities and the nature that surrounds 
+them, that is embedded in them, are reflections of our desires. To build 
+better cities and protect nature reflect the ways we make landscapes match our 
+aspirations. 
 
 [^cf1]: Yi--Fu Tuan, *Space and Place: The Perspective of Experience* (Minneapolis: University of Minnesota Press, 1997): 200--201.
 

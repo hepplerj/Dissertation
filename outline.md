@@ -41,7 +41,13 @@ charts the professionalization of environmental activism in northern
 California through the establishment of organizations such as California 
 Tomorrow, People for Open Space, and the Committee for Green Foothills. 
 
-### Chapter 5: Something in the Soil: Toxics, Health, and the Collapse of Clean Industry
+### Chapter 5: Murky Waters: Technology, Ecology, and Restoration
+
+
+### Chapter 6: Consuming Resources: Energy, Ecology, and the Landscape of Change
+
+
+### Chapter 7: Something in the Soil: Toxics, Health, and the Collapse of Clean Industry
 
 The final chapter ends in the 1980s and 1990s, focusing on the contamination 
 of soil and water by industrial solvents. For the first time, Valley residents 

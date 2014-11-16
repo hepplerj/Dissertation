@@ -256,17 +256,16 @@ the 1940s, recalled approvingly. "That was everybody's song. And Dutch sang it
 the loudest."[^cf35]
 
 <!--
------------------------------------------
-Year Annexed        Number of Annexations
-------------        ---------------------
-1959                125
-1963                125
-1980                113
-1960                111
-1968                110
-1978                102
------------------------------------------
-Top six years by number of annexations. Data courtesy the City of San Jose.
+Year Annexed   Number of Annexations
+------------   ---------------------
+1959           125
+1963           125
+1980           113
+1960           111
+1968           110
+1978           102
+
+Table: Top six years by number of annexations. Data courtesy the City of San Jose.
 -->
 
 San Jose's pro-growth contingent received enthusiastic support from the city's 
@@ -533,8 +532,23 @@ agricultural land by almost sixty percent, from 40,000 acres in 1958 to 70,000
 acres in 1960.[^cf73]
 
 ![Simplified outline of farmland zoning (light gray) separating urban areas 
-(dark gray). Reproduced from Green Gold (Santa Clara County Planning 
+(dark gray). Reproduced from *Green Gold* (Santa Clara County Planning 
 Department, November 1958).](figures/Image5.png)
+
+Many of those supporting the zoning of agricultural preserves did not think of 
+themselves as environmentalists, but, as Adam Rome has observed, they were 
+"grassroots activists and government officials [that] saw the difficulty of 
+acquiring open space as part of a larger problem---uncontrolled 
+growth."^[@rome2001bulldozer, 135. Rome suggests that open space regulations 
+became a phenomenon in the 1970s, but Santa Clara County was ahead of the 
+trend by applying land-use controls to agricultural land. The same is true for 
+other parts of California. See, for example, @brosnan2010napa.] 
+Most farmers aimed to protect their way of life, seeing sprawl as a threat to 
+their lands and living. Yet others also saw themselves as protectors of the 
+land, notably Belser and others in county government. The coalition worked to 
+protect agricultural land and hoped to maintain alternating patches of 
+agricultural land and urban areas, but their efforts were overwhelmed by the 
+growing cities.
 
 The San Jose Chamber of Commerce noted those in the community who feared the 
 encroachment of industrial development. In an industrial survey, the Chamber 
@@ -568,7 +582,7 @@ needed acreages to produce crops, the argument went, necessarily causing
 pockets of land to separate urban areas. But the rural landscape would be 
 valued for another reason: its suburban aesthetics.
 
-![The Nation, March 8, 1965.](figures/Image7.png)
+![*The Nation*, March 8, 1965.](figures/Image7.png)
 
 ### The Suburban Landscape
 
@@ -649,8 +663,8 @@ by dollar amounts. Suburbs were not just efforts towards organizing space;
 their very proximity to natural surroundings led suburbanites to define their 
 space in aesthetic terms and take measures to protect their idea of "nature."
  
-![Subdivisions among the orchards. Planning for Growth: A Report on the Status 
-of City and County Planning in California (Sacramento: Assembly of the State 
+![Subdivisions among the orchards. *Planning for Growth: A Report on the Status 
+of City and County Planning in California* (Sacramento: Assembly of the State 
 of California, 1955), 42.](figures/Image6.png)
 
 The very location of annexations and subdivisions ignored potential 
@@ -823,13 +837,14 @@ Politics, and Hip Capitalism in Boulder, Colorado," in *The Political Culture
 of the New West*, ed. by Jeff Roche, (Lawrence: University Press of Kansas, 
 2008), 253–255.
 
-[^cf15]: See, specifically, @abbott1995frontier; @cavin2012siliconvalley; 
+[^cf15]: See, specifically, @abbott1995frontier; Cavin, "Borders of 
+Citizenship"; 
 @matthews2003dreams; @trounstine1982movers.
 
-[^cf16]: Exceptions to this include @pellowpark2002dreams; 
+[^cf16]: Exceptions to this include @pellowpark2002dreams and 
 @smith2006challenging. These accounts have tended to focus on environmental 
 justice and place much of their attention on occupational health, working 
-conditions, and electronic waste.
+conditions, immigrant labor, and electronic waste.
 
 [^cf17]: Quoted in @trounstine1982movers, 87; @mandich1975sanjose, 44-47; 
 Clyde Arbuckle, *San Jose*, 44.
@@ -881,7 +896,7 @@ Census*, Santa Clara County, n.d., census.abag.ca.gov.
 on Land use Policies and Practices in San Jose*, California, March 1971, 2.
 
 [^cf27]: "County Grows Too Fast for Mapmakers," *Palo Alto Times*, September 
-12, 1952; @cavin2012siliconvalley, 209; "Notes for a Gazetteer," *The New 
+12, 1952; Cavin, "Borders of Citizenship," 209; "Notes for a Gazetteer," *The New 
 Yorker*, May 4, 1963, 148.
 
 [^cf28]: @trounstine1982movers, 89; Arbuckle, *San Jose*, 44-45.
@@ -936,7 +951,7 @@ Tracts Provide 11,631 Home Sites," *San Jose Mercury*, January 15, 1960.
 
 [^cf49]: "Hamann: San Jose's Growth Guru," *San Jose Mercury*, 1999.
 
-[^cf50]: @cavin2012siliconvalley, 491.
+[^cf50]: Cavin, "Borders of Citizenship," 491.
 
 [^cf51]: Consolidation and annexation are very different issues. Consolidation 
 means the joining of two independent municipalities; annexation means the 
@@ -973,7 +988,7 @@ Planning Commission, *Master Plan of the City of San Jose*, 50.
 [^cf60]: Greater San Jose Chamber of Commerce, "Blossomtime Tours: Santa Clara Valley Blossom Routes", ca. 1953, Santa Clara City Library.
 
 [^cf61]: "Agriculture," *San Jose Mercury*, January 15, 1956; @alpert2010sjmn, 
-16; @cavin2012siliconvalley, 224.
+16; Cavin, "Borders of Citizenship," 224.
 
 [^cf62]: "41.44 Acres Bring Price of $287,000," *San Jose Mercury*, September 
 17, 1955; Cavin, "Borders of Citizenship," 212.

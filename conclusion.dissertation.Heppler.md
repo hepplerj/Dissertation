@@ -1,9 +1,7 @@
 ---
-title: Conclusion
+title: The Geography of Nowhere
 author:
-  - name: Jason A. Heppler
-  affiliation: University of Nebraska-Lincoln
-  email: jason.heppler@gmail.com
+- Jason A. Heppler
 ...
 
 > If America is the land were the world goes in search of miracles and redemption, California is the land where Americans go. It is America’s America, the symbol of raw hope and brave (even foolish) invention, where ancient traditions and inhibitions are abandoned at the border. Its peculiar culture squirts out — on film and menus and pages and television beams — the trends and tastes that sweep the rest of the country.
@@ -12,7 +10,7 @@ author:
 
 > O God, O California! There was probably no place in the world that had better
 > scenery, and there was no sadder place in the world either. Here were all the
-> disconnected people--farmers from Iowa who had lived in mud and now wanted
+> disconnected people---farmers from Iowa who had lived in mud and now wanted
 > only to doze in the sunshine; young women from Brooklyn with warts, whose
 > politics were purely revenge; the children of swimming-pools in La Jolla and
 > tennis courts in Connecticut. At night across the Bay the lights of Fairyland

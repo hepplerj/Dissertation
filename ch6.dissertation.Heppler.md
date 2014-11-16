@@ -1,8 +1,7 @@
 ---
 title: "Consuming Resources: Water, Energy, and Postindustrialism"
 author:
-  - name: Jason A. Heppler
-    email: jason.heppler@gmail.com
+- Jason A. Heppler
 ...
 
 <!-- Potential idea: how do these industries draw upon water and electrical 
