@@ -24,6 +24,10 @@ author:
 >
 > ---*Karl J. Belser*[^cf3]
 
+JH: ***Make more clear that this is about a political transformation that 
+focused people's attention on the environment as discontent with 
+suburban growth grew.***
+
 In the decades after 1945, every municipality in the Bay Area participated in 
 the process of metropolitan development and, by extension, the erosion of 
 agricultural land. San Jose, the largest city in the Valley, was composed 
@@ -89,7 +93,7 @@ Jose's widespread sprawl resulted not just from city leader's desire to
 control a wide swath of land, but sprawl was motivated by a suburban ideology 
 that prized living near nature. As developers constructed subdivisions beyond 
 city borders, the city expanded to add to the city's population and extend 
-city services to new areas. While the city benefitted from these expansions in 
+city services to new areas. While the city benefited from these expansions in 
 the form of property taxes and payments to city utilities, suburbanites' 
 environmental sensibilities in new subdivisions also helped drive the 
 expansion of the city. Historians have only begun to confront the history of 
