@@ -128,20 +128,22 @@ that could handle massive volumes of detritus. But now cities of the Bay
 Area were on the front lines of widespread contamination by high tech
 toxics, a situation the region was unaware and unprepared to confront.
 
-The proximity of pollutants near suburban areas along the Peninsula
-resulted as a consequence of the Bay Area's lack of residential and
-industrial urban planning. Because cities thought little about the
-layout of their environs, industrial facilities and warehouses
-frequently turned up alongside residential developments rather than
-isolated from the places where people lived. The natural boundaries of
-the Peninsula---the Santa Cruz Mountains to the west and the San
-Francisco Bay to the east---also kept suburban areas and industry in
-close proximity to one another. The simply lacked the space to expand.
-The emerging crisis broadened the coalescing environmental movement,
-even among those who never considered themselves environmentalists. The
-daily lived experiences of the Bay Area's suburbanites expected clean
-tap water and believed that the industries near their communities were
+The proximity of pollutants near suburban areas along the Peninsula 
+resulted as a consequence of the Bay Area's lack of residential and 
+industrial urban planning. Because Bay Area cities thought little about 
+the layout of their environs, industrial facilities and warehouses 
+frequently turned up alongside residential developments rather than 
+isolated from the places where people lived. The natural boundaries of 
+the Peninsula---the Santa Cruz Mountains to the west and the San 
+Francisco Bay to the east---also kept suburban areas and industry in 
+close proximity to one another. The simply lacked the space to expand.  
+The emerging crisis broadened the coalescing environmental movement, 
+even among those who never considered themselves environmentalists. The 
+daily lived experiences of the Bay Area's suburbanites expected clean 
+tap water and believed that the industries near their communities were 
 clean and green. The toxic landscape shattered that perception.
+
+<!--
 
 ### Murky Waters
 
@@ -172,8 +174,49 @@ floodwaters away from cities. But the old river had changed.
 California enacted state laws in the 1960s governing the regulation of
 water.
 
+-->
+
 ### "Fairchild or My Child?"
 
+The Los Paseos neighborhood sparked what one newspaper called the "birth 
+of an eco-tragedy."^["Birth of an eco-tragedy" *Los Angeles Herald 
+Examiner*, February 10, 1982.] Along with the Fairchild leak, the nearby 
+International Business Machines facility announced the discovery of a 
+TCA leak shortly after the Fairchild leak was revealed. Studies would 
+later find that the IBM leak was among the worst in the South Bay, 
+contaminating twenty-five public and private wells.^[Peter Murphy, 
+"Great Oaks Water Distribution Study," 1988, 1, Folder 1, Box 11, SVTC 
+records, SJSU; Ted Smith oral history, Berkeley, 19; "Responsible action 
+needed in IBM's toxic waste cleanup," *San Jose Business Journal*, April 
+7, 1986, {FILL} SVTC records, SJSU.] To Lorraine Ross and her neighbors, 
+the presence of chemicals in the suburban neighborhood was as much a 
+spatial experience as a personal one. "It takes a lot of nerve for them 
+to invade a pre-existing residential neighborhood, pour dangerous 
+chemicals into a leaking tank, poison the surrounding environment and 
+hide the fact from the people affected by their negligence."^[Quoted in 
+@pellowpark2002dreams, 74.] Ross helped galvanize the community into 
+political action, first surveying her neighbors that turned up a list of 
+seventy-two people who reported birth defects and health 
+problems.^[Lorraine Ross, "State Study Confirms Birth Defect Cluster," 
+*Silicon Valley Toxics News* (April 1985), 3; "San Jose Hearing Points 
+Up Toxic Risks at Area Plants," *California AFL-CIO News*, February 11, 
+1983.] The problem seemed so widespread to not be a coincidence.
+
+Lorraine Ross had relocated her family to Gilroy by 1983, but she 
+continued to be a vocal presence in the Bay Area's anti-toxics 
+campaign.^["Get tough now to avoid spills," *Gilroy Dispatch*, August 1, 
+1983, Folder 5, Box 10, SVTC records, SJSU.] At her new home in Gilroy, 
+the presence of industry near suburban areas continued to be a spatial 
+experience and informed the political critique of toxics. The disk 
+manufacturer Dysan planned a facility at the Santa Teresa Technology 
+Park in Gilroy. Although not opposed to its construction, Ross warned 
+her new city that they could not "accept the dictates of Realtors and 
+developers when it comes to determining the health of our families. You 
+all have the right to talk loudly. It's important that Gilroy plan ahead 
+for industry."^["Get tough now to avoid spills," *Gilroy Dispatch*, 
+August 1, 1983, Folder 5, Box 10, {FILL} SVTC records, SJSU.]
+
+<!--
 In 1982, Lorraine Ross found herself becoming a community activist. She 
 began connecting with others in Los Paseos to determine if health 
 problems were a widespread problem. Surveying others in her 
@@ -193,28 +236,21 @@ IBM's toxic waste cleanup," *San Jose Business Journal*, April 7, 1986,
 {FILL} SVTC records, SJSU.] The widespread presence of leaks in San Jose 
 led to what one newspaper called the "birth of an eco-tragedy."^["Birth 
 of an eco-tragedy" *Los Angeles Herald Examiner*, February 10, 1982.] 
+-->
 
-To Ross and her neighbors, the contamination of the land and water was 
-as much a spatial experience as a personal experience.  Ross and her 
-neighbors were outraged. "It takes a lot of nerve for them to invade a 
-pre-existing residential neighborhood, pour dangerous chemicals into a 
-leaking tank, poison the surrounding environment and hide the fact from 
-the people affected by their negligence."^[Quoted in 
-@pellowpark2002dreams, 74.] Lorraine Ross had relocated her family to 
-Gilroy by 1983, but she continued to be a vocal presence in the Bay 
-Area's anti-toxics campaign.^["Get tough now to avoid spills," *Gilroy 
-Dispatch*, August 1, 1983, Folder 5, Box 10, SVTC records, SJSU.] 
-
-The link between TCA and other industrial solvents used by high tech
-industries and potential health problems were unknown in 1982, and until 
-the late 1970s hazardous wastes were treated like any other waste and 
-disposed in landfills or surface waters.^[@gottleib2005forcing, 243.] The
-debate over contamination and health originally coalesced around the
-lack of scientific evidence to support the neighborhood's claim. 
-Fairchild maintained that the length of exposure to the chemicals were 
-not long enough to cause health effects. Basing their claim on the state 
-standard for TCA exposure, they argued that those standards were set 
-with long-term exposure as the baseline. Fairchild also challenged the 
+The core debate emerging in the anti-toxics campaign was whether 
+scientific evidence existed to support the claim that exposure to 
+industrial solvents caused the birth defects. The link between TCA and 
+other industrial solvents used by high tech industries and potential 
+health problems were unknown in 1982, and even until the late 1970s hazardous 
+wastes were treated like any other waste and disposed in landfills or 
+surface waters.^[@gottleib2005forcing, 243.] The debate over 
+contamination and health originally coalesced around the lack of 
+scientific evidence to support the neighborhood's claim. Fairchild 
+maintained that the length of exposure to the chemicals were not long 
+enough to cause health effects. Basing their claim on the state standard 
+for TCA exposure, they argued that those standards were set with 
+long-term exposure as the baseline. Fairchild also challenged the 
 timeline of the chemical leak and its link to birth defects. The company 
 estimated that the leaks began 18 months before they were discovered and 
 took up to sixteen months to travel the 2,000 feet to the Great Oaks 
@@ -223,6 +259,44 @@ could not possibly be connected if their leak started relatively
 recently. And, they implicitly argued, neither were the recent 
 ones.^["Birth of an eco-tragedy," *Los Angeles Herald Examiner*, 
 February 10, 1982.]
+
+Under pressure by neighborhood activists, the county agreed to study the
+potential for a link between groundwater contamination and health
+problems that plagued Los Paseos in 1982. They formed the Santa Clara 
+County Health Advisory Committee on Environmental Teratology and agreed 
+in the spring of 1982 that enough evidence existed to start a formal 
+investigation. Tapwater and wellwater testing occurred throughout the 
+Peninsula. In the South Bay near Los Paseos, tapwater sampling revealed 
+trace contaminants.^["Environmental News Fact Sheet: Status Report, 
+South Bay Tapwater Sampling Program," November 5, 1984, Folder 14, Box 
+12, {FILL} SVTC records, SJSU.]
+
+They released the results in 1985, reaching two key 
+conclusions: the neighborhood of Los Paseos experienced higher rates of 
+miscarriages and a threefold increase in total birth defects compared to 
+nearby communities that had no known water contamination, and the 
+community experienced a two-and-a-half times higher rate of major heart 
+defects compared to the rest of the county.^["State Health Department 
+Reeleases Fairchild Studies," Department of Health Services *News News*, 
+January 16, 1985, 1, Folder 8, Box 12, SVTC records, SJSU.] The study, 
+however, made no causal link between the contamination and the high 
+presence of birth defects, citing the lack of water monitoring prior to 
+1981 that could provide potential data on a link between health effects 
+and contaminated water. But to the anti-toxic activists, the study 
+confirmed their view that contaminated water had adverse effects on the 
+community.^[Lorraine Ross, "State Study Confirms Birth Defect Cluster," 
+*Silicon Valley Toxics News* (April 1985): 3, Folder 3, Box 18, SVTC 
+records, SJSU.]
+
+In 1983 several Los Paseos families filed suit against Fairchild 
+Semiconductor, IBM, and the Great Oaks Water Company. The case 
+eventually settled in 1986 for an undisclosed amount of money for the 
+530 residents involved with the suit. The companies paid a 
+multimillion-dollar settlement, an amount, resident's attorney John 
+Tyndall explained, that was "far more of a significant settlement in 
+terms of what the people are actually getting" than the Love Canal 
+lawsuit in New York.^["Pact reached in tainted-water dispute," *San Jose 
+Mercury News*, July 4, 1986, Folder 8, Box 12, SVTC records, SJSU.]
 
 Industry faced another potent challenge to their image: the neighborhood 
 of Love Canal in New York. Like the toxic spill in San Jose, the 
@@ -254,43 +328,11 @@ children tossed chunks of phosphorus against the ground causing white
 sparks, and the odor was ever-persistent.^[@rothman2000saving, 192.] 
 In Santa Clara County, there were no visible signs of the toxic landscape.
 
------
-
-Under pressure by neighborhood activists, the county agreed to study the
-potential for a link between groundwater contamination and health
-problems that plagued Los Paseos in 1982. They formed the Santa Clara 
-County Health Advisory Committee on Environmental Teratology and agreed 
-in the spring of 1982 that enough evidence existed to start a formal 
-investigation. They released the results in 1985, reaching two key 
-conclusions: the neighborhood of Los Paseos experienced higher rates of 
-miscarriages and a threefold increase in total birth defects compared to 
-nearby communities that had no known water contamination, and the 
-community experienced a two-and-a-half times higher rate of major heart 
-defects compared to the rest of the county.^["State Health Department 
-Reeleases Fairchild Studies," Department of Health Services *News News*, 
-January 16, 1985, 1, Folder 8, Box 12, SVTC records, SJSU.] The study, 
-however, made no causal link between the contamination and the high 
-presence of birth defects, citing the lack of water monitoring prior to 
-1981 that could provide potential data on a link between health effects 
-and contaminated water. But to the anti-toxic activists, the study 
-confirmed their view that contaminated water had adverse effects on the 
-community.^[Lorraine Ross, "State Study Confirms Birth Defect Cluster," 
-*Silicon Valley Toxics News* (April 1985): 3, Folder 3, Box 18, SVTC 
-records, SJSU.]
-
-In 1983 several Los Paseos families filed suit against Fairchild 
-Semiconductor, IBM, and the Great Oaks Water Company. The case 
-eventually settled in 1986 for an undisclosed amount of money for the 
-530 residents involved with the suit. The companies paid a 
-multimillion-dollar settlement, an amount, resident's attorney John 
-Tyndall explained, that was "far more of a significant settlement in 
-terms of what the people are actually getting" than the Love Canal 
-lawsuit in New York.^["Pact reached in tainted-water dispute," *San Jose 
-Mercury News*, July 4, 1986, Folder 8, Box 12, SVTC records, SJSU.]
-
+<!--
 The State Regional Water Quality Control Board decided not to indict IBM
 in its contamination, a move that outraged anti-toxics
 environmentalists.
+-->
 
 ![*Silicon Valley Toxics News*, (April 1985) vol. 1, no. 1, p.
 3.](figures/cartoon_birth_defects.png)
