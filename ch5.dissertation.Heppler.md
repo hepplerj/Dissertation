@@ -327,7 +327,7 @@ the level and length of exposure was too short, they instead insisted
 that the only explanation lay with the chemical leak. Families in Los
 Paseos, Lorraine Ross insisted, felt "like human guinea pigs whose
 health is being tested by the 'high-tech' companies doing business in
-our valley."^[“We Demand Safe Water,” SVTC mailer, n.d., Folder 4, Box
+our valley."^["We Demand Safe Water," SVTC mailer, n.d., Folder 4, Box
 10, SVTC records, SJSU.]
 
 Under pressure by neighborhood activists, media interest, and political
@@ -345,50 +345,49 @@ the South Bay near Los Paseos, water sampling revealed trace levels of
 TCA and DCE, but the amounts were below the state action level to shut
 down the wells.^["Environmental News Fact Sheet: Status Report, South
 Bay Tapwater Sampling Program," November 5, 1984, Folder 14, Box 12,
-{FILL} SVTC records, SJSU.]
+{FILL} SVTC records, SJSU; "Proposed South Bay Sampling Event, October
+9," Folder 14, Box 12, {FILL} SVTC records, SJSU.]
 
-In addition to the birth certificate survey, county health officials formed the
-Santa Clara County Health Advisory Committee on Environmental Teratology
-and agreed in the spring of 1982 that enough evidence existed for a
-formal investigation. The county turned to epidemiology to study the
-spatial pattern of disease in San Jose. Epidemiology's disciplinary
+In addition to the birth certificate survey, county health officials
+formed the Santa Clara County Health Advisory Committee on Environmental
+Teratology and agreed in the spring of 1982 that enough evidence existed
+for a formal investigation. The county turned to epidemiology to study
+the spatial pattern of disease in San Jose. Epidemiology's disciplinary
 history roots itself in studies of space, to understand whether diseases
 had a spatial component that could explain health issues in landscapes.
 The goal of the county's study sought to determine if lifestyle or
 environmental features affected the health of the Los Paseos community
 as compared to demographically-similar communities without any known
-contamination.
+contamination. The study was released in 1985 with no conclusive
+evidence to support the claims of neighborhood activists. The study
+reached two key conclusions: the neighborhood of Los Paseos experienced
+higher rates of miscarriages and a threefold increase in total birth
+defects compared to nearby communities that had no known water
+contamination, and the community experienced a two-and-a-half times
+higher rate of major heart defects compared to the rest of the county.
+The study, however, made no causal link between the contamination and
+the high presence of birth defects, citing the lack of water monitoring
+prior to 1981 that could provide potential data on a link between health
+effects and contaminated water.^["State Health Department Releases
+Fairchild Studies," Department of Health Services *News News*, January
+16, 1985, 1, Folder 8, Box 12, SVTC records, SJSU.]
 
-The study was released in 1985 with no conclusive evidence to support 
-the claims of neighborhood activists. The study reached two key 
-conclusions: the neighborhood of Los Paseos experienced higher rates of 
-miscarriages and a threefold increase in total birth defects compared to 
-nearby communities that had no known water contamination, and the 
-community experienced a two-and-a-half times higher rate of major heart 
-defects compared to the rest of the county. The study, however, made no 
-causal link between the contamination and the high presence of birth 
-defects, citing the lack of water monitoring prior to 1981 that could 
-provide potential data on a link between health effects and contaminated 
-water.^["State Health Department Releases Fairchild Studies," Department 
-of Health Services *News News*, January 16, 1985, 1, Folder 8, Box 12, 
-SVTC records, SJSU.] 
-
-The study did little to stem public concern and only served to 
-strengthen the resolve of the anti-toxic activists, who used the 
-conclusion to continue to point out the presence of an adverse health 
-cluster in San Jose.^[Lorraine Ross, "State Study Confirms Birth Defect 
-Cluster," *Silicon Valley Toxics News* (April 1985): 3, Folder 3, Box 
-18, SVTC records, SJSU.] But the widespread presence of toxic 
-contamination throughout the Bay Area and other parts of California gave 
-political energy to the state legislature. In 1986, the state 
-legislature overwhelmingly supported the passage of Proposition 65, the 
-Safe Drinking Water and Toxic Exposure Act. Prop 65 made it illegal for 
-businesses to knowingly pollute drinking water with known cancer-causing 
-chemicals and required the immediate notification of the public to any 
+The study did little to stem public concern and only served to
+strengthen the resolve of the anti-toxic activists, who used the
+conclusion to continue to point out the presence of an adverse health
+cluster in San Jose.^[Lorraine Ross, "State Study Confirms Birth Defect
+Cluster," *Silicon Valley Toxics News* (April 1985): 3, Folder 3, Box
+18, SVTC records, SJSU.] But the widespread presence of toxic
+contamination throughout the Bay Area and other parts of California gave
+political energy to the state legislature. In 1986, the state
+legislature overwhelmingly supported the passage of Proposition 65, the
+Safe Drinking Water and Toxic Exposure Act. Prop 65 made it illegal for
+businesses to knowingly pollute drinking water with known cancer-causing
+chemicals and required the immediate notification of the public to any
 potential exposure to toxic chemicals.
 
 <!--
-Activity by the Los Paseos community followed a legal route as well. In 
+Activity by the Los Paseos community followed a legal route as well. In
 1983 several Los Paseos families filed suit against Fairchild
 Semiconductor, IBM, and the Great Oaks Water Company. The case
 eventually settled in 1986 for an undisclosed amount of money for the
@@ -435,9 +434,6 @@ The State Regional Water Quality Control Board decided not to indict IBM
 in its contamination, a move that outraged anti-toxics
 environmentalists.
 -->
-
-![*Silicon Valley Toxics News*, (April 1985) vol. 1, no. 1, p.
-3.](figures/cartoon_birth_defects.png)
 
 Anticipating the spread of chemicals in the Valley proved difficult due
 to the region's history. Humans had altered the land in significant ways
@@ -497,7 +493,7 @@ dominate the political discussion of industry's value to the Bay Area.
 Significantly, the political discussion of the environment began to
 shift. The previous decades of environmentalists and conservationists in
 the Bay Area focused on the health of nature, a point of contention that
-emerged among the more justice-oriented activists of the 1980s. During
+emerged among the justice-oriented activists of the 1980s. During
 the decade, a new environmental critique emerged focusing on
 environmental justice and the health of humans.
 
@@ -538,7 +534,7 @@ environmental concerns went hand-in-hand, and the discovery of the
 Fairchild leak provided him with an opportunity to tie the two together
 and raise awareness on both issues.^[Ted Smith, oral history, interview
 by Glenna Matthews, San Jose State University; @mahon1985chargedbodies,
-252–253; "Ted Smith: Foes Think He's Anti-Business, but Fans Say He's
+252--253; "Ted Smith: Foes Think He's Anti-Business, but Fans Say He's
 Earth's Advocate," *The Business Journal Magazine*, October 15, 1990,
 12, in Folder 3, Box 18, Santa Clara Center for Occupational Health
 (SCCOSH) and Silicon Valley Toxics Coalition (SVTC) Records,
@@ -676,14 +672,6 @@ water," *San Jose Mercury News*, February 5, 1983, Folder 5, Box 10,
 SVTC records, SJSU; "Water tests will begin next week," *San Jose
 Mercury News*, March 24, 1982, Folder 8, Box 12, SVTC records, SJSU.]
 
-At the heart of the debate over the toxic ordinances was a public policy
-dispute about the unknown effects of high tech's industrial chemicals.
-The debate, according to Smith, addressed the question of "who should
-bear the risks of scientific uncertainty---the victims of toxic exposure
-or the manufacturers and users of toxic chemicals?"^["Voters should join
-tap water rebellion," no source, no date, Folder 6, Box 10, SVTC
-records, SJSU.]
-
 The ordinance's adoption by several Peninsula cities had
 repercussions that spread beyond the borders of the county. In July
 1983, Democratic state senator Byron Sher of Palo Alto introduced
@@ -708,27 +696,87 @@ begun. "We are the leader in this because we are the leader in
 contamination of our ground water," Smith observed. The model ordinance
 tackled one half of the problem by identifying weaknesses
 
+At the heart of the debate over the toxic ordinances was a public policy
+dispute about the unknown effects of high technology's industrial chemicals.
+The debate, according to Smith, addressed the question of "who should
+bear the risks of scientific uncertainty---the victims of toxic exposure
+or the manufacturers and users of toxic chemicals?"^[Clipping, "Voters
+should join tap water rebellion," no source, no date, Folder 6, Box 10,
+SVTC records, SJSU.] Smith and others would give voice to a frustration
+felt by many in the Bay Area summed up in the debate over "How Clean Is
+Clean?" The greatest source of resentment towards state officials came
+in 1985 when the state water pollution control board decided not to
+prosecute IBM for its chemical leak in South San Jose. In a 4-3 vote,
+the Board decided that IBM's \$34 million clean-up plan had shown
+sufficient evidence that the company was serious about cleaning up its
+chemical leak and warranted no further state action.^["State won't
+punish IBM for toxic leak," *San Jose Mercury News*, February 21, 1985,
+Folder 8, Box 12, SVTC records, SJSU.] Activists were outraged at the
+board's decision. "Here we have a state agency telling the largest
+computer company in the world with one of the largest toxic waste spills
+in the world that it will not have to pay any penalties," Ted Smith
+fumed. "That's the wrong message to get out."^["IBM leak decision
+criticized," San Jose Mercury News February 22, 1985, Folder 8, Box 12,
+SVTC records, SJSU.]
+
+![Frustration with the argument for "acceptable levels of risk." *Silicon Valley Toxics News*, (April 1985) vol. 1, no. 1, p. 3.](figures/cartoon_birth_defects.png)
+
+Who was allowed to define "acceptable risk"? SVTC wanted action against 
+IBM. Before a public hearing in December 1984, members of SVTC argued 
+that IBM violated the state's Nondegredation Policy that called for the 
+"maximum feasible restoration of polluted waters." IBM had failed to 
+uphold that policy, they argued. Their position shaed support from the 
+Santa Clara County Board of Supervisors, the San Jose City Council, and 
+the Santa Clara Valley Water District. Yet the Regional Board voted 6-1 
+to grant relief to IBM and voted 4-3 to not fine them for extensive 
+groundwater pollution.^["IBM Markets New Product---'Acceptable Risk'", 
+*Silicon Valley Toxics News*, April 1985, 8, Folder 3, Box 18, SVTC 
+records, SJSU.] The issue of "acceptable" exposure to contaminants had 
+become a key point for SVTC.
+
+SVTC framed their concerns within the language of science, invoking
+groundwater pollution, epidemiology, and chemistry in arguments over the
+shifting landscapes that intimately and unknowingly affected
+communities. The environment took on a different hue for social justice
+activists, in contrast to the mainstream liberal environmental
+organizations SVTC cared little about traditional conservation efforts.
+Rather, their energy focused on health, disease, the disenfranchised,
+and the structural problems of the environment. The mainstream
+environmental groups, Smith argued, were "too elitist" and "too often
+care more about trees and birds than they do about people."^[Smith oral
+history, Berkeley, 6.] Their claims were grounded in civil rights and
+argued for policies that supported equality of health, protection from
+toxins, and regulations on businesses. They placed faith in local laws
+to protect those communities without power, and looked to the federal
+government to enforce equal protections.
+
+SVTC's arguments took on a spatiality of their own as well. Not all
+spaces were created equal. In their analysis, business and government
+turned a blind eye to poor and nonwhite communities, in some cases
+offloading pollution onto these communities. Modern space, then,
+mattered a great deal to SVTC.  Where one lived in the Valley, where one
+worked in the Valley, could have a tremendous impact on a person's
+health. Health became spatialized as well, used as an indicator for a
+particular sort of landscape that threatened bodies. Ill health, they
+argued, could result from a particular place they occupied rather than
+individual causes of disease. In contrast to the claims of public
+health experts, the modern landscape did not automatically confer clean
+spaces.^[@nash2006inescapable, 204; @lefebvre1992space, 194--205.]
+
 ### "Don't Let Industry Do Its Business In Our Water"
 
-National media picked up the story in 1984. The *New York Times* ran the
-first story on August 19, reporting that...
+The space of the Valley's pollution landscape expanded throughout the
+Peninsula.
 
-Model Ordinance Right-to-Know State laws National Superfund law
+Superfund
 
-### Superfund definition and establishment
+EPA criticism
 
-Superfund establishment
-
-### Process of SC sites going to Superfund
-
-
-### Criticism of the EPA
-
-Gases similar to the Model Toxic Ordinance
-
-### How Clean Is Clean?
+Process of SC sites going to Superfund
 
 ### Arsenic Valley
+
+Gases similar to the Model Toxic Ordinance
 
 ### Conclusion
 
