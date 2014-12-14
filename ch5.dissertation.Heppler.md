@@ -110,7 +110,8 @@ problems, skin infections, and worse. Valley residents came to see the
 landscape as tainted. "I'm not anti-semiconductor industry," Lorraine
 Ross noted, "but I don't want my health adversely affected by their
 profit-making. Companies should be willing to invest a portion of their
-profit to ensure they aren't damaging the environment." Studies in 1992
+profit to ensure they aren't damaging the environment."^[Susan Benner,
+“Storm Clouds Over Silicon Valley,” *Inc* (September 1982), 84.] Studies in 1992
 reported that 57 private and 47 public drinking wells were contaminated,
 and 66 plots of land were too toxic for people to walk on. County
 authorities determined that sixty-five of the seventy-nine companies
@@ -333,7 +334,7 @@ our valley."^["We Demand Safe Water," SVTC mailer, n.d., Folder 4, Box
 Under pressure by neighborhood activists, media interest, and political
 fallout, the county agreed to study the potential for a link between
 groundwater contamination and health problems that plagued Los Paseos in
-1982.   County health officials began by looking at birth certificate
+1982. County health officials began by looking at birth certificate
 and infant-death and fetal-death records to reveal the possibility of a
 cluster of deaths or illnesses in the city. Their early report found "no
 significant difference" between the neighborhood's birth disorder rate
@@ -721,40 +722,57 @@ SVTC records, SJSU.]
 
 ![Frustration with the argument for "acceptable levels of risk." *Silicon Valley Toxics News*, (April 1985) vol. 1, no. 1, p. 3.](figures/cartoon_birth_defects.png)
 
-Who was allowed to define "acceptable risk"? SVTC wanted action against 
-IBM. Before a public hearing in December 1984, members of SVTC argued 
-that IBM violated the state's Nondegredation Policy that called for the 
-"maximum feasible restoration of polluted waters." IBM had failed to 
-uphold that policy, they argued. Their position shaed support from the 
-Santa Clara County Board of Supervisors, the San Jose City Council, and 
-the Santa Clara Valley Water District. Yet the Regional Board voted 6-1 
-to grant relief to IBM and voted 4-3 to not fine them for extensive 
-groundwater pollution.^["IBM Markets New Product---'Acceptable Risk'", 
-*Silicon Valley Toxics News*, April 1985, 8, Folder 3, Box 18, SVTC 
-records, SJSU.] The issue of "acceptable" exposure to contaminants had 
-become a key point for SVTC.
+Who was allowed to define "acceptable risk"? SVTC wanted action against
+IBM. Before a public hearing in December 1984, members of SVTC argued
+that IBM violated the state's Nondegredation Policy that called for the
+"maximum feasible restoration of polluted waters." IBM had failed to
+uphold that policy, they argued. Their position shaed support from the
+Santa Clara County Board of Supervisors, the San Jose City Council, and
+the Santa Clara Valley Water District. Yet the Regional Board voted 6-1
+to grant relief to IBM and voted 4-3 to not fine them for extensive
+groundwater pollution.^["IBM Markets New Product---'Acceptable Risk'",
+*Silicon Valley Toxics News*, April 1985, 8, Folder 3, Box 18, SVTC
+records, SJSU.] The issue of "acceptable" exposure to contaminants had
+become a key point for SVTC, and they began lobbying for the state and
+the Environmental Protection Agency to redefine what counted as
+appropriate levels of exposure.^["Analysis in Support of Conclusion that
+Existing 'Action Level' for TCA is Too High," n.d., Folder 14, Box 12,
+SVTC records, SJSU.] SVTC even carried the support of state senators in
+making their case. In a letter to Governor George Deukmejian, state
+senator John Vasconcellos argued that the State Health Department was
+"unable to rule out the possibility that TCA might have been a factor in
+the excess rate of birth defects and miscarriages around the Fairchild
+site." If the state failed to fully understand the "potential health
+risks associated with TCA," Vasconcellos argued, then the State Health
+Department risked violating its own Action Level regulations. How could
+the Health Department continue to treat TCA as having a safe level of
+exposure, Vasconcellos wondered, if TCA is discovered to be a carcinogen?^[Letter
+from John Vasconcellos to George Deukmejian, February 22, 1985, Folder
+3, Box 18, SVTC records, SJSU.]
 
-SVTC framed their concerns within the language of science, invoking
-groundwater pollution, epidemiology, and chemistry in arguments over the
+The debate over carciogens, TCA, and safe exposure to chemicals reveals
+another facet of SVTC's focus on environmental justice. SVTC framed
+their concerns within the language of science, invoking groundwater
+pollution, epidemiology, and chemistry in their arguments over the
 shifting landscapes that intimately and unknowingly affected
 communities. The environment took on a different hue for social justice
 activists, in contrast to the mainstream liberal environmental
-organizations SVTC cared little about traditional conservation efforts.
-Rather, their energy focused on health, disease, the disenfranchised,
-and the structural problems of the environment. The mainstream
-environmental groups, Smith argued, were "too elitist" and "too often
-care more about trees and birds than they do about people."^[Smith oral
-history, Berkeley, 6.] Their claims were grounded in civil rights and
-argued for policies that supported equality of health, protection from
-toxins, and regulations on businesses. They placed faith in local laws
-to protect those communities without power, and looked to the federal
-government to enforce equal protections.
+organizations and their traditional concerns of conservation. Rather,
+their energy focused on health, disease, the disenfranchised, and the
+structural problems of society that exposed communities to dangerous
+environments. The mainstream environmental groups, Ted Smith argued, were
+"too elitist" and "too often care more about trees and birds than they
+do about people."^[Smith oral history, Berkeley, 6.] Their claims were
+grounded in civil rights and argued for policies that supported equality
+of health, protection from toxins, and regulations that ensured safety. They
+placed faith in local laws to protect communities without power,
+and looked to the federal government to enforce equal protections.
 
 SVTC's arguments took on a spatiality of their own as well. Not all
 spaces were created equal. In their analysis, business and government
 turned a blind eye to poor and nonwhite communities, in some cases
 offloading pollution onto these communities. Modern space, then,
-mattered a great deal to SVTC.  Where one lived in the Valley, where one
+mattered a great deal to SVTC. Where one lived in the Valley, where one
 worked in the Valley, could have a tremendous impact on a person's
 health. Health became spatialized as well, used as an indicator for a
 particular sort of landscape that threatened bodies. Ill health, they
@@ -763,16 +781,98 @@ individual causes of disease. In contrast to the claims of public
 health experts, the modern landscape did not automatically confer clean
 spaces.^[@nash2006inescapable, 204; @lefebvre1992space, 194--205.]
 
-### "Don't Let Industry Do Its Business In Our Water"
+The spatialized pollution landscape took on greater importance as SVTC,
+state and county health officials, and local politicians raced to
+comprehend the plume size and spread of chemical leaks. The widespread
+presence of water-borne chemicals appeared to be getting out of hand.
+Despite efforts to identify leaks and the passage of local laws to
+regulate the storage of chemicals, local governments were unprepared to
+shoulder the burden. In the wake of the leaks, San Jose established a
+new {DETAIL} environmental office tasked with overseeing {DETAIL}. Even
+the hazardous ordinance went unfollowed or difficult to enforce in
+cities that had passed the ordinance. In Sunnyvale, only 189 out of 745
+companies had passed inspection of hazardous chemicals storage in 1986.
+The Bayview Industrial Park in south San Francisco was leveled after an
+illegal fireworks factory exploded in early April 1986. Firefighers
+responding to the scene had no knowledge of what materials were on-site.
+City fire officials admitted after the blaze that it had not implemented
+the hazardous ordinance program passed by the city. County-wide, cities
+had processed only forty-nine percent of permit applications for the
+storage of chemicals.^["Slow progress in cataloging toxic threats," *San
+Jose Mercury News*, April 13, 1986, Folder 5, Box 10, SVTC records,
+SJSU; "Cities lag on enforcing toxics laws," *San Jose Mercury News*,
+January 1, 1986, Folder 5, Box 10, SVTC records, SJSU.]
 
-The space of the Valley's pollution landscape expanded throughout the
-Peninsula.
+In early 1984 environmentalists were pointing to the federal Superfund
+program as a potential solution to the problem of local inadequacies.
+SVTC argued that local agencies "simply do not have sufficient resources
+to solve---much less control---our toxics crisis."^["Groundwater Toxics
+Crisis in Silicon Valley," Silicon Valley Toxics Coalition Press
+Release, 1, Folder 3, Box 11, SVTC records, SJSU.] The occasion also
+allowed Ted Smith, Michael Belliveau, and Peter Cervantes-Gautschi to
+criticize the EPA's seemingly slow response to the crisis.^[Belliveau
+claims that the EPA knew about the presence of contaminated water since
+1979 but made no moves to require cleanup of toxic chemicals until 1984.
+EPA documents seem to confirm the organization knew about contamination
+sites in 1979. "EPA explains what it's doing," *Times Tribune*, August
+17, 1984, Folder {FILL}, Box {FILL}, SVTC records, SJSU; Environmental
+Protection Agency, "Superfund National Priorities List Sites in the
+South Bay," July 1986, 1, Folder 114, Box 4, League of Women Voters,
+Santa Clara County Chapter {DETAIL}, SJSU.] Although the EPA had
+identified fifteen to twenty sites as eligible for the National Priority
+List (NPL), "not a single site has been listed . . . as a superfund
+site," Smith complained to Representative Norman Mineta. SVTC appealed
+to the EPA through the "imminent hazard" provision of Superfund, but was
+notified that the Valley's toxics problem did not qualify. To Smith, any
+threat to drinking water should convey an immediate "imminent hazard"
+and an immediate release of emergency funds.^[Letter from Ted Smith to
+Norman Mineta, July 23, 1984, 2, Folder 3, Box 11, SVTC records, SJSU;
+"No More Poison In Our Water" flier, Silicon Vally Toxics Coalition,
+Folder 3, Box 11, SVTC records, SJSU; "Waste Sites on Coast Debated,"
+*New York Times*, August 19, 1984. See also Smith oral history,
+Berkeley, 23.] Smith's criticisms of the organization was echoed by
+residents. Barbara Fenster, who lived near the IBM leak in San Jose,
+asked: "EPA stands for Environmental Protection Agency. I'd be glad to
+know what part of the valley the EPA protects, because it sure isn't
+drinking water."^["EPA explains what it's doing," *Times Tribune*,
+August 17, 1984, Folder {FILL}, Box {FILL}, SVTC records, SJSU.]
 
-Superfund
+The Bay Area demanded more help. In an August 1984 letter to William
+Ruckelhaus, the director of the Environmental Protection Agency, and
+Carole Onorato, the chairwoman of the California State Water Resources
+Control Board, Representative Norman Mineta wrote to express his
+"extreme concern over the growing problem of hazardous waste leaks in
+Santa Clara County." Mineta cut to the chase: the EPA's site-by-site
+evaluation of Superfund sites was inadequate and too slow-moving. Mineta
+argued that leaks threatened the health of "several hundred thousand
+local residents" and called for "immediate action" to "place the entire
+Santa Clara Valley on the Superfund National Priority List." The leaks
+were difficult to identify and the near inability to map the size and
+number of plumes meant that "contaminants have continued to spread
+unchecked." Despite collaboration between federal, state, and local
+officials, Mineta concluded, "effective action cannot begin without
+Superfund assistance.  The cost of clean up is simply too great, and
+time is too short, to rely solely on local and state agencies."^[Letter
+from Norman Mineta to William Ruckelshaus and Carole Onorato, August 7,
+1984, Folder 3, Box 11, SVTC records, SJSU. See also "Waste Sites on
+Coast Debated," *New York Times*, August 19, 1984.] The Bay Area's
+pollution landscape was no longer though of as localized to specific
+neighborhoods. The problem had become so great that many thought of the
+entire place as contaminated.^[The Regional Water Quality Control Board
+also called on the EPA to view the entire Peninsula as a single
+Superfund site. See also "EPA explains what it's doing," *Times
+Tribune*, August 17, 1984, Folder {FILL}, Box {FILL}, SVTC records,
+SJSU.]
 
-EPA criticism
-
-Process of SC sites going to Superfund
+The EPA announced in May 1986 that six out of nineteen investigated
+sites of Bay Area would be added to the National Priority List. AMD,
+Intel, Raytheon, and Westinghouse became declared Superfund sites in
+Sunnyvale, Mountain View, and Santa Clara.^[Environmental Protection
+Agency, "Superfund National Priorities List Sites in the South Bay,"
+July 1986, 1, Folder 114, Box 4, League of Women Voters, Santa Clara
+County Chapter {DETAIL}, SJSU.] By 1987 the EPA listed twenty-nine
+Superfund sites on the National Priority List, twenty-four of which
+resulted from the mishandling of chemicals by high tech industries.
 
 ### Arsenic Valley
 
