@@ -722,35 +722,42 @@ SVTC records, SJSU.]
 
 ![Frustration with the argument for "acceptable levels of risk." *Silicon Valley Toxics News*, (April 1985) vol. 1, no. 1, p. 3.](figures/cartoon_birth_defects.png)
 
-Who was allowed to define "acceptable risk"? SVTC wanted action against
-IBM. Before a public hearing in December 1984, members of SVTC argued
-that IBM violated the state's Nondegredation Policy that called for the
-"maximum feasible restoration of polluted waters." IBM had failed to
-uphold that policy, they argued. Their position shaed support from the
-Santa Clara County Board of Supervisors, the San Jose City Council, and
-the Santa Clara Valley Water District. Yet the Regional Board voted 6-1
-to grant relief to IBM and voted 4-3 to not fine them for extensive
-groundwater pollution.^["IBM Markets New Product---'Acceptable Risk'",
-*Silicon Valley Toxics News*, April 1985, 8, Folder 3, Box 18, SVTC
-records, SJSU.] The issue of "acceptable" exposure to contaminants had
-become a key point for SVTC, and they began lobbying for the state and
-the Environmental Protection Agency to redefine what counted as
-appropriate levels of exposure.^["Analysis in Support of Conclusion that
-Existing 'Action Level' for TCA is Too High," n.d., Folder 14, Box 12,
-SVTC records, SJSU.] SVTC even carried the support of state senators in
-making their case. In a letter to Governor George Deukmejian, state
-senator John Vasconcellos argued that the State Health Department was
-"unable to rule out the possibility that TCA might have been a factor in
-the excess rate of birth defects and miscarriages around the Fairchild
-site." If the state failed to fully understand the "potential health
-risks associated with TCA," Vasconcellos argued, then the State Health
-Department risked violating its own Action Level regulations. How could
-the Health Department continue to treat TCA as having a safe level of
-exposure, Vasconcellos wondered, if TCA is discovered to be a carcinogen?^[Letter
-from John Vasconcellos to George Deukmejian, February 22, 1985, Folder
+Who was allowed to define "acceptable risk"? SVTC wanted action against 
+IBM. Before a public hearing in December 1984, members of SVTC argued 
+that IBM violated the state's Nondegredation Policy that called for the 
+"maximum feasible restoration of polluted waters." IBM had failed to 
+uphold that policy, they argued. Their position shaed support from the 
+Santa Clara County Board of Supervisors, the San Jose City Council, and 
+the Santa Clara Valley Water District. Yet the Regional Board voted 6-1 
+to grant relief to IBM and voted 4-3 to not fine them for extensive 
+groundwater pollution.^["IBM Markets New Product---'Acceptable Risk'", 
+*Silicon Valley Toxics News*, April 1985, 8, Folder 3, Box 18, SVTC 
+records, SJSU.] The issue of "acceptable" exposure to contaminants had 
+become a key point for SVTC, and they began lobbying for the state and 
+the Environmental Protection Agency to redefine what counted as 
+appropriate levels of exposure.^["Analysis in Support of Conclusion that 
+Existing 'Action Level' for TCA is Too High," n.d., Folder 14, Box 12, 
+SVTC records, SJSU; "story," *Silicon Valley Toxics News*, 1986, Folder 
+64, Box 3, League of Women Voters {FILL}, SJSU.] When the EPA released a 
+study of Silicon Valley in 1985 presenting an overview of contamination 
+sites, environmentalists charged that the EPA failed to understand the 
+public health risks.^["title," *Silicon Valley Toxics News*, {DETAIL}, 
+Folder 64, Box 3, League of Women Voters, SJSU; *Silicon Valley Toxics 
+News*, 1985, {DETAIL}, Folder 64, Box 3, League of Women Voters, SJSU.] 
+SVTC carried the support of state senators in making their case. In a 
+letter to Governor George Deukmejian, state senator John Vasconcellos 
+argued that the State Health Department was "unable to rule out the 
+possibility that TCA might have been a factor in the excess rate of 
+birth defects and miscarriages around the Fairchild site." If the state 
+failed to fully understand the "potential health risks associated with 
+TCA," Vasconcellos argued, then the State Health Department risked 
+violating its own Action Level regulations. How could the Health 
+Department continue to treat TCA as having a safe level of exposure, 
+Vasconcellos wondered, if TCA is discovered to be a carcinogen?^[Letter 
+from John Vasconcellos to George Deukmejian, February 22, 1985, Folder 
 3, Box 18, SVTC records, SJSU.]
 
-The debate over carciogens, TCA, and safe exposure to chemicals reveals
+The debate over carcinogens, TCA, and safe exposure to chemicals reveals
 another facet of SVTC's focus on environmental justice. SVTC framed
 their concerns within the language of science, invoking groundwater
 pollution, epidemiology, and chemistry in their arguments over the
@@ -780,6 +787,15 @@ argued, could result from a particular place they occupied rather than
 individual causes of disease. In contrast to the claims of public
 health experts, the modern landscape did not automatically confer clean
 spaces.^[@nash2006inescapable, 204; @lefebvre1992space, 194--205.]
+
+Specific spaces were polluted places. South San Jose was only one major 
+area of concern for the Bay Area's environmentalists. Another 
+significant contamination site was located in Mountain View in what 
+became known as MEW---an area of land bounded by Middlefield, Ellis, and 
+Whisman roads. By 1989 the site was found to have the highest chemical 
+concentrations and largest plumes than any other site in the 
+Valley.^[*Silicon Valley Toxics News*, 1989 {DETAIL}, Folder 64, League 
+of Women Voters.] 
 
 The spatialized pollution landscape took on greater importance as SVTC,
 state and county health officials, and local politicians raced to
