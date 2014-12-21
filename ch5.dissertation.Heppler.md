@@ -152,29 +152,82 @@ clean and green. The toxic landscape shattered that perception.
 
 ### Murky Waters: Water Pollution in the Postwar Era
 
-Concerns about drinking water were not new in 1982. In the early
-1970s Congress began debate over new drinking water legislation. In
-1972, the Environmental Protection Agency released a study of drinking
-water supplies in New Orleans that found thirty-six organic chemicals
+Concerns about drinking water were not new in 1982. Water quality,
+sewage disposal and treatment, and waste generation have been staple
+issues of urban growth. Urban areas depend on access to fresh water for
+sanitation, industrial and municipal development, and public health,
+interlocking both water supply and water quality. During the nineteenth
+century, cities often treated nearby water supplies as public sewers.
+Property owners and industries faced few challenges to how they
+determined their use of water resources until public health advocates
+during the Progressive Era challenged the environmental conditions that
+were leading to public health problems.^[@gottleib2005forcing, 89--92,
+95--97; @publichealth1943drinkingwater.]
+
+By December 1970, the month that the Environmental Protection Agency
+(EPA) began operating under the administration of William Ruckelshaus,
+Americans were acutely aware of the presence of toxins in their
+environment. Environmental issues had become a key political issue, made
+all the more visible with the first Earth Day held in May 1970. Congress
+passed several pieces of pollution legislation aiming to curb the
+discharge of potentially harmful chemicals. The Air Quality Act of 1967,
+the Clean Air Act of 1970, Resource Recovery Act of 1970, Federal
+Insecticide, Fungicide, and Rodenticide Act Amendments (FIFRA) in 1972,
+and 1972 Clean Water Act sought to mandate new environmental
+regulations.^[@gottleib2005forcing, 179--180.]
+
+Congress began debate over new drinking water legislation in the early
+1970s. The debate took on additional pressure when in 1972 the
+Environmental Protection Agency released a study of drinking water
+supplies in New Orleans. The study found thirty-six organic chemicals
 present, some of which were known carcinogens. An additional study of
 New Orleans' contamination by the Environmental Defense Fund published
 two years later showed a high incidence of cancer among people whose
 primary source of drinking water came from the contaminated surface
 waters. New Orleans' contaminated waters helped prompt the passage of
 the Safe Drinking Water Act (SWDA) in 1974 that established quality
-standards.^[@nash2006inescapable, 173. Water quality standards trace
-themselves to the early twentieth century when the U.S. Public Health
-Service adopted quality standards for drinking water regarding the
-presence of *E. coli* used to combat the spread of typhoid.] The Safe
-Drinking Water Act established "maximum contaminant levels" (MCLs) that,
-in the words of historian Linda Nash, "assumed . .  . a level of
-exposure below which no adverse health effects would occur in any place,
-at any time."^[@nash2006inescapable, 173.] MCLs also assumed that all
-relevant and possibly harmful contaminants were known to science,
-although few laboratory tests existed for detecting presence of
-organic chemicals.^[@nash2006inescapable, 174; @cox1997safewater.]
+standards.^[@nash2006inescapable, 173; @hays1987beauty, 198. Water
+quality standards trace themselves to the early twentieth century when
+the U.S. Public Health Service adopted quality standards for drinking
+water regarding the presence of *E. coli* used to combat the spread of
+typhoid.] The Safe Drinking Water Act established "maximum contaminant
+levels" (MCLs) that, in the words of historian Linda Nash, "assumed . .
+. a level of exposure below which no adverse health effects would occur
+in any place, at any time."^[@nash2006inescapable, 173.] MCLs also
+assumed that all relevant and possibly harmful contaminants were known
+to science, although few laboratory tests existed for detecting presence
+of organic chemicals.^[@nash2006inescapable, 174; @cox1997safewater.]
 
-Post-World War II transformed the Bay Area's watershed landscape. The
+<!--
+Federal intervention in water issues addressed the presence of toxic
+chemicals in non-drinking water sources as well. The passage of the
+Clean Water Act of 1972 created guidelines for {DETAIL}. The law
+underwent revision in 1977 when the Natural Resources Defense Council
+sued the EPA forcing the organization to deal with toxic chemicals found
+in water. The courts ruled that the EPA had to control a list of
+pollutants, mostly synthetic organic chemicals.^[@hays1987beauty,
+198--199.]
+-->
+
+Throughout the United States, chemical contamination sites were
+uncovered. In California's Central Valley, water quality officials
+discovered the contamination of groundwater by
+1,2-dibromo-3-choloropropane (DBCP), a compound used by farmers as a
+pesticide. In New York, officials in Long Island had been dealing with
+contaminted water since the 1940s that included the presence of the
+insecticide aldicarb, cadmium, phenol, hexavalent chromium, and
+synthetic detergents. Further exacerbating the problem was the sheer
+volume of new chemical compounds coming on to the market. In the 1970s,
+roughly 500 new chemical compounds appeared on the market each year.
+These chemicals had few standards and assessments in place aside from
+certain previsions within the SWDA weakly enforced by the EPA. Compounds
+and chemicals once thought to pose little environmental risk had, with
+their appearance in groundwater, revealed how widespread the
+contamination of the country's drinking water supplies had
+become.^[@nash2006inescapable, 175--176; @sellers2012crucible, 113--123;
+@day2001safedrinking, 21--23.]
+
+The Bay Area's water landscape transformed after World War II. The
 two major rivers, the Guadalupe River and the Coyote Creek, and its
 tributaries were only the most visible signs of the Bay Area's water
 landscape. Both had been reshaped as urban areas expanded rapidly in the
@@ -188,22 +241,6 @@ monitored by either the county or the state of California. And since
 high tech industries maintained a perception as "clean" industry, few
 thought or were aware that their activities were introducing chemical
 contamination.^[@colten1991contamination.]
-
-Throughout the United States, chemical contamination sites were
-uncovered. In California's Central Valley, water quality officials
-discovered the contamination of groundwater by
-1,2-dibromo-3-choloropropane (DBCP), a compound used by farmers as a
-pesticide. In New York, officials in Long Island discovered the
-contamination of wells by the insecticide aldicarb. Further exacerbating
-the problem was the sheer volume of new chemical compounds coming on to
-the market. In the 1970s, roughly 500 new chemical compounds appeared on
-the market each year. These chemicals had few standards and assessments
-in place aside from certain previsions within the SWDA weakly enforced
-by the EPA.^[@day2001safedrinking, 21--23.]. Compounds and chemicals
-once thought to pose little environmental risk suddenly, with their
-appearance in groundwater, revealed how widespread the contamination of
-the country's drinking water supplies had become.^[@nash2006inescapable,
-175--176.]
 
 <!--
 Flooding confounded those who wanted borders between the physical and
@@ -515,9 +552,9 @@ year spurred local and regional government to act.^["The industries
 creating the most waste," *Sacramento Union*, April 18, 1982, Folder 8,
 Box 12, Santa Clara County Center for Occupational Health (SCCOSH) and
 Silicon Valley Toxics Coalition (SVTC) Records, MSS-2007-04-06, San Jose
-State University Library Special Collections & Archives.] The connection between environment and
-bodily health focused itself in the Los Paseos neighborhood and would
-ripple throughout the country.
+State University Library Special Collections & Archives.] The connection
+between environment and bodily health focused itself in the Los Paseos
+neighborhood and would ripple throughout the country.
 
 <!-- ### The Tap Water Rebellion -->
 
@@ -628,7 +665,8 @@ Keeping the public educated and maintaining a public voice for those
 affected by industrial contamination and chemical exposure became
 Smith's first priority. In front of the San Jose city hall on November
 4, 1982, the Silicon Valley Toxics Coalition (SVTC) announced its
-establishment. In a letter circulated to community organizations and individuals, SVTC explained its purpose:
+establishment. In a letter circulated to community organizations and
+individuals, SVTC explained its purpose:
 
 > ...we believe now is the time to pull together a coalition to further
 > organize around these issues. In recent discussions with
@@ -904,23 +942,23 @@ presence of water-borne chemicals appeared to be getting out of hand.
 Despite efforts to identify leaks and the passage of local laws to
 regulate the storage of chemicals, local governments were unprepared to
 shoulder the burden. In the wake of the leaks, San Jose established a
-new Office of Environmental Management tasked with overseeing {DETAIL}. Even
-the hazardous ordinance went unfollowed or difficult to enforce in
-cities that had passed the ordinance. In Sunnyvale, only 189 out of 745
-companies had passed inspection of hazardous chemicals storage in 1986.
-The Bayview Industrial Park in south San Francisco was leveled after an
-illegal fireworks factory exploded in early April 1986. Firefighers
-responding to the scene had no knowledge of what materials were on-site.
-City fire officials admitted after the blaze that it had not implemented
-the hazardous ordinance program passed by the city. County-wide, cities
-had processed only forty-nine percent of permit applications for the
-storage of chemicals.^["Slow progress in cataloging toxic threats," *San
-Jose Mercury News*, April 13, 1986, Folder 5, Box 10, SVTC records,
-SJSU; "Cities lag on enforcing toxics laws," *San Jose Mercury News*,
-January 1, 1986, Folder 5, Box 10, Santa Clara County Center for
-Occupational Health (SCCOSH) and Silicon Valley Toxics Coalition (SVTC)
-Records, MSS-2007-04-06, San Jose State University Library Special
-Collections & Archives.]
+new Office of Environmental Management tasked with overseeing {DETAIL}.
+Even the hazardous ordinance went unfollowed or difficult to enforce in
+cities that had passed the ordinance. Sunnyvale reported in 1986 that
+only 189 out of 745 companies had passed inspection of hazardous
+chemicals storage.  The Bayview Industrial Park in south San Francisco
+was leveled after an illegal fireworks factory exploded in early April
+1986. Firefighers responding to the scene had no knowledge of what
+materials were on-site.  City fire officials admitted after the blaze
+that it had not implemented the hazardous ordinance program passed by
+the city. County-wide, cities had processed only forty-nine percent of
+permit applications for the storage of chemicals.^["Slow progress in
+cataloging toxic threats," *San Jose Mercury News*, April 13, 1986,
+Folder 5, Box 10, SVTC records, SJSU; "Cities lag on enforcing toxics
+laws," *San Jose Mercury News*, January 1, 1986, Folder 5, Box 10, Santa
+Clara County Center for Occupational Health (SCCOSH) and Silicon Valley
+Toxics Coalition (SVTC) Records, MSS-2007-04-06, San Jose State
+University Library Special Collections & Archives.]
 
 In early 1984 environmentalists were pointing to the federal Superfund
 program as a potential solution to the problem of local inadequacies.
@@ -1010,13 +1048,40 @@ County Chapter {DETAIL}, SJSU.] By 1990 the EPA listed twenty-nine
 Superfund sites on the National Priority List, twenty-four of which
 resulted from the mishandling of chemicals by high tech industries.
 
------
-
-The Silicon Valley Toxics Coalition's involvement in local politics
-
 ### Arsenic Valley
 
-Gases similar to the Model Toxic Ordinance
+The Bay Area's anti-toxics environmentalists were not just concerned
+with the toxics below ground. Among them there emerged a growing concern
+about the presence of toxic gases stored by high tech manufacturers.
+
+Various gases are used for the manufacturer of semiconductor chips. The
+chemical element silicon cannot carry electricity. At an atomic level,
+silicon leaves no space for electrons to carry electrical currents. The
+result is silicon naturally works as an insulator. But in the
+manufacturing process for silicon chips and wafers, manufacturers adjust
+the chemical properties of silicon that allows it to carry electrical
+charges. Adapting the silicon to carry a charge involves a process
+called "doping" with "dopant gases"---arsine, phosphine, boron, and
+other metal hybrids---in which silicon wafers are exposed to gases that
+give them electrical conducting properties.^[Ted Smith oral history,
+Berkeley, 53--54.]
+
+<!-- expand on this...
+The gases themselves, if inhaled by humans, potentially caused kidney
+failure.
+-->
+
+Throughout Silicon Valley, manufacturers stored compressed doping gases.
+The concern of environmentalists did not revolve around a lack of
+regulation regarding potentially toxic gases. Rather, environmentalists
+feared what would happen to the Bay Area in the event of an earthquake
+or fire. One Sunnyvale doctor criticized the transportation and storage of
+gases, noting that 68,000 cubic feet of arsine and phosphine were
+trucked into Silicon Valley in the early 1980s. Furthermore, he
+predicted that a major gas leak was "inevitable." The Bay Area lacked
+its smokestacks, but they stored vast quantities of chemicals.^["Toxic
+gas leak is 'inevitable,' doctor warns," *San Jose Mercury News* June 6,
+1982, {FILL} SVTC records, SJSU.]
 
 ### Conclusion
 
