@@ -4,13 +4,6 @@ author:
 title: "Something in the Soil: Toxics and the Landscape of Health"
 ...
 
-> We thought we were living with a clean industry.
->
-> ---Lorraine Ross, San Jose^[Newspaper clipping, "Silicon Valley's Fear
-> Over Tainted Water," *San Francisco Chronicle*, May 16, 1983, Carton 20,
-> Folder 12 Hazardous Waste, California Tomorrow Records, MS 3641,
-> California Historical Society.]
-
 > The horizon above San Jose is unmarred by smokestacks, and people here
 > are proud of that. They have worked hard at making the valley a base
 > of the computer-electronics industry and an unpolluted place to live.
@@ -408,8 +401,10 @@ formed the Santa Clara County Health Advisory Committee on Environmental
 Teratology and agreed in the spring of 1982 that enough evidence existed
 for a formal investigation. The county turned to epidemiology to study
 the spatial pattern of disease in San Jose. Epidemiology's disciplinary
-history roots itself in studies of space, to understand whether diseases
-had a spatial component that could explain health issues in landscapes.
+history roots itself in studies of space to understand whether diseases
+had a spatial component that could explain health issues in
+landscapes.^[@nash2006inescapable, 185. See also
+@pearce1996epidemiology; @susser1985epidemiology.]
 The goal of the county's study sought to determine if lifestyle or
 environmental features affected the health of the Los Paseos community
 as compared to demographically-similar communities without any known
@@ -1090,34 +1085,71 @@ quantities of chemicals.^["Toxic gas leak is 'inevitable,' doctor
 warns," *San Jose Mercury News* June 6, 1982, {FILL} SVTC records,
 SJSU.]
 
-Concerns about the presence of toxic gases on the Peninsula led SVTC and 
-the SCCFCA to pursue a second toxic model ordinance focused on the 
-regulation of gases in 1986. Under a \$100,000 budget granted to them by 
-a state bill proposed by Assemblymen Ernest Konnyu of Saratoga and Byron 
-Sher, the fire chiefs' drafted a model bill that laid out similar 
-guideliens as those contained in the Hazardous Materials Ordinance three 
-years earlier. The draft bill called on businesses to report the type 
-and volume of gases stored on their property, inform nearby communities 
-of what materials they stored on-site, and install an alarm system to 
-alert neighboring communities in the event of a gas leak. Businesses 
-would be exempt from the alarm system if their storage containers were 
-double-walled and they maintained air purification systems around 
-storage tanks.^["Toxic Gas Proposal Stirs Row," *San Jose Mercury News*, 
-August 8, 1986; "Fire Chiefs Seek Toxic Gas Controls," *San Jose Mercury 
-News*, July 8, 1986.] For anti-toxics activists and state officials, 
-gas leaks could be more threatening than liquid chemical leaks. Leaking 
-liquids can be detected and spread slowly enough that they could be 
-contained and managed, but gas leaks are instantaneous and spread 
-rapidly.^["Gas leaks, contaminated water are top priorities on the list 
-of threats," *San Jose Mercury News*, December 31, 1989.] 
+![*Silicon Valley Toxics News* 7 (Winter 1989).](figures/revolution_1989_toxics_news.png)
+
+Concerns about the presence of toxic gases on the Peninsula led SVTC and
+the SCCFCA to pursue a second toxic model ordinance focused on the
+regulation of gases in 1986. Under a \$100,000 budget granted to them by
+a state bill proposed by Assemblymen Ernest Konnyu of Saratoga and Byron
+Sher, the fire chiefs' drafted a model bill that laid out similar
+guideliens as those contained in the Hazardous Materials Ordinance three
+years earlier. The draft bill called on businesses to report the type
+and volume of gases stored on their property, inform nearby communities
+of what materials they stored on-site, and install an alarm system to
+alert neighboring communities in the event of a gas leak. Businesses
+would be exempt from the alarm system if their storage containers were
+double-walled and they maintained air purification systems around
+storage tanks.^["Toxic Gas Proposal Stirs Row," *San Jose Mercury News*,
+August 8, 1986; "Fire Chiefs Seek Toxic Gas Controls," *San Jose Mercury
+News*, July 8, 1986.] For anti-toxics activists and state officials,
+gas leaks could be more threatening than liquid chemical leaks. Leaking
+liquids can be detected and spread slowly enough that they could be
+contained and managed, but gas leaks are instantaneous and spread
+rapidly.^["Gas leaks, contaminated water are top priorities on the list
+of threats," *San Jose Mercury News*, December 31, 1989.]
 
 Just as Love Canal gave water contamination a sense of urgency, the
 deadly gas leak by Union Carbide outside Bhopal, India, in late 1984
 that killed more than 2,000 people provided a political impetus for the
-Bay Area's toxic gas regulation. The Konnyu-Sher bill for funding a 
-draft ordinance passed in the shadow of the Bhopal Incident, one of the 
-worst industrial accidents of the twentieth century. 
+Bay Area's toxic gas regulation. The Konnyu-Sher bill for funding a
+draft ordinance passed in the shadow of the Bhopal Incident, one of the
+worst industrial accidents of the twentieth century.
 
-### Conclusion
+The potential of a toxic gas leak reshaped how environmentalists thought
+about space.  Whereas the presence of water contamination focused on
+specific places, the release of gases obliterated any sense of space
+affected by pollution. One study by San Jose State University using the
+EPA's air models found that a gas leak in the Bay Area had the potential
+to spread as far as twenty kilometers.^[Smith, oral history, Berkeley,
+53.]
 
+-----
+
+"We thought we were living with a clean industry," Lorraine Ross told a
+reporter from the *San Francisco Chronicle*.^[Newspaper clipping,
+"Silicon Valley's Fear > Over Tainted Water," *San Francisco Chronicle*,
+May 16, 1983, Carton 20, > Folder 12 Hazardous Waste, California
+Tomorrow Records, MS 3641, > California Historical Society.] Indeed, a
+key selling point for promoters and boosters of the Bay Area's new high
+technology sector was the cleanliness of such manufacturing facilities.
+The language of booster promotion attached the language of "clean," the
+absence of smokestacks, and the prohibition of noise and emissions to
+their materials. Preventing pollution was a very real goal for
+promoters.
+
+But the booster's hope for "clean" industry referred to aesthetics. The 
+process of producing the components that would run the computers of the 
+future were far from environmentally friendly. "I remember thinking 
+about smokestacks in other industries," Mayor Janet Hayes recalled, "I 
+didn't expect this problem in my own backyard."^[Quoted in 
+@pellowpark2002dreams, 76.] IBM, Fairchild Semiconductor, and other 
+companies did not belch smoke into the air but the use of highly toxic 
+chemicals---trichloroethane, chlorinated solvents, heavy metal 
+gases---produced serious health problems causing damage to circulatory 
+and reproduction systems, liver and kidney failure, and cancers. As 
+investigations by state and federal officials uncovered widespread 
+chemical spills and the EPA declared Superfund sites, the perception of 
+clean industry declined while creating an environmental justice wing of 
+the environmental movement in the Bay Area. The "clean" industries in 
+the garden permanently altered land and human bodies.
 
