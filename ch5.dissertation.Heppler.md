@@ -1,15 +1,19 @@
 ---
 author:
 - 'Jason A. Heppler'
-title: "Something in the Soil: Toxics and the Landscape of Health"
+title: |
+  | Chapter 5
+  | Something in the Soil:
+  | Industrial Toxics and the Landscape of Health
 ...
 
 > The horizon above San Jose is unmarred by smokestacks, and people here
 > are proud of that. They have worked hard at making the valley a base
 > of the computer-electronics industry and an unpolluted place to live.
 >
-> ---San Francisco Bay Regional Quality Control Board^[@pellowpark2002dreams,
-> 72.]
+> ---*New York Times*^["Leaking Chemicals in
+> California's Silicon Valley Alarms Neighbors," *New York Times*, May
+> 20, 1982.]
 
 > When I first became Mayor and we embarked on an economic development
 > program, there was no doubt in my mind that this was a clean industry.
@@ -20,56 +24,63 @@ title: "Something in the Soil: Toxics and the Landscape of Health"
 > California's Silicon Valley Alarms Neighbors," *New York Times*, May
 > 20, 1982.]
 
-> It has become obvious that the absence of smokestacks does not mean an
-> absence of environmental problems.
+> All of this industrial activity is hard to notice, however. Driving 
+> from Stanford University in Palo Alto to the green hills east of San 
+> Jose, one sees no smokestacks at all, and hardly anything that even 
+> looks like a factory. . . . It has become obvious that the absence of 
+> smokestacks does not mean an absence of environmental problems.
 >
-> ---Judith Ayres, EPA Regional Administrator^[*EPA Journal* 1984: 14.]
+> ---Judith Ayres, EPA Region 9 Administrator^[Judith E. Ayres, "Controlling the Dangers 
+> from High-Tech Pollution," *EPA Journal* 10 
+> (December 1984): 14.]
 
-Construction workers sunk their backhoe into the earth in an early
-November morning, making way in the soil for a second underground
-industrial solvents storage tank for Fairchild Semiconductor. Digging
-near an existing storage tank, the workers noticed something about the
-soil that did not seem right: the soil seemed exceptionally wet and had
-taken on a rust-colored hue. Digging deeper they discovered a leak in
-the bottom of the existing storage tank. The leak went undiscovered when
-the above-ground gauge that measured the volume of liquid in the tank
-failed, and the system normally monitoring incoming chemicals had not
-been routinely checked. Concerned about the size of the leak, the
-construction crew reported their finding to Fairchild and the Great
-Oaks Water Company, which operated drinking water wells nearby that
-serviced several thousand residents. The water company closed the wells
-immediately. Tests confirmed that an industrial solvent containing the
-carcinogen 1,1,1 trichloroethane (TCA) had leaked from the tank and
-concentrated in the wells at nearly twenty times the permissible limit
-established by the Environmental Protection Agency. Nearly 60,000
-gallons of toxic chemicals had leaked from the tank for at least two
-years.^[Newspaper clipping, "Water contaminated by leak," *San Jose
-Mercury*, January 20, 1982, Folder 2, Box 11, Silicon Valley Toxics
-Coalition Records, San Jose State University Special Collections; "Get
-Tough Now to Avoid Spills," Gilroy Dispatch, July 1, 1983; Peter Murphy,
-"Great Oaks Water Company Distribution Study," draft report, Folder 1,
-Box 11, SVTC, SJSU; "High-Tech: a Stain on a 'Clean' Field," *Los
-Angeles Times* December 22, 1983.]
+Construction workers sunk their backhoe into the earth in an early 
+November morning in 1981, making way in the soil for a second 
+underground industrial solvents storage tank for Fairchild 
+Semiconductor's South San Jose facility. Digging near an existing 
+storage tank, the workers noticed something about the soil that did not 
+seem right: the soil was exceptionally wet and had taken on a 
+rust-colored hue and strange odor. Digging deeper they discovered a leak 
+in the bottom of the existing storage tank. The leak went undiscovered 
+when the above-ground gauge that measured the volume of liquid in the 
+tank failed, and the system normally monitoring incoming chemicals had 
+not been routinely checked. Concerned about the size of the leak, the 
+construction crew reported their finding to Fairchild and the Great Oaks 
+Water Company, which operated drinking water wells nearby servicing 
+several thousand residents. The water company closed the wells 
+immediately. Tests confirmed that an industrial solvent containing the 
+carcinogen 1,1,1 trichloroethane (TCA) had leaked from the tank and 
+concentrated in the wells at nearly twenty times the permissible limit 
+established by the Environmental Protection Agency. Nearly 60,000 
+gallons of toxic chemicals had leaked from the tank for at least two 
+years.^[Newspaper clipping, "Water contaminated by leak," *San Jose 
+Mercury*, January 20, 1982, Folder 2, Box 11, Silicon Valley Toxics 
+Coalition Records, San Jose State University Special Collections; "Get 
+Tough Now to Avoid Spills," *Gilroy Dispatch*, July 1, 1983; Peter 
+Murphy, "Great Oaks Water Company Distribution Study," draft report, 
+Folder 1, Box 11, SVTC, SJSU; "High-Tech: a Stain on a 'Clean' Field," 
+*Los Angeles Times* December 22, 1983.]
 
-Juliana Ross was only nine months old in 1982 when she
+\thoughtbreak{Juliana Ross was only nine months old} in 1982 when she
 had her first open-heart surgery. When her mother, Lorraine, opened the
 pages of the *San Jose Mercury News* on January 20, she saw the news:
 Fairchild Semiconductor, just a quarter mile from her home, had had an
 environmental catastrophe. Suddenly, the neighborhood stories and
-problems all made sense. Her neighbors had complained about the water
-tasting and smelling funny, but worse were the four children with birth
-defects, the two miscarriages, and the one stillbirth that had taken
-place on Lorraine's block in the past three years. And her youngest
-child, nine months old at the time, faced multiple congenital heart
-defects.  Lorraine Ross could not help but wonder if the leak and the
-health problems were connected.^[Newspaper clipping, "Water contaminated
-by leak," *San Jose Mercury*, January 20, 1982, Folder 2, Box 11, Silicon
-Valley Toxics Coalition Records, San Jose State University Special
-Collections; newspaper clipping, "Silicon Valley's Fear Over Tainted
-Water," San Francisco Chronicle, May 16, 1983, Carton 20, Folder 12
-Hazardous Waste, California Tomorrow Records, MS 3641, California
-Historical Society; "Birth defects and chemicals," *San Jose Mercury*,
-February 3, 1982, SVTC Records, SJSU.]
+problems all made sense. Her neighbors in the Los Paseos neighborhood
+had complained about the water tasting and smelling funny, but of
+greater concern were the four children with birth defects, the two
+miscarriages, and the one stillbirth that had taken place on her 
+block in the past three years. And her youngest child, nine months old
+at the time, faced multiple congenital heart defects.  Lorraine Ross
+could not help but wonder if the leak and the health problems were
+connected.^[Newspaper clipping, "Water contaminated by leak," *San Jose
+Mercury*, January 20, 1982, Folder 2, Box 11, Silicon Valley Toxics
+Coalition Records, San Jose State University Special Collections;
+newspaper clipping, "Silicon Valley's Fear Over Tainted Water," San
+Francisco Chronicle, May 16, 1983, Carton 20, Folder 12 Hazardous Waste,
+California Tomorrow Records, MS 3641, California Historical Society;
+"Birth defects and chemicals," *San Jose Mercury*, February 3, 1982,
+SVTC Records, SJSU.]
 
 News of Fairchild's chemical leak captured the Bay Area's attention in early 1982,
 and parents whose children had experienced health problems wondered
@@ -95,7 +106,7 @@ drinking water supplies, the widespread presence of toxic leaks
 concerned many residents in the Valley. For the first time, residents
 confronted the reality of Silicon Valley's dependence on
 chemicals---that the promise of "clean" industry was not so clean after
-all. Stories about the toxic leaks, a chemical explosion at Lockheed
+all. Stories flooded local headlines: hundreds chemical leaks and spills, a chemical explosion at Lockheed
 that forced the evacuation of 400 people from Palo Alto, the stories of
 workers exposed to chemicals that caused hair loss, respiratory
 problems, skin infections, and worse. Valley residents came to see the
@@ -103,9 +114,9 @@ landscape as tainted. "I'm not anti-semiconductor industry," Lorraine
 Ross noted, "but I don't want my health adversely affected by their
 profit-making. Companies should be willing to invest a portion of their
 profit to ensure they aren't damaging the environment."^[Susan Benner,
-“Storm Clouds Over Silicon Valley,” *Inc* (September 1982), 84.] Studies in 1992
-reported that 57 private and 47 public drinking wells were contaminated,
-and 66 plots of land were too toxic for people to walk on. County
+“Storm Clouds Over Silicon Valley,” *Inc* (September 1982), 84.] By 1992 
+studies found at least fifty-seven private and forty-seven public drinking wells were contaminated,
+and sixty-six plots of land were too toxic for people to walk upon. County
 authorities determined that sixty-five of the seventy-nine companies
 they investigated---including IBM, Hewlett-Packard, Raytheon, NEC, AMD,
 Signetics, and many others---had contaminated the soil beneath their
@@ -179,12 +190,12 @@ New Orleans' contamination by the Environmental Defense Fund published
 two years later showed a high incidence of cancer among people whose
 primary source of drinking water came from the contaminated surface
 waters. New Orleans' contaminated waters helped prompt the passage of
-the Safe Drinking Water Act (SWDA) in 1974 that established quality
+the Safe Drinking Water Act (SWDA) in 1974 that established federal quality
 standards.^[@nash2006inescapable, 173; @hays1987beauty, 198. Water
 quality standards trace themselves to the early twentieth century when
 the U.S. Public Health Service adopted quality standards for drinking
 water regarding the presence of *E. coli* used to combat the spread of
-typhoid.] The Safe Drinking Water Act established "maximum contaminant
+typhoid.] SWDA established "maximum contaminant
 levels" (MCLs) that, in the words of historian Linda Nash, "assumed . .
 . a level of exposure below which no adverse health effects would occur
 in any place, at any time."^[@nash2006inescapable, 173.] MCLs also
@@ -227,9 +238,10 @@ tributaries as well as the San Francisco Bay itself were only the most
 visible signs of the Bay Area's water landscape. Both had been reshaped
 as urban areas expanded rapidly in the postwar era, either through the
 river's physical re-routing in canals, dams, and reservoirs, or from
-higher water levels pouring over their banks from urban runoff. Drinking
+higher water levels pouring over their banks due to urban runoff causing 
+excessive amounts of water. Drinking
 water was not on the minds of most residents. Not until the 1980s would
-the focus turn to the hidden water---that trapped between layers of clay
+the focus turn to the hidden water trapped between layers of clay
 and gravel beneath the surface of the cities. Moreover, groundwater
 supplies were rarely monitored by either the county or the state of
 California. And since high tech industries maintained a perception as
@@ -260,7 +272,7 @@ water.
 
 ### "Fairchild or My Child?"
 
-![Lorraine Ross and her daughter Juliana. "Silcion Valley's Fear Over Tainted Water," *San Francisco Chroncile*, May 16, 1983.](figures/lorraine_ross_profile.png)
+![Lorraine Ross and her daughter Juliana. "Silicon Valley's Fear Over Tainted Water," *San Francisco Chronicle*, May 16, 1983.](figures/lorraine_ross_profile.png)
 
 The Los Paseos neighborhood sparked what one newspaper called the "birth
 of an eco-tragedy."^["Birth of an eco-tragedy" *Los Angeles Herald
@@ -270,9 +282,10 @@ TCA leak shortly after the Fairchild leak was revealed. Studies would
 later find that the IBM leak was among the worst in the South Bay,
 contaminating twenty-five public and private wells.^[Peter Murphy,
 "Great Oaks Water Distribution Study," 1988, 1, Folder 1, Box 11, SVTC
-records, SJSU; Ted Smith oral history, Berkeley, 19; "Responsible action
+records, SJSU; Ted Smith oral history, Berkeley, 19; Ted Smith and Mike 
+Belliveau, "Responsible action
 needed in IBM's toxic waste cleanup," *San Jose Business Journal*, April
-7, 1986, {FILL} Santa Clara County Center for Occupational Health
+7, 1986, Folder 3, Box 18, Santa Clara County Center for Occupational Health
 (SCCOSH) and Silicon Valley Toxics Coalition (SVTC) Records,
 MSS-2007-04-06, San Jose State University Library Special Collections &
 Archives.] To Lorraine Ross and her neighbors, the presence of chemicals
@@ -303,7 +316,7 @@ they could not "accept the dictates of Realtors and developers when it
 comes to determining the health of our families. You all have the right
 to talk loudly. It's important that Gilroy plan ahead for
 industry."^["Get tough now to avoid spills," *Gilroy Dispatch*, August
-1, 1983, Folder 5, Box 10, {FILL} Santa Clara County Center for
+1, 1983, Folder 5, Box 10, Santa Clara County Center for
 Occupational Health (SCCOSH) and Silicon Valley Toxics Coalition (SVTC)
 Records, MSS-2007-04-06, San Jose State University Library Special
 Collections & Archives.] Communities had to insist on their health.
@@ -387,11 +400,11 @@ wellwater throughout the county. In the South Bay near Los Paseos, water
 sampling revealed trace levels of TCA and DCE, but the amounts were
 below the state action level to shut down the wells.^["Environmental
 News Fact Sheet: Status Report, South Bay Tapwater Sampling Program,"
-November 5, 1984, Folder 14, Box 12, {FILL} Santa Clara County Center
+November 5, 1984, Folder 14, Box 12, Santa Clara County Center
 for Occupational Health (SCCOSH) and Silicon Valley Toxics Coalition
 (SVTC) Records, MSS-2007-04-06, San Jose State University Library
 Special Collections & Archives; "Proposed South Bay Sampling Event,
-October 9," Folder 14, Box 12, {FILL} Santa Clara County Center for
+October 9," Folder 14, Box 12, Santa Clara County Center for
 Occupational Health (SCCOSH) and Silicon Valley Toxics Coalition (SVTC)
 Records, MSS-2007-04-06, San Jose State University Library Special
 Collections & Archives.]
@@ -478,7 +491,10 @@ Box 10, Santa Clara County Center for Occupational Health (SCCOSH) and
 Silicon Valley Toxics Coalition (SVTC) Records, MSS-2007-04-06, San Jose
 State University Library Special Collections & Archives. See also "Labor
 in lead on toxic controls," *Santa Clara County Labor*, February 11,
-1983, Folder 5, Box 10, SVTC records, SJSU.] These concerns reflected a
+1983, Folder 5, Box 10, Santa Clara County Center for Occupational 
+Health (SSOSH) and Silicon Valley Toxics Coalition (SVTC) Records, 
+MSS-2007-04-06, San Jose STate University Library Special Collections & 
+Archives.] These concerns reflected a
 new environmentalism in California, one still grounded locally but
 concerned about issues beyond the flora and fauna of the region that
 remained the bailiwick of other Bay Area conservation movements. The Bay
@@ -735,13 +751,15 @@ Bay Area city managers led by Sunnyvale manager Thomas Lewcock, San Jose
 Mayor Janet Gray Hayes, the Santa Clara County Regional Water District,
 and was quickly adopted by Peninsula cities.^["Contamination law gets
 approval from Sunnyvale," *San Jose Mercury News*, March 23, 1983,
-{FILL} Santa Clara County Center for Occupational Health (SCCOSH) and
+Folder 5, Box 10, Santa Clara County Center for Occupational Health (SCCOSH) and
 Silicon Valley Toxics Coalition (SVTC) Records, MSS-2007-04-06, San Jose
 State University Library Special Collections & Archives; "San Jose OKs
 ordinance regulating chemical storage," *San Jose Mercury News*,
-February 23, 1983, {FILL} SVTC records, SJSU; "Cupertino orders
+February 23, 1983, Folder 5, Box 10, Santa Clara County Center for Occupational Health (SCCOSH) and
+Silicon Valley Toxics Coalition (SVTC) Records, MSS-2007-04-06, San Jose
+State University Library Special Collections & Archives; "Cupertino orders
 hazardous materials permits," *San Jose Mercury News*, August 2, 1983,
-{FILL} Santa Clara County Center for Occupational Health (SCCOSH) and
+Folder 5, Box 10, Santa Clara County Center for Occupational Health (SCCOSH) and
 Silicon Valley Toxics Coalition (SVTC) Records, MSS-2007-04-06, San Jose
 State University Library Special Collections & Archives.] However,
 environmentalists were not completely satisfied with the passage of the
@@ -785,13 +803,18 @@ Mineta introduced House Bill 5640 to the floor of the House, Smith wrote
 urging Mineta to redefine "imminent hazard" provisions in the Superfund
 act and to implement stricter design standards for containing possible
 leaks.^[Letter from Ted Smith to Norman Mineta, July 23, 1984, Folder 3,
-{FILL}, SVTC records, SJSU.] Mineta endorsed Smith's recommendations,
+Box 11, Santa Clara
+Center for Occupational Health (SCCOSH) and Silicon Valley Toxics
+Coalition (SVTC) Records, MSS-2007--04--06, San Jose State University
+Library Special Collections & Archives.] Mineta endorsed Smith's recommendations,
 adding the two suggestions to the Superfund amendments. Although the
 bill failed to make it through the Senate, the adoption of Santa Clara
 regulations into federal legislation demonstrates just how important
 Silicon Valley's case had become to the anti-toxics legislation.^[Letter
-from Norman Mineta to Ted Smith, October 25, 1984, {FILL}, SVTC records,
-SJSU.]
+from Norman Mineta to Ted Smith, October 25, 1984, Folder 3, Box 11, Santa Clara
+Center for Occupational Health (SCCOSH) and Silicon Valley Toxics
+Coalition (SVTC) Records, MSS-2007--04--06, San Jose State University
+Library Special Collections & Archives.]
 
 <!-- where am I going with this?
 The work of the Silicon Valley Toxics Coalition in helping craft and
@@ -929,7 +952,9 @@ trichloroethylenes with petroleum byproducts on the Moffett site began
 breaking down the compounds into dichloroethylenes and vinyl
 chloride.^[Smith oral history, Berkeley, 62; "Mt. View Sites May Take
 300 Years to Clean Up," *Silicon Valley Toxics News* (Winter 1989): 4,
-{FILL}, League of Women Voters, SJSU.] Chemical reactions underground
+Folder 64, Box 3, League of Women Voters, San Jose/Santa Clara chapter 
+Records, MSS-2006-09-01, San Jose State University Library Special 
+Collections and Archives.] Chemical reactions underground
 were reshaping the Valley's environment.
 
 The spatialized pollution landscape took on greater importance as SVTC,
@@ -939,8 +964,10 @@ presence of water-borne chemicals appeared to be getting out of hand.
 Despite efforts to identify leaks and the passage of local laws to
 regulate the storage of chemicals, local governments were unprepared to
 shoulder the burden. In the wake of the leaks, San Jose established a
-new Office of Environmental Management tasked with overseeing {DETAIL}.
-Even the hazardous ordinance went unfollowed or difficult to enforce in
+new Office of Environmental Management tasked with overseeing the 
+implementation of the city's hazardous materials ordinance.
+But in many cities the hazardous ordinance went unfollowed or difficult 
+to enforce in
 cities that had passed the ordinance. Sunnyvale reported in 1986 that
 only 189 out of 745 companies had passed inspection of hazardous
 chemicals storage.  The Bayview Industrial Park in south San Francisco
@@ -951,7 +978,10 @@ that it had not implemented the hazardous ordinance program passed by
 the city. County-wide, cities had processed only forty-nine percent of
 permit applications for the storage of chemicals.^["Slow progress in
 cataloging toxic threats," *San Jose Mercury News*, April 13, 1986,
-Folder 5, Box 10, SVTC records, SJSU; "Cities lag on enforcing toxics
+Folder 5, Box 10, Santa
+Clara County Center for Occupational Health (SCCOSH) and Silicon Valley
+Toxics Coalition (SVTC) Records, MSS-2007-04-06, San Jose State
+University Library Special Collections & Archives; "Cities lag on enforcing toxics
 laws," *San Jose Mercury News*, January 1, 1986, Folder 5, Box 10, Santa
 Clara County Center for Occupational Health (SCCOSH) and Silicon Valley
 Toxics Coalition (SVTC) Records, MSS-2007-04-06, San Jose State
@@ -971,13 +1001,14 @@ to the crisis.^[Belliveau claims that the EPA knew about the presence of
 contaminated water since 1979 but made no moves to require cleanup of
 toxic chemicals until 1984.  EPA documents seem to confirm the
 organization knew about contamination sites in 1979. "EPA explains what
-it's doing," *Times Tribune*, August 17, 1984, Folder {FILL}, Box
-{FILL}, Santa Clara County Center for Occupational Health (SCCOSH) and
+it's doing," *Times Tribune*, August 17, 1984, Folder 8, Box
+12, Santa Clara County Center for Occupational Health (SCCOSH) and
 Silicon Valley Toxics Coalition (SVTC) Records, MSS-2007-04-06, San Jose
 State University Library Special Collections & Archives; Environmental
 Protection Agency, "Superfund National Priorities List Sites in the
 South Bay," July 1986, 1, Folder 114, Box 4, League of Women Voters,
-Santa Clara County Chapter {DETAIL}, SJSU.] Although the EPA had
+San Jose/Santa Clara chapter Records, MSS-2006-09-01, San Jose State 
+University Library Special Collections and Archives.] Although the EPA had
 identified fifteen to twenty sites as eligible for the National Priority
 List (NPL), "not a single site has been listed . . . as a superfund
 site," Smith complained to Representative Norman Mineta. SVTC appealed
@@ -999,7 +1030,7 @@ residents. Barbara Fenster, who lived near the IBM leak in San Jose,
 asked: "EPA stands for Environmental Protection Agency. I'd be glad to
 know what part of the valley the EPA protects, because it sure isn't
 drinking water."^["EPA explains what it's doing," *Times Tribune*,
-August 17, 1984, Folder {FILL}, Box {FILL}, Santa Clara County Center
+August 17, 1984, Folder 8, Box 12, Santa Clara County Center
 for Occupational Health (SCCOSH) and Silicon Valley Toxics Coalition
 (SVTC) Records, MSS-2007-04-06, San Jose State University Library
 Special Collections & Archives.]
@@ -1030,7 +1061,7 @@ neighborhoods. The problem had become so great that many thought of the
 entire place as contaminated.^[The Regional Water Quality Control Board
 also called on the EPA to view the entire Peninsula as a single
 Superfund site. See also "EPA explains what it's doing," *Times
-Tribune*, August 17, 1984, Folder {FILL}, Box {FILL}, SVTC records,
+Tribune*, August 17, 1984, Folder 8, Box 12, SVTC records,
 SJSU.]
 
 ![Bay Area Superfund sites (large circles) and toxic leak sites. Map by author. Interactive version is at http://dissertation.jasonheppler.org/visualizations/companies/](figures/bay_superfund_sites.png)
@@ -1041,7 +1072,8 @@ Intel, Raytheon, and Westinghouse became declared Superfund sites in
 Sunnyvale, Mountain View, and Santa Clara.^[Environmental Protection
 Agency, "Superfund National Priorities List Sites in the South Bay,"
 July 1986, 1, Folder 114, Box 4, League of Women Voters, Santa Clara
-County Chapter {DETAIL}, SJSU.] By 1990 the EPA listed twenty-nine
+chapter Records, MSS-2006-09-01, San Jose State University Library 
+Special Collections and Archives.] By 1990 the EPA listed twenty-nine
 Superfund sites on the National Priority List, twenty-four of which
 resulted from the mishandling of chemicals by high tech industries.
 
@@ -1082,8 +1114,10 @@ regulation regarding potentially toxic gases. Rather, environmentalists
 feared what would happen to the Bay Area in the event of an earthquake
 or fire. Bay Area manufacturers lacked smokestacks, but stored vast
 quantities of chemicals.^["Toxic gas leak is 'inevitable,' doctor
-warns," *San Jose Mercury News* June 6, 1982, {FILL} SVTC records,
-SJSU.]
+warns," *San Jose Mercury News* June 6, 1982, Folder 5, Box 10, Santa 
+Clara Center for Occupational Health (SCCOSH) and Silicon Valley Toxics 
+Coalition (SVTC) Records, MSS-2007-04-06, San Jose State University 
+Library Special Collections and Archives.]
 
 ![*Silicon Valley Toxics News* 7 (Winter 1989).](figures/revolution_1989_toxics_news.png)
 
@@ -1092,7 +1126,7 @@ the SCCFCA to pursue a second toxic model ordinance focused on the
 regulation of gases in 1986. Under a \$100,000 budget granted to them by
 a state bill proposed by Assemblymen Ernest Konnyu of Saratoga and Byron
 Sher, the fire chiefs' drafted a model bill that laid out similar
-guideliens as those contained in the Hazardous Materials Ordinance three
+guidelines as those contained in the Hazardous Materials Ordinance three
 years earlier. The draft bill called on businesses to report the type
 and volume of gases stored on their property, inform nearby communities
 of what materials they stored on-site, and install an alarm system to
@@ -1113,23 +1147,111 @@ deadly gas leak by Union Carbide outside Bhopal, India, in late 1984
 that killed more than 2,000 people provided a political impetus for the
 Bay Area's toxic gas regulation. The Konnyu-Sher bill for funding a
 draft ordinance passed in the shadow of the Bhopal Incident, one of the
-worst industrial accidents of the twentieth century.
+worst industrial accidents of the twentieth century. The Bhopal Disaster
+occurred in December 1984 when Union Carbide's pesticide plant
+experienced a failure of a holding tank that released thirty metric tons
+of methyl isocyanate within an hour. The resulting cloud drifted
+southward over Bhopal. Within days, nearby trees dropped all of their
+leaves, thousands of animal carcasses needed disposal, and nearly
+200,000 people received treatment at hospitals. A Bhopal-like disaster
+was the nightmare scenario for the Bay Area's anti-toxics
+environmentalists and only confirmed the need for additional
+regulation.^[On the Bhopal disaster, see @jasanoff2007bhopal;
+@jasanoff2007bhopal.]
 
 The potential of a toxic gas leak reshaped how environmentalists thought
-about space.  Whereas the presence of water contamination focused on
+about space. Whereas the presence of water contamination focused on
 specific places, the release of gases obliterated any sense of space
 affected by pollution. One study by San Jose State University using the
 EPA's air models found that a gas leak in the Bay Area had the potential
-to spread as far as twenty kilometers.^[Smith, oral history, Berkeley,
-53.]
+to spread as far as twelve-and-a-half miles.^["Report Warning of
+Disaster Readiness at Silicon Valley," *New York Times*, February 25,
+1987; Smith, oral history, Berkeley, 53.] Such a leak would nearly
+encompass the entire city of San Jose and would certainly cover the
+narrow stretch of land between the Pacific Ocean and the San Francisco
+Bay. Although difficult, water-borne chemical plumes could be mapped and
+cleaned-up. The instantaneous release of gases, however, meant that
+specific space mattered less.
+
+Industry immediately rejected the guidelines of the new ordinance,
+arguing that the fire chiefs' plan was too strict and costly to
+implement. A second draft created in collaboration between industry and
+Bay Area cities assigned hazard classification to toxic gases, required
+new storage and alarm systems for detecting and responding to accidental
+leaks, and a system of neutralizing emission gases before their release
+into the air. The law extended to to common gases like chlorine and
+ammonia, meaning municipal facilities, sewage treatment, and swimming
+pools were subject to the law's regulations.^["Landmark Toxics Law Up
+for OK in Valley," *San Jose Mercury News*, January 9, 1989; "Toxic
+Containment the County, Industry and the Public Cooperated in Writing is
+a Worthwhile Plan," *San Jose Mercury News*, January 22, 1990; "Toxic
+Gas Law Adopted," *San Jose Mercury News*, January 31, 1990; "Palo Alto
+Gets Tough on Toxics," *San Jose Mercury News*, March 28, 1990.] By
+1991, all cities in the Bay Area had adopted the ordinance.
+
+-----
+
+End-of-the-century environmental justice advocates insisted on the
+spatiality of health. The attention given to bodies, ecology,
+pollution, and justice, as Linda Nash has noted, drew upon earlier
+notions of environmentalism from the 1960s. Rachel Carson and others had
+insisted that anyone could fall ill to the modern environment, but
+environmental justice advocates took those claim further. Environmental
+and structural factors, rather than the individuality of genetics, poor
+hygiene, poor sanitation, or chance, were pointed to as causes for
+disease. By pushing the claim that health and environment went
+hand-in-hand, justice activists went beyond the middle-class and
+suburban concerns of Carson and others. Justice advocates saw in the
+geography of pollution a racial and class bias that disproportionately
+affected non-white and poor communities. While they might agree with
+Carson's claim that nobody was immune to the modern environment's
+potential dangers, they saw a specific geography that offloaded
+pollution to certain communities while government and business turned a
+blind eye.^[@nash2006inescapable, 203--204. See also
+@klingle2007emerald; @pulido1996justice; @pulido2000racism;
+@bullard1990dixie; @hurley1995inequalities; @pellowpark2002dreams.]
+
+Silicon Valley's justice advocates argued that the spatial pattern of
+health emerged from a particular form of land use. Rather than seeing
+the landscape as a place for business or a place for pleasure, the
+landscape was redefined as a place for health (or lack of it). Within
+this perception of the landscape, the Silicon Valley Toxics Coalition
+and others saw Santa Clara Valley as contaminated. The use of the land
+for business, however clean and modern it had appeared, proved to
+generate a dangerous landscape. The presence of sick bodies or the
+potential for adverse health formed a critique of the modern environment
+that was spatialized.
+
+Certain places in the landscape were more dangerous than others, a point
+activists insisted upon as evidence for rendering the "clean" landscape
+as a perpetual failure. Human bodies became indicators of a specific
+kind of landscape where bodies were inextricably tied to contaminated
+waters and polluted air. The locality of the polluted landscape had
+repercussions through local, county, regional, state, and federal law.
+Proximity to businesses mattered, but even communities seemingly distant
+to the location of industrial parks and business centers could be
+affected by migrating chemical plumes or the explosive release of gases.
+
+But by the end of the century, activists no longer saw specific places as
+polluted spaces. Criticisms of industrial pollution no longer focused on
+MEW or Los Paseos. Instead, justice advocates saw the entire San
+Francisco Peninsula as a place under threat. "The danger is that if this
+can happen in Mountain View, it can happen anywhere in the valley,"
+Smith told the *San Jose Mercury News* in 1986.^["Toxics at Deep Level,"
+*San Jose Mercury News*, May 4, 1986.] By thinking of the entire
+region as a Superfund site, by acknowledging the difficulty in tracking
+the spread and size of chemical plumes, and the recognition that toxic
+gas releases would recognize no discernible boundaries, environmental
+justice advocates perceived Silicon Valley as a landscape burdened by
+the anxiety of illness.
 
 -----
 
 "We thought we were living with a clean industry," Lorraine Ross told a
 reporter from the *San Francisco Chronicle*.^[Newspaper clipping,
-"Silicon Valley's Fear > Over Tainted Water," *San Francisco Chronicle*,
-May 16, 1983, Carton 20, > Folder 12 Hazardous Waste, California
-Tomorrow Records, MS 3641, > California Historical Society.] Indeed, a
+"Silicon Valley's Fear Over Tainted Water," *San Francisco Chronicle*,
+May 16, 1983, Carton 20, Folder 12 Hazardous Waste, California
+Tomorrow Records, MS 3641, California Historical Society.] Indeed, a
 key selling point for promoters and boosters of the Bay Area's new high
 technology sector was the cleanliness of such manufacturing facilities.
 The language of booster promotion attached the language of "clean," the
@@ -1137,19 +1259,19 @@ absence of smokestacks, and the prohibition of noise and emissions to
 their materials. Preventing pollution was a very real goal for
 promoters.
 
-But the booster's hope for "clean" industry referred to aesthetics. The 
-process of producing the components that would run the computers of the 
-future were far from environmentally friendly. "I remember thinking 
-about smokestacks in other industries," Mayor Janet Hayes recalled, "I 
-didn't expect this problem in my own backyard."^[Quoted in 
-@pellowpark2002dreams, 76.] IBM, Fairchild Semiconductor, and other 
-companies did not belch smoke into the air but the use of highly toxic 
-chemicals---trichloroethane, chlorinated solvents, heavy metal 
-gases---produced serious health problems causing damage to circulatory 
-and reproduction systems, liver and kidney failure, and cancers. As 
-investigations by state and federal officials uncovered widespread 
-chemical spills and the EPA declared Superfund sites, the perception of 
-clean industry declined while creating an environmental justice wing of 
-the environmental movement in the Bay Area. The "clean" industries in 
+But the booster's claims for "clean" industry referred to aesthetics. The
+process of producing the components that would run the computers of the
+future were far from environmentally friendly. "I remember thinking
+about smokestacks in other industries," Mayor Janet Hayes recalled, "I
+didn't expect this problem in my own backyard."^[Quoted in
+@pellowpark2002dreams, 76.] IBM, Fairchild Semiconductor, and other
+companies did not belch smoke into the air but the use of highly toxic
+chemicals---trichloroethane, chlorinated solvents, heavy metal
+gases---produced serious health problems causing damage to circulatory
+and reproduction systems, liver and kidney failure, and cancers. As
+investigations by state and federal officials uncovered widespread
+chemical spills and the EPA declared Superfund sites, the perception of
+clean industry declined while creating an environmental justice wing of
+the environmental movement in the Bay Area. The "clean" industries in
 the garden permanently altered land and human bodies.
 

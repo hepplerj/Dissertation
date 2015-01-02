@@ -1,5 +1,7 @@
 ---
-title: "Space, Place, and Nature in Silicon Valley"
+title: |
+  | Chapter 1
+  | Space, Place, and Nature in Silicon Valley
 author:
 - 'Jason A. Heppler'
 ...
@@ -280,6 +282,12 @@ emphasizes aspects of geography that appeal to beauty, economy, or culture.
 Landscapes are both physically and mentally constructed according to our
 preferences and experiences. In turn, these expectations shape and reshape the
 environment.[^cf22]
+
+![The overlapping landscapes. The map depicts the urban (colored 
+polygons), open space (dark gray polygons), Superfund sites (large red 
+circles), toxic and chemical leaks and spills (small orange circles), 
+and rivers of the Bay Area. Map by author using D3.js and data courtesy 
+NHGIS, the Bay Area Conservation Lands Network, and U.S. Census.](figures/landscapes.png)
 
 The grassroots approach of this work reveals that environmentalists often
 cared less about political affiliations of Republican and Democrat but more
