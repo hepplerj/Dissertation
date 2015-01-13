@@ -4,7 +4,13 @@ author:
 - Jason A. Heppler
 ...
 
-> If America is the land were the world goes in search of miracles and redemption, California is the land where Americans go. It is America’s America, the symbol of raw hope and brave (even foolish) invention, where ancient traditions and inhibitions are abandoned at the border. Its peculiar culture squirts out — on film and menus and pages and television beams — the trends and tastes that sweep the rest of the country.
+> If America is the land were the world goes in search of miracles and 
+> redemption, California is the land where Americans go. It is America’s 
+> America, the symbol of raw hope and brave (even foolish) invention, 
+> where ancient traditions and inhibitions are abandoned at the border. 
+> Its peculiar culture squirts out — on film and menus and pages and 
+> television beams — the trends and tastes that sweep the rest of the 
+> country.
 > 
 > *Time*, November 18, 1991
 
@@ -18,7 +24,6 @@ author:
 > where there is nowhere to go but out of your mind.
 >
 > Louis Simpson, *Air with Armed Men*
-
 
 
 <!--

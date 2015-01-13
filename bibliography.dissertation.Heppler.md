@@ -4,7 +4,7 @@ title: Bibliography
 
 \hspace{-0.25in} **Archival Collections**
 
-*Special Collections, San Jose State University*    
+/noindent *Special Collections, San Jose State University*    
 Alfred E. Alquist Papers  
 Don Edwards Congressional Papers  
 Glenna Matthews Oral History Collection  
@@ -22,6 +22,7 @@ Arnold Del Carlo Photograph Collection
 Catherine Bauer Wurster Papers  
 Dorothy Ward Erskine Papers  
 T. J. Kent Papers  
+Save San Francisco Bay Association  
 
 *California Historical Society*    
 California Tomorrow Records  

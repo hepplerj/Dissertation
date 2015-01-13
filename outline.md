@@ -56,5 +56,4 @@ heavily on chemicals that are harmful to humans. The final chapter traces the
 evolution of environmentalism in the Bay Area as organizations began to 
 consider, for the first time, environmental justice, labor, and health (versus 
 the previous three decades that focused on aesthetics, conservation, and
-
 recreation).

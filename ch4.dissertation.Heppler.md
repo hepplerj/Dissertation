@@ -1,5 +1,5 @@
 ---
-title: "A Place for Nature: The Campaigns to Protect Wetlands, Hillsides, and Floodplains"
+title: "A Place for Nature: The Campaigns to Protect Space and Contain Cities"
 author:
 - Jason A. Heppler
 ...
@@ -21,19 +21,51 @@ author:
 <!--ARGUMENT: As "nature" receded underneath asphalt, Bay Area environmentalists
 sought to create places for "nature" through open space, etc.-->
 
-Journalist Leonard Downie could scarcely find nature in Silicon Valley. Visiting
-San Jose in the early 1970s, he concluded that the only remaining open space
-existed along the "carefully tended and regularly watered greenery along the
-shoulders of the county's many freeways."^[Leonard Downie, Jr., "A Misplanned
-Suburb," *Washington Post*, December 30, 1973.]
+Journalist Leonard Downie could scarcely find nature in Silicon Valley.
+Visiting San Jose in the early 1970s, he concluded that the only
+remaining open space existed along the "carefully tended and regularly
+watered greenery along the shoulders of the county's many freeways." The
+Santa Clara Valley had become defined by the clusters of poorly-built
+and quickly constructed homes, traffic that had given the air a
+"mustard-colored haze," and urban space so compact that there existed no
+"open spaces, parks or even sidewalks." Downie blamed poor planning and
+greed for the valley's urban problems, citing a study that found
+residential density could be maintained near 1973 levels in just thirty
+square miles that could have saved miles of open space and orchards.
+Santa Clara County, Downie concluded, had become a "jigsaw puzzle of intertwined
+suburbs" and the land "systematically ravaged" by "speculators,
+developers, other entrepreneurs and homebuyers."^[Leonard Downie, Jr.,
+"A Misplanned Suburb," *Washington Post*, December 30, 1973.]
 
-Driving along the Bayshore Freeway from San Jose to Palo Alto, newcomers and
-old-timers alike would have a hard time distinguishing one town from another.
-Annexations and construction occurred as such a rapid pace that it obliterated
-the boundaries between towns. One could scarcely notice when passing over a
-city boundary, and the patchwork of annexations made this particularly
-problematic. <!-- I have a source somewhere that notes this problem. Is it the
-Hayes survey? Or something from California Tomorrow? -->
+Downie was not alone in questioning the value of urban growth at the 
+expense of disappearing open space. By the mid-1960s, advocates of 
+protecting open space for recreation, aesthetics, and health came to 
+dominate the environmental discourse in the Bay Area. All along the 
+Peninsula, advocates argued for new restrictions on city growth and the 
+protection of greenbelts, public parks, and wilderness areas. Debates 
+over open space in Santa Clara Valley followed three branches.  The 
+first emerged among expert urban planners and residential activists, who 
+relied on professionals to form a critique of poor urban planning and 
+the loss of natural landscapes. The second came from anti-growth and 
+no-growth advocates who urged tightened restrictions on the places that 
+cities were allowed to expand. Finally, another branch of activists 
+focused their argument around issues of recreation. Together, these 
+activists shared a common language---using terms such as "beauty," 
+"wilderness," "ecology"---but used that vocabulary to defend and define 
+different goals. The advocates for open space revealed a clash between 
+competing political ideas and urban priorities, and the very definition 
+of "nature" sat at the middle of the conflict.
+
+
+-----
+
+If you aggregated the Bay Area's greenbelts, open space, reserves, and
+parks, geographer Richard Walker has noted, the total amounts to more
+protected land than the entirety of Yosemite National
+Park. More than 3.75 million acres are protected open space and open
+water, while only 750,000 acres lie beneath the built environment.^[@walker2007countrycity, 3.]
+
+-----
 
 Environmental observers already determined that the sprawling cities were
 destroying the Bay Area. All across California, sprawl had become a defining
@@ -53,9 +85,9 @@ urban sprawl for the "destruction of California":
 > food on distant lands.^[Dasmann, *The Destruction of California*, 19.
 > Quoted in Rome, *Bulldozer in the Countryside*, 139.]
 
-Up and down the San Francisco Peninsula, environmentalists would make the case
-for the protection of open space and begin campaigning for strict limits on
-urban growth.
+\noindent Up and down the San Francisco Peninsula, environmentalists
+would make the case for the protection of open space and begin
+campaigning for strict limits on urban growth.
 
 ## San Jose's Sprawling End
 
@@ -66,7 +98,7 @@ urban growth.
 ## Mountain View Welcomes Industry
 
 
-
+## Recreation in the Foothills
 
 
 <!--
