@@ -1,5 +1,7 @@
 ---
-title: The Geography of Nowhere
+title: |
+  | Conclusion
+  | The Geography of Nowhere
 author:
 - Jason A. Heppler
 ...

@@ -1,6 +1,6 @@
 ---
 title: |
-  | Chapter 1
+  | Introduction
   | Space, Place, and Nature in Silicon Valley
 author:
 - 'Jason A. Heppler'
@@ -10,9 +10,9 @@ author:
 > exclusively from books, maps, aerial photographs, and structured field
 > surveys. He writes as though people were endowed with mind and vision and no
 > other sense with which to apprehend the world and find meaning in it. He and
-> the architect--planner tend to assume familiarity---the fact that we are
+> the architect-planner tend to assume familiarity---the fact that we are
 > oriented in space and at home in place---rather than describe and try to
-> understand what "being--in--the--world" is truly like.
+> understand what "being-in-the-world" is truly like.
 >
 > --- Yi--Fu Tuan[^cf1]
 
@@ -447,7 +447,7 @@ alone accounted for the most dramatic increase in population due to the
 militarization of its economy.[^cf43]
 
 Postwar prosperity encouraged widespread growth across the country. By the
-1950s many American cities experienced widespread growth, but what was
+1950s many American cities experienced sprawling suburbanization, but what was
 initially seen as a fulfillment of the American dream of homeownership became
 viewed as an environmental disaster. Critics took aim at suburban growth and
 environmental destruction, and nowhere was this change more obvious than in

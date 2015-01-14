@@ -1,7 +1,9 @@
 ---
 author:
 - 'Jason A. Heppler'
-title: Creating the Valley of Heart's Delight
+title: | 
+  | Chapter 1
+  | Creating the Valley of Heart's Delight
 ...
 
 > The whole valley was densely timbered, but the gigantic oaks had to make way
@@ -105,21 +107,20 @@ technology economy began to reshape the landscape.
 
 ## Land's Past
 
-Nearly 12,000 years ago the San Francisco Bay Area began to
-take shape. As the Wisconsin glaciation period was ending the collision
-of the Pacific and North American tectonic plates generated uplift. The 
-collision forced the 
-coastline northward along the San Andreas fault, which caused
-additional uplift creating the coastal range along the California coast. 
-The uplift also reshaped the
-flow of water. By the end of the glacial period, a single river flowed
-across what would become Santa Clara Valley, meeting with the Sacramento
-River to the east and flowing to the lowest point along the Coast Range. Although
-the glaciers never reached coastal California, the changing climate
-reshaped the region's ecology. The melting glaciers increased sea levels
-that flooded the majority of the Santa Clara Valley, creating the San
-Francisco Bay. Nearly 5,000 years ago, the landscape of the present Bay Area
-had nearly taken shape.^[@friedly2000santaclara, 18.]
+Nearly 12,000 years ago the San Francisco Bay Area began to take shape. 
+As the Wisconsin glaciation period was ending the collision of the 
+Pacific and North American tectonic plates generated uplift. The 
+collision forced the coastline northward along the San Andreas fault, 
+which caused additional uplift creating the coastal range along the 
+California coast.  The uplift also reshaped the flow of water. By the 
+end of the glacial period, a single river flowed across what would 
+become Santa Clara Valley, meeting with the Sacramento River to the east 
+and flowing to the lowest point along the Coast Range. Although the 
+glaciers never reached coastal California, the changing climate reshaped 
+the region's ecology. The melting glaciers increased sea levels that 
+flooded the majority of the Santa Clara Valley, creating the San 
+Francisco Bay. Nearly 5,000 years ago, the landscape of the present Bay 
+Area had nearly taken shape.^[@friedly2000santaclara, 18.]
 
 ## Spanish Settlement
 

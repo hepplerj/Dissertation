@@ -1,3 +1,8 @@
+
+Using Silicon Valley as a case study, this dissertation examines how 
+activists influenced by the environmental movement reconfigured urban 
+culture in the American West.
+
 My dissertation examines the environmental, economic, and cultural conflicts 
 over the suburbanization and postindustrialization of California's Santa Clara 
 Valley -- today known as Silicon Valley -- between 1940 and 2000. High 

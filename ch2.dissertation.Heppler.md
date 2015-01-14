@@ -1,7 +1,9 @@
 ---
-title: '"Carved from a Forest of Fruit Trees": Land Use, Suburbs, and the Environmental Limits of Growth Politics'
 author:
 - 'Jason A. Heppler'
+title: |
+  | Chapter 2
+  | "Carved from a Forest of Fruit Trees"
 ...
 
 > Hammer in hand, the county went noisily about the job of transforming itself

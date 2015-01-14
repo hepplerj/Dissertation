@@ -1,7 +1,9 @@
 ---
-title: "Machines in the Garden: Suburban Environmentalism and Stanford Industrial Park"
 author:
 - 'Jason A. Heppler'
+title: |
+  | Chapter 3
+  | Machines in the Garden
 ...
 
 > Palo Alto is half bedroom suburb, half futuristic 1970s science fiction 
