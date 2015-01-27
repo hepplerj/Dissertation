@@ -68,8 +68,8 @@ redefinitions. The Ohlone people, Penutian-speakers who likely migrated
 to the Santa Clara Valley from the eastern foothills of the Central
 Valley around the sixth century C.E., displaced or assimilated
 Hokan-speaking populations already living in the area. Spanish colonial
-settlers arriving around 1769 referred to the valley as Llano de los
-Robles ("Plain of the Oaks") as they established Franciscan missions
+settlers arriving around 1769 referred to the valley as *Llano de los
+Robles* ("Plain of the Oaks") as they established Franciscan missions
 throughout the Valley. The eighth mission established by Fray José
 Murguía was given the name Mission Santa Clara de Asís ("Clare" or
 "Clara" means "clear" or "bright"), giving the valley its current

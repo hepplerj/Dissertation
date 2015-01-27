@@ -20,8 +20,17 @@ title: |
 >
 > ---Tom Wolfe, 1983^[*Esquire*, 1983, 356.]
 
+> Each day, the Bay Area is losing irreplaceable assets to the 
+> bulldozer . . . 
+> 
+> ---People for Open Space, "The Case for Open Space" (1965)
+
 <!--ARGUMENT: As "nature" receded underneath asphalt, Bay Area environmentalists
-sought to create places for "nature" through open space, etc.-->
+sought to create places for "nature" through open space, etc.
+
+The importance of local politics: when federal and state law wasn't 
+enough, locals took things into their own hands (ordinances, activism)
+-->
 
 Journalist Leonard Downie could scarcely find nature in Silicon Valley.
 Visiting San Jose in the early 1970s, he concluded that the only
@@ -51,12 +60,12 @@ the hills to the edge of the water," wrote Raymond Desmann. If the
 process proceeded, Dasmann feared a "gigantic, disorganized metropolis" 
 "engulfing farm and forest, marsh and pasture with no end in 
 sight."^[Dasmann, *The Destruction of California*, 19.] Debates over 
-open space in Santa Clara Valley followed three branches.  The first 
+open space in Santa Clara Valley followed three branches. The first 
 emerged among expert urban planners and residential activists, who 
 relied on professionals to form a critique of poor urban planning and 
-the loss of natural landscapes.  The second came from anti-growth and 
+the loss of natural landscapes. The second came from anti-growth and 
 no-growth advocates who urged tightened restrictions on the places that 
-cities were allowed to expand.  Finally, another branch of activists 
+cities were allowed to expand. Finally, another branch of activists 
 focused their argument around issues of recreation. Together, these 
 activists shared a common language---using terms such as "beauty," 
 "wilderness," "ecology"---but used that vocabulary to defend and define 
@@ -67,17 +76,99 @@ of "nature" sat at the middle of the conflict.
 The debate over the protection of open space played out across the 
 United States. 
 
+## Saving Open Space for the Cost of Wine and Bread
+
+Concerns about the increasing value of agricultural land and threat of 
+urban sprawl led the state legislature to act. The California 
+Legislature passed the Land Conservation Act in 1965.  Known as the 
+Williamson Act, the state legislation ostensibly provided protections 
+for open space and greenbelts. Under the Williamson Act, agricultural 
+land had the option to be removed from markets by entering into a 
+contract with county governments that restricted the land's use to 
+agricultural uses for a minimum of ten years. In return, farmers enjoyed 
+a tax benefit. County assessors valued the land at agricultural value 
+rather than market value, allowing farmers to pay lower taxes on their 
+land and, both parties hoped, allowed the land to remain agricultural 
+perennially. Contracts were renewed annually unless notice for 
+nonrenewal was given. An amendment to the Williamson Act in {YEAR} 
+provided additional incentive to property owners by requiring value 
+assessments at least twenty-five percent. By 1969, twenty-three counties 
+in California placed more than two million acres of private land into 
+the agricultural preserve.^[California Legislature, *Joint Committee on 
+Open Space Land, Preliminary Report* (Sacramento, March 1969), 10; 
+Hutchinson and Blummer, "The Williamson Act," 2--4, 7--11; 
+@brucebiggs1975landuse, 1--13; @snyder1966landuse, 1306--1313; 
+@walker2007countrycity, 43.]
+
+Santa Clara County became the example. In 1959, the county could boast 
+of 73,000 acres of fruit and nut crops, which dwindled to just 1,900 by 
+1992.^[*California Fruit and Nut Acreage*, 1959 report, 5, and 1992 
+report, 10; @brosnan2010napa, 36.] Under the Williamson Act, the 
+county placed nearly {DETAIL} acres into the agricultural preserve 
+by 1969. 
+
+Despite the availability of state law to control land use, the law fell 
+short of its intended goals in Santa Clara County. Farmers, after all, 
+still had the voluntary option of selling their land at some point in 
+the future. The Williamson Act contained the potential for perpetual 
+agricultural reserves under its renewable ten-year contracts, but in 
+reality farmers often bowed to market pressures. Faced with shrinking 
+agricultural land, citizens began seeking alternative and long-term 
+methods for sustaining the presence of open space throughout the 
+Peninsula. Community organizing continued to shape the local policies 
+guiding land use with an increasing focus on recreation and public 
+lands. An alliance of residents calling themselves Citizens for Regional 
+Recreation and Parks (CRRP) formed in June 1958 with the intent to 
+pressure regional government to consider the issue of public open 
+spaces. Made up of conservationists, planning officials, and university 
+professors, CRRP began building networks among their membership to share 
+information, develop a policy on regional conservation, and support 
+educational programs.^[@kent1970openspace, 69.] In 1968, the 
+organization filed for nonprofit, tax-exempt status and renamed 
+themselves People for Open Space (POS). Their new status as nonprofit 
+allowed them to pursue a \$59,000 Ford Foundation grant to examine the 
+economic impact of open space in the Bay Area.^[@kent1970openspace, 74; 
+"Ideas for Discussion with Ford Foundation," November 19, 1968, Folder 
+4, Carton 2, California Tomorrow Records, California Historical 
+Society.] Completed in 1969 and published as both a main report and as a 
+summary pamphlet, POS laid out a vision for Peninsula open space that 
+fulfilled their desire to guide places against urban expansion.
+
+People for Open Space applauded the Williamson Act, but remained 
+skeptical about its implementation. Finding that "very little high 
+quality agricultural land has been conserved" and concerned about the 
+lack of a "guarantee of permanence," they conclude that the voluntary 
+contracts are ultimately an unsatisfactory solution to open space 
+preservation.^[People for Open Space, "The Case for Open Space," report, 
+7, Folder 4 People for Open Space, Carton 2, California Tomorrow 
+Records, California Historical Society.]
+
+In assessing the costs of such a program, People for Open Space 
+estimated that the net costs for each person in the Bay Area would 
+amount to only \$2 to \$3 dollars per year---"about the cost of a good 
+bottle of California wine and a loaf of sourdough French bread."^[People 
+for Open Space, "The Case for Open Space," report, 10, Folder 4 People 
+for Open Space, Carton 2, California Tomorrow Records, California 
+Historical Society.]
+
+POS remained active in open space protections throughout the 1970s, 
+pioneering the establishment of the Mid-Peninsula Open Space District in 
+1972 as well as various conservation programs that protected the Suisan 
+Marsh, agricultural preserves in Napa Valley, and the conservation 
+of Angel Island State Park.
+
 ## Sprawl Brawl
 
 Janet Gray & Al Garza
 
 ## Palo Alto Stops Industrialization
 
-
-## Mountain View Welcomes Industry
+Palo Alto stops growth; industry moves elsewhere (Mountain View; 
+Sunnyvale)
 
 
 ## Recreation in the Foothills
+
 
 
 <!--

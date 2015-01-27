@@ -95,6 +95,12 @@ David Rumsey Map Collection. Cartography Associates. <http://www.davidrumsey.com
 
 \vskip 0.75in
 
+**Legal Cases**  
+
+Builders Ass'n of Santa Clara-Santa Cruz Counties v. City of San Jose, July 16, 1973.  
+
+\vskip 0.75in
+
 **Government Documents and Reports**    
 
 *Beauty for America: Proceedings of the White House Conference on Natural Beauty*. Washington, D.C.: Government Printing Office, 1965.  

@@ -206,7 +206,7 @@ an ecological consciousness and energy for political action in Santa Clara
 Valley suggests energies and ideologies that predated much of the nation's
 eventual environmental sentiments.[^cf13]
 
----
+## History Takes Place
 
 Space forms the central component of this study. Geographer John Wright has
 argued that "places are best seen as shifting stages where the exercise of

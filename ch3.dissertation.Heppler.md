@@ -83,7 +83,7 @@ economic depression.^[On the mid-century migration to California, see
 @gregory1989okie. On the effects of World War II on the American West, see 
 @nash1999landscape; @abbott1995frontier, chapter 1; @lotchin1993worldwarii; 
 @lotchin1992fortress.] Between 1940 and 1947, the nine counties of the Bay Area 
-became home for 676,000 more people, 330,000 new jobs, and $2.5 billion more 
+became home for 676,000 more people, 330,000 new jobs, and \$2.5 billion more 
 in annual income.^[@omara2005cities, 103.] The burgeoning Cold War science 
 complex, anchored by the Stanford Industrial Park, added an additional influx 
 of people and capital to the region.  In 1950, Santa Clara County alone 

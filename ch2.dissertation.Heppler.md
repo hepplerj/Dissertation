@@ -26,9 +26,11 @@ title: |
 >
 > ---*Karl J. Belser*[^cf3]
 
-JH: ***Make more clear that this is about a political transformation that
+<!--
+JH: Make more clear that this is about a political transformation that
 focused people's attention on the environment as discontent with
-suburban growth grew.***
+suburban growth grew.
+-->
 
 In the decades after 1945, every municipality in the Bay Area participated in
 the process of metropolitan development and, by extension, the erosion of
@@ -255,7 +257,7 @@ after the swift motorized armored tank squadrons of the Third Reich—as
 annexations sprawled outward from the city core.[^cf33] "They say San Jose is
 going to become another Los Angeles," Hamann rebuked his critics. "Believe me,
 I'm going to do the best in my power to make that come true."[^cf34] Under
-Hamann's tenure, the San Jose Chamber of Commerce spent nearly $1 million to
+Hamann's tenure, the San Jose Chamber of Commerce spent nearly \$1 million to
 attract new industries to the city. The population boomed and the city
 sprawled. "It was just growth, growth, growth," Al Ruffo, San Jose's mayor in
 the 1940s, recalled approvingly. "That was everybody's song. And Dutch sang it
@@ -310,7 +312,7 @@ city.[^cf42] The amount of page space devoted to agricultural news steadily
 declined and, as early as 1950, columnist Dorothy Thompson could bemoan farm
 subsidies as a "program [that] has produced preposterous inequities" without
 insulting a majority of readers.[^cf43] By 1960, farm news covered only two
-pages of the newspaper. While agriculture still accounted for $200 million to
+pages of the newspaper. While agriculture still accounted for \$200 million to
 the county's economy---canning, packing, drying---the figure was rapidly
 falling as high tech industry overtook the central economic activity of the
 county. By 1976 the farm editor and farm section disappeared from the
@@ -339,7 +341,7 @@ voters approved bonds supporting the construction of a new City Hall, new
 hospital facilities, new jail and court buildings, and a new YMCA facility.
 The Progress Committee ran up against resistance from voters in the 1940s as
 they rejected general obligation bond votes. By the late 1950s residents had
-reversed course, approving over $134 million in general obligation bonds in
+reversed course, approving over \$134 million in general obligation bonds in
 elections held in 1957, 1961, 1966, and 1969.[^cf48]
 
 San Jose's rapid growth came with a price. Nearby towns attempted to protect
@@ -409,7 +411,7 @@ city council member, and mayor, sold his land to San Jose that became the site
 of the city's huge landfill. The site became so polluted that the
 Environmental Protection Agency declared it a Superfund site in 1986.[^cf58]
 William Zanker, chair of Alviso's planning commission, sold his property to
-the city for $1.5 million and moved to nearby Sunnyvale. Zanker's land became
+the city for \$1.5 million and moved to nearby Sunnyvale. Zanker's land became
 the site of an expanded sewage plant that encompassed 1,764 acres and
 quadrupled its capacity. The new sewage plant became San Jose's key to growth,
 allowing the plant to handle the municipal waste of the whole region,
