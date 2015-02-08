@@ -21,10 +21,6 @@ title: |
 > 
 > -- Frederick Terman (1963)
 
-> This is your land we are talking about.
-> 
-> -- Bernard DeVoto (1947)
-
 Carved out of the southeast corner of Stanford's vast land holdings on the San 
 Francisco Peninsula, the Stanford Industrial Park became the epicenter of 
 specialized manufacturing and research activities. By the 1960s Stanford 
@@ -119,7 +115,6 @@ associations, such as the Bay Area Council (BAC), sought to make California an
 industrial center not by replicating the industrial Northeast or Midwest but 
 by promoting new industries.^[@omara2005cities, 106]
 
-<!--
 -------------------------------------------------------------------------------------------
 Fiscal Year   Total Budget Outlays    R&D Expenditures    R&D as Percentage of Total Budget
 -----------   --------------------    ----------------    ---------------------------------
@@ -170,7 +165,6 @@ Table: Federal Research and Development Expenditures as a Percentage of the
 U.S. Budget, 1950-1970 (millions of dollars). Source: National Science 
 Foundation, *Federal Funds for Research, Development, and Other Scientific 
 Activities* (Washington: U.S. Government Printing Office, 1972), 3.
--->
 
 Regional electronics manufacturing grew quickly. The Western Electronics 
 Manufacturers Association listed twenty members in the Bay Area in 1951; by 
@@ -447,6 +441,10 @@ suburban lifestyles, especially visible through increased traffic, industrial
 development of the foothills, contributions to air and noise pollution, and 
 rising housing costs. In 1960, these concerns boiled over and, inadvertently, 
 helped launch an environmental movement. 
+
+## A Climate for Business
+
+<!-- promotional material selling the climate, recreation -->
 
 ## Nature, Identity, and the Battle of the Hills
 

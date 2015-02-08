@@ -3,7 +3,7 @@ author:
 - 'Jason A. Heppler'
 title: | 
   | Chapter 1
-  | Creating the Valley of Heart's Delight
+  | Imagined Environments
 ...
 
 > The whole valley was densely timbered, but the gigantic oaks had to make way

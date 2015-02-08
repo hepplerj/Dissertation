@@ -263,7 +263,6 @@ sprawled. "It was just growth, growth, growth," Al Ruffo, San Jose's mayor in
 the 1940s, recalled approvingly. "That was everybody's song. And Dutch sang it
 the loudest."[^cf35]
 
-<!--
 Year Annexed   Number of Annexations
 ------------   ---------------------
 1959           125
@@ -274,7 +273,6 @@ Year Annexed   Number of Annexations
 1978           102
 
 Table: Top six years by number of annexations. Data courtesy the City of San Jose.
--->
 
 San Jose's pro-growth contingent received enthusiastic support from the city's
 newspaper, the *San Jose Mercury*, and its new manager, Joseph Ridder. The
@@ -434,7 +432,7 @@ combination of environmental politics and the limits of the environment itself
 shaped contests over metropolitan space, environmental degradation, and
 municipal government.
 
-### A Good Use for Farmland
+### Land for the Valley
 
 As city leaders defined the details of San Jose's suburban and industrial
 future, a sizable contingent of city residents began questioning whether the
@@ -592,7 +590,11 @@ valued for another reason: its suburban aesthetics.
 
 ![*The Nation*, March 8, 1965.](figures/Image7.png)
 
-### The Suburban Landscape
+### Watering the Valley
+
+<!-- talking about water projects, etc -->
+
+### Imagining the Countryside
 
 Land developers in San Jose were operating at a time when planning and zoning
 regulations of undeveloped areas was virtually nonexistent. The City of San
@@ -748,7 +750,7 @@ amenities that had attracted new people to the region were rapidly giving way
 to roads, commercial districts, industrial parks, and residential
 subdivisions.
 
-
+-----
 
 The dwindling amount of agricultural land, the growth of industrial and
 residential areas, and the expansion of energy, water and city infrastructure

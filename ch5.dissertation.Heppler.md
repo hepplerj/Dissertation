@@ -3,8 +3,7 @@ author:
 - 'Jason A. Heppler'
 title: |
   | Chapter 5
-  | Something in the Soil:
-  | Industrial Toxics and the Landscape of Health
+  | Something in the Soil
 ...
 
 > The horizon above San Jose is unmarred by smokestacks, and people here

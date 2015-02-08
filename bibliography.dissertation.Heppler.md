@@ -14,6 +14,7 @@ Santa Clara Center for Occupational Health (SCCOSH) and Silicon Valley Toxics Co
 *California Reading Room, San Jose Public Library*    
 
 *History San Jose, San Jose, California*    
+Ernie Renzel Papers  
 
 *Sourisseau Academy for State and Local History, San Jose State University*    
 Arnold Del Carlo Photograph Collection  
@@ -86,6 +87,7 @@ David Rumsey Map Collection. Cartography Associates. <http://www.davidrumsey.com
 *Newsweek*  
 *New Yorker*  
 *Pacific Citizen*  
+*Sacramento Union*  
 *San Jose Mercury*  
 *San Jose Sun*  
 *San Jose News*  

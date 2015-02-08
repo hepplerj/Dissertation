@@ -20,22 +20,41 @@ author:
 >
 > --- Leo Marx[^cf2]
 
-Wallace Stegner no longer recognized the Santa Clara Valley in 1965. From his
-home in the foothills of the Santa Cruz Mountains that creep along the
-western edge of the valley, the Stanford creative writing professor lamented
-the urban sprawl that had overtaken the former farmland in the flatlands. "The
-orchards that used to be a spring garden of bloom down the long trough of the
-Santa Clara Valley," he wrote, "have gone under so fast that a person absent
-for five years could return and think himself in another country. . . . The
-once--lovely coast hills reaching down the Peninsula below San Francisco have
-been crusted with houses in half a lifetime, the hilltops flattened, whole
-hills carried off to fill the bay, the creeks turned into concrete storm
-drains."[^cf3] In Stegner's lifetime, the Valley had transformed from prime
-agricultural land to a place known for urban sprawl, traffic jams, and
-industrial facilities. Stegner's sensibilities were so insulted by the
-environmental damage that he wished to be buried not in California---the place
-that had so deeply shaped his writing and identity---but in his summer home of
-Vermont.[^cf4]
+Wallace Stegner lamented the changes occurring to the Santa Clara Valley
+in 1965. From his home in the foothills of the Santa Cruz Mountains that
+creep along the western edge of the valley, the Stanford creative
+writing professor lamented the urban sprawl that had overtaken the
+former farmland in the flatlands. "The orchards that used to be a spring
+garden of bloom down the long trough of the Santa Clara Valley," he
+wrote, "have gone under so fast that a person absent for five years
+could return and think himself in another country. . . . The
+once--lovely coast hills reaching down the Peninsula below San Francisco
+have been crusted with houses in half a lifetime, the hilltops
+flattened, whole hills carried off to fill the bay, the creeks turned
+into concrete storm drains."[^cf3] In Stegner's lifetime, the Valley had
+transformed from prime agricultural land to a place known for urban
+sprawl, traffic jams, and industrial facilities. Stegner's sensibilities
+were so insulted by the environmental damage that he wished to be buried
+not in California---the place that had so deeply shaped his writing and
+identity---but in his summer home of Vermont.[^cf4]
+
+Stegner was a newcomer to this land. Born in 1909 in north-central Iowa,
+Stegner came to California to teach in the creative writing program at
+Stanford University. In Stegner's imagination the Santa Clara Valley had
+fallen from pristine grace. He wrote of "a park-like oak forest reaching
+southward from a clean bay" when the native Ohlone's occupied the
+region. "The climate was mild and benevolent, the bay full of shellfish.
+The creeksides tangles grew wild berries and the oaks provided the
+wherewithal for unlimited acorn flour." Stegner not only celebrated this
+imagined pre-European landscape, but the post-European one as well. As
+fields of wheat and fruit groves planted by Spanish missionaries began
+to transform the Bay Area into an agricultural landscape, Stegner
+celebrated these as "a glory"---that pears, prunes, apricots, cherry
+blossoms, and apples were an improvement upon nature. "This brief Eden,"
+as Stegner referred to the Valley, fell to the original sin of
+industrialization.^[William S. Cooper, "Vegetational Development upon
+Alluvial Fans in the Vicinity of Palo Alto, CA," *Ecology* 7 (January
+1927): 11.]
 
 Frederick E. Terman interpreted the landscape differently. The Stanford
 University provost and dean of engineering---often referred to as the "Father
@@ -53,6 +72,29 @@ suburban communities. Although complaints of traffic and air pollution had
 become common by the mid--1960s, Terman dismissed these complaints. The
 Industrial Park had done much for the Bay Area's economy, and Terman felt
 congestion and air pollution were "really a pretty small price to pay."[^cf6]
+
+Like Stegner, Terman had come to California from elsewhere. Born in 1900
+in English, Indiana, Terman's family moved to Stanford in 1910 when
+his father, the psychologist Lewis Terman, accepted a position in
+educational psychology. Terman completed his doctorate at the Massachusetts
+Institute of Technology working under Vannevar Bush before returning to
+Stanford in 1924 to start the university's initial forays into
+electronics research.
+
+Not recognized by either Stegner or Terman was the environmental
+influence that these industrial activities had on the Santa Clara
+Valley. The celebrated orchards were exotic species in California, the
+result of European and American colonization. Furthermore, the
+cultivation of these species required an infrastructure to support
+canneries, cannery effluence, and controlling the land with pesticides
+and herbicides. Stegner's own contradiction of lament for Spaniard
+colonization and celebration of orchards poses significant questions:
+How should the land be treated? What counts as improvement or
+denigration upon the landscape? Terman's own views of the Valley reflect
+a similar set of questions: Should the built environment be assessed differently
+from the natural environment? Was the arrival of Silicon Valley an
+improvement upon nature? Implicit in both views revolves a core
+question: Who defines the valley landscape?
 
 How is it that people look at the cities and see very different places? These
 competing visions of the Santa Clara Valley landscape reflected widely-held
@@ -74,6 +116,22 @@ large--scale water projects. Environmental organizations, formal and ad hoc,
 began criticizing high technology firms and city leaders for their ignorance
 of ecological negligence. Such organizing formed the burgeoning Bay Area
 environmental movement.
+
+<!--
+WORKING THROUGH A NEW INTRO
+
+The competing vision of the Peninsula as a geography of industry versus
+the geography of beauty suggests the malleability of landscapes. More
+broadly, these attempts to define landscape shape the political,
+cultural, and social norms that tend to shape space and geography. As
+numerous historians have noted---Susen Schulten, Martin Lewis and Kären
+Wigen, Kenneth Jackson, and others---the spatial structures used to
+order the world produce a metageography that relies on myths and
+half-truths in order to create a narrative of place. How these ideas
+were created, negotiated, and challenged forms the subject of this
+study.^[@schulten2001imagination, 3.]
+
+-->
 
 This work begins with a simple question: does nature matter to Silicon Valley?
 Which points to an even bigger question: how does nature matter to American
@@ -283,10 +341,10 @@ Landscapes are both physically and mentally constructed according to our
 preferences and experiences. In turn, these expectations shape and reshape the
 environment.[^cf22]
 
-![The overlapping landscapes. The map depicts the urban (colored 
-polygons), open space (dark gray polygons), Superfund sites (large red 
-circles), toxic and chemical leaks and spills (small orange circles), 
-and rivers of the Bay Area. Map by author using D3.js and data courtesy 
+![The overlapping landscapes. The map depicts the urban (colored
+polygons), open space (dark gray polygons), Superfund sites (large red
+circles), toxic and chemical leaks and spills (small orange circles),
+and rivers of the Bay Area. Map by author using D3.js and data courtesy
 NHGIS, the Bay Area Conservation Lands Network, and U.S. Census.](figures/landscapes.png)
 
 The grassroots approach of this work reveals that environmentalists often
@@ -600,20 +658,20 @@ asking new questions of the Valley's history, this work's digital component
 seeks to probe the public to think more about Silicon Valley and its attendant
 costs.
 
-The history is also about the history that Silicon Valley has inherited. The 
-Valley often thinks of itself as outside of history---always looking to the 
-future, at the forefront of change and progress. But the organization and 
-imagination of Silicon Valley---its landscape, its space, its 
-relationships---are inseparable from its past. People here live with its 
-history daily. We must recognize how desires for beauty, nature, and pleasure 
-shape our spatial history, landscape, and nostalgia are embodied in cities.  
-Landscapes, the novelist Italo Calvino reminds us in *Invisible Cities*, are 
-"like lines on a hand, wirtten in the corners of the streets and the gratings 
-of the buildings."^[Italo Calvino, *Invisible Cities*, trans. (New York: 
-Harcourt Brace and Company, 1974), 11.] Cities and the nature that surrounds 
-them, that is embedded in them, are reflections of our desires. To build 
-better cities and protect nature reflect the ways we make landscapes match our 
-aspirations. 
+The history is also about the history that Silicon Valley has inherited. The
+Valley often thinks of itself as outside of history---always looking to the
+future, at the forefront of change and progress. But the organization and
+imagination of Silicon Valley---its landscape, its space, its
+relationships---are inseparable from its past. People here live with its
+history daily. We must recognize how desires for beauty, nature, and pleasure
+shape our spatial history, landscape, and nostalgia are embodied in cities.
+Landscapes, the novelist Italo Calvino reminds us in *Invisible Cities*, are
+"like lines on a hand, wirtten in the corners of the streets and the gratings
+of the buildings."^[Italo Calvino, *Invisible Cities*, trans. (New York:
+Harcourt Brace and Company, 1974), 11.] Cities and the nature that surrounds
+them, that is embedded in them, are reflections of our desires. To build
+better cities and protect nature reflect the ways we make landscapes match our
+aspirations.
 
 [^cf1]: Yi--Fu Tuan, *Space and Place: The Perspective of Experience* (Minneapolis: University of Minnesota Press, 1997): 200--201.
 
@@ -767,16 +825,16 @@ Clara Valley Regional Ground-Water Surface-Water Flow Model*, Santa Clara
 County, California. U.S. Geological Survey Scientific Investigations Report
 2004--5231. (Reston, VA: U.S. Geological Survey, 2004).
 
-[^cf31]: L. McKee, J. Leatherbarrow, S. Pearce, and J. Davis, "A Review of 
-Urban Runoff Processes in the Bay Area: Existing Knowledge, Conceptual Models, 
-and Monitoring Recommendations," SFEI Contribution 66 (Oakland: San Francisco 
-Estuary Institute, 2003); Robin M. Grossinger et al., "Historical Landscape 
-Ecology of an Urbanized California Valley: Wetlands and Woodlands in the Santa 
+[^cf31]: L. McKee, J. Leatherbarrow, S. Pearce, and J. Davis, "A Review of
+Urban Runoff Processes in the Bay Area: Existing Knowledge, Conceptual Models,
+and Monitoring Recommendations," SFEI Contribution 66 (Oakland: San Francisco
+Estuary Institute, 2003); Robin M. Grossinger et al., "Historical Landscape
+Ecology of an Urbanized California Valley: Wetlands and Woodlands in the Santa
 Clara Valley," *Landscape Ecology* 22 (December 1, 2007): 110–115.
 
 [^cf32]: Friedly, "This Brief Eden," 20.
 
-[^cf33]: Muir notes the appearance of orchards, wheat fields, vineyards, and 
+[^cf33]: Muir notes the appearance of orchards, wheat fields, vineyards, and
 alfalfa meadows. Muir, *John Muir*, 96.
 
 [^cf34]: By the 1920s, Santa Clara Valley led the state in fruit production, drying, canning, and packing, providing a range of products such as cherries, prunes, apricots, pears, peaches, plums, and apples. By 1930, Santa Clara County produced between one-third to one-half of the world's prune supply. Glenna Matthews, *Silicon Valley, Women, and the California Dream: Gender, Class, and Opportunity in the Twentieth Century* (Stanford: Stanford University Press, 2002), 18; Cecilia Tsu, *Garden of the World*, 17.
