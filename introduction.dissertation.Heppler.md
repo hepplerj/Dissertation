@@ -81,9 +81,9 @@ Institute of Technology working under Vannevar Bush before returning to
 Stanford in 1924 to start the university's initial forays into
 electronics research.
 
-Not recognized by either Stegner or Terman was the environmental
+Not acknowledged by either Stegner or Terman was the environmental
 influence that these industrial activities had on the Santa Clara
-Valley. The celebrated orchards were exotic species in California, the
+Valley. The celebrated orchards introduced exotic species in California, the
 result of European and American colonization. Furthermore, the
 cultivation of these species required an infrastructure to support
 canneries, cannery effluence, and controlling the land with pesticides
@@ -238,6 +238,20 @@ Hurley's *Environmental Inequalities*, and  Richard Walker's *Country and the
 City* which focused on San Francisco Bay from the nineteenth century to the
 present.
 
+Historians of metropolitan America have painted a synthesis of city 
+experiences that {DETAIL}.
+
+This work stands at the intersections of metropolitan history, political 
+history, environmental history, and political economy. It extends a 
+question raised by Andrew Needham about the role of *regions* in the 
+shaping of metropolitan space, not just the localities. Although any one 
+of the cities of the Bay Area---which numbers {DETAIL} municipal 
+corporations by the 1990s---would work well for analyzing the trends in 
+environmental politics in Silicon Valley, by thinking about these 
+changes at a regional level shows how places across space shaped one 
+another and worked collaboratively and at odds in shaping metropolitan 
+space.
+
 In the 1960s, political activists called on people to "think globally, act
 locally." That is the story here. The Bay Area---comprised of the area between
 San Francisco to the north and San Jose to the south---has become an economic
@@ -264,7 +278,7 @@ an ecological consciousness and energy for political action in Santa Clara
 Valley suggests energies and ideologies that predated much of the nation's
 eventual environmental sentiments.[^cf13]
 
-## History Takes Place
+## Events Take Place
 
 Space forms the central component of this study. Geographer John Wright has
 argued that "places are best seen as shifting stages where the exercise of
@@ -318,7 +332,7 @@ space, as Robert Self writes in his analysis of Oakland, people "competed to
 put those resources to use to create particular and concrete places."[^cf18]
 Space is not just an abstract consideration of a place, but rather is
 historically concrete---the growth of suburban factories, residential and
-commercial growth, and environmental politics all operated in space and place.
+commercial growth, and environmental politics all operated in place.
 Historical actors and their spaces they operate in are inseparable. The
 experiences of people, communities, and institutions take place in the very
 fabric of life and space. The calls for urban reform, environmental concerns,

@@ -80,7 +80,7 @@ of "nature" sat at the middle of the conflict.
 recreational areas played out <!--what?--> across the United States in 
 the latter half of the twentieth century. 
 
-## LAFCO Establishment and Regional Thinking
+## LAFCO and the Regional Environment
 
 ## Saving Open Space for the Cost of Wine and Bread
 
@@ -236,7 +236,18 @@ The San Francisco Bay Area Experience," 328-331.]
 Concerns about the environmental impact of growth moved to the forefront 
 of the mayoral campaign between Janet Gray Hayes and Al Garza in 1974. 
 The two platforms of the candidates revolved centrally around urban 
-growth and environmental issues.
+growth and environmental issues. Janet Hayes was voted into office in 
+{YEAR}, the first woman to serve as mayor of a major metropolitan 
+center. San Jose was quickly dubbed the "feminist capital of the world" 
+as female politicians assumed positions of political power throughout 
+San Jose government. Hayes was explicitly an environmentalist, 
+identifying her own platform as {DETAIL}.
+
+Voters shared these concerns. <!-- citing the Diridon study -->
+
+Al Garza represented a different set of interests, speaking on behalf of 
+developers and maintained his support of San Jose urban growth <!-- how 
+does he define growth? What does that look like? What is "growth"? -->
 
 <!--
 OUTLINE
@@ -262,10 +273,7 @@ Sunnyvale)
 
 ## Recreation in the Foothills
 
+## Prop 13
 
+<!-- can an argument be made about Prop 13 as an environmental response?  -->
 
-<!--
-
-Note: William Cronon, "The Trouble with Wilderness; Or, Getting Back to the Wrong Nature," in William Cronon, ed., Uncommon Ground: Rethinking the Human Place in Nature (New York: W. W. Norton, 1995), 69. On the early history of wilderness debates, see Donald Baldwin, The Quiet Revolution: The Grass Roots of Today's Wilderness Preservation Movement (Boulder: Pruett Publishing, 1972), 183-196; Samuel Hays, Beauty, Health, and Permanence: Environmental Politics in the United States, 1955-1985 (Cambridge: Cambridge University Press, 1987), 118-119; Mark Harvey, Wilderness Forever: Howard Zahniser and the Path to the Wilderness Act (Seattle: University of Washington Press, 2007); Michael Johnson, Hunger for the Wild: America's Obsession with the Untamed West (Lawrence: Univeristy Press of Kansas, 2007); Sara Dant, "Making Wilderness Work: Frank Church and the American Wilderness," Pacific Historical Review 77 (May 2008): 237-272.
-
--->
