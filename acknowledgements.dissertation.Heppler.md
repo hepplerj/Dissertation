@@ -37,6 +37,8 @@ Wolfenstein, Geoff McGee, Kris Kasianovitz, and Paul Zenke, and the
 ever-important support and encouragement I received from Kären Wigen, Richard 
 Roberts, Paula Findlan, and Fred Turner. 
 
+[Thank #GraftonLine, #WritingPact, diss writing group set up by Molly]
+
  GEOFF MCGEE, KRIS Kasianovitz, Salim, Fred Turner, Martha Poyatos, Neelima Palacherla
 
 I’m thankful for the support I received from family. My mom and dad have 
@@ -48,4 +50,4 @@ ideas, careful eye for reading, love of the outdoors, quick to smile, and easy
 laugh made the last few years of writing this much more enjoyable. I’m blessed 
 that I am spending my life with someone so funny, smart, patient, and loving.
 
-C'est tout. Merci pour vos yeux.
+*C'est tout. Merci pour vos yeux.*

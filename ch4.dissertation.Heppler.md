@@ -35,58 +35,88 @@ The importance of local politics: when federal and state law wasn't
 enough, locals took things into their own hands (ordinances, activism)
 -->
 
-Journalist Leonard Downie could scarcely find nature in Silicon Valley.
-Visiting San Jose in the early 1970s, he concluded that the only
-remaining open space existed along the "carefully tended and regularly
-watered greenery along the shoulders of the county's many freeways." The
-Santa Clara Valley had become defined by the clusters of poorly-built
-and quickly constructed homes, traffic that had given the air a
-"mustard-colored haze," and urban space so compact that there existed no
-"open spaces, parks or even sidewalks." Downie blamed poor planning and
-greed for the valley's urban problems, citing a study that found
-residential density could be maintained near 1973 levels in just thirty
-square miles that could have saved miles of open space and orchards.
-Santa Clara County, Downie concluded, had become a "jigsaw puzzle of intertwined
-suburbs" and the land "systematically ravaged" by "speculators,
-developers, other entrepreneurs and homebuyers."^[Leonard Downie, Jr.,
-"A Misplanned Suburb," *Washington Post*, December 30, 1973.]
+Journalist Leonard Downie could scarcely find nature in Santa Clara 
+County. Visiting San Jose in the early 1970s, he concluded that the only 
+remaining open space existed along the "carefully tended and regularly 
+watered greenery along the shoulders of the county's many freeways." The 
+Santa Clara Valley had become defined by the clusters of poorly-built 
+and quickly constructed homes, traffic that had given the air a 
+"mustard-colored haze," and urban space so compact that there existed no 
+"open spaces, parks or even sidewalks." Downie blamed poor planning and 
+greed for the valley's urban problems, citing a study that found 
+residential density could be maintained near 1973 levels in just thirty 
+square miles that could have saved miles of open space and orchards.  
+Santa Clara County, Downie concluded, had become a "jigsaw puzzle of 
+intertwined suburbs" and the land "systematically ravaged" by 
+"speculators, developers, other entrepreneurs and homebuyers."^[Leonard 
+Downie, Jr., "A Misplanned Suburb," *Washington Post*, December 30, 
+1973.] Downie was not alone in questioning the value of urban growth at 
+the expense of disappearing open space. After a decade-long boom that 
+saw Bay Area cities sprawl throughout the San Francisco Peninsula, 
+activists began promoting the protection of open space open space for 
+recreation, aesthetics, and health. All along the Peninsula, advocates 
+argued for new restrictions on city growth and the protection of 
+greenbelts, public parks, and wilderness areas. "Already we have filled 
+the San Francisco basin with housing, industry, airfields, and highways, 
+from the tops of the hills to the edge of the water," wrote Raymond 
+Dasmann, a Berkeley-trained biologist. If the process proceeded, Dasmann 
+feared a "gigantic, disorganized metropolis" "engulfing farm and forest, 
+marsh and pasture with no end in sight."^[Dasmann, *The Destruction of 
+California*, 19.] 
 
-Downie was not alone in questioning the value of urban growth at the 
-expense of disappearing open space. After a decade-long boom that saw 
-Bay Area cities sprawl throughout the San Francisco Peninsula, activists 
-began promoting the protection of open space open space for recreation, 
-aesthetics, and health. All along the Peninsula, advocates argued for 
-new restrictions on city growth and the protection of greenbelts, public 
-parks, and wilderness areas. "Already we have filled the San Francisco 
-basin with housing, industry, airfields, and highways, from the tops of 
-the hills to the edge of the water," wrote Raymond Desmann. If the 
-process proceeded, Dasmann feared a "gigantic, disorganized metropolis" 
-"engulfing farm and forest, marsh and pasture with no end in 
-sight."^[Dasmann, *The Destruction of California*, 19.] Debates over 
-open space in Santa Clara Valley followed three branches. The first 
-emerged among expert urban planners and residential activists, who 
-relied on professionals to form a critique of poor urban planning and 
-the loss of natural landscapes. The second came from anti-growth and 
-no-growth advocates who urged tightened restrictions on the places that 
-cities were allowed to expand. Finally, another branch of activists 
-focused their argument around issues of recreation. Together, these 
-activists shared a common language---using terms such as "beauty," 
-"wilderness," "ecology"---but used that vocabulary to defend and define 
-different goals. The advocates for open space revealed a clash between 
-competing political ideas and urban priorities, and the very definition 
-of "nature" sat at the middle of the conflict.
+This chapter traces the chronological contours of open space debates in 
+Silicon Valley. Debates over open space in Santa Clara Valley roughly 
+followed three branches. The first emerged among expert urban planners 
+and residential activists, who relied on professionals to form a 
+critique of poor urban planning and the loss of natural landscapes. In 
+the process, they began crafting new zoning restrictions that required 
+environmental impact studies and land-use regulations. The second came 
+from anti-growth and no-growth advocates who urged tightened 
+restrictions on the places that cities were allowed to expand.  
+Simultaneously, elite suburbanites were challenged by communities forced 
+to the margins of the suburbs---Chicanos, African Americans, Asian 
+Americans---who formed their own critique of conservation at once apart 
+and in conflict with California's mainstream environmental 
+organizations. Finally, another branch of activists focused their 
+argument around issues of recreation and the "best use" for land. 
+Together, these activists shared a common language---using terms such as 
+"beauty," "wilderness," "ecology"---but used that vocabulary to defend 
+and define different goals. Environmental advocates revealed a 
+clash between competing political ideas and urban priorities, and the 
+very definition of "nature" sat at the middle of the conflict.
 
-\thoughtbreak{The debate over the protection of open space}, parks, and 
-recreational areas played out <!--what?--> across the United States in 
-the latter half of the twentieth century. 
+Though their reasons were varied, 
 
-## LAFCO and the Regional Environment
+\thoughtbreak{The professionalization of environmentalism} began 
+emerging by the late 1950s among a group of urban planners coming out of 
+the University of California-Berkeley. They thought of the environment 
+differently. Whereas the neighborhood activists defined their concerns 
+around specific local concerns, the new wave of environmentalists urged 
+policymakers and cities to think more regionally.
+
+<!-- what does some text analysis of the gov docs say? -->
+
+## Environment and the Threat of Deindustrialization
+
+Environmental activists made a point to suggest that sprawl, loss of 
+open space, smog, traffic, and other concerns would lead to industries 
+deciding to relocate elsewhere. If boosters were wont to point to 
+climate, space, and the landscape as a benefit for industry and its 
+employees, environmentalists were quick to point out that threatening 
+those benefits also meant industry would be less likely to come to the 
+Bay Area. Business and cultural institutions that had come to the Bay 
+Area because of its quality of life reputation, argued People for Open 
+Space, "are here because of the quality of the physical environment. The 
+Bay, the rolling hills, the wooded ridges, the beaches, the orchards and 
+vineyards---all combine to provide an unmatched setting."^[People for 
+Open Space, "The Case for Open Space," report (January 1969), Folder 4, 
+Carton 2, Calif. Tomorrow records {DETAIL}.]
 
 ## Saving Open Space for the Cost of Wine and Bread
 
 Concerns about the increasing value of agricultural land and threat of 
 urban sprawl led the state legislature to act. The California 
-Legislature passed the Land Conservation Act in 1965.  Known as the 
+Legislature passed the Land Conservation Act in 1965. Known as the 
 Williamson Act, the state legislation ostensibly provided protections 
 for open space and greenbelts. Under the Williamson Act, agricultural 
 land had the option to be removed from markets by entering into a 
@@ -180,10 +210,8 @@ homeowners in the suburban fringes of the city began opposing growth
 interests. In 1962, voters elected the first candidate to oppose growth 
 in the city. Virginia Shaffer was a Republican from {DETAIL} who 
 rose to office representing the interests of homeowners, including being 
-the only city council member opposing consolidation with Alviso. Council 
-member Pace attempted to put homeowners at ease, saying that "I'm not 
-denying it will cost some money but it has an awful lot of promise." But 
-new interests were starting to guide ideas about the city's progress. 
+the only city council member opposing consolidation with Alviso. But 
+new interests were starting to guide ideas about the city's future. 
 
 By 1970, the brakes were firmly pressed. Although San Jose's growth 
 control measures never became quite as strident as those pursued in the 
@@ -231,7 +259,17 @@ offloading the costs of development to consumers and made low- and
 mid-size developments unprofitable. In response, developers began 
 building pricier housing that could only be purchased by high-income 
 residents.^[Rosen and Katz, "Growth Management and Land Use Controls: 
-The San Francisco Bay Area Experience," 328-331.] 
+The San Francisco Bay Area Experience," 328-331.] Various maneuvers to 
+build low-income housing in Los Altos Hills, San Jose, and elsewhere in 
+Silicon Valley were met by conservationists who complained that such 
+projects threatened regulations preserving environmental land use 
+regulations. Such conflicting concerns led Jack Ybarra, president of La 
+Confederacion de la Raza Unida, to lash out at environmentalists. "If 
+they're interested in preserving the foothills for a certain class of 
+people," he argued, "then the conservationists are our enemies, 
+too."^[*San Jose Mercury*, December 21, 1970. See also *Ybarra v. Town 
+of Los Altos Hills*, 503 F.2d 250 (1974).] The landscape was a site of 
+economic conflict.
 
 Concerns about the environmental impact of growth moved to the forefront 
 of the mayoral campaign between Janet Gray Hayes and Al Garza in 1974. 

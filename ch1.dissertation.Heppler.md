@@ -124,6 +124,18 @@ Area had nearly taken shape.^[@friedly2000santaclara, 18.]
 
 ## Spanish Settlement
 
+<!--
+Spanish missionaries claimed the Santa Clara Valley has home by the 
+early nineteenth century. How the Spanish arranged themselves in the 
+valley and the physical form of their communities suggest the ways that 
+people related to each other and to the natural surroundings. When 
+Spanish missionaries relocated Mission San José three times to get away 
+from an erratically flooding Guadalupe River, they were not only 
+responding to physical threats to their comfort and security but were 
+also banding together to maintain their access to resources, power, and 
+community participation. 
+-->
+
 The Santa Clara Valley had a two-century history as an agricultural
 region. San José, among the earliest Spanish settlements in Alta
 California, had been settled predominantly as an agricultural settlement

@@ -112,6 +112,33 @@ infrastructural decisions; they were the pinnacle of a hybrid landscape that
 was less predictable and more difficult to control than the one they had
 altered.
 
+<!--
+Capital that became invested into the San Francisco Peninsula traced 
+their origins to outside influences that had little to do with the local 
+communities or ecosystem of the Santa Clara Valley. Those who poured 
+their capital into the Valley would not affect the ecossytem by 
+extraction; rather, the presence of new capital systems reshaped the 
+landscape. These linkages to areas outside the community begin to show 
+just how deeply connected the valley was to other areas, thereby placing 
+this history into the broader history of the American West and even 
+further into a global context. Many of the early businesses arriving to 
+the Peninsula came from other places. Only a few, like Hewlett-Packard, 
+were home-grown businesses. Others came from the opposite coast: in the 
+early 1950s International Business Machines located its first facility 
+outside of New York in southern San Jose. The manufacture of silicon 
+chips depended on raw materials mined from other areas of the 
+West and the world. The freight infrastructure used to ship goods across 
+interstate highways depended not only on the ecologically-stressful 
+roadbuilders, but also the tractor-trailers and gasoline supplies that 
+came from faraway places. These all intersect in Silicon Valley's 
+history, largely overlooked or ignored by historians. This chapter will, 
+as William Cronon once called it, follow the "paths out of town" to 
+think broadly about industrialization and suburbanization's connection 
+to a broader context. The small context still matters a great deal. But 
+these larger connections also suggest the interface among ecosystems 
+throughout the West.
+-->
+
 ### Progress Town U.S.A
 
 San Jose's ideology of growth traces itself to the mid-1940s when an ambitious
@@ -127,8 +154,8 @@ Bigley and Goodwin an opening. When six of the seven city council seats were
 open for election, opponents formed the "Progress Committee" and accused
 Bigley, Goodwin, and the city council of jeopardizing San Jose's future.
 Voters, and the newspaper, agreed. Aided by the newspaper's endorsement, six
-members of the Progress Committee—among them the key business and political
-figures Al Ruffo, Ernest Renzel, Ben Carter, and Fred Watson—swept the city
+members of the Progress Committee---among them the key business and political
+figures Al Ruffo, Ernest Renzel, Ben Carter, and Fred Watson---swept the city
 council elections. They committed themselves to building "a new metropolis in
 the place of sleepy San Jose." Their first step was to promptly fire the
 police chief, fire chief, and City Manager Goodwin, charging them with

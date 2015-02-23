@@ -133,6 +133,21 @@ study.^[@schulten2001imagination, 3.]
 
 -->
 
+Electronics became a key component of the West's service industry, but 
+simultaneously became a pressing issue for the environment where such 
+activity centralized itself. Throughout the West electronics 
+manufacturers established headquarters, manufacturing facilities, and 
+research offices, often courted by pro-growth advocates in city 
+governments. With the rise of middle-class, quality-of-life 
+environmentalism, however, the electronics industry became a target for 
+its impact on wildlife, water quality, air pollution, and open space, 
+especially in the western boomtowns where electronics formed the 
+dominant economic activity. In turn, these concerns shaped politics in 
+western states like California as pro-growth boosters debated with 
+Californians worried about the rapid pace of growth and its impact on 
+quality of life.
+
+
 This work begins with a simple question: does nature matter to Silicon Valley?
 Which points to an even bigger question: how does nature matter to American
 cities? Beginning to answer that question involves extending historian Kenneth
@@ -689,10 +704,10 @@ aspirations.
 
 [^cf1]: Yi--Fu Tuan, *Space and Place: The Perspective of Experience* (Minneapolis: University of Minnesota Press, 1997): 200--201.
 
-[^cf2]: Leo Marx, ``The Idea of Nature in America," *Daedulus* 137:2 (Spring 2008): 9.
+[^cf2]: Leo Marx, "The Idea of Nature in America," *Daedulus* 137:2 (Spring 2008): 9.
 
 [^cf3]: Wallace Stegner, "The Clouded Skies of Lotus Land," *St. Louis
-Post-Dispatch*, September 26, 1965, quoted in Friedly, ``This Brief Eden: A
+Post-Dispatch*, September 26, 1965, quoted in Friedly, "This Brief Eden: A
 History of Landscape Change in California's Santa Clara Valley," Ph.D.
 dissertation (Duke University, 2000), 5. Stegner's novel *All the Little Live
 Things*, was written based on the Valley. The novel's character, Joe Allston,
@@ -814,7 +829,7 @@ living beings exist in complex relationships with each other, and a human
 invention. Humans create a shifting set of cultural concepts about the
 physical world and identify these concepts as nature." White, "American
 Environmental History: The Development of a New Historical Field," *Pacific
-Historical Review* 54 (August 1985): 297–335.
+Historical Review* 54 (August 1985): 297--335.
 
 [^cf23]: @conard1985green: 5.
 
@@ -832,7 +847,7 @@ Terry Gifford (Seattle: Mountaineers, 1996), 96.
 
 [^cf29]: Robin M. Grossinger et al., "Historical Landscape Ecology of an
 Urbanized California Valley: Wetlands and Woodlands in the Santa Clara
-Valley," *Landscape Ecology* 22 (December 1, 2007): 110–-115.
+Valley," *Landscape Ecology* 22 (December 1, 2007): 110---115.
 
 [^cf30]: R. T. Hanson, Zhen Li, and C. Faunt, *Documentation of the Santa
 Clara Valley Regional Ground-Water Surface-Water Flow Model*, Santa Clara
@@ -844,7 +859,7 @@ Urban Runoff Processes in the Bay Area: Existing Knowledge, Conceptual Models,
 and Monitoring Recommendations," SFEI Contribution 66 (Oakland: San Francisco
 Estuary Institute, 2003); Robin M. Grossinger et al., "Historical Landscape
 Ecology of an Urbanized California Valley: Wetlands and Woodlands in the Santa
-Clara Valley," *Landscape Ecology* 22 (December 1, 2007): 110–115.
+Clara Valley," *Landscape Ecology* 22 (December 1, 2007): 110--115.
 
 [^cf32]: Friedly, "This Brief Eden," 20.
 
@@ -853,7 +868,7 @@ alfalfa meadows. Muir, *John Muir*, 96.
 
 [^cf34]: By the 1920s, Santa Clara Valley led the state in fruit production, drying, canning, and packing, providing a range of products such as cherries, prunes, apricots, pears, peaches, plums, and apples. By 1930, Santa Clara County produced between one-third to one-half of the world's prune supply. Glenna Matthews, *Silicon Valley, Women, and the California Dream: Gender, Class, and Opportunity in the Twentieth Century* (Stanford: Stanford University Press, 2002), 18; Cecilia Tsu, *Garden of the World*, 17.
 
-[^cf35]: Edward N. Torbert, "The Specialized Commercial Agriculture of the Northern Santa Clara Valley," *Geographical Review* 26 (April 1936): 247–-263.
+[^cf35]: Edward N. Torbert, "The Specialized Commercial Agriculture of the Northern Santa Clara Valley," *Geographical Review* 26 (April 1936): 247---263.
 
 [^cf36]: Edith Brockway, *San Jose Reflections: An Illustrated History of San Jose, California and Some of Surrounding Area* (Campbell, Calif.: Academy Press, 1977), 132--133.
 
