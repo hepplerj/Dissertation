@@ -112,6 +112,96 @@ vineyards---all combine to provide an unmatched setting."^[People for
 Open Space, "The Case for Open Space," report (January 1969), Folder 4, 
 Carton 2, Calif. Tomorrow records {DETAIL}.]
 
+## East Side Environment
+
+The Community Services Organization (CSO) held its first 
+meeting in San Jose in 1952, hosted by Cesar Chavez. Chavez lived in 
+the neighborhood known as Sal si Puedes ("Get out if you can"), a 
+suburban barrio in East San Jose that served as home for many of the 
+area's seasonal workers. Sal Si Puedes was overlooked by the City. The 
+majority of the concerns at the first CSO meeting revolved around 
+environmental issues: floods, polluted creeks cesspools that spread 
+dysentery.^[Cesar Chavez, "The Organizer's Tale," *Ramparts*, July 1966; 
+Levy, *Cesar Chavez*, 97--98; Ross, *Conquering Goliath* 3; Ross, "The 
+Saga of Sal Si Puedes" 5.] The CSO became an expression of political 
+power for barrio residents concerned about urban growth and its 
+attendant problems. The urban transformations in East San Jose led to a 
+new kind of environmental politics among barrio residents that engaged 
+in electoral politics and led to widespread discussions about urban 
+growth and its attendant environmental costs for the suburban colonia. 
+
+Located in the neighborhood of Mayfair east of Highway 101, Sal si 
+Puedes occupied the eastern edge of the neighborhood.^[Sal si Puedes no 
+longer exists today. The original site of Sal si Puedes is now overlaid 
+by Highway 680. The interchange between Highway 680 and Highways 101/280 
+was completed in the 1970s.] Sal si Puedes had become a site of 
+environmental concern for the city's Mexican American residents. By the 
+early 1950s, Fred Ross wrote of the area's lack of sewers, cesspools 
+that led to amoebic dysentery outbreaks, and muddy, flooding streets 
+that occasionally left children unable to attend school.^[Ross, "The 
+Saga of Sal Si Puedes," 3--6.] In the 1950s the residents of Sal si 
+Puedes criticized the environmental hazards that had overtaken their 
+community. In the first meeting of the CSO, residents took the 
+opportunity to denounce "every rate, mosquito, cesspool, traffic hazard 
+and flooded road" that had characterized the city.^[Ross, "The Saga of 
+Sal si Puedes," {PG}.] 
+
+The very name of the community became a rallying point for activists. 
+Originally coined Sal si Puedes by Puerto Rican families who gave it the 
+name due to its muddy streets that became filled with potholes in the 
+winter rains. Residents continued to use the name because of its housing 
+and socioeconomic problems.^[Clark, *Health in Mexican American 
+Culture*, 35.]
+
+Ross, Chavez, and others began organizing the community to act. Ross told members of the 
+CSO meeting that election drives he helped organize in Los Angeles had 
+helped bring streetlights, paved roads, and medical care to the barrio. 
+East San Jose could achieve the same.^[Ross, "The Saga of Sal si 
+Puedes," {PG}.] An 85-day registration drive managed to register 6,000 
+Mexican American voters, a tactic that worked. City officials responded, 
+bringing modern urban services to Sal si Puedes within months after the 
+election drive. New public works systems to fix chronic flooding, 
+clearing out cesspools, and paved roads were brought to the barrio. 
+Packinghouses and canneries were forced to end dumping into the 
+creek.^[Ross, "The Saga of Sal si Puedes," 16; Clark, *Health in the 
+Mexican-American Culture*, 28.] 
+
+Despite the city's attempts at connecting the barrios to urban services, 
+such places were considered expendable. The City of San Jose saw the 
+barrios as signs of decay. "Each segment of the city," the 1958 master 
+plan noted, "has a natural cycle of growth---obsolescence and 
+decay---and then renewal."^[San Jose City Planning Commission, *Master 
+Plan of the City of San Jose*, 89.] The planning commission's map of 
+blighted areas closely followed the city's barrios. The city, the 
+commission warned, needed to pursue renewal programs to prevent blight 
+from spreading so "that the vast private investment in our city will 
+remain sound an continue to expand."^[Planning Commission, *Master 
+Plan*, 94--95.] Renewal needed to "clear and rebuild areas that 
+economically are not worth saving."^[Planning Commission, *Master Plan 
+of the City of San Jose*, 89.] The suggestions for renewal aligned with 
+the federal transportation program, which city officials turned to for 
+helping in aiding demolition of blighted areas. Municipal planners began 
+planning three interstate highways and an expressway through East Side. 
+Highways 280 and 680 would shuffle traffic between northern and southern 
+Santa Clara County.  Capitol Expressway skirted the eastern edge of the 
+city. In the process of constructing the new highway system, many of the 
+eastside barrios were demolished.^["Housing for Freeway Displace-ees," 
+n.d., Box 5, Folder 19, Fred Ross Papers, Department of Special 
+Collections, Stanford University Libraries, Stanford, California.] In 
+response to the eradication of San Jose's barrios, many Mexican 
+Americans moved to a central part of eastside, physically and 
+symbolically separated from white communities by the freeway. This area 
+of San Jose also became home to the city's federally-financed public 
+housing projects. In 1966, the new San Jose Housing Authority began 
+placing Mexican Americans into public housing in a regional already 
+highly populated by Mexican Aemricans.^["Housing for Freeway 
+Displace-ees"; "Sofia Mendoza Oral History," March 2, 1988, Chicano Oral 
+History Collection, San Jose State University Library Special 
+Collections and Archives. See also Grace Kubota and Stephen Manley, 
+"Opening Brief of Appellants," n.d., *Ybarra v. San Jose*, Northern 
+District of California, 276-98-009, RG 276, Box 27, National Archives 
+Pacific Region.]
+
 ## Saving Open Space for the Cost of Wine and Bread
 
 Concerns about the increasing value of agricultural land and threat of 
