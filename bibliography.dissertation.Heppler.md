@@ -23,7 +23,6 @@ Arnold Del Carlo Photograph Collection
 Catherine Bauer Wurster Papers  
 Dorothy Ward Erskine Papers  
 T. J. Kent Papers  
-Save San Francisco Bay Association  
 
 *California Historical Society*    
 California Tomorrow Records  
@@ -99,7 +98,9 @@ David Rumsey Map Collection. Cartography Associates. <http://www.davidrumsey.com
 
 **Legal Cases**  
 
-Builders Ass'n of Santa Clara-Santa Cruz Counties v. City of San Jose, July 16, 1973.  
+*Builders Ass'n of Santa Clara-Santa Cruz Counties v. City of San Jose*, July 16, 1973.  
+*Los Altos Hills v. Adobe Creek Properties, Inc.*, 32 Cal.App.3d 488 (1973)  
+*Ybarra v. Town of Los Altos Hills*, 503 F.2d 250 (1974)  
 
 \vskip 0.75in
 
@@ -123,11 +124,11 @@ United States Department of Agriculture. *Land: The 1958 Yearbook of Agriculture
 
 **Dissertations, Theses, and Unpublished Articles**    
 
-Alpert, Megan Lynn. "Valley of Heart's Delight: Orchards to Hard Drives in the San Jose Mercury News." M.A. Thesis, San Jose State University, 2010.
-Cavanagh, Carlos. "Urban Expansion and Physical Planning in San Jose, California: A Case Study." M.A. Thesis, University of California, Berkeley, 1953.
-Friedly, Michael. "This Brief Eden: A History of Landscape Change in California's Santa Clara Valley." Ph.D. dissertation, Duke University, 2000.
-Keyes, Lindsay Eileen. "Strategic Considerations for City Annexations in California". M.A. Thesis, Sacramento: California State University, 2008.
-Tijnai, Carolyn. "From the Valley of Heart's Delight to the Silicon Valley: A Study of Stanford University's Role in the Transformation." M.A. Thesis, Stanford University, 1996.
+Alpert, Megan Lynn. "Valley of Heart's Delight: Orchards to Hard Drives in the San Jose Mercury News." M.A. Thesis, San Jose State University, 2010.  
+Cavanagh, Carlos. "Urban Expansion and Physical Planning in San Jose, California: A Case Study." M.A. Thesis, University of California, Berkeley, 1953.  
+Friedly, Michael. "This Brief Eden: A History of Landscape Change in California's Santa Clara Valley." Ph.D. dissertation, Duke University, 2000.  
+Keyes, Lindsay Eileen. "Strategic Considerations for City Annexations in California". M.A. Thesis, Sacramento: California State University, 2008.  
+Tijnai, Carolyn. "From the Valley of Heart's Delight to the Silicon Valley: A Study of Stanford University's Role in the Transformation." M.A. Thesis, Stanford University, 1996.  
 
 \vskip 0.75in
 

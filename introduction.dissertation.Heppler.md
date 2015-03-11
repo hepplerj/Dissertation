@@ -20,6 +20,13 @@ author:
 >
 > --- Leo Marx[^cf2]
 
+<!--
+Charles Wilkinson: "the suble, intangible, but soul-deep mix of 
+landscape, smells, sounds, history . . . that constitute a place, a 
+homeland."^[Charles F. Wilkinson, *The Eagle Bird: Mapping a New West* 
+(New York: Pantheon, 1992), 137--138.]
+-->
+
 Wallace Stegner lamented the changes occurring to the Santa Clara Valley
 in 1965. From his home in the foothills of the Santa Cruz Mountains that
 creep along the western edge of the valley, the Stanford creative
