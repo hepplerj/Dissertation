@@ -10,6 +10,8 @@ Don Edwards Congressional Papers
 Glenna Matthews Oral History Collection  
 League of Women Voters Records  
 Santa Clara Center for Occupational Health (SCCOSH) and Silicon Valley Toxics Coalition (SVTC) Records  
+Janet Gray Hayes Papers  
+Chicano Oral History Collection  
 
 *California Reading Room, San Jose Public Library*    
 
@@ -35,6 +37,7 @@ Page Mill Road Co-ordinating Committee Records
 Richard Lyman Papers  
 Stanford University Planning Office Records  
 William J. O'Connel Papers  
+Fred Ross Papers  
 
 *Santa Clara County Local Agency Formation Commission Records*    
 
@@ -54,6 +57,9 @@ David Brower.
 Sylvia McLaughlin.  
 Harvey O. Banks.  
 Wallace Stegner.  
+Randal Jimenez.  
+Ernesto Galarza.  
+Sofia Mendoza.  
 
 \vskip 0.75in
 
@@ -65,6 +71,8 @@ Minnesota Population Center. *National Historical Geographic Information System:
 
 David Rumsey Map Collection. Cartography Associates. <http://www.davidrumsey.com/>.
 
+Map Warper.
+
 \vskip 0.75in
 
 **Periodicals**    
@@ -74,13 +82,12 @@ David Rumsey Map Collection. Cartography Associates. <http://www.davidrumsey.com
 *California Farmer*  
 *Cry California*  
 *Palo Alto Times*  
-*Palo Alto Weekly*   
 *New York Times*  
 *Electronic News*  
 *Gilroy Dispatch*  
 *Green Footnotes*  
-*Los Angeles Herald Examiner*  
 *Los Angeles Times*  
+*Peninsula Times Tribune*  
 *San Francisco Chronicle*  
 *The Nation*  
 *Newsweek*  
