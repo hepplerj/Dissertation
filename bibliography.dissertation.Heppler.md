@@ -21,11 +21,6 @@ Ernie Renzel Papers
 *Sourisseau Academy for State and Local History, San Jose State University*    
 Arnold Del Carlo Photograph Collection  
 
-*Bancroft Library, University of California, Berkeley*    
-Catherine Bauer Wurster Papers  
-Dorothy Ward Erskine Papers  
-T. J. Kent Papers  
-
 *California Historical Society*    
 California Tomorrow Records  
 
@@ -34,9 +29,7 @@ Donald Carlson Papers
 Frederick Terman Papers  
 J. E. Wallace Sterling Papers  
 Page Mill Road Co-ordinating Committee Records  
-Richard Lyman Papers  
 Stanford University Planning Office Records  
-William J. O'Connel Papers  
 Fred Ross Papers  
 
 *Santa Clara County Local Agency Formation Commission Records*    

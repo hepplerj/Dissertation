@@ -140,6 +140,10 @@ study.^[@schulten2001imagination, 3.]
 
 -->
 
+<!--
+Another aim of this text is to think bigger about Silicon Valley, about California, and its national context. Silicon Valley is often given an exceptionalist thesis----a place with a unique set of circumstances that made it an anomaly in postindustrial America, a place that other places tried to replicate. Silicon Valley became a gold standard, cited by journalists, scholars, critics, and pundits throughout the country as an example of a friendly business climate, residential paradise, and economic powerhouse. Places as varied as Atlanta, Philadelphia, Cleveland, Omaha, Bangalore, India, Mission Hills in the Guandong Province of China, and Shenzhen, China, have all looked to Silicon Valley as a vision for their futures----going so far as to model their architectural designs after the Spanish villa and ranch aesthetic of Santa Clara County.^[See, for example, Margaret O'Mara, "Silicon Valleys," *Boom: A Journal of California* 1 (Summer 2011) <http://www.boomcalifornia.com/2011/06/silicon-valleys/>.] But in viewing Silicon Valley as exceptional is to miss similar economic, cultural, and environmental transformations happening throughout the Sunbelt and global sites of postindustrial capital. Phoenix, Arizona, for example, underwent its own high-technology transformations in the postwar era, and like Silicon Valley, had to deal with the fallout of manufacturing and pollution. For all the claims of today's "green" industries and Google's gloating of solar panels on its building roofs, there's a history that explains why tech tries to present itself as green.
+-->
+
 Electronics became a key component of the West's service industry, but 
 simultaneously became a pressing issue for the environment where such 
 activity centralized itself. Throughout the West electronics 
