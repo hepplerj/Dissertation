@@ -138,6 +138,10 @@ half-truths in order to create a narrative of place. How these ideas
 were created, negotiated, and challenged forms the subject of this
 study.^[@schulten2001imagination, 3.]
 
+Environmental critics argued that industrialization and real estate development only served to ruin the enviroment---sprawling places that ruined the environment and erased a sense of identity.
+
+Silicon Valley is a story of America as a whole. America in the postwar era was about markets, invention, creativity, migration, and technology. 
+
 -->
 
 <!--
@@ -411,110 +415,6 @@ together, these landscapes form a complex environmental map of their regional
 construction, implementation in the American West, and efficacy in California.
 -->
 
-The Santa Clara Valley lies between two branches of the Coast Range mountains.
-The Santa Cruz mountains to the west are covered in coastal redwoods that give
-the mountains a green vail all year long. The Diablo Range to the east remains
-dry and khaki brown for most of the year except during the short rainy season.
-The Mediterranean climate of the Bay Area means the region receives little
-rainfall outside the period between November and April. On average, the
-semiarid Valley receives about fourteen inches of rain annually.[^cf26] The
-Coastal Range shields the Santa Clara Valley from frosts and major storms, and
-temperatures rarely drop below freezing or become excessively warm, although
-conditions of droughts and excessive rainfall do occurr.[^cf27] The Santa
-Clara Valley's climate, John Muir remarked when passing through in the spring
-of 1872, was "the best we ever enjoyed."[^cf28]
-
-Hydrologically, the area is crossed by several streams and rivers that snake
-their way down the mountains. Historically, the majority of these water
-sources never created deep channels, often forming shallow pathways that were
-prone to flooding. Most mountain runoff quickly dissipated into well--drained
-alluvial soil and replenished groundwater aquifers. Freshwater marshes,
-seasonally--flooded meadows, forested wetlands, and riparian habitats were
-common historical features on the valley landscape.[^cf29] In addition to
-overland water sources, the valley is supplied by a regional aquifer that
-consisted of multiple Pleistocene aquifers grouped into upper and lower
-systems. These groundwater systems were replenished primarily through
-precipitation, stream channels, and, today, by artificial recharge ponds. The
-presence of rock faults also serve as potential sources and barriers of
-hydrological flows.[^cf30] The Valley has few rivers coursing through it.
-Twenty--six major creeks flow through the valley, and the major rivers flowing
-through the Valley include the Arroyo Hondo, Guadalupe River, and Pajaro
-River, which originate in the Santa Cruz or Diablo Range mountains and empty
-into the Calaveras Reservoir, the San Francisco Bay, and the Pacific Ocean
-respectively. A majority of the thirty--seven lakes that exist in Santa Clara
-County are artificial or serve as reservoirs. Two major dam projects, the
-Coyote Dam built in 1936 and the Anderson Dam built in 1950, began regulating
-watershed discharge. Recent changes in vegetation and habitats came about due
-to changes in stream hydrology that included flood control efforts and summer
-water releases from groundwater recharge associated with the Coyote and
-Anderson dams.[^cf31]
-
-![Reconstructed land cover map of the valley floor along Coyote Creek prior to
-heavy human modification. From Robin M. Grossinger et al., "Historical
-Landscape Ecology of an Urbanized California Valley: Wetlands and Woodlands in
-the Santa Clara Valley," *Landscape Ecology* 22 (December 2007):
-112.](figures/landcover.png)
-
-The valley hosted a variety of lifeforms. Along the valley floor, oak scrub,
-cacti, and a variety of oak, willow, sycamore, and alder trees provided cover
-for wildlife and shelters for native grasses. At higher elevations, a variety
-of conifers including coastal redwoods (*Sequoia sempervirens*), ponderosa pine
-(*pinus ponderosa*), sugar pine (*pinus lambertiana*) mingled with white fir
-(*Abies concolor*) and black oak (*Quercus kelloggii*) that carpeted the mountains
-in green. The plants of the Valley adapted to the Mediterranean climate:
-perennial bunchgrasses die back every winter, leaving only roots to help
-preserve water; oak trees have extensive root systems to tap into groundwater
-supplies.[^cf32] The oak woodlands and chaparral ecoregions provided habitats
-for acton woodpeckers, nuthatch, oak titmouse, and Pacific pallid bats. Major
-waterways supported a diverse range of native fish species, including Pacific
-lamprey (*Lampetra tridentata*), steelhead trout, chinook salmon, Sacramento
-blackfish, and tule perch, among many others. Golden beavers and raccoons
-shared the landscape with rabbits, squirrels, and other small species, as well
-as a variety of snakes, lizards, spiders, and insects. Mountain lions, wolves,
-and grizzly bears once hunted and lived in the valley, mingling with ungulates
-such as elk and mule deer. Woodpeckers, wrentits, scrub jays, Chestnut-backed
-Chickadees, and hundreds of additional bird species thrived in the Valley's
-skies.
-
-The agricultural landscape John Muir observed at the turn of the century was
-just beginning to shift under the influence of American settlement.[^cf33] The exceptional
-growing climate, fertile soil, and plentiful water from artesian wells allowed
-farmers to transform the landscape into the fruit capital it would be known as
-worldwide.[^cf34] The cultivation and processing of apricots, prunes, pears,
-and cherries became staples on the horticulture landscape.[^cf35] Fruit trees
-produced a canopy of pink and white blossoms along with orange California
-poppies and other native wildflowers that bloomed on the hillsides. The
-blooming seasons were popular early in the twentieth century as visitors
-flocked to the area to behold the orchards in full bloom, along with
-farmhouses, berry patches, vegetable gardens, and pastures.[^cf36] Little
-wonder why the Santa Clara Valley boosters advertised the area as "nearest
-Paradise" and "the best spot in the whole earth," a place where "the Eden of
-vine and tree" was a "God-favored spot" and "God's favorite valley."[^cf37]
-
-![Blossom tours in Santa Clara Valley were widely popular. Tours took place
-several times per year depending on which trees were in bloom. Source:
-"Blossomtime Tours: Santa Clara Valley Routes PC, ca. 1953," Greater San Jose
-Chamber of Commerce, Santa Clara History Center Collection, Santa Clara City
-Library.](figures/blossomtours.png)
-
-Cattle ranching, wheat and grain production, and quicksilver mining flourished
-in the Valley in the nineteenth century prior to the Valley becoming "one vast
-orchard."[^cf38] By the end of the ninetieth century, fruit production had
-surpassed all other agricultural, mining, and timbering activity. The growth
-of Silicon Valley occurred upon some of California's most fertile lands. A
-survey by the U.S. Department of Agriculture designated 400 square
-kilometers---32 percent---of Santa Clara County as Class 1 land, the highest
-ranking possible for the cultivation of fruits and vegetables. Water systems
-flowing into the valley carved out rich alluvial fans in the Valley. Below
-topsoil loam---in some places measuring forty feet deep---are gravel and clay
-freshwater aquifers, which nineteenth century farmers reached with artesian
-wells that provided a consistent supply of fresh water.[^cf39] Santa Clara
-Valley farms remained relatively small. In 1900, the typical farm was under
-fifty acres; in 1920, the average farm size as forty acres and dropped to
-thirty-two acres by 1950.[^cf40] Agricultural activity by the 1940s witnessed
-around 6,000 farms in the Valley, mostly family--run operations, that totaled
-around 132,000 acres and some eight million cherry, apricot, and pear
-trees.[^cf41]
 
 The Bay Area's mid-century environmentalists treated nature as a place of
 pristine beauty and predominantly rural. When Wallace Stegner lamented the
@@ -853,9 +753,6 @@ Jose Mercury*, December 22, 1999.
 
 [^cf27]: Friedly, "This Brief Eden," 20.
 
-[^cf28]: John Muir, *John Muir: His Life and Letters and Other Writings*, ed.
-Terry Gifford (Seattle: Mountaineers, 1996), 96.
-
 [^cf29]: Robin M. Grossinger et al., "Historical Landscape Ecology of an
 Urbanized California Valley: Wetlands and Woodlands in the Santa Clara
 Valley," *Landscape Ecology* 22 (December 1, 2007): 110---115.
@@ -872,26 +769,8 @@ Estuary Institute, 2003); Robin M. Grossinger et al., "Historical Landscape
 Ecology of an Urbanized California Valley: Wetlands and Woodlands in the Santa
 Clara Valley," *Landscape Ecology* 22 (December 1, 2007): 110--115.
 
-[^cf32]: Friedly, "This Brief Eden," 20.
-
 [^cf33]: Muir notes the appearance of orchards, wheat fields, vineyards, and
 alfalfa meadows. Muir, *John Muir*, 96.
-
-[^cf34]: By the 1920s, Santa Clara Valley led the state in fruit production, drying, canning, and packing, providing a range of products such as cherries, prunes, apricots, pears, peaches, plums, and apples. By 1930, Santa Clara County produced between one-third to one-half of the world's prune supply. Glenna Matthews, *Silicon Valley, Women, and the California Dream: Gender, Class, and Opportunity in the Twentieth Century* (Stanford: Stanford University Press, 2002), 18; Cecilia Tsu, *Garden of the World*, 17.
-
-[^cf35]: Edward N. Torbert, "The Specialized Commercial Agriculture of the Northern Santa Clara Valley," *Geographical Review* 26 (April 1936): 247---263.
-
-[^cf36]: Edith Brockway, *San Jose Reflections: An Illustrated History of San Jose, California and Some of Surrounding Area* (Campbell, Calif.: Academy Press, 1977), 132--133.
-
-[^cf37]: Quotes from Tsu, *Garden of the World*, 3--4. *Picturesque San Jose and Environments: An Illustrated Statement of the Progress, Prosperity, and Resources of Santa Clara County, California* (San Jose: H. S. Foote and C. A. Woolfolk, 1893), n.p.; *The Progressive City Beautiful: Santa Clara* (Santa Clara Chamber of Commerce, n.d.); E. Alexander Powell, "The Valley of Heart's Delight," *Sunset* 29 (August 1912), 120.
-
-[^cf38]: Quoted in Tsu, *Garden of the World*, 17.
-
-[^cf39]: Aaron Sachs, "Virtual Ecology," *World Watch*, 15.
-
-[^cf40]: Tsu, *Garden of the World*, 6.
-
-[^cf41]: Sachs, "Virtual Ecology," 16.
 
 [^cf42]: Stegner quoted in Friedly, "This Brief Eden," 8.
 

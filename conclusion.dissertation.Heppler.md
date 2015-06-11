@@ -27,6 +27,9 @@ author:
 >
 > Louis Simpson, *Air with Armed Men*
 
+In 2014, the Environmental Protection Agency announced a town hall meeting in Sunnyvale. The topic: indoor air quality testing of homes. Known as "vapor intrusion," the EPA planned to test homes for the presence of trichloroethene (TCE) dispersed into the air from evaporating contaminated groundwater.^["Sunnyvale: EPA plans on testing indoor air quality for vapor intrusion," *San Jose Mercury News*, December 5, 2014 <http://www.mercurynews.com/my-town/ci_27080114/sunnyvale-epa-plans-testing-indoor-air-quality-vapor>.] The area, known as the Triple Site, under monitoring by the EPA were remediated Superfund sites of AMD Electronics, TRW Microwave, and Philips Semiconductors.^[More about the Triple Sites can be found at <http://yosemite.epa.gov/r9/sfund/r9sfdocw.nsf/3dec8ba3252368428825742600743733/d18e8a81d96408d588257d32005da7f0>.]
+
+![The "Triple Site" in Sunnyvale. Map by author. <http://dissertation.jasonheppler.org/visualizations/companies/>](figures/triple_site.png)
 
 <!--
 

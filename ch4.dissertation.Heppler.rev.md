@@ -4,6 +4,7 @@ author:
 title: |
     | Chapter 4
 	| A Place for Nature
+	| The Politics of Growth and Planning
 ...
 
 > We stand today poised on a pinnacle of wealth and power, yet we live
@@ -138,7 +139,6 @@ its connections to environmentalism.[^10] But fewer historians have
 looked at how environmental thinking traced itself, in part, to the
 communities laborers called home.
 
-<!-- The congregation of seasonal workers in East Side caught the attention of Elizabeth Clark -->
 ![Mayfair neighborhood and its subdivisions.](figures/mayfair.png)
 
 Cesar Chavez was among those Latinos coming to East Side in the 1950s
@@ -273,33 +273,36 @@ not only from his employment, but from his home." The county's growth
 came at the expense "of thousands of its poorest and most defenseless
 citizens."[^29]
 
-Following a successful lawsuit against Saratoga, a wealthy suburb in the
-Santa Cruz foothills, in 1970 that charged the city violated a new state
-law requiring housing for all economic segments, CRU filed suit against
-Los Altos Hills. The organization had applied for a low-income housing
-permit in 1971 on land near the edge of town to become a 200-unit
-apartment that could accommodate 800 persons. The town refused, and
-Ybarra filed suit charging that the city violated California law. During
-the three-day trial, representatives for CRU argued that the city's
-zoning requirements were exclusionary and served only to maintain an
-enclave of white, upper-class families. The city responded that their
-zoning requirements sought to maintain the "rural" character of the
+Following a successful 1970 lawsuit against Saratoga, a wealthy suburb in the
+Santa Cruz foothills, that charged the city violated a new state law requiring
+housing for all economic segments, CRU filed another suit against Los Altos
+Hills. The organization had applied for a low-income housing permit in 1971 on
+land near the edge of town to become a 200-unit apartment that could
+accommodate 800 persons. The town refused, and Ybarra filed suit charging that
+the city violated California law. During the three-day trial, representatives
+for CRU argued that the city's zoning requirements were exclusionary and served
+only to maintain an enclave of white, upper-class families. The city responded
+that their zoning requirements sought to maintain the "rural" character of the
 town. Furthermore, they claimed, such additions to the town posed an
-environmental threat. Nor could the city fully provide the urban
-services that would be needed.[^30] To Ybarra, such claims were empty,
-telling the *San Jose Mercury* that "if they're interested in preserving
-the foothills for a certain class of people then the conservationists
-are our enemies, too."[^31] In November, Judge Stanely Wiegel rejected
-Los Altos Hills' argument that infrastructure and environmentalism
-supported the town's restrictive zoning, but Wiegel upheld the zoning
-law. When CRU appealed, the Ninth Circuit upheld the district ruling on
-the basis that low-income housing was available elsewhere in the
-county.[^32]
+environmental threat. Nor could the city fully provide the urban services that
+would be needed.[^30] To Ybarra, such claims were empty, telling the *San Jose
+Mercury* that "if they're interested in preserving the foothills for a certain
+class of people then the conservationists are our enemies, too."[^31] In
+November, Judge Stanely Wiegel rejected Los Altos Hills' argument that
+infrastructure and environmentalism supported the town's restrictive zoning,
+but Wiegel upheld the zoning law. When CRU appealed, the Ninth Circuit upheld
+the district ruling on the basis that low-income housing was available
+elsewhere in the county.[^32]
 
 Landscape aesthetics and appeals to environmentalism formed the core
-justification for suburban exclusivity in Los Altos Hills. Special
-zoning allowed affluent suburbs to maintain their "rural" environments,
-but at the cost of poor communities. <!-- finish this up -->
+justification for suburban exclusivity in Los Altos Hills. Special zoning
+allowed affluent suburbs to maintain their "rural" environments, maintaining
+a sense of countryside living that had drawn them to the foothills in the first
+place. Yet zoning for environmental reasons, whether intentional or not,
+introduced exclusive spaces. What environmentalists and homeowners neglected
+was that the protection of environments not only served to redefine what could
+or could not happen in space, but also those protections came with a social
+cost. 
 
 Saving Open Space for the Cost of Wine and Bread
 ------------------------------------------------
@@ -569,32 +572,35 @@ person in the Bay Area would amount to only $2 to $3 dollars per
 year---"about the cost of a good bottle of California wine and a loaf of
 sourdough French bread."[^58]
 
-The loss of agricultural land was only one feature among many that
-motivated environmentalists. Frustrated by the state's lack of any
-comprehensive planning for California and believing that local
-government was the source of urban California's problems, a new
-nonprofit educational organization called California Tomorrow entered
-the political scene with its 1962 publication of *California Going,
-Going...*, whose opening sentences reiterated the "serious,
-progressively disastrous lack of coordinated land planning and
-development" in California.[^59] California Tomorrow was the brainchild
-of Alfred Heller and Samuel Wood, {DETAIL}. California Tomorrow reflected a
-belief in scientific and expert knowledge in overcoming urban planning
-and environmental degradation, forcefully arguing for a central
+The loss of agricultural land was only one feature among many that motivated
+environmentalists. Frustrated by the state's lack of any comprehensive planning
+for California and believing that local government was the source of urban
+California's problems, a new nonprofit educational organization called
+California Tomorrow entered the political scene with its 1962 publication of
+*California Going, Going...*, whose opening sentences reiterated the "serious,
+progressively disastrous lack of coordinated land planning and development" in
+California.[^59] California Tomorrow was the brainchild of Alfred Heller and
+Samuel Wood. Heller served as the editor and publisher of the *Nevada County
+Nugget* and became involved with planning after fighting for a rerouting of
+a freeway through Nevada City. Wood got his start working as an official with
+the Interior and Agriculture departments before moving into state government as
+the staff director of California legislative committees working on
+conservation. He helped draft the bill establishing the State Office of
+Planning in 1959 and, after leaving government service, became a consultant and
+a professor of political science at the University of California-Berkeley in
+the Department of City and Regional Planning. Heller and Wood met through their
+mutual friend, Berkeley professor Catherine Bauer Wurster. California Tomorrow
+reflected a belief in scientific and expert knowledge in overcoming urban
+planning and environmental degradation, forcefully arguing for a central
 regulatory state to solve the state's rapidly disappearing open spaces.
-California Tomorrow urged the state to think about both urban and rural
-areas. A year later, Heller and Wood published *The Phantom Cities of
-California*, arguing that weak planning allowed political power to
-aggregate among regional actors---phantom cities---that enacted
-sprawling urban growth. Without regional planning, Heller and Wood
-concluded, California was destined to become "unsightly intrusions of
-subdivisions, cars, roads, parking spaces, sewage, exhaust, strip
-development, *slurbs*---sloppy, sleezy, slovenly, slipshod,
+California Tomorrow urged the state to think about both urban and rural areas.
+A year later, Heller and Wood published *The Phantom Cities of California*,
+arguing that weak planning allowed political power to aggregate among regional
+actors---phantom cities---that enacted sprawling urban growth. Without regional
+planning, Heller and Wood concluded, California was destined to become
+"unsightly intrusions of subdivisions, cars, roads, parking spaces, sewage,
+exhaust, strip development, *slurbs*---sloppy, sleezy, slovenly, slipshod,
 semi-cities."[^60]
-
-<!--
-Nevada City and publishing the weekly Nevada County Nugget when he became involved in a grassroots platform to reroute freeway construction planned to cut through the middle of the town.
--->
 
 As part of their efforts towards shaping the state's conversation about
 planning, California Tomorrow published a quarterly magazine *Cry
@@ -1110,9 +1116,8 @@ pollution of space.
 
 [^5]: @dasmann1965destruction, 19.
 
-[^6]: @rome2001bulldozer. Christopher Sellers argues that Rome that such an
-  analysis overlooks a genuine environmentalism emerging from the suburbs.
-  @sellers2012crucible. 
+[^6]: See @rome2001bulldozer. Christopher Sellers argues that Rome overlooks
+  a genuine environmentalism emerging from the suburbs. @sellers2012crucible. 
 
 [^7]: @clark1959health, 49--51, 79; *The Spanish-American Community of
     the San Francisco Bay Area* (U.S. Commission on Civil Rights, April
