@@ -9,21 +9,11 @@ file="$1"
 
 echo "Generating PDF files"
 #file="$1"
-pandoc $file \
-  -S \
-	--bibliography=/Users/jheppler/Dropbox/acad/bib/master.bib \
-	--csl=chicago-jah.csl \
-	-V documentclass:acadpaper \
-	-V fontsize:12pt \
-	-o drafts/$file.pdf
+pandoc $file -s -V documentclass:acadpaper -V fontsize:12pt -o drafts/$file.pdf
 
 echo "Generating Word files"
 #file="$1"
-pandoc $file \
-	--bibliography=/Users/jheppler/Dropbox/acad/bib/master.bib \
-	--csl=chicago-jah.csl \
-	--smart \
-	-o drafts/$file.docx
+pandoc $file --smart -o drafts/$file.docx
 
 # hide the log
 #echo "Hiding log files"
