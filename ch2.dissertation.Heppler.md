@@ -6,25 +6,23 @@ title: |
   | "Carved from a Forest of Fruit Trees"
 ...
 
-> Hammer in hand, the county went noisily about the job of transforming itself
-> from a rural to a metropolitan community. Bulldozers leveled orchards for
-> thousands of homesites. The steel webbing of new factories spread over
-> former hay fields. Acres of asphalt marked the parking areas of new suburban
-> shopping centers. Service stations sprang up like mushrooms along our major
-> thoroughfares. Fleets of ready-mix trucks disgorged concrete into the
-> foundation forms of every kind of building — in every part of the county.
->
-> ---Karl J. Belser, *Planning Progress 1956*[^cf1]
+\begin{aquote}{Karl J. Belser, \textit{Planning Progress 1956}}
+Hammer in hand, the county went noisily about the job of transforming itself from a rural to a metropolitan community. Bulldozers leveled orchards for thousands of homesites. The steel webbing of new factories spread over former hay fields. Acres of asphalt marked the parking areas of new suburban shopping centers. Service stations sprang up like mushrooms along our major thoroughfares. Fleets of ready-mix trucks disgorged concrete into the foundation forms of every kind of building — in every part of the county.
+\end{aquote}
 
-> Do you know the way to San Jose? It's simple: annex more, plan less density
-> and develop, develop, develop.
->
-> ---*Seattle Times*[^cf2]
+<!--[^cf1]-->
 
-> Perhaps the only use we will ever find for the hydrogen bomb will be to
-> erase this great mistake from the face of the earth.
->
-> ---*Karl J. Belser*[^cf3]
+\begin{aquote}{\textit{Seattle Times}}
+Do you know the way to San Jose? It's simple: annex more, plan less density and develop, develop, develop.
+\end{aquote}
+
+<!--[^cf2]-->
+
+\begin{aquote}{Karl J. Belser}
+Perhaps the only use we will ever find for the hydrogen bomb will be to erase this great mistake from the face of the earth.
+\end{aquote}
+
+<!--[^cf3]-->
 
 <!--
 JH: Make more clear that this is about a political transformation that
@@ -111,40 +109,40 @@ infrastructural decisions; they were the pinnacle of a hybrid landscape that
 was less predictable and more difficult to control than the one they had
 altered.
 
-### Progress Town U.S.A
+<!-- ### Progress Town U.S.A -->
 
-San Jose's ideology of growth traces itself to the mid-1940s when an ambitious
-group of young merchants, lawyers, industrialists, and property owners
-endorsed the importance of urban development in order for the city to achieve
-the greatness they felt it deserved. The taxi service operator and political
-boss Charles "Boss" Bigley and City Manager C. B. Goodwin controlled the
-political machinery of San Jose in the early 1940s. Goodwin and Bigley became
-targets as their critics charged that the leadership failed to entice new
-industries to the city and help stabilize an economy built on the instability
-of agriculture and seasonal employment. The 1944 election gave opponents of
-Bigley and Goodwin an opening. When six of the seven city council seats were
-open for election, opponents formed the "Progress Committee" and accused
-Bigley, Goodwin, and the city council of jeopardizing San Jose's future.
-Voters, and the newspaper, agreed. Aided by the newspaper's endorsement, six
-members of the Progress Committee—among them the key business and political
-figures Al Ruffo, Ernest Renzel, Ben Carter, and Fred Watson—swept the city
-council elections. They committed themselves to building "a new metropolis in
-the place of sleepy San Jose." Their first step was to promptly fire the
-police chief, fire chief, and City Manager Goodwin, charging them with
-"bossism", "mismanagement", and "political interference."[^cf17]
+\thoughtbreak{San Jose's ideology of growth traces itself} to the mid-1940s
+when an ambitious group of young merchants, lawyers, industrialists, and
+property owners endorsed the importance of urban development in order for the
+city to achieve the greatness they felt it deserved. The taxi service operator
+and political boss Charles "Boss" Bigley and City Manager C. B. Goodwin
+controlled the political machinery of San Jose in the early 1940s. Goodwin and
+Bigley became targets as their critics charged that the leadership failed to
+entice new industries to the city and help stabilize an economy built on the
+instability of agriculture and seasonal employment. The 1944 election gave
+opponents of Bigley and Goodwin an opening. When six of the seven city council
+seats were open for election, opponents formed the "Progress Committee" and
+accused Bigley, Goodwin, and the city council of jeopardizing San Jose's
+future. Voters, and the newspaper, agreed. Aided by the newspaper's
+endorsement, six members of the Progress Committee—among them the key business
+and political figures Al Ruffo, Ernest Renzel, Ben Carter, and Fred
+Watson—swept the city council elections. They committed themselves to building
+"a new metropolis in the place of sleepy San Jose." Their first step was to
+promptly fire the police chief, fire chief, and City Manager Goodwin, charging
+them with "bossism", "mismanagement", and "political interference."[^cf17]
 
 With the Progress Committee entrenched in city government, the new city
-council's immediate plans aimed to attract industry to San Jose. With
-subsidies from city and county government, the Chamber of Commerce began a
-\$60,000 advertising campaign that lured the industries of Food Machinery and
-Chemical Corporation, already a local to the area, International Business
-Machines, General Electric, Pittsburgh Steel, Owens-Corning, and Kaiser. The
-city undertook the construction of its first airport and passed a \$1,700,000
-bond to construct new sewers. Some of their initiatives fell under criticism
-when, in 1946, a fellow member called the committee "reactionaries" and
-accused them of selling municipal land to companies well below market value.
-Others in city government disagreed with plans for the private ownership of
-water infrastructure, arguing instead for municipal ownership. The Progress
+council's immediate plans aimed to attract industry to San Jose. With subsidies
+from city and county government, the Chamber of Commerce began a \$60,000
+advertising campaign that lured the industries of Food Machinery and Chemical
+Corporation, already a local to the area, International Business Machines,
+General Electric, Pittsburgh Steel, Owens-Corning, and Kaiser. The city
+undertook the construction of its first airport and passed a \$1,700,000 bond
+to construct new sewers. Some of their initiatives fell under criticism when,
+in 1946, a fellow member called the committee "reactionaries" and accused them
+of selling municipal land to companies well below market value. Others in city
+government disagreed with plans for the private ownership of water
+infrastructure, arguing instead for municipal ownership. The Progress
 Committee, along with the newspaper, silenced such criticism with accusations
 of socialism.[^cf18]
 

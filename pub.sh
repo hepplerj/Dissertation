@@ -9,7 +9,7 @@ file="$1"
 
 echo "Generating PDF files"
 #file="$1"
-pandoc $file -s -V documentclass:acadpaper -V fontsize:12pt -o drafts/$file.pdf
+pandoc $file -o drafts/$file.pdf -V documentclass:acadpaper -V fontsize:12pt
 
 echo "Generating Word files"
 #file="$1"
