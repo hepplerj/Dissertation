@@ -154,9 +154,9 @@ daily lived experiences of the Bay Area's suburbanites expected clean
 tap water and believed that the industries near their communities were
 clean and green. The toxic landscape shattered that perception.
 
-### Murky Waters: Water Pollution in the Postwar Era
+<!-- ### Murky Waters: Water Pollution in the Postwar Era -->
 
-Concerns about drinking water were not new in 1982. Water quality,
+\thoughtbreak{Concerns about drinking water were not new} in 1982. Water quality,
 sewage disposal and treatment, and waste generation have been staple
 issues of urban growth. Urban areas depend on access to fresh water for
 sanitation, industrial and municipal development, and public health,
@@ -210,7 +210,7 @@ underwent revision in 1977 when the Natural Resources Defense Council
 sued the EPA forcing the organization to deal with toxic chemicals found
 in water. The courts ruled that the EPA had to control a list of
 pollutants, mostly synthetic organic chemicals.^[@hays1987beauty,
-198--199.]
+198-199.]
 -->
 
 Throughout the United States, chemical contamination sites were
@@ -262,47 +262,44 @@ dramatic changes that occurred on the lands around the rivers. The
 solution to the river's inadequacies could be solved by engineering.
 Although floodplains had always been a frequent presence in the
 flatlands of the Valley, city boosters and Army Corps engineers saw the
-rivers as reformers saw them in the early 1900s---channels for moving
+rivers as reformers saw them in the early 1900s----channels for moving
 floodwaters away from cities. But the old river had changed.
 
 California enacted state laws in the 1960s governing the regulation of
 water.
 -->
 
-### "Fairchild or My Child?"
+<!-- ### "Fairchild or My Child?" -->
 
 ![Lorraine Ross and her daughter Juliana. "Silicon Valley's Fear Over Tainted Water," *San Francisco Chronicle*, May 16, 1983.](figures/lorraine_ross_profile.png)
 
-The Los Paseos neighborhood sparked what one newspaper called the "birth
-of an eco-tragedy."^["Birth of an eco-tragedy" *Los Angeles Herald
+\thoughtbreak{The Los Paseos neighborhood sparked} what one newspaper called
+the "birth of an eco-tragedy."^["Birth of an eco-tragedy" *Los Angeles Herald
 Examiner*, February 10, 1982.] Along with the Fairchild leak, the nearby
-International Business Machines facility announced the discovery of a
-TCA leak shortly after the Fairchild leak was revealed. Studies would
-later find that the IBM leak was among the worst in the South Bay,
-contaminating twenty-five public and private wells.^[Peter Murphy,
-"Great Oaks Water Distribution Study," 1988, 1, Folder 1, Box 11, SVTC
-records, SJSU; Ted Smith oral history, Berkeley, 19; Ted Smith and Mike 
-Belliveau, "Responsible action
-needed in IBM's toxic waste cleanup," *San Jose Business Journal*, April
-7, 1986, Folder 3, Box 18, Santa Clara County Center for Occupational Health
-(SCCOSH) and Silicon Valley Toxics Coalition (SVTC) Records,
-MSS-2007-04-06, San Jose State University Library Special Collections &
-Archives.] To Lorraine Ross and her neighbors, the presence of chemicals
-in the suburban neighborhood was as much a spatial experience as a
-personal one. "It takes a lot of nerve for them to invade a pre-existing
-residential neighborhood, pour dangerous chemicals into a leaking tank,
-poison the surrounding environment and hide the fact from the people
-affected by their negligence."^[Quoted in @pellowpark2002dreams, 74.]
-Ross helped galvanize the community into political action, first
-surveying her neighbors that turned up a list of seventy-two people who
-reported birth defects and health problems.^[Lorraine Ross, "State Study
-Confirms Birth Defect Cluster," *Silicon Valley Toxics News* (April
-1985), 3; "San Jose Hearing Points Up Toxic Risks at Area Plants,"
-*California AFL-CIO News*, February 11, 1983.] The problem seemed so
-widespread to not be a coincidence. Ross presented the results of her
-survey to city officials as evidence of a serious problem.^["Leaking
-Chemicals in California's Silicon Valley Alarm Neighbors," *New York
-Times*, May 20, 1982.]
+International Business Machines facility announced the discovery of a TCA leak
+shortly after the Fairchild leak was revealed. Studies would later find that
+the IBM leak was among the worst in the South Bay, contaminating twenty-five
+public and private wells.^[Peter Murphy, "Great Oaks Water Distribution Study,"
+1988, 1, Folder 1, Box 11, SVTC records, SJSU; Ted Smith oral history,
+Berkeley, 19; Ted Smith and Mike Belliveau, "Responsible action needed in IBM's
+toxic waste cleanup," *San Jose Business Journal*, April 7, 1986, Folder 3, Box
+18, Santa Clara County Center for Occupational Health (SCCOSH) and Silicon
+Valley Toxics Coalition (SVTC) Records, MSS-2007-04-06, San Jose State
+University Library Special Collections & Archives.] To Lorraine Ross and her
+neighbors, the presence of chemicals in the suburban neighborhood was as much
+a spatial experience as a personal one. "It takes a lot of nerve for them to
+invade a pre-existing residential neighborhood, pour dangerous chemicals into
+a leaking tank, poison the surrounding environment and hide the fact from the
+people affected by their negligence."^[Quoted in @pellowpark2002dreams, 74.]
+Ross helped galvanize the community into political action, first surveying her
+neighbors that turned up a list of seventy-two people who reported birth
+defects and health problems.^[Lorraine Ross, "State Study Confirms Birth Defect
+Cluster," *Silicon Valley Toxics News* (April 1985), 3; "San Jose Hearing
+Points Up Toxic Risks at Area Plants," *California AFL-CIO News*, February 11,
+1983.] The problem seemed so widespread to not be a coincidence. Ross presented
+the results of her survey to city officials as evidence of a serious
+problem.^["Leaking Chemicals in California's Silicon Valley Alarm Neighbors,"
+*New York Times*, May 20, 1982.]
 
 Lorraine Ross had relocated her family south to the city of Gilroy by
 1983, but she continued to be a vocal presence in the Bay Area's
@@ -568,9 +565,9 @@ State University Library Special Collections & Archives.] The connection
 between environment and bodily health focused itself in the Los Paseos
 neighborhood and would ripple throughout the country.
 
-### The Tap Water Rebellion
+<!-- ### The Tap Water Rebellion -->
 
-Lorraine Ross continued to work with her neighbors and
+\thoughtbreak{Lorraine Ross continued to work with her neighbors} and
 document evidence, serving as part of a vocal and persistent group of
 activists that used the contamination of water to argue that industry
 and urban growth threatened social stability, environmental quality, and
@@ -1076,9 +1073,9 @@ Special Collections and Archives.] By 1990 the EPA listed twenty-nine
 Superfund sites on the National Priority List, twenty-four of which
 resulted from the mishandling of chemicals by high tech industries.
 
-### Arsenic Valley
+<!-- ### Arsenic Valley -->
 
-A similar approach to the Bay Area's pollution landscape focused on air
+\thoughtbreak{A similar approach to the Bay Area's pollution landscape} focused on air
 pollution. The anti-toxics environmentalists, in contrast to the
 mainstream liberal environmentalists and their concern over smog,
 focused their attention on the presence of toxic gases used by the
@@ -1188,9 +1185,7 @@ Gas Law Adopted," *San Jose Mercury News*, January 31, 1990; "Palo Alto
 Gets Tough on Toxics," *San Jose Mercury News*, March 28, 1990.] By
 1991, all cities in the Bay Area had adopted the ordinance.
 
------
-
-End-of-the-century environmental justice advocates insisted on the
+\thoughtbreak{End-of-the-century environmental justice advocates} insisted on the
 spatiality of health. The attention given to bodies, ecology,
 pollution, and justice, as Linda Nash has noted, drew upon earlier
 notions of environmentalism from the 1960s. Rachel Carson and others had
@@ -1243,8 +1238,6 @@ the spread and size of chemical plumes, and the recognition that toxic
 gas releases would recognize no discernible boundaries, environmental
 justice advocates perceived Silicon Valley as a landscape burdened by
 the anxiety of illness.
-
------
 
 "We thought we were living with a clean industry," Lorraine Ross told a
 reporter from the *San Francisco Chronicle*.^[Newspaper clipping,

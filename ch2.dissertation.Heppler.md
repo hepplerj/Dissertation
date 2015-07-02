@@ -7,7 +7,7 @@ title: |
 ...
 
 \begin{aquote}{Karl J. Belser, \textit{Planning Progress 1956}}
-Hammer in hand, the county went noisily about the job of transforming itself from a rural to a metropolitan community. Bulldozers leveled orchards for thousands of homesites. The steel webbing of new factories spread over former hay fields. Acres of asphalt marked the parking areas of new suburban shopping centers. Service stations sprang up like mushrooms along our major thoroughfares. Fleets of ready-mix trucks disgorged concrete into the foundation forms of every kind of building — in every part of the county.
+Hammer in hand, the county went noisily about the job of transforming itself from a rural to a metropolitan community. Bulldozers leveled orchards for thousands of homesites. The steel webbing of new factories spread over former hay fields. Acres of asphalt marked the parking areas of new suburban shopping centers. Service stations sprang up like mushrooms along our major thoroughfares. Fleets of ready--mix trucks disgorged concrete into the foundation forms of every kind of building---in every part of the county.
 \end{aquote}
 
 <!--[^cf1]-->
@@ -17,12 +17,6 @@ Do you know the way to San Jose? It's simple: annex more, plan less density and 
 \end{aquote}
 
 <!--[^cf2]-->
-
-\begin{aquote}{Karl J. Belser}
-Perhaps the only use we will ever find for the hydrogen bomb will be to erase this great mistake from the face of the earth.
-\end{aquote}
-
-<!--[^cf3]-->
 
 <!--
 JH: Make more clear that this is about a political transformation that
@@ -47,7 +41,7 @@ came to symbolize the progress of postwar urban transformations. Between 1935
 and 1957, over 70,000 acres of orchards left production as suburban
 development accelerated.[^cf8] "The most common sounds heard in the Santa
 Clara Valley this spring is not the call of the meadowlark in the tall grass
-among the orchards," reported the San Francisco Chronicle, "but the roar of
+among the orchards," reported the *San Francisco Chronicle*, "but the roar of
 the bulldozer ripping up rows of fruit trees and the rhythmic sound of the
 pounding hammer."[^cf9] San Jose became an icon of suburban growth in the
 mid-1950s, an oft-cited example of how cities should engage in urban planning
@@ -56,8 +50,8 @@ leveled charges against the sprawl, environmental damage, congestion, and
 spatial patterns of industrialization and suburbanization.
 
 San Jose's pattern of residential and industrial development was distinct from
-other cities in the Bay Area. Northern Peninsula cities—Sunnyvale, Palo Alto,
-Mountain View, Santa Clara—tended to build more industry than housing
+other cities in the Bay Area. Northern Peninsula cities---Sunnyvale, Palo Alto,
+Mountain View, Santa Clara---tended to build more industry than housing
 throughout the postwar decades, leading eventually to severe housing and
 utility shortages and traffic congestion by the 1970s.[^cf10] San Jose, on the
 other hand, housed almost half of the county's population but provided only
@@ -124,20 +118,20 @@ opponents of Bigley and Goodwin an opening. When six of the seven city council
 seats were open for election, opponents formed the "Progress Committee" and
 accused Bigley, Goodwin, and the city council of jeopardizing San Jose's
 future. Voters, and the newspaper, agreed. Aided by the newspaper's
-endorsement, six members of the Progress Committee—among them the key business
+endorsement, six members of the Progress Committee---among them the key business
 and political figures Al Ruffo, Ernest Renzel, Ben Carter, and Fred
-Watson—swept the city council elections. They committed themselves to building
+Watson---swept the city council elections. They committed themselves to building
 "a new metropolis in the place of sleepy San Jose." Their first step was to
 promptly fire the police chief, fire chief, and City Manager Goodwin, charging
 them with "bossism", "mismanagement", and "political interference."[^cf17]
 
 With the Progress Committee entrenched in city government, the new city
 council's immediate plans aimed to attract industry to San Jose. With subsidies
-from city and county government, the Chamber of Commerce began a \$60,000
+from city and county government, the Chamber of Commerce began a $60,000
 advertising campaign that lured the industries of Food Machinery and Chemical
 Corporation, already a local to the area, International Business Machines,
 General Electric, Pittsburgh Steel, Owens-Corning, and Kaiser. The city
-undertook the construction of its first airport and passed a \$1,700,000 bond
+undertook the construction of its first airport and passed a $1,700,000 bond
 to construct new sewers. Some of their initiatives fell under criticism when,
 in 1946, a fellow member called the committee "reactionaries" and accused them
 of selling municipal land to companies well below market value. Others in city
@@ -178,7 +172,7 @@ Census, 1950 Census, Santa Clara County, n.d., census.abag.ca.gov; U.S. Bureau
 of the Census, 1960 Census, Santa Clara County, n.d., census.abag.ca.gov; U.S.
 Bureau of the Census, 1970 Census, Santa Clara County, n.d.,
 census.abag.ca.gov; U.S. Bureau of the Census,1980 Census, Santa Clara County,
-n.d., census.abag.ca.gov.](figures/Image1.png)
+n.d., census.abag.ca.gov.](figures/population_multiple.png)
 
 The rapid rise of the Bay Area followed a wartime and postwar trend throughout
 the American West. New opportunities in western cities after a decade of
@@ -261,17 +255,6 @@ sprawled. "It was just growth, growth, growth," Al Ruffo, San Jose's mayor in
 the 1940s, recalled approvingly. "That was everybody's song. And Dutch sang it
 the loudest."[^cf35]
 
-Year Annexed   Number of Annexations
-------------   ---------------------
-1959           125
-1963           125
-1980           113
-1960           111
-1968           110
-1978           102
-
-Table: Top six years by number of annexations. Data courtesy the City of San Jose.
-
 San Jose's pro-growth contingent received enthusiastic support from the city's
 newspaper, the *San Jose Mercury*, and its new manager, Joseph Ridder. The
 Ridder family newspaper empire owned several large publications in the United
@@ -291,15 +274,15 @@ U.S.A."---the same year that San Jose christened itself the "City of
 Progress"---detailing the various changes in the city that the paper took as
 signs of progress.[^cf39] Residential growth, home ownership, and widespread
 annexations were among its favorites. The paper applauded the arrival of "new
-plants bearing some of the biggest names in the nation's business," the
-"highly diversified farming" of the region, the "educational, recreational and
-cultural benefits" the city offered, and the growth of retail, outlets, and
-store chains.[^cf40] The *Mercury News* praised the industrial diversification
-of the city and its promise of "year-round employment and production" instead
-of the seasonal (and uncertain) employment found in the agricultural
-industries. A town less reliant on agriculture meant avoiding economic dips,
-more opportunities for employment and education, and additional wealth.[^cf41]
-The *Mercury News*' emphasis on the shifting economic center of the city was
+plants bearing some of the biggest names in the nation's business," the "highly
+diversified farming" of the region, the "educational, recreational and cultural
+benefits" the city offered, and the growth of retail, outlets, and store
+chains.[^cf40] The *Mercury News* praised the industrial diversification of the
+city and its promise of "year-round employment and production" instead of the
+seasonal (and uncertain) employment found in the agricultural industries.
+A town less reliant on agriculture meant avoiding economic dips, more
+opportunities for employment and education, and additional wealth.[^cf41] The
+*Mercury News*' emphasis on the shifting economic center of the city was
 important as, over time, the paper devoted less and less space to agricultural
 news. The paper argued for the importance of the "irreplaceable asset" of
 farmland and the greenbelts that the land provided urban areas, but continued
@@ -311,8 +294,8 @@ insulting a majority of readers.[^cf43] By 1960, farm news covered only two
 pages of the newspaper. While agriculture still accounted for \$200 million to
 the county's economy---canning, packing, drying---the figure was rapidly
 falling as high tech industry overtook the central economic activity of the
-county. By 1976 the farm editor and farm section disappeared from the
-newspaper entirely.[^cf44]
+county. By 1976 the farm editor and farm section disappeared from the newspaper
+entirely.[^cf44]
 
 Although much of Hamann and the city council's drive aimed at attracting
 industry to the city, San Jose instead witnessed the most growth in housing
@@ -430,14 +413,14 @@ combination of environmental politics and the limits of the environment itself
 shaped contests over metropolitan space, environmental degradation, and
 municipal government.
 
-### Land for the Valley
+<!-- ### Land for the Valley -->
 
-As city leaders defined the details of San Jose's suburban and industrial
-future, a sizable contingent of city residents began questioning whether the
-link between growth and prosperity was guaranteed. In the mid-1950s, debates
-over the landscape's identity as an agricultural powerhouse rose to fruition,
-resulting in legal challenges to San Jose's unrestricted growth and initiated
-a campaign to conserve farmland.
+\thoughtbreak{As city leaders defined the details} of San Jose's suburban and
+industrial future, a sizable contingent of city residents began questioning
+whether the link between growth and prosperity was guaranteed. In the
+mid-1950s, debates over the landscape's identity as an agricultural powerhouse
+rose to fruition, resulting in legal challenges to San Jose's unrestricted
+growth and initiated a campaign to conserve farmland.
 
 Despite the dramatic rise of subdivisions and neighborhoods, Santa Clara
 Valley maintained its reputation as a major producer of fruit, food
@@ -484,7 +467,7 @@ by 2001, mostly located near the South Bay cities of Morgan Hill and
 Gilroy.[^cf67] "As the people came," the *San Jose Mercury* noted in 1956, "the
 orchards went."[^cf68]
 
-![Clearing out orchards. Reproduced from Belser, *Planning Progress, 1956*.](figures/Image0.png)
+![Clearing out orchards. Reproduced from Karl Belser, *Planning Progress, 1956*.](figures/Image0.png)
 
 As we saw above, city leaders had no problem annexing land for what they saw
 as the appropriate and correct use for land: new industry and new suburban
@@ -592,23 +575,23 @@ valued for another reason: its suburban aesthetics.
 
 <!-- talking about water projects, etc -->
 
-### Imagining the Countryside
+<!-- ### Imagining the Countryside -->
 
-Land developers in San Jose were operating at a time when planning and zoning
-regulations of undeveloped areas was virtually nonexistent. The City of San
-Jose rarely hesitated in granting land uses to industry and residential
-subdivisions with no regard to planning guidelines. The city's original master
-plan created in 1934 was routinely ignored and was not revised until 1958,
-when state regulations required the city to update its general plan. The city
-continued to paid little heed to the goals outlined in the document. The city
-also routinely ignored the recommendations of the Santa Clara County Planning
-Commission. In some cases, land originally deemed unfit for development by the
-county was nevertheless developed once the city acquired the land through
-annexations. Many times, the decisions of city leaders, developers, and
-industrialists failed to take into account the best interests of residents as
-the city permitted construction in flood plains, hillsides, and along fault
-lines. The lack of such considerations led to problems homeowners would have
-to manage in the future.
+\thoughtbreak{Land developers in San Jose were operating} at a time when
+planning and zoning regulations of undeveloped areas was virtually nonexistent.
+The City of San Jose rarely hesitated in granting land uses to industry and
+residential subdivisions with no regard to planning guidelines. The city's
+original master plan created in 1934 was routinely ignored and was not revised
+until 1958, when state regulations required the city to update its general
+plan. The city continued to paid little heed to the goals outlined in the
+document. The city also routinely ignored the recommendations of the Santa
+Clara County Planning Commission. In some cases, land originally deemed unfit
+for development by the county was nevertheless developed once the city acquired
+the land through annexations. Many times, the decisions of city leaders,
+developers, and industrialists failed to take into account the best interests
+of residents as the city permitted construction in flood plains, hillsides, and
+along fault lines. The lack of such considerations led to problems homeowners
+would have to manage in the future.
 
 Historian Hal Rothman has noted that Americans could develop land while still
 considering themselves conservationists because "progress and the ethic of
@@ -748,9 +731,7 @@ amenities that had attracted new people to the region were rapidly giving way
 to roads, commercial districts, industrial parks, and residential
 subdivisions.
 
------
-
-The dwindling amount of agricultural land, the growth of industrial and
+\thoughtbreak{The dwindling amount of agricultural land}, the growth of industrial and
 residential areas, and the expansion of energy, water and city infrastructure
 allowed San Jose to exert authority over space beyond its borders. Through
 this process, a new region took shape largely defined by San Jose's desires to

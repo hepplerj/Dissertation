@@ -45,9 +45,9 @@ how the confluence of suburbanization, the growing Cold War science complex,
 and anxieties over the environment served to launch an environmental movement 
 on the San Francisco Peninsula. 
 
-## "The Miracle of Palo Alto"
+<!-- ## "The Miracle of Palo Alto" -->
 
-The establishment of Stanford Industrial Park emerged from the confluence of 
+\thoughtbreak{The establishment of Stanford Industrial Park emerged} from the confluence of 
 several postwar trends: rapid suburbanization, the Cold War impetus for 
 federal research and development, and the need for Stanford to diversify its 
 finances. The Board of Trustees approved a plan to lease land to high 
@@ -114,57 +114,6 @@ to capitalize on defense research contracts. Bay Area governmental
 associations, such as the Bay Area Council (BAC), sought to make California an 
 industrial center not by replicating the industrial Northeast or Midwest but 
 by promoting new industries.^[@omara2005cities, 106]
-
--------------------------------------------------------------------------------------------
-Fiscal Year   Total Budget Outlays    R&D Expenditures    R&D as Percentage of Total Budget
------------   --------------------    ----------------    ---------------------------------
-1950          43,147                  1,083               2.5
-
-1951          45,797                  1,301               2.8
-
-1952          67,962                  1,816               2.7
-
-1953          76,769                  3,101               4.0
-
-1954          70,890                  3,148               4.4
-
-1955          68,509                  3,308               4.8
-
-1956          70,460                  3,446               4.9
-
-1957          76,741                  4,462               5.8
-
-1958          82,575                  4,991               6.0
-
-1959          92,104                  5,806               6.3
-
-1960          92,223                  7,744               8.4
-
-1961          97,795                  9,287               9.5
-
-1962          106,813                 10,387              9.7
-
-1963          111,311                 12,012              10.8
-
-1964          118,584                 14,707              12.4
-
-1965          118,430                 14,889              12.6
-
-1966          134,652                 16,018              11.9
-
-1967          158,254                 16,859              10.7
-
-1968          178,833                 17,049              9.5
-
-1969          184,548                 16,348              8.9
-
-1970          196,588                 15,736              8.0
--------------------------------------------------------------------------------------------
-
-Table: Federal Research and Development Expenditures as a Percentage of the 
-U.S. Budget, 1950-1970 (millions of dollars). Source: National Science 
-Foundation, *Federal Funds for Research, Development, and Other Scientific 
-Activities* (Washington: U.S. Government Printing Office, 1972), 3.
 
 Regional electronics manufacturing grew quickly. The Western Electronics 
 Manufacturers Association listed twenty members in the Bay Area in 1951; by 
@@ -446,9 +395,9 @@ helped launch an environmental movement.
 
 <!-- promotional material selling the climate, recreation -->
 
-## Nature, Identity, and the Battle of the Hills
+<!-- ## Nature, Identity, and the Battle of the Hills -->
 
-Anxieties over suburban growth and issues of clean air and water, open space, 
+\thoughtbreak{Anxieties over suburban growth and issues} of clean air and water, open space, 
 sprawl, and pollution defined environmental politics in the Bay Area. Postwar 
 American environmentalism largely became issues over quality-of-life as new 
 worries about chemicals used in products, pollution of water resources, 
@@ -725,28 +674,28 @@ exist.^["Foothills industry can be beautiful," *Palo Alto Times*, March
 March 4, 1960; Letter from Gordon Johnson to Wallace Sterling, March 6, 
 1960, FF8, Box A29, SC 216, Stanford University Archives.]
 
-When letter and editorial campaigns failed to initiate the planning that 
-critics wanted to see, they turned to the next available civic tool: the 
-referendum. In June a petition campaign initiated by opponents of foothills 
-industrialization circulated through Palo Alto. The petition called on the 
-city council to either rescind its decision to rezone the land for light 
-industry or to allow residents a vote on the issue. Four days before the 
-rezoning ordinance was to become official, the referendum petition was filed 
-to the city having collected over two thousand signatures, well above the 
-necessary 1,000 that was needed. The Stanford lands were now in the hands of 
-the voters. Placed on the ballot for the November elections, a "yes" vote 
-would allow for Stanford to carry forward with its expansion of the Industrial 
-Park and pave the way for Ampex's research facility.^[Details about the 
-petition's criticisms and intent can be found in a letter from Morgan Stedman 
-to Wallace Sterling, June 20, 1960, FF 8, Box A29, SC 216, Stanford University Archives. In an 
-explanatory sheet given to solicitors and signers of the petition, the 
-referendum called for better planning of residential, industrial, and 
-commercial areas and specifically criticized the sudden zoning change to light 
-manufacturing, housing and traffic pressures that new industrialization would 
-add to the area, the leveling of hills to accommodate new construction, and 
-pointed to undeveloped lots already zoned for industry as alternatives to 
-foothills development. Letter from Stedman to Sterling, June 20, 1960, FF 8, 
-Box A29, SC 216, Stanford University Archives.]
+When letter and editorial campaigns failed to initiate the planning that
+critics wanted to see, they turned to the next available civic tool: the
+referendum. In June a petition campaign initiated by opponents of foothills
+industrialization circulated through Palo Alto. The petition called on the city
+council to either rescind its decision to rezone the land for light industry or
+to allow residents a vote on the issue. Four days before the rezoning ordinance
+was to become official, the referendum petition was filed to the city having
+collected over two thousand signatures, well above the necessary 1,000 that was
+needed. The Stanford lands were now in the hands of the voters. Placed on the
+ballot for the November elections, a "yes" vote would allow for Stanford to
+carry forward with its expansion of the Industrial Park and pave the way for
+Ampex's research facility.^[Details about the petition's criticisms and intent
+can be found in a letter from Morgan Stedman to Wallace Sterling, June 20,
+1960, FF 8, Box A29, SC 216, Stanford University Archives. In an explanatory
+sheet given to solicitors and signers of the petition, the referendum called
+for better planning of residential, industrial, and commercial areas and
+specifically criticized the sudden zoning change to light manufacturing,
+housing and traffic pressures that new industrialization would add to the area,
+the leveling of hills to accommodate new construction, and pointed to
+undeveloped lots already zoned for industry as alternatives to foothills
+development. Letter from Stedman to Sterling, June 20, 1960, FF 8, Box A29, SC
+216, Stanford University Archives.]
 
 As referendum supporters spent the month of June collecting signatures, 
 additional pressure to alter land development policies came from Stanford 
@@ -859,27 +808,27 @@ architectural prowess, and superb landscaping could get around the visible and
 invisible pollution resulting from high technology manufacturing and urban 
 sprawl.
 
-## A Citizens' Campaign to Protect the Foothills
+<!-- ## A Citizens' Campaign to Protect the Foothills -->
 
-The grassroots activists spent the 1960s building networks in order to support 
-a growing citizens' movement to protect the foothills. The controversies over 
-Stanford Industrial Park and Stanford's economic development plans spurred the 
-emergence of grassroots environmental activism. In the wake of Stanford's 
-victory, residents of the area, increasingly concerned that Stanford might 
-overrun the foothills and irritated by the university's seemingly dismissive 
-attitude towards citizen's concerns and favoritism towards industry, continued 
-to pressure the university. Among the most prominent groups to emerge was the 
-Committee for Green Foothills. Formed in the living room of Ruth Spangenberg 
-in 1962, the Committee included Stanford alumni and area professionals, 
-including the well-known writer and Stanford creative writing professor 
-Wallace Stegner and former Santa Clara County planner Morgan Stedman.^[Stegner 
-oral history, Bancroft,  8; @walker2007countrycity,  101.] The Committee 
-was founded, Wallace Stegner explained, because "of things that seemed to be 
-happening in the hills that we didn't like to see happen" and motivated by a 
-"fear of what Stanford might do in the hills."^[Stegner oral history, 
-Bancroft, p 7-8.] The impulse to protect land that emerged in the Battle of 
-the Hills continued throughout the rest of the decade as Stanford pursued land 
-development initiatives on the Peninsula. 
+\thoughtbreak{The grassroots activists spent the 1960s building networks} in
+order to support a growing citizens' movement to protect the foothills. The
+controversies over Stanford Industrial Park and Stanford's economic development
+plans spurred the emergence of grassroots environmental activism. In the wake
+of Stanford's victory, residents of the area, increasingly concerned that
+Stanford might overrun the foothills and irritated by the university's
+seemingly dismissive attitude towards citizen's concerns and favoritism towards
+industry, continued to pressure the university. Among the most prominent groups
+to emerge was the Committee for Green Foothills. Formed in the living room of
+Ruth Spangenberg in 1962, the Committee included Stanford alumni and area
+professionals, including the well-known writer and Stanford creative writing
+professor Wallace Stegner and former Santa Clara County planner Morgan
+Stedman.^[Stegner oral history, Bancroft,  8; @walker2007countrycity,  101.]
+The Committee was founded, Wallace Stegner explained, because "of things that
+seemed to be happening in the hills that we didn't like to see happen" and
+motivated by a "fear of what Stanford might do in the hills."^[Stegner oral
+history, Bancroft, p 7-8.] The impulse to protect land that emerged in the
+Battle of the Hills continued throughout the rest of the decade as Stanford
+pursued land development initiatives on the Peninsula. 
 
 ![Board Members, Committee for Green Foothills. Front row, from left: Pat 
 Barrentine, George Norton, Ruth Spangenberg, Lois Crozier-Hogle, Kent Dedrick, 
@@ -1030,30 +979,31 @@ the Junipero Serra Freeway and Page Mill interchange, where a four-lane
 alternative route running parallel to the now named Old Page Mill Road was 
 established to the east of the scenic route.
 
-## "Here We Go Again"
+<!-- ## "Here We Go Again" -->
 
-The resolve of environmentalists in halting industrialization projects would 
-be tested again by the end of the decade. In the fall of 1967 Stanford 
-announced a request for the rezoning of the land between Hillview Avenue and 
-Arastradero Avenue encompassing Coyote Hill, primarily for the new zoning of 
-residential estates and single-family residences. The Coyote Hill development 
-would also house a medical research center operated jointly by Stanford and 
-the pharmaceutical company Syntex and a grazing area on top of Coyote Hill to 
-house animals used in research. Additional real estate and land development 
-programs spearheaded by Stanford included a financial center called Dillingham 
-along Sand Hill Road that included plans for office towers, a hotel convention 
-center, and parking.  On a newspaper clipping announcing public hearings on 
-the proposed zoning changes, an activist circled the included map and scrawled 
-"here we go again."^[Newspaper clipping, September 16, 1967, *Palo Alto 
-Times*, Folder 16, Box 1, Page Mill Coordinating Committee Records, Stanford University Archives. The 
-writer included their initials, "PMB," which is likely Patricia M. Brown, who 
-had been part of the original 1960 Battle of the Hills fight. Brown was a 
-signatory on the insert "What is the future of the Stanford lands" that ran in 
-the *Palo Alto Times* in 1960 (see "What is the future of the Stanford lands?" 
-newspaper clipping, *Palo Alto Times*, n.d., Folder 16, Box 1, Page Mill 
-Coordinating Committee Records, Stanford University Archives.) A "Pat B." is also noted in some 
-handwritten notes from a Palo Alto city council meeting in Folder 16, Box 1, 
-Page Mill Road Coordinating Committee Records, Stanford University Archives. ]
+\thoughtbreak{The resolve of environmentalists in halting industrialization
+projects} would be tested again by the end of the decade. In the fall of 1967
+Stanford announced a request for the rezoning of the land between Hillview
+Avenue and Arastradero Avenue encompassing Coyote Hill, primarily for the new
+zoning of residential estates and single-family residences. The Coyote Hill
+development would also house a medical research center operated jointly by
+Stanford and the pharmaceutical company Syntex and a grazing area on top of
+Coyote Hill to house animals used in research. Additional real estate and land
+development programs spearheaded by Stanford included a financial center called
+Dillingham along Sand Hill Road that included plans for office towers, a hotel
+convention center, and parking.  On a newspaper clipping announcing public
+hearings on the proposed zoning changes, an activist circled the included map
+and scrawled "here we go again."^[Newspaper clipping, September 16, 1967, *Palo
+Alto Times*, Folder 16, Box 1, Page Mill Coordinating Committee Records,
+Stanford University Archives. The writer included their initials, "PMB," which
+is likely Patricia M. Brown, who had been part of the original 1960 Battle of
+the Hills fight. Brown was a signatory on the insert "What is the future of the
+Stanford lands" that ran in the *Palo Alto Times* in 1960 (see "What is the
+future of the Stanford lands?" newspaper clipping, *Palo Alto Times*, n.d.,
+Folder 16, Box 1, Page Mill Coordinating Committee Records, Stanford University
+Archives.) A "Pat B." is also noted in some handwritten notes from a Palo Alto
+city council meeting in Folder 16, Box 1, Page Mill Road Coordinating Committee
+Records, Stanford University Archives. ]
 
 By the late 1960s conservation and environmental organizations were no longer 
 willing to compromise with Stanford. In November 1969, the Committee for Green 

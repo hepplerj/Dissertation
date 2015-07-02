@@ -6,26 +6,23 @@ author:
 - 'Jason A. Heppler'
 ...
 
-> A geographer speaks as though his knowledge of space and place were derived
-> exclusively from books, maps, aerial photographs, and structured field
-> surveys. He writes as though people were endowed with mind and vision and no
-> other sense with which to apprehend the world and find meaning in it. He and
-> the architect-planner tend to assume familiarity---the fact that we are
-> oriented in space and at home in place---rather than describe and try to
-> understand what "being-in-the-world" is truly like.
->
-> --- Yi--Fu Tuan[^cf1]
+\begin{aquote}{Yi--Fu Tuan}
+A geographer speaks as though his knowledge of space and place were derived exclusively from books, maps, aerial photographs, and structured field surveys. He writes as though people were endowed with mind and vision and no other sense with which to apprehend the world and find meaning in it. He and the architect-planner tend to assume familiarity---the fact that we are oriented in space and at home in place---rather than describe and try to understand what "being-in-the-world" is truly like.
+\end{aquote}
 
-> The word "nature" is a notorious semantic and metaphysical trap.
->
-> --- Leo Marx[^cf2]
+<!--Yi-Fu Tuan[^cf1] -->
 
-<!--
-Charles Wilkinson: "the suble, intangible, but soul-deep mix of 
-landscape, smells, sounds, history . . . that constitute a place, a 
-homeland."^[Charles F. Wilkinson, *The Eagle Bird: Mapping a New West* 
-(New York: Pantheon, 1992), 137--138.]
--->
+\begin{aquote}{Leo Marx}
+The word "nature" is a notorious semantic and metaphysical trap.
+\end{aquote}
+
+<!-- Leo Marx[^cf2] -->
+
+\begin{aquote}{Charles Wilkinson}
+The suble, intangible, but soul-deep mix of landscape, smells, sounds, history . . . that constitute a place, a homeland.
+\end{aquote}
+
+<!-- [Charles F. Wilkinson, *The Eagle Bird: Mapping a New West* (New York: Pantheon, 1992), 137-138.] -->
 
 Wallace Stegner lamented the changes occurring to the Santa Clara Valley
 in 1965. From his home in the foothills of the Santa Cruz Mountains that
@@ -139,6 +136,8 @@ were created, negotiated, and challenged forms the subject of this
 study.^[@schulten2001imagination, 3.]
 
 Environmental critics argued that industrialization and real estate development only served to ruin the enviroment---sprawling places that ruined the environment and erased a sense of identity.
+
+The story here is about a particular place and expression of environmental thought. I do not venture into efforts of Bay conservation, fights over the BART transportation system, or open space battles beyond Santa Clara County. My focus is on the expression of environmentalism in the face of high technology industrialization.
 
 Silicon Valley is a story of America as a whole. America in the postwar era was about markets, invention, creativity, migration, and technology. 
 
