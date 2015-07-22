@@ -106,9 +106,13 @@ Map Warper.
 
 *San Jose Mercury*  
 
-*San Jose Sun*  
+*San Jose Mercury Herald*
 
-*San Jose News*  
+*San Jose Mercury News*
+
+*San Jose News*
+
+*San Jose Sun*  
 
 *Time*  
 
@@ -155,6 +159,8 @@ U.S. Bureau of the Census. *1960 Census of Population and Housing*. Washington, 
 United States. *Needs of the San Francisco Bay Area, California*. Hearings Before the Subcommittee of the Committee on Public Works, United States Senate, Eighty-First Congress, First Session. Washington, D.C.: Government Printing Office, 1950.  
 
 United States Department of Agriculture. *Land: The 1958 Yearbook of Agriculture*. Washington, D.C.: United States Department of Agriculture, 1958.
+
+Peterson, George E. and Harvey Yampolsky. *Urban Development and the Protection of Metropolitan Farmland*. Washington, D.C.: The Urban Institute, 1975.
 
 \vskip 0.75in
 
@@ -364,54 +370,107 @@ Scott, Allen John. Technopolis: High-Technology Industry and Regional Developmen
 Scott, Amy. "Twenty-First-Century Sublime: Nature and Culture Entangled." Boom: A Journal of California 4, no. 3 (September 1, 2014): 28--35.  
 Segaller, Stephen. Nerds 2.0.1: A Brief History of the Internet. 1st ed. New York: TV Books, 1998.  
 Self, Robert O. American Babylon: Race and the Struggle for Postwar Oakland. Princeton: Princeton University Press, 2003.  
+
 Shaffer, Marguerite S. See America First: Tourism and National Identity, 1880-1940. Washington, D.C.: Smithsonian Institution Press, 2001.
+
 Sharpe, William, and Leonard Wallock. "Bold New City or Built-Up 'Burb? Redefining Contemporary Suburbia." American Quarterly 46, no. 1 (March 1, 1994): 1--30.  
+
 Shiva, V. Water Wars: Privatization, Pollution and Profit. Pluto Press, 2002.
+
 Sichel, Daniel E. The Computer Revolution: An Economic Perspective. Washington, D.C: Brookings Institution Press, 1997.  
+
 Simpson, Christopher, ed. Universities and Empire: Money and Politics in the Social Sciences During the Cold War. Cold War and the university. New York: New Press: Distributed by W.W. Norton & Co, 1998.  
+
 Smith, Douglas K. Fumbling the Future: How Xerox Invented, Then Ignored, the First Personal Computer. 1st ed. New York: W. Morrow, 1988.  
+
 Smith, Henry Nash. Virgin Land; the American West as Symbol and Myth. Cambridge: Harvard University Press, 1950.  
+
 Sörlin, Sverker, and Paul Warde. "The Problem of the Problem of Environmental History: A Re-Reading of the Field." Environmental History 12, no. 1 (January 1, 2007): 107--130.  
+
+Starr, Kevin. *Coast of Dreams*.
+
+Starr, Kevin. *Golden Dreams*.
+
 Staudenmaier, John M. "Rationality, Agency, Contingency: Recent Trends in the History of Technology." Reviews in American History 30, no. 1 (March 1, 2002): 168--181.  
+
 Stave, Bruce M., John M. Allswang, Terrence J. McDonald, and Jon C. Teaford. "A Reassessment of the Urban Political Boss: An Exchange of Views." The History Teacher 21, no. 3 (May 1, 1988): 293--312.  
+
 Steinberg, Ted. Down to Earth: Nature's Role in American History. New York: Oxford University Press, 2002.  
+
 Stoll, Clifford. Silicon Snake Oil: Second Thoughts on the Information Highway. 1st ed. New York: Doubleday, 1995.  
+
 Stoll, Steven. The Fruits of Natural Advantage: Making the Industrial Countryside in California. Berkeley: University of California Press,, c1998.
+
 Sutter, aul. "What Can U.S. Environmental Historians Learn from Non-U.S. Environmental Historiography?" Environmental History 8, no. 1 (January 1, 2003): 109--129.  
+
 Sutter, Paul S. Driven Wild: How the Fight Against Automobiles Launched the Modern Wilderness Movement. Seattle: University of Washington Press, 2002.
+
 ---------. "The World with Us: The State of American Environmental History." Journal of American History (June 2013): 94--119.  
+
 Tarr, Joel A. "The Material Basis of Urban Environmental History." Environmental History 10, no. 4 (October 1, 2005): 744--746.  
+
 Taylor, Joseph E. "The Many Lives of the New West." The Western Historical Quarterly 35, no. 2 (July 1, 2004): 141--165.  
+
 Thomas, John L. A Country in the Mind: Wallace Stegner, Bernard DeVoto, History, and the American Land. Routledge, 2013.  
+
 Thompson, Victoria E. "Telling 'Spatial Stories': Urban Space and Bourgeois Identity in Early Nineteenth-Century Paris." The Journal of Modern History 75, no. 3 (September 1, 2003): 523--556.  
+
 Torbert, Edward N. "The Specialized Commercial Agriculture of the Northern Santa Clara Valley." Geographical Review 26, no. 2 (April 1, 1936): 247--263.
+
 Travis, William, Theobald, David, and Thomas Dickinson. Western Futures: A Look into the Patterns of Land Use and Future Development in the American West. Boulder: Center of the American West, 2005.  
+
 Tsu, Cecilia. "'Independent of the Unskilled Chinaman': Race, Labor, and Family Farming in California's Santa Clara Valley." The Western Historical Quarterly 37, no. 4 (December 1, 2006): 474--495.  
+
 Turner, Fred. From Counterculture to Cyberculture: Stewart Brand, the Whole Earth Network, and the Rise of Digital Utopianism. Chicago: University of Chicago Press, 2006.  
+
 ---------. "Where the Counterculture Met the New Economy: The WELL and the Origins of Virtual Community." Technology and Culture 46, no. 3 (July 1, 2005): 485--512.  
+
 Vance, James E. "California and the Search for the Ideal." Annals of the Association of American Geographers 62, no. 2 (June 1, 1972): 185--210.
+
 Vettel, Eric James. Biotech: The Countercultural Origins of an Industry. Politics and culture in modern America. Philadelphia: University of Pennsylvania Press, 2006.  
+
 Wakeman, Rosemary. "Dreaming the New Atlantis: Science and the Planning of Technopolis, 1955-1985." Osiris 18 (January 1, 2003): 255--270.  
+
 Walker, Richard. "Industry Builds the City: The Suburbanization of Manufacturing in the San Francisco Bay Area, 1850-1940." Journal of Historical Geography 27, no. 1 (January 2001): 36--57.  
+
 ---------. The Country in the City: The Greening of the San Francisco Bay Area. University of Washington Press, 2009.  
+
 Walker, Richard A. "California's Golden Road to Riches: Natural Resources and Regional Capitalism, 1848-1940." Annals of the Association of American Geographers 91, no. 1 (March 1, 2001): 167--199.  
+
 Walker, Richard A., and Matthew J. Williams. "Water from Power: Water Supply and Regional Growth in the Santa Clara Valley." Economic Geography 58, no. 2 (April 1, 1982): 95--119.  
+
 Wang, Jessica. American Science in an Age of Anxiety: Scientists, Anticommunism, and the Cold War. Chapel Hill, NC: University of North Carolina Press, 1999.  
+
 Webb, George Ernest. Science in the American Southwest: A Topical History. Tucson: The University of Arizona Press, 2002.  
+
 Westwick, Peter J., ed. *Blue Sky Metropolis: The Aerospace Century in Southern California*. 1st ed. Huntington Library and University of California Press, 2012.  
+
 White, Richard. "American Environmental History: The Development of a New Historical Field." *Pacific Historical Review* 54, no. 3 (August 1, 1985): 297--335.  
+
 ---------. "Discovering Nature in North America." *The Journal of American History* 79, no. 3 (December 1, 1992): 874--891.  
+
 ---------. "Environmental History, Ecology, and Meaning." *The Journal of American History* 76, no. 4 (March 1, 1990): 1111--1116.  
+
 ---------. *The Organic Machine: The Remaking of the Columbia River*. Macmillan, 2011.  
+
 Wiese, Andrew. "'The Giddy Rise of the Environmentalists': Corporate Real Estate Development and Environmental Politics in San Diego, California, 1968--73." *Environmental History* 19 (January 2014): 28--54.
+
 Wills, John. "'Welcome to the Atomic Park': American Nuclear Landscapes and the 'Unnaturally Natural.'" *Environment and History* 7, no. 4 (November 2001): 449--472.  
+
 Wilson, Robert W, and Charles River Associates. *Innovation, Competition, and Government Policy in the Semiconductor Industry*. Lexington, Mass: Lexington Books, 1980.  
+
 Withers, Charles W. J. "Place and the 'Spatial Turn' in Geography and in History." *Journal of the History of Ideas* 70, no. 4 (2009): 637--658.
+
 Worster, Donald. "Transformations of the Earth: Toward an Agroecological Perspective in History." *The Journal of American History* 76, no. 4 (March 1, 1990): 1087--1106.  
+
 Wrensch, Margaret, Shanna H. Swan, Jane Lipscomb, David M. Epstein, Raymond R. Neutra, and Laura Fenster. "Spontaneous Abortions and Birth Defects Related to Tap and Bottled Water Use, San Jose, California, 1980-1985." *Epidemiology* 3, no. 2 (March 1, 1992): 98--103.  
+
 Wright, Gwendolyn. "Cultural History: Europeans, Americans, and the Meanings of Space." *Journal of the Society of Architectural Historians* 64, no. 4 (December 1, 2005): 436--440.  
+
 ---------. *Moralism and the Model Home: Domestic Architecture and Cultural Conflict in Chicago, 1873-1913*. Chicago: University of Chicago Press, 1980.  
+
 Wright, John B. "Land Tenure: The Spatial Musculature of the American West." In Western Places, American Myths: How We Think About the West, edited by Gary J. Hausladen, 85. Reno: University of Nevada Press, 2003.  
+
 Wrobel, David, and Michael Steiner, eds. Many Wests: Place, Culture, and Regional Identity. Lawrence: University of Kansas Press, 1997.  
 
 Wyatt, Sally. "Danger! Metaphors at Work in Economics, Geophysiology, and the Internet." Science, Technology, & Human Values 29, no. 2 (April 1, 2004): 242--261.  
