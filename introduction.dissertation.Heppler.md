@@ -24,102 +24,17 @@ The suble, intangible, but soul-deep mix of landscape, smells, sounds, history .
 
 <!-- [Charles F. Wilkinson, *The Eagle Bird: Mapping a New West* (New York: Pantheon, 1992), 137-138.] -->
 
-Wallace Stegner lamented the changes occurring to the Santa Clara Valley
-in 1965. From his home in the foothills of the Santa Cruz Mountains that
-creep along the western edge of the valley, the Stanford creative
-writing professor lamented the urban sprawl that had overtaken the
-former farmland in the flatlands. "The orchards that used to be a spring
-garden of bloom down the long trough of the Santa Clara Valley," he
-wrote, "have gone under so fast that a person absent for five years
-could return and think himself in another country. . . . The
-once--lovely coast hills reaching down the Peninsula below San Francisco
-have been crusted with houses in half a lifetime, the hilltops
-flattened, whole hills carried off to fill the bay, the creeks turned
-into concrete storm drains."[^cf3] In Stegner's lifetime, the Valley had
-transformed from prime agricultural land to a place known for urban
-sprawl, traffic jams, and industrial facilities. Stegner's sensibilities
-were so insulted by the environmental damage that he wished to be buried
-not in California---the place that had so deeply shaped his writing and
-identity---but in his summer home of Vermont.[^cf4]
+Wallace Stegner lamented the changes occurring to the Santa Clara Valley in 1965. From his home in the foothills of the Santa Cruz Mountains that creep along the western edge of the valley, the Stanford creative writing professor lamented the urban sprawl that had overtaken the former farmland in the flatlands. "The orchards that used to be a spring garden of bloom down the long trough of the Santa Clara Valley," he wrote, "have gone under so fast that a person absent for five years could return and think himself in another country. . . . The once--lovely coast hills reaching down the Peninsula below San Francisco have been crusted with houses in half a lifetime, the hilltops flattened, whole hills carried off to fill the bay, the creeks turned into concrete storm drains."[^cf3] In Stegner's lifetime, the Valley had transformed from prime agricultural land to a place known for urban sprawl, traffic jams, and industrial facilities. Stegner's sensibilities were so insulted by the environmental damage that he wished to be buried not in California---the place that had so deeply shaped his writing and identity---but in his summer home of Vermont.[^cf4]
 
-Stegner was a newcomer to this land. Born in 1909 in north-central Iowa,
-Stegner came to California to teach in the creative writing program at
-Stanford University. In Stegner's imagination the Santa Clara Valley had
-fallen from pristine grace. He wrote of "a park-like oak forest reaching
-southward from a clean bay" when the native Ohlone's occupied the
-region. "The climate was mild and benevolent, the bay full of shellfish.
-The creeksides tangles grew wild berries and the oaks provided the
-wherewithal for unlimited acorn flour." Stegner not only celebrated this
-imagined pre-European landscape, but the post-European one as well. As
-fields of wheat and fruit groves planted by Spanish missionaries began
-to transform the Bay Area into an agricultural landscape, Stegner
-celebrated these as "a glory"---that pears, prunes, apricots, cherry
-blossoms, and apples were an improvement upon nature. "This brief Eden,"
-as Stegner referred to the Valley, fell to the original sin of
-industrialization.^[William S. Cooper, "Vegetational Development upon
-Alluvial Fans in the Vicinity of Palo Alto, CA," *Ecology* 7 (January
-1927): 11.]
+Stegner was a newcomer to this land. Born in 1909 in north-central Iowa, Stegner came to California to teach in the creative writing program at Stanford University. In Stegner's imagination the Santa Clara Valley had fallen from pristine grace. He wrote of "a park-like oak forest reaching southward from a clean bay" when the native Ohlone's occupied the region. "The climate was mild and benevolent, the bay full of shellfish. The creeksides tangles grew wild berries and the oaks provided the wherewithal for unlimited acorn flour." Stegner not only celebrated this imagined pre-European landscape, but the post-European one as well. As fields of wheat and fruit groves planted by Spanish missionaries began to transform the Bay Area into an agricultural landscape, Stegner celebrated these as "a glory"---that pears, prunes, apricots, cherry blossoms, and apples were an improvement upon nature. "This brief Eden," as Stegner referred to the Valley, fell to the original sin of industrialization.^[William S. Cooper, "Vegetational Development upon Alluvial Fans in the Vicinity of Palo Alto, CA," *Ecology* 7 (January 1927): 11.]
 
-Frederick E. Terman interpreted the landscape differently. The Stanford
-University provost and dean of engineering---often referred to as the "Father
-of Silicon Valley"---saw suburbanization and expansion of industry in the
-Santa Clara Valley not as signs of degradation, but rather signposts towards a
-new prosperous future for Stanford, for Santa Clara County, for California,
-and for the nation. The newly--founded Stanford Industrial Park and the lands
-around the university, rather than seen as encroaching sprawl, were, in the
-words of one booster, a "pleasant place" of "broad lawns, employee patios,
-trees, flowers and shrubs, walls of glass, recreational clubs" that stood in
-contrast to the "smoke--stacks, noise, coal cars, soot and other things" found
-in the industrial East and Midwest.[^cf5] The landscape appeared campus--like
-and suburban, amenities that reflected the values of Stanford and surrounding
-suburban communities. Although complaints of traffic and air pollution had
-become common by the mid--1960s, Terman dismissed these complaints. The
-Industrial Park had done much for the Bay Area's economy, and Terman felt
-congestion and air pollution were "really a pretty small price to pay."[^cf6]
+Frederick E. Terman interpreted the landscape differently. The Stanford University provost and dean of engineering---often referred to as the "Father of Silicon Valley"---saw suburbanization and expansion of industry in the Santa Clara Valley not as signs of degradation, but rather signposts towards a new prosperous future for Stanford, for Santa Clara County, for California, and for the nation. The newly--founded Stanford Industrial Park and the lands around the university, rather than seen as encroaching sprawl, were, in the words of one booster, a "pleasant place" of "broad lawns, employee patios, trees, flowers and shrubs, walls of glass, recreational clubs" that stood in contrast to the "smoke--stacks, noise, coal cars, soot and other things" found in the industrial East and Midwest.[^cf5] The landscape appeared campus--like and suburban, amenities that reflected the values of Stanford and surrounding suburban communities. Although complaints of traffic and air pollution had become common by the mid--1960s, Terman dismissed these complaints. The Industrial Park had done much for the Bay Area's economy, and Terman felt congestion and air pollution were "really a pretty small price to pay."[^cf6]
 
-Like Stegner, Terman had come to California from elsewhere. Born in 1900
-in English, Indiana, Terman's family moved to Stanford in 1910 when
-his father, the psychologist Lewis Terman, accepted a position in
-educational psychology. Terman completed his doctorate at the Massachusetts
-Institute of Technology working under Vannevar Bush before returning to
-Stanford in 1924 to start the university's initial forays into
-electronics research.
+Like Stegner, Terman had come to California from elsewhere. Born in 1900 in English, Indiana, Terman's family moved to Stanford in 1910 when his father, the psychologist Lewis Terman, accepted a position in educational psychology. Terman completed his doctorate at the Massachusetts Institute of Technology working under Vannevar Bush before returning to Stanford in 1924 to start the university's initial forays into electronics research.
 
-Not acknowledged by either Stegner or Terman was the environmental
-influence that these industrial activities had on the Santa Clara
-Valley. The celebrated orchards introduced exotic species in California, the
-result of European and American colonization. Furthermore, the
-cultivation of these species required an infrastructure to support
-canneries, cannery effluence, and controlling the land with pesticides
-and herbicides. Stegner's own contradiction of lament for Spaniard
-colonization and celebration of orchards poses significant questions:
-How should the land be treated? What counts as improvement or
-denigration upon the landscape? Terman's own views of the Valley reflect
-a similar set of questions: Should the built environment be assessed differently
-from the natural environment? Was the arrival of Silicon Valley an
-improvement upon nature? Implicit in both views revolves a core
-question: Who defines the valley landscape?
+Not acknowledged by either Stegner or Terman was the environmental influence that these industrial activities had on the Santa Clara Valley. The celebrated orchards introduced exotic species in California, the result of European and American colonization. Furthermore, the cultivation of these species required an infrastructure to support canneries, cannery effluence, and controlling the land with pesticides and herbicides. Stegner's own contradiction of lament for Spaniard colonization and celebration of orchards poses significant questions: How should the land be treated? What counts as improvement or denigration upon the landscape? Terman's own views of the Valley reflect a similar set of questions: Should the built environment be assessed differently from the natural environment? Was the arrival of Silicon Valley an improvement upon nature? Implicit in both views revolves a core question: Who defines the valley landscape?
 
-How is it that people look at the cities and see very different places? These
-competing visions of the Santa Clara Valley landscape reflected widely-held
-and conflicting ideas about the future of the Valley. In the face of
-residential growth and industrial development, the Santa Clara Valley's
-landscape changed remarkably. The arrival of machines in the Valley---
-bulldozers and computers---transformed the landscape, and in the process
-sparked local environmental activism. Valley residents, business leaders, city
-officials, and university administrators vied over the definition of Santa
-Clara Valley's future, and in the process shaped debates about environmental
-change. Unrestricted urban growth and economic development characterized much
-of Santa Clara Valley in the latter half of the twentieth century, but little
-told is the story of the environmental consequences of Silicon Valley and
-those who attempted to shape the region's environmental future.[^cf7]
-California voters became increasingly aware of the environmental impact urban
-and industrial development was having, leading by the 1970s to residents
-attempting to curtail industrialization, limit urban growth, and reject
-large--scale water projects. Environmental organizations, formal and ad hoc,
-began criticizing high technology firms and city leaders for their ignorance
-of ecological negligence. Such organizing formed the burgeoning Bay Area
-environmental movement.
+How is it that people look at the cities and see very different places? These competing visions of the Santa Clara Valley landscape reflected widely-held and conflicting ideas about the future of the Valley. In the face of residential growth and industrial development, the Santa Clara Valley's landscape changed remarkably. The arrival of machines in the Valley--- bulldozers and computers---transformed the landscape, and in the process sparked local environmental activism. Valley residents, business leaders, city officials, and university administrators vied over the definition of Santa Clara Valley's future, and in the process shaped debates about environmental change. Unrestricted urban growth and economic development characterized much of Santa Clara Valley in the latter half of the twentieth century, but little told is the story of the environmental consequences of Silicon Valley and those who attempted to shape the region's environmental future.[^cf7] California voters became increasingly aware of the environmental impact urban and industrial development was having, leading by the 1970s to residents attempting to curtail industrialization, limit urban growth, and reject large--scale water projects. Environmental organizations, formal and ad hoc, began criticizing high technology firms and city leaders for their ignorance of ecological negligence. Such organizing formed the burgeoning Bay Area environmental movement.
 
 <!--
 WORKING THROUGH A NEW INTRO
@@ -141,7 +56,9 @@ The story here is about a particular place and expression of environmental thoug
 
 Silicon Valley is a story of America as a whole. America in the postwar era was about markets, invention, creativity, migration, and technology. 
 
-This dissertation stands at the intersection of environmental history, the historiography of environmentalism, business history, cultural history, landscape history.
+This dissertation stands at the intersection of development history, suburbs, cities, recreation lands, and environmental history.
+
+The politics of growth intersected with a powerful nostalgia about the hinterlands of the Santa Clara Valley. Yet the history of Silicon Valley is also a unique example of how growth politics interacted *regionally*. Building off of Andrew Needham's claim that {regionalism}, I argue that we best understand suburban experiences as a regional phenomenon. 
 
 -->
 

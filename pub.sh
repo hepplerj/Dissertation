@@ -9,7 +9,10 @@ file="$1"
 
 echo "Generating PDF files"
 #file="$1"
-pandoc $file -o drafts/$file.pdf -V documentclass:acadpaper -V fontsize:12pt
+pandoc $file \
+  --bibliography=/Users/jheppler/Dropbox/acad/bib/master.bib \
+  --csl=chicago-jah.csl \
+  -o drafts/$file.pdf -V documentclass:acadpaper -V fontsize:12pt
 
 echo "Generating Word files"
 #file="$1"
