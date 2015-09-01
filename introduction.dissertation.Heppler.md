@@ -30,278 +30,47 @@ Stegner was a newcomer to this land. Born in 1909 in north-central Iowa, Stegner
 
 Frederick E. Terman interpreted the landscape differently. The Stanford University provost and dean of engineering---often referred to as the "Father of Silicon Valley"---saw suburbanization and expansion of industry in the Santa Clara Valley not as signs of degradation, but rather signposts towards a new prosperous future for Stanford, for Santa Clara County, for California, and for the nation. The newly--founded Stanford Industrial Park and the lands around the university, rather than seen as encroaching sprawl, were, in the words of one booster, a "pleasant place" of "broad lawns, employee patios, trees, flowers and shrubs, walls of glass, recreational clubs" that stood in contrast to the "smoke--stacks, noise, coal cars, soot and other things" found in the industrial East and Midwest.[^cf5] The landscape appeared campus--like and suburban, amenities that reflected the values of Stanford and surrounding suburban communities. Although complaints of traffic and air pollution had become common by the mid--1960s, Terman dismissed these complaints. The Industrial Park had done much for the Bay Area's economy, and Terman felt congestion and air pollution were "really a pretty small price to pay."[^cf6]
 
-Like Stegner, Terman had come to California from elsewhere. Born in 1900 in English, Indiana, Terman's family moved to Stanford in 1910 when his father, the psychologist Lewis Terman, accepted a position in educational psychology. Terman completed his doctorate at the Massachusetts Institute of Technology working under Vannevar Bush before returning to Stanford in 1924 to start the university's initial forays into electronics research.
+Like Stegner, Terman had come to California from elsewhere. Born in 1900 in English, Indiana, Terman's family moved to Stanford in 1910 when his father, the psychologist Lewis Terman, accepted a position in educational psychology. Terman completed his doctorate at the Massachusetts Institute of Technology working under Vannevar Bush before returning to Stanford in 1924 to start the university's initial forays into electronics research. Place mattered as much to Terman as it did to Stegner.
 
+<!--
 Not acknowledged by either Stegner or Terman was the environmental influence that these industrial activities had on the Santa Clara Valley. The celebrated orchards introduced exotic species in California, the result of European and American colonization. Furthermore, the cultivation of these species required an infrastructure to support canneries, cannery effluence, and controlling the land with pesticides and herbicides. Stegner's own contradiction of lament for Spaniard colonization and celebration of orchards poses significant questions: How should the land be treated? What counts as improvement or denigration upon the landscape? Terman's own views of the Valley reflect a similar set of questions: Should the built environment be assessed differently from the natural environment? Was the arrival of Silicon Valley an improvement upon nature? Implicit in both views revolves a core question: Who defines the valley landscape?
+-->
 
 How is it that people look at the cities and see very different places? These competing visions of the Santa Clara Valley landscape reflected widely-held and conflicting ideas about the future of the Valley. In the face of residential growth and industrial development, the Santa Clara Valley's landscape changed remarkably. The arrival of machines in the Valley--- bulldozers and computers---transformed the landscape, and in the process sparked local environmental activism. Valley residents, business leaders, city officials, and university administrators vied over the definition of Santa Clara Valley's future, and in the process shaped debates about environmental change. Unrestricted urban growth and economic development characterized much of Santa Clara Valley in the latter half of the twentieth century, but little told is the story of the environmental consequences of Silicon Valley and those who attempted to shape the region's environmental future.[^cf7] California voters became increasingly aware of the environmental impact urban and industrial development was having, leading by the 1970s to residents attempting to curtail industrialization, limit urban growth, and reject large--scale water projects. Environmental organizations, formal and ad hoc, began criticizing high technology firms and city leaders for their ignorance of ecological negligence. Such organizing formed the burgeoning Bay Area environmental movement.
 
-<!--
-WORKING THROUGH A NEW INTRO
+The story told here is about a particular place and an expression of environmental thought. I do not venture into efforts of Bay conservation, fights over the Bay Area Rapid Transit transportation system, or open space battles beyond Santa Clara County. My focus is on a particular valley, the Santa Clara Valley, where the core of Silicon Valley was founded and expanded. Yet the story of Silicon Valley is also the story of America as a whole. American political economy in the postwar era was defined by markets, invention, creativity, migration, and technology. Yet Silicon Valley was also unique in its expression of growth politics and environmentalism interacting *regionally*. Building off of Andrew Needham's claim that the history of suburbanization must look beyond the borders of cities to understand how suburban growth affects spaces beyond the city, I argue that we best understand environmentalism not only as a suburban experience but also by "placing" environmentalism into a region. Although any one of the cities of the Bay Area---which numbered 14 municipal corporations by the 1990s---would work well for analyzing the trends in environmental politics in Silicon Valley, by thinking about these changes at a regional level shows how places across space shaped one another and worked collaboratively and at odds in shaping metropolitan space. In other studies of postwar urban environmentalism, namely Phoenix, Arizona, Gary, Indiana, and Seattle, Washington, the focus of historians remains almost squarely on the experience of the cities and their immediate hinterlands. The Santa Clara Valley, however, was unique. Several municipal incorporations already existed by 1945, as well as rings of unincorporated county lands and small incorporated communities. As new centers of high technology began expanding rapidly to serve new business and their affluent, suburban employees---Palo Alto, San Jose, Santa Clara, and others cities---these places came quickly into conflict as they sprawled rapidly from their cores. The experience of rapid city growth swallowing up neighboring communities is not new; but very little work has been done to study the environmental politics that emerged from that practice.
 
-The competing vision of the Peninsula as a geography of industry versus
-the geography of beauty suggests the malleability of landscapes. More
-broadly, these attempts to define landscape shape the political,
-cultural, and social norms that tend to shape space and geography. As
-numerous historians have noted---Susen Schulten, Martin Lewis and Kären
-Wigen, Kenneth Jackson, and others---the spatial structures used to
-order the world produce a metageography that relies on myths and
-half-truths in order to create a narrative of place. How these ideas
-were created, negotiated, and challenged forms the subject of this
-study.^[@schulten2001imagination, 3.]
+By standing at the intersection of historiographies of development, suburbanization, recreation, business, and environmentalism, this dissertation argues that the politics of growth intersected with a powerful nostalgia about the countryside of Santa Clara Valley. Environmental critics argued that industrialization and real estate development served to ruin the environment, introducing sprawling places that wrought ecological havoc and erased a sense of identity. Debates over land use of the Bay Area suggests the malleability of landscapes. More broadly, these attempts to define the landscape shape the political, cultural, and social norms that tend to shape space and geography. As other historians of space have noted, the spatial structures used to order the world produce a metageography that relies on myths and half-truths in order to create a narrative of place. How these ideas were created, negotiated, and challenged forms the subject of this study.^[Schulten, 3; Martin Lewis and Kären Wigen, Kenneth Jackson.] 
 
-Environmental critics argued that industrialization and real estate development only served to ruin the enviroment---sprawling places that ruined the environment and erased a sense of identity.
+Finally, an aim of this study is to think bigger about Silicon Valley, about California, and its national context. Silicon Valley is often given an exceptionalist thesis----a place with a unique set of circumstances that made it an anomaly in postindustrial America. Silicon Valley became a gold standard, cited by journalists, scholars, critics, and pundits throughout the country as an example of a friendly business climate, suburban paradise, and economic powerhouse. Places as varied as Atlanta, Georgia, Philadelphia, Pennsylvania, Cleveland, Ohio, Omaha, Nebraska, Bangalore, India, Mission Hills in the Guandong Province of China, and Shenzhen, China, have all looked to Silicon Valley as a vision for their futures----going so far as to model their architectural designs after the Spanish villa and ranch aesthetic of Stanford University.^[See, for example, Margaret O'Mara, "Silicon Valleys," *Boom: A Journal of California* 1 (Summer 2011) <http://www.boomcalifornia.com/2011/06/silicon-valleys/>.] But in viewing Silicon Valley as exceptional is to miss similar economic, cultural, and environmental transformations happening throughout the American Sunbelt and global sites of postindustrial capital. Phoenix, Arizona, for example, underwent its own high-technology transformations in the postwar era, and like Silicon Valley, had to deal with the fallout of manufacturing and pollution.^[{TODO: explain}.] Silicon Valley is not exceptional; like other Sunbelt postindustrial places, it became a physical expression of a new Cold War complex that radically transformed place and community. 
 
-The story here is about a particular place and expression of environmental thought. I do not venture into efforts of Bay conservation, fights over the BART transportation system, or open space battles beyond Santa Clara County. My focus is on the expression of environmentalism in the face of high technology industrialization.
+\thoughtbreak{Electronics became a key component of the West's} service industry, but simultaneously became a pressing issue for the environment where such activity centralized itself. Throughout the West electronics manufacturers established headquarters, manufacturing facilities, and research offices, often courted by pro-growth advocates in city governments. With the rise of middle-class, quality-of-life environmentalism, however, the electronics industry became a target for its impact on wildlife, water quality, air pollution, and open space, especially in the western boomtowns where electronics formed the dominant economic activity. In turn, these concerns shaped politics in western states like California as pro-growth boosters debated with Californians worried about the rapid pace of growth and its impact on quality of life.
 
-Silicon Valley is a story of America as a whole. America in the postwar era was about markets, invention, creativity, migration, and technology. 
+This work begins with a simple question: does nature matter to Silicon Valley? Which points to an even bigger question: how does nature matter to American cities? Beginning to answer that question involves extending historian Kenneth Jackson's claim that "the space around us---the physical organization of neighborhoods, roads, yards, houses, and apartments---sets up living patterns that condition our behavior."[^cf8] In Silicon Valley, the attitudes, ideas, and values people imparted on to nature---biological and idealized---helps us understand how ideas of nature and efforts to preserve or transform landscapes played out in postindustrial American society. By exploring the ways people created space, the politics they engaged in to protect that space, and examining the physical changes to the landscape that resulted, this dissertation argues for the importance of understanding how space creates politics. The story of Silicon Valley told here is over who's place the Valley would become: A postindustrial powerhouse? Fertile and beautiful agricultural producer? Countryside paradise? Metropolitan trend-setter? All of the above? 
 
-This dissertation stands at the intersection of development history, suburbs, cities, recreation lands, and environmental history.
+What gives rise to the environmental movement in the Santa Clara Valley are the spatial and cultural politics stemming from high--tech industrialization. The metropolitan region of the Santa Clara Valley allows for an important inquiry into postwar environmentalism. The Bay Area in many respects anticipated the environmental politics that played out on the national stage. Ten years before federal laws regulated clean air, water contamination, and the preservation of open space, environmental political actors in the Bay Area organized to preserve their quality of life, the preservation of landscapes, and formed critiques of environmental degradation. 
 
-The politics of growth intersected with a powerful nostalgia about the hinterlands of the Santa Clara Valley. Yet the history of Silicon Valley is also a unique example of how growth politics interacted *regionally*. Building off of Andrew Needham's claim that {regionalism}, I argue that we best understand suburban experiences as a regional phenomenon. 
+This work is about grassroots politics produced by environmental catastrophes, suburbanization, the interplay between local and national in the emergence of an unified environmental movement in American politics. The conceptualization of different landscapes resulted from different visions and perceptions of the region. This study will chronicle the landscapes through a narrative of the area. This is not a history of prominent people often attributed to the creation of Silicon Valley---the veritable household names of David Packard, William Hewlett, Robert Noyce, and Steve Jobs. Instead, this is a story of the land, air, and water in one of the United States' major population centers and the people that live there. The story is about the tension between *intent* and *actual* use of land use, and how different ideas for the use of land informed the shape of the land itself.
 
--->
+Historians of the American West have noted the importance of the "information revolution" to the coastal California's development, but have done little to dive into the history. William Robbins noted almost two decades ago the "explosive expansion of the high--tech sector" that there existed "a new rural West---centered in the information revolution" were transforming urban prosperity and suburban poverty.^[@robbins1996newwest.] Earl Pomeroy's posthumously published *The Far West in the Twentieth Century* includes a brief history of the semiconductor industry and its outgrowth from military investments.^[@pomeroy2008west.] John Findlay was among the first western historians to place Silicon Valley into historical context, writing about how people created, and were affected by, urban culture. In particular, Findlay analyzes how urban environments were planned, built, managed, and used, and how inhabitants made sense of cities.  Findlay's analysis used Silicon Valley as one of his case studies, focusing on Stanford University and suburban landscapes to understand the ways that residents used the pastoralism of the university as a retreat from the chaos of urbanization. Margaret O'Mara extended the story in one of her case studies analyzing the success and failure of places that attempted to replicate Silicon Valley's success. O'Mara focused on how Stanford University played an important role in shaping land--use policies in Palo Alto and surrounding communities, and contextualizing the reasons behind Silicon Valley's success owing to pleasant climate, a white--collar workforce, the space to expand suburban areas, and proximity to a research university. Geographer AnnaLee Saxenian compared the differences between the Bay Area's Silicon Valley and Boston's Route 128.[^cf10]
 
-<!--
-Another aim of this text is to think bigger about Silicon Valley, about California, and its national context. Silicon Valley is often given an exceptionalist thesis----a place with a unique set of circumstances that made it an anomaly in postindustrial America, a place that other places tried to replicate. Silicon Valley became a gold standard, cited by journalists, scholars, critics, and pundits throughout the country as an example of a friendly business climate, suburban paradise, and economic powerhouse. Places as varied as Atlanta, Philadelphia, Cleveland, Omaha, Bangalore, India, Mission Hills in the Guandong Province of China, and Shenzhen, China, have all looked to Silicon Valley as a vision for their futures----going so far as to model their architectural designs after the Spanish villa and ranch aesthetic of Santa Clara County.^[See, for example, Margaret O'Mara, "Silicon Valleys," *Boom: A Journal of California* 1 (Summer 2011) <http://www.boomcalifornia.com/2011/06/silicon-valleys/>.] But in viewing Silicon Valley as exceptional is to miss similar economic, cultural, and environmental transformations happening throughout the Sunbelt and global sites of postindustrial capital. Phoenix, Arizona, for example, underwent its own high-technology transformations in the postwar era, and like Silicon Valley, had to deal with the fallout of manufacturing and pollution. For all the claims of today's "green" industries and Google's gloating of solar panels on its building roofs, there's a history that explains why tech tries to present itself as green.
--->
+Other writers and observers have attempted to draw lessons from Silicon Valley's growth and development, but those works have targeted audiences interested in the entrepreneurs famous to the region. Tech journalist Robert Cringely, biographer Walter Isaacson, journalist Michael S. Malone and other popular writers have highlighted the importance of specific individuals in shaping the technology industry, but such works tend to celebrate individuals and companies rather than contextualize the Valley's history.[^cf11] Historians of business have offered more nuanced approaches to the Valley's history.^[See, especially, @berlin2001noyce.]
 
-Electronics became a key component of the West's service industry, but 
-simultaneously became a pressing issue for the environment where such 
-activity centralized itself. Throughout the West electronics 
-manufacturers established headquarters, manufacturing facilities, and 
-research offices, often courted by pro-growth advocates in city 
-governments. With the rise of middle-class, quality-of-life 
-environmentalism, however, the electronics industry became a target for 
-its impact on wildlife, water quality, air pollution, and open space, 
-especially in the western boomtowns where electronics formed the 
-dominant economic activity. In turn, these concerns shaped politics in 
-western states like California as pro-growth boosters debated with 
-Californians worried about the rapid pace of growth and its impact on 
-quality of life.
+Historians have begun to explore the social and cultural consequences of Silicon Valley. Glenna Matthews addressed issues of gender, labor, and class in Silicon Valley. Matthews focuses her lens on immigrant women who worked in canneries and high-tech industries to "test [the] reality behind the [area's] glitzy image." Her focus on unionization of workers and their efforts towards social justice illustrates a dimension of the story not otherwise told. On issues of race in Northern California, Stephen Pitti has examined Mexican Americans and the long history of race relations and labor issues in the Bay Area. And Cecilia M. Tsu examined the agricultural past of Santa Clara Valley, studying Asian immigrants in Santa Clara Valley to examine the overlapping ideologies of race, gender, and labor between 1880 and 1940. These works have helped to uncover the story of Silicon Vally that have been ignored or gone unknown---race relations, social justice, labor, gender, and politics.^[@matthews2003dreams; @pitti2004devil; @tsu2013garden.]
 
+Few environmental histories have focused on local environmental histories, except in in case of single local campaigns. Most histories focus their geographic scale far above the local community, giving their attention to national legislation, federal agencies, or large environmental organizations. Those works that attempt to give attention to local action---namely Samuel Hays's classic *Beauty, Health, and Permanence*---address topics so fast as to only give local activism but a few pages of discussion. The larger goal of such works has been to connect places and controversies to the wider national narrative. Other works have focused their lenses on single states or controversies, such as William Robbins's two volumes on Oregon, Andrew Hurley's *Environmental Inequalities*, and  Richard Walker's *Country and the City* which focused on San Francisco Bay from the nineteenth century to the present.
 
-This work begins with a simple question: does nature matter to Silicon Valley?
-Which points to an even bigger question: how does nature matter to American
-cities? Beginning to answer that question involves extending historian Kenneth
-Jackson's claim that "the space around us---the physical organization of
-neighborhoods, roads, yards, houses, and apartments---sets up living patterns
-that condition our behavior."[^cf8] In Silicon Valley, the attitudes, ideas,
-and values people imparted on to nature---biological and idealized---helps us
-understand how ideas of nature and efforts to preserve or transform landscapes
-played out in postindustrial American society. By exploring the ways people
-created space, the politics they engaged in to protect that space, and
-examining the physical changes to the landscape that resulted, this
-dissertation argues for the importance of understanding how space creates
-politics. The story of Silicon Valley told here is over who's place the Valley
-would become: A postindustrial powerhouse? Fertile and beautiful agricultural
-producer? Countryside paradise? Metropolitan trend-setter?
+In the 1960s, political activists called on people to "think globally, act locally." That is the story here. The Bay Area---comprised of the area between San Francisco to the north and San Jose to the south---has become an economic and cultural powerhouse of the twenty--first century. Known today as "Silicon Valley," this region contains a mix of metropolitan area, greenbelts, and open space. Of the nine counties in the region, 3.75 million of 4.5 million acres are greenbelt and open water, and less than 750,000 acres lie beneath the built environment. More than one million acres are protected open areas or greenbelts, including more than 200 public parks and reserves. Combined, there is more green space in the San Francisco Bay Area than the entirety of Yosemite National Park.[^cf12] But green space only tells part of the story. While vast areas of open space are available to Bay Area residents, there is more to the story of Silicon Valley's relationship to nature. As early as the 1940s, conservationists were finding ways to limit the industrialization of the Santa Clara Valley---first, resisting the establishment of large canneries, corporate farms, and manufacturing facilities, and later the high tech manufacturers moving into the Valley. Histories of environmental politics often trace the origins of the environmental movement to the 1960s, lumping the movements into the generalities of the counterculture, civil rights, and justice movements. But in the Bay Area, these ideas took hold nearly a decade sooner. The origins of an ecological consciousness and energy for political action in Santa Clara Valley suggests energies and ideologies that predated much of the nation's eventual environmental sentiments.[^cf13] 
 
-What gives rise to the environmental movement in the Santa Clara Valley are
-the spatial and cultural politics stemming from high--tech industrialization.
-The metropolitan region of the Santa Clara Valley allows for an important
-inquiry into postwar environmentalism. The Bay Area in many respects
-anticipated the environmental politics that played out on the national stage.
-Ten years before federal laws regulated clean air, water contamination, and
-the preservation of open space, environmental political actors in the Bay Area
-organized to preserve their quality of life, the preservation of landscapes,
-and formed critiques of environmental degradation.
+\thoughtbreak{Space forms the central component} of this study. Geographer John Wright has argued that "places are best seen as shifting stages where the exercise of power and resistance to it vie for dominance."[^cf14] Physical and conceptual boundaries were drawn around competing landscapes in the Bay Area. These boundaries encapsulated three landscapes: agriculture, high technology, and urban growth and development. These intermixed landscapes placed unique but concurrent pressures on natural resources in the Bay Area, introducing ramifications not only at the local and state level but also the national level. Although this study is tightly focused on a specific region, it has greater bearing on understanding the inherent tension between local and national politics and Americans' growing awareness of environmental issues. In the Santa Clara Valley, the development of new landscapes, resulting from various perceptions of the region as farmland, electronics manufacturer, residential oasis, and natural beauty shaped the Valley's environment. Through examining these three hybrid landscapes that express the different ways in which people constructed different water use programs to fit human cultural and economic needs, I argue the underlying and conflicting interconnectedness of these landscapes shaped environmental, cultural, and political identities and in the process exacted significant costs from the Bay Area's human and natural ecology. The story told here stands at the intersections of postindustrial society, environmental history, the spatial politics of suburbanization and economic development, and the rise of environmental politics.[^cf15]
 
-This work is about grassroots politics produced by environmental catastrophes,
-suburbanization, the interplay between local and national in the emergence of
-an unified environmental movement in American politics. The conceptualization
-of different landscapes resulted from different visions and perceptions of the
-region. Since the full history of the region's landscapes cannot be told, this
-work will chronicle the landscapes through a narrative of the area. This is
-not a history of prominent people often attributed to the creation of Silicon
-Valley---the veritable household names of David Packard, William Hewlett,
-Robert Noyce, and Steve Jobs. Instead, this is a story of the land, air, and
-water in one of the United States' major population centers and the people
-that live there. The story is about the tension between *intent* and *actual* use
-of land use, and how different ideas for the use of land informed the
-shape of the land itself.
+Space shaped residents' social and political identities, but space was also defined by residents and industrialists. The philosopher Henri Lefebvre noted in the 1970s that societies produce space, challenging that space serves as a vessel receiving meaning rather than a backdrop to historical events. We can see how the imposition of space shapes cities as planners place down grids of roads, zones, and regulations that divide cities along labor, leisure, and consumption. The daily movement of people and capital---tourists, cyclists, taxi drivers, commuters, freight---imbue neighborhoods and localities with different meanings and give them specific senses of place.[^cf16] 
 
-Historians of the American West have offhandedly noted the importance of the
-"information revolution" to the coastal California's development, but have
-done little to dive into the history. William Robbins noted almost two decades
-ago the "explosive expansion of the high--tech sector" that there existed "a
-new rural West---centered in the information revolution" were transforming
-urban prosperity and suburban poverty.^[@robbins1996newwest.] Earl Pomeroy's
-posthumously published *The Far West in the Twentieth Century* includes a
-brief history of the semiconductor industry and its outgrowth from military
-investments.^[@pomeroy2008west.] John Findlay was among the first western
-historians to place Silicon Valley into historical context, writing about how
-people created, and were affected by, urban culture. In particular, Findlay
-analyzes how urban environments were planned, built, managed, and used, and
-how inhabitants made sense of cities.  Findlay's analysis used Silicon Valley
-as one of his case studies, focusing on Stanford University and suburban
-landscapes to understand the ways that residents used the pastoralism of the
-university as a retreat from the chaos of urbanization. Margaret O'Mara
-extended the story in one of her case studies analyzing the success and
-failure of places that attempted to replicate Silicon Valley's success. O'Mara
-focused on how Stanford University played an important role in shaping
-land--use policies in Palo Alto and surrounding communities, and
-contextualizing the reasons behind Silicon Valley's success owing to pleasant
-climate, a white--collar workforce, the space to expand suburban areas, and
-proximity to a research university. Geographer AnnaLee Saxenian compared the
-differences between the Bay Area's Silicon Valley and Boston's Route
-128.[^cf10]
+The political and cultural story intertwines with a spatial story. The Santa Clara Valley was the site of one of the nation's greatest modernizations of urban space. More than 138,000 acres of farmland were paved over, built upon, unearthed, or buried between 1940 and 1960, all in an effort to support an expanding high tech industry and its rapidly growing workforce.[^cf17] The residents of the Santa Clara Valley sought to improve the places in which they lived and worked, and many of these projects were spatial: environmental issues and environmental justice emerged from industrial pollution, storm runoff, subsidence, suburban expansion, and traffic congestion within different parts of the metropolis. Even ostensibly non-spatial politics were embedded in local geography, and these spatial politics were intertwined with environmental politics.
 
-Other writers and observers have attempted to draw lessons from Silicon
-Valley's growth and development, but those works have targeted audiences
-interested in the entrepreneurs famous to the region. Tech journalist Robert
-Cringely, biographer Walter Isaacson, journalist Michael S. Malone and other
-popular writers have highlighted the importance of specific individuals in
-shaping the technology industry, but such works tend to celebrate
-individuals and companies rather than contextualize the Valley's history.[^cf11]
-Historians of business have offered more nuanced approaches to the Valley's
-history.^[See, especially, @berlin2001noyce.]
+Space forms a critical understanding the history of Santa Clara Valley. Within space, as Robert Self writes in his analysis of Oakland, people "competed to put those resources to use to create particular and concrete places."[^cf18] Space is not just an abstract consideration of a place, but rather is historically concrete---the growth of suburban factories, residential and commercial growth, and environmental politics all operated in place. Historical actors and their spaces they operate in are inseparable. The experiences of people, communities, and institutions take place in the very fabric of life and space. The calls for urban reform, environmental concerns, and critiques against industry did not take place abstractly; political actors made specific demands about specific places. Space does not tell the entire story, but overlooking space is to miss a significant part.[^cf19]
 
-Historians have begun to explore the social and cultural consequences of
-Silicon Valley. Glenna Matthews addressed issues of gender, labor, and class
-in Silicon Valley. Matthews focuses her lens on immigrant women who worked in
-canneries and high-tech industries to "test [the] reality behind the [area's]
-glitzy image." Her focus on unionization of workers and their efforts towards
-social justice illustrates a dimension of the story not otherwise told. On
-issues of race in Northern California, Stephen Pitti has examined Mexican
-Americans and the long history of race relations and labor issues in the Bay
-Area. And Cecilia M. Tsu examined the agricultural past of Santa Clara Valley,
-studying Asian immigrants in Santa Clara Valley to examine the overlapping
-ideologies of race, gender, and labor between 1880 and 1940. These works have
-helped to uncover the story of Silicon Vally that have been ignored or gone
-unknown---race relations, social justice, labor, gender, and
-politics.^[@matthews2003dreams; @pitti2004devil; @tsu2013garden.]
-
-Few environmental histories have focused on local environmental histories,
-except in in case of single local campaigns. Most histories focus their
-geographic scale far above the local community, giving their attention to
-national legislation, federal agencies, or large environmental organizations.
-Those works that attempt to give attention to local action---namely Samuel
-Hays's classic *Beauty, Health, and Permanence*---address topics so fast as to
-only give local activism but a few pages of discussion. The larger goal of
-such works has been to connect places and controversies to the wider national
-narrative. Other works have focused their lenses on single states or
-controversies, such as William Robbins's two volumes on Oregon, Andrew
-Hurley's *Environmental Inequalities*, and  Richard Walker's *Country and the
-City* which focused on San Francisco Bay from the nineteenth century to the
-present.
-
-Historians of metropolitan America have painted a synthesis of city 
-experiences that {DETAIL}.
-
-This work stands at the intersections of metropolitan history, political 
-history, environmental history, and political economy. It extends a 
-question raised by Andrew Needham about the role of *regions* in the 
-shaping of metropolitan space, not just the localities. Although any one 
-of the cities of the Bay Area---which numbers {DETAIL} municipal 
-corporations by the 1990s---would work well for analyzing the trends in 
-environmental politics in Silicon Valley, by thinking about these 
-changes at a regional level shows how places across space shaped one 
-another and worked collaboratively and at odds in shaping metropolitan 
-space.
-
-In the 1960s, political activists called on people to "think globally, act
-locally." That is the story here. The Bay Area---comprised of the area between
-San Francisco to the north and San Jose to the south---has become an economic
-and cultural powerhouse of the twenty--first century. Known today as "Silicon
-Valley," this region contains a mix of metropolitan area, greenbelts, and open
-space. Of the nine counties in the region, 3.75 million of 4.5 million acres
-are greenbelt and open water, and less than 750,000 acres lie beneath the
-built environment. More than one million acres are protected open areas or
-greenbelts, including more than 200 public parks and reserves. Combined, there
-is more green space in the San Francisco Bay Area than the entirety of
-Yosemite National Park.[^cf12]
-
-But green space only tells part of the story. While vast areas of open space
-are available to Bay Area residents, there is more to the story of Silicon
-Valley's relationship to nature. As early as the 1940s, conservationists were
-finding ways to limit the industrialization of the Santa Clara Valley---first,
-resisting the establishment of large canneries, corporate farms, and
-manufacturing facilities, and later the high tech manufacturers moving into
-the Valley. Histories of environmental politics often trace the origins of the
-environmental movement to the 1960s, lumping the movements into the
-generalities of the counterculture, civil rights, and justice movements. But
-in the Bay Area, these ideas took hold nearly a decade sooner. The origins of
-an ecological consciousness and energy for political action in Santa Clara
-Valley suggests energies and ideologies that predated much of the nation's
-eventual environmental sentiments.[^cf13]
-
-## Events Take Place
-
-Space forms the central component of this study. Geographer John Wright has
-argued that "places are best seen as shifting stages where the exercise of
-power and resistance to it vie for dominance."[^cf14] Physical and conceptual
-boundaries were drawn around competing landscapes in the Bay Area. These
-boundaries encapsulated three landscapes: agriculture, high technology, and
-urban growth and development. These intermixed landscapes placed unique but
-concurrent pressures on natural resources in the Bay Area, introducing
-ramifications not only at the local and state level but also the national
-level. Although this study is tightly focused on a specific region, it has
-greater bearing on understanding the inherent tension between local and
-national politics and Americans' growing awareness of environmental issues. In
-the Santa Clara Valley, the development of new landscapes, resulting from
-various perceptions of the region as farmland, electronics manufacturer,
-residential oasis, and natural beauty shaped the Valley's environment. Through
-examining these three hybrid landscapes that express the different ways in
-which people constructed different water use programs to fit human cultural
-and economic needs, I argue the underlying and conflicting interconnectedness
-of these landscapes shaped environmental, cultural, and political identities
-and in the process exacted significant costs from the Bay Area's human and
-natural ecology. The story told here stands at the intersections of
-postindustrial society, environmental history, the spatial politics of
-suburbanization and economic development, and the rise of environmental
-politics.[^cf15]
-
-Space shaped residents' social and political identities, but space was also
-defined by residents and industrialists. The philosopher Henri Lefebvre noted
-in the 1970s that societies produce space, challenging that space serves as a
-vessel receiving meaning rather than a backdrop to historical events. We can
-see how the imposition of space shapes cities as planners place down grids of
-roads, zones, and regulations that divide cities along labor, leisure, and
-consumption. The daily movement of people and capital---tourists, cyclists,
-taxi drivers, commuters, freight---imbue neighborhoods and localities with
-different meanings and give them specific senses of place.[^cf16]
-
-The political and cultural story intertwines with a spatial story. The Santa
-Clara Valley was the site of one of the nation's greatest modernizations of
-urban space. More than 138,000 acres of farmland were paved over, built upon,
-unearthed, or buried between 1940 and 1960, all in an effort to support an
-expanding high tech industry and its rapidly growing workforce.[^cf17] The
-residents of the Santa Clara Valley sought to improve the places in which they
-lived and worked, and many of these projects were spatial: environmental
-issues and environmental justice emerged from industrial pollution, storm
-runoff, subsidence, suburban expansion, and traffic congestion within
-different parts of the metropolis. Even ostensibly non-spatial politics were
-embedded in local geography, and these spatial politics were intertwined with
-environmental politics.
-
-Space forms a critical understanding the history of Santa Clara Valley. Within
-space, as Robert Self writes in his analysis of Oakland, people "competed to
-put those resources to use to create particular and concrete places."[^cf18]
-Space is not just an abstract consideration of a place, but rather is
-historically concrete---the growth of suburban factories, residential and
-commercial growth, and environmental politics all operated in place.
-Historical actors and their spaces they operate in are inseparable. The
-experiences of people, communities, and institutions take place in the very
-fabric of life and space. The calls for urban reform, environmental concerns,
-and critiques against industry did not take place abstractly; political actors
-made specific demands about specific places. Space does not tell the entire
-story, but overlooking space is to miss a significant part.[^cf19]
-
-I argue to understand the Valley's relationship to environmental activism we
-can examine three contested landscapes in the Bay Area: natural, suburban, and
-industrial.[^cf20] Contests over the environment took place within these
-competing and constructed landscapes in California. The Bay Area---indeed,
-much of the American West---contains what Richard White has called "hybrid
-landscapes" where cultural ideologies clash over conflicting uses of natural
-resources. The hybrid landscape is not purely wild or built but instead a
-construction of natural and cultural systems that shape and create
-place.[^cf21] Places are defined by people constructing places for diverse
-purposes. Landscapes are also a way of seeing the land, a perspective that
-emphasizes aspects of geography that appeal to beauty, economy, or culture.
-Landscapes are both physically and mentally constructed according to our
-preferences and experiences. In turn, these expectations shape and reshape the
-environment.[^cf22]
+I argue to understand the Valley's relationship to environmental activism we can examine three contested landscapes in the Bay Area: natural, suburban, and industrial.[^cf20] Contests over the environment took place within these competing and constructed landscapes in California. The Bay Area---indeed, much of the American West---contains what Richard White has called "hybrid landscapes" where cultural ideologies clash over conflicting uses of natural resources. The hybrid landscape is not purely wild or built but instead a construction of natural and cultural systems that shape and create place.[^cf21] Places are defined by people constructing places for diverse purposes. Landscapes also emphasize aspects of geography that appeal to beauty, economy, or culture. Landscapes are both physically and mentally constructed according to human preferences and experiences, which in turn shape and reshape the environment.[^cf22]
 
 ![The overlapping landscapes. The map depicts the urban (colored
 polygons), open space (dark gray polygons), Superfund sites (large red
@@ -309,15 +78,7 @@ circles), toxic and chemical leaks and spills (small orange circles),
 and rivers of the Bay Area. Map by author using D3.js and data courtesy
 NHGIS, the Bay Area Conservation Lands Network, and U.S. Census.](figures/landscapes.png)
 
-The grassroots approach of this work reveals that environmentalists often
-cared less about political affiliations of Republican and Democrat but more
-often cared about their identities as homeowners and taxpayers. Environmental
-historians have often considered environmental history to be the domain of
-Democratic politics, and environmental issues often laid at the feet of the
-liberal political agenda. However, environmental politics between the 1950s
-and the 1970s often belied political affiliations. Suburban residents
-concerned with environmental issues were often unified in their vision of
-aesthetics, health, protection of children, pollution, and toxics.
+The grassroots approach of this work reveals that environmentalists often cared less about political affiliations of Republican and Democrat but more often cared about their identities as homeowners and taxpayers. Environmental historians have often considered environmental history to be the domain of Democratic politics, and environmental issues often laid at the feet of the liberal political agenda. However, environmental politics between the 1950s and the 1970s often belied political affiliations. Suburban residents concerned with environmental issues were often unified in their vision of aesthetics, health, protection of children, pollution, and toxics. 
 
 ---
 

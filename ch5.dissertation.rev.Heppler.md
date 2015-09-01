@@ -6,32 +6,17 @@ title: |
   | Something in the Soil
 ...
 
-> The horizon above San Jose is unmarred by smokestacks, and people here
-> are proud of that. They have worked hard at making the valley a base
-> of the computer-electronics industry and an unpolluted place to live.
->
-> ---*New York Times*^["Leaking Chemicals in
-> California's Silicon Valley Alarms Neighbors," *New York Times*, May
-> 20, 1982.]
+\begin{aquote}{\textit{New York Times}, May 20, 1982}
+The horizon above San Jose is unmarred by smokestacks, and people here are proud of that. They have worked hard at making the valley a base of the computer-electronics industry and an unpolluted place to live.
+\end{aquote}
 
-> When I first became Mayor and we embarked on an economic development
-> program, there was no doubt in my mind that this was a clean industry.
-> We now know that we are definitely in the midst of a chemical
-> revolution.
->
-> ---Janet Gray Hayes, Mayor, San Jose^["Leaking Chemicals in
-> California's Silicon Valley Alarms Neighbors," *New York Times*, May
-> 20, 1982.]
+\begin{aquote}{Mayor Janet Gray Hayes}
+When I first became Mayor and we embarked on an economic development program, there was no doubt in my mind that this was a clean industry. We now know that we are definitely in the midst of a chemical revolution.
+\end{aquote}
 
-> All of this industrial activity is hard to notice, however. Driving 
-> from Stanford University in Palo Alto to the green hills east of San 
-> Jose, one sees no smokestacks at all, and hardly anything that even 
-> looks like a factory. . . . It has become obvious that the absence of 
-> smokestacks does not mean an absence of environmental problems.
->
-> ---Judith Ayres, EPA Region 9 Administrator^[Judith E. Ayres, "Controlling the Dangers 
-> from High-Tech Pollution," *EPA Journal* 10 
-> (December 1984): 14.]
+\begin{aquote}{Judith Ayres, EPA Region 9 Administrator}
+All of this industrial activity is hard to notice, however. Driving from Stanford University in Palo Alto to the green hills east of San Jose, one sees no smokestacks at all, and hardly anything that even looks like a factory. . . . It has become obvious that the absence of smokestacks does not mean an absence of environmental problems.
+\end{aquote}
 
 Construction workers sunk their backhoe into the earth in an early 
 November morning in 1981, making way in the soil for a second 
