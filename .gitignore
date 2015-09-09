@@ -29,3 +29,4 @@ wordcounts.csv
 archives/
 *.ft
 bak.*
+*.bak.md

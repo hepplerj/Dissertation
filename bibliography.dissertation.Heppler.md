@@ -41,18 +41,24 @@ Fred Ross Papers
 **Oral Histories**    
 
 Alf Brandin.  
+
 Frederick Terman.  
+
 Ted Smith.  
+
 Sig Sanchez.  
+
 Albert Henley.  
+
 Pamela Lee Tau.  
+
 David Brower.  
-Sylvia McLaughlin.  
+
 Harvey O. Banks.  
+
 Wallace Stegner.  
-Randal Jimenez.  
+
 Ernesto Galarza.  
-Sofia Mendoza.  
 
 \vskip 0.75in
 

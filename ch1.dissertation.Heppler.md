@@ -132,7 +132,7 @@ wetlands, and riparian habitats were common natural features on the Valley
 landscape. Nearly 5,000 years ago, the landscape of the present Bay Area had
 largely taken shape.[^7]
 
-Below ground, the Valley was supplied by a regional aquifer that consisted of
+Below ground, the Valley was supplied by a regional aquifer consisting of
 multiple Pleistocene aquifers grouped into upper and lower systems. These
 groundwater systems were replenished primarily through precipitation, stream
 channels, and, today, artificial recharge ponds. The presence of rock faults
