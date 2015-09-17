@@ -23,63 +23,18 @@ leaves and twig.
 A veritable Paradise.
 \end{aquote}
 
-The Ronald Reagan Presidential Foundation anticipated little opposition to
-their plans to build the Ronald Reagan Presidential Library on the campus of
-Stanford University. Coupled with the Hoover Institution, whose officials
-advised Reagan and shared his conservative outlook, the selection of Stanford
-University for the presidential library, museum, and public affairs research
-center seemed like a natural fit. The Spanish-mission style architecture
-designed by Hugh A. Stubbins Jr., would nestle in the hills above the
-university and administratively housed under the Hoover Institution. Yet when
-Stanford's Board of Trustees approved the plan in February 1984, the outcry was
-swift. Faculty and students objected to the library's presence, fearing it
-would only serve to "politicize" Stanford.
-
-Critics of the Reagan Library also couched their argument in the environment.
-Place mattered to the critics. The Reagan Foundation hoped to place the
-presidential library in the foothills on unincorporated Stanford property next
-to the Center for Advanced Study in Behavioral Sciences, a decision locals and
-university members criticized. "They want to put it on one of the last
-undeveloped hills in the community," Samuel Brain, a senior researcher in
-Stanford's radiology department and a vocal critic of the plan told the *New
-York Times*. "There are a lot of people who are attached to that hill, and they
-don't want it ruined." Furthermore, Palo Alto residents worried about the
-potential of tourists flooding their town with traffic and tourism
-upsetting the hill's seclusion.[^4]
-
-![Proposed location of the Reagan Presidential Library, next to the Center for Advanced Study in Behavioral Sciences and Institute for Research in the Social Sciences.](figures/reagan_library_location.png)
-
-The debate over land use in Palo Alto reflected a longer debate about western
-land use, and specifically about the presence of natural places near urban
-areas. Richard White's observation about the West's public lands---that "land
-cannot be simultaneously range, parking lots, and wilderness"---applies to
-Santa Clara County.[^5] People give spaces definition through cultural
-processes that determine how land and space should be utilized for economics,
-shelter, food, and transportation. Yet there are few times when these spaces
-can become a member of more than one category of use. These are not necessarily
-historical realities; they are cultural understandings of how particular places
-are defined, used, and protected.
-
-Silicon Valley is two types of places. The first conjures images of iPhones,
-computers, Steve Jobs, maybe erroneously, Microsoft. This Silicon Valley is
-a set of assumptions and attitudes defined by technology, invention,
-innovation, venture funding, and capital revolving around high technology. But
-Silicon Valley is also a place positioned in geographic space. These two views
-into Silicon Valley---as a geographic place, and as a social
-construction---illustrate how we can come to understand the Valley's spatial
-history. People of the past attached meaning to place through lived experiences
-and imagined geographies. When Samuel Brain criticized the plans for the Reagan
-Library, he was drawing from a history of people defining the Valley landscape
-for specific purposes. Brain also encapsulates fifty years of land use debates
-about whether land should be left in a "natural" state or put to some other
-use. The debate was not settled by 1980, and traces its roots to the nineteenth
-century. The story begins with agriculture and the creation of a "garden
-myth."^[On the emergence of the garden myth, see Mark Fiege, *Irrigated Eden: The Making of an Agricultural Landscape in the American West* (Seattle: University of Washington Press, 1999); Leo Marx, *The Machine in the Garden: Technology and the Pastoral Ideal in America* (Oxford: Oxford University Press, 2000), Henry Nash Smith, *Virgin Land: The American West as Symbol and Myth* (Cambridge: Harvard University Press, 1950).] We can
-begin to understand how the Valley was thought of as a desired place influenced
-by the Valley's agricultural productivity and climate. The past peculiarities
-of the Valley's agriculture history illustrates how nineteenth century Spanish,
-Mexican, and Americans came to define land use around climate and productivity.
-To understand the tensions between users of the land---should a hillside be
+The "Garden of the World" was constructed out of agriculture and the creation of a "garden
+myth."^[On the emergence of the garden myth, see Mark Fiege, *Irrigated Eden:
+The Making of an Agricultural Landscape in the American West* (Seattle:
+University of Washington Press, 1999); Leo Marx, *The Machine in the Garden:
+Technology and the Pastoral Ideal in America* (Oxford: Oxford University Press,
+2000), Henry Nash Smith, *Virgin Land: The American West as Symbol and Myth*
+(Cambridge: Harvard University Press, 1950).] We can begin to understand how
+the Valley was thought of as a desired place influenced by the Valley's
+agricultural productivity and climate. The past peculiarities of the Valley's
+agriculture history illustrates how nineteenth century Spanish, Mexican, and
+Americans came to define land use around climate and productivity. To
+understand the tensions between users of the land---should a hillside be
 a Presidential Library or preserved in a natural state?---a consideration of
 the "garden myth" helps explain later patterns of metropolitan development and
 environmental thought in the twentieth century. As the lands became understood
@@ -90,8 +45,6 @@ through San Jose and its canneries and railroads or Saratoga and Los Gatos and
 the Valley's change to a place for electronics, federal investments, and
 military geography, place was defined by it's natural surroundings, the
 definition of which remained contested into the twentieth century.
-
-\pagebreak
 
 \thoughtbreak{The story begins with the land}. As the Wisconsin glaciation
 period was ending 12,000 years ago, uplift resulting from the collision of the

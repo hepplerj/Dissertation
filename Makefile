@@ -1,9 +1,9 @@
-MD		:= $(wildcard *.md)
-PDF		:= $(patsubst %.md,%.md.pdf, $(wildcard *.md))
-TEX		:= $(patsubst %.md,%.md.tex, $(wildcard *.md))
-DOCX	:= $(patsubst %.md,%.md.docx, $(wildcard *.md))
+MD   := $(wildcard *.md)
+PDF  := $(patsubst %.md,%.md.pdf, $(wildcard *.md))
+TEX  := $(patsubst %.md,%.md.tex, $(wildcard *.md))
+DOCX := $(patsubst %.md,%.md.docx, $(wildcard *.md))
 
-dissertation.Heppler.pdf: dissertation.Heppler.tex $(TEX)
+dissertation.Heppler.pdf: dissertation.Heppler.tex $(TEX) epigraph.dissertation.Heppler.tex
 	latexmk $<
 
 all: dissertation.Heppler.pdf $(PDF) $(DOCX)
@@ -12,7 +12,7 @@ all: dissertation.Heppler.pdf $(PDF) $(DOCX)
 	pandoc $< -o $@ -V documentclass:acadpaper -V fontsize:12pt
 
 %.md.tex: %.md
-	pandoc $< -o $@
+	pandoc $< --bibliography="/Users/jheppler/Dropbox/acad/bib/master.bib" --csl=chicago-jah.csl -o $@
 
 %.md.docx: %.md
 	pandoc $< -o $@ --smart
@@ -27,3 +27,4 @@ clobber: clean
 	rm -f dissertation.Heppler.pdf
 
 .PHONY : clean clobber
+
