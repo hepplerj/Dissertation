@@ -15,24 +15,31 @@ The word "nature" is a notorious semantic and metaphysical trap.\footnote{Leo Ma
 \end{aquote}
 
 \begin{aquote}{Charles Wilkinson}
-The suble, intangible, but soul-deep mix of landscape, smells, sounds, history . . . that constitute a place, a homeland.\footnote{Charles Wilkinson, \textit{The Eagle Bird: Mapping a New West} (New York: Pantheon, 1992), 137--138.}
+The subtle, intangible, but soul-deep mix of landscape, smells, sounds, history . . . that constitute a place, a homeland.\footnote{Charles Wilkinson, \textit{The Eagle Bird: Mapping a New West} (New York: Pantheon, 1992), 137--138.}
 \end{aquote}
 
-Wallace Stegner lamented the changes occurring to the Santa Clara Valley in 1965. From his home in the foothills of the Santa Cruz Mountains that creep along the western edge of the valley, the Stanford creative writing professor lamented the urban sprawl that had overtaken the former farmland in the flatlands. "The orchards that used to be a spring garden of bloom down the long trough of the Santa Clara Valley," he wrote, "have gone under so fast that a person absent for five years could return and think himself in another country. . . . The once--lovely coast hills reaching down the Peninsula below San Francisco have been crusted with houses in half a lifetime, the hilltops flattened, whole hills carried off to fill the bay, the creeks turned into concrete storm drains."[^cf3] In Stegner's lifetime, the Valley had transformed from prime agricultural land to a place known for urban sprawl, traffic jams, and industrial facilities. Stegner's sensibilities were so insulted by the environmental damage that he wished to be buried not in California---the place that had so deeply shaped his writing and identity---but in his summer home of Vermont.[^cf4]
+Wallace Stegner lamented the changes occurring to the Santa Clara Valley in 1965. From his home in the foothills of the Santa Cruz Mountains that creep along the western edge of the valley, the Stanford creative writing professor lamented the urban sprawl that had overtaken the former farmland in the flatlands. "The orchards that used to be a spring garden of bloom down the long trough of the Santa Clara Valley," he wrote, "have gone under so fast that a person absent for five years could return and think himself in another country. . . . The once--lovely coast hills reaching down the Peninsula below San Francisco have been crusted with houses in half a lifetime, the hilltops flattened, whole hills carried off to fill the bay, the creeks turned into concrete storm drains."[^cf3] In Stegner's lifetime, the Valley had transformed from prime agricultural land to a place known for urban sprawl, traffic jams, and manufacturing facilities. Stegner's sensibilities were so insulted by the environmental damage that he wished to be buried not in California---the place that had so deeply shaped his writing and identity---but in his summer home of Vermont.[^cf4]
 
-Stegner was a newcomer to this land. Born in 1909 in north-central Iowa, Stegner came to California to teach in the creative writing program at Stanford University. In Stegner's imagination the Santa Clara Valley had fallen from pristine grace. He wrote of "a park-like oak forest reaching southward from a clean bay" when the native Ohlone's occupied the region. "The climate was mild and benevolent, the bay full of shellfish. The creeksides tangles grew wild berries and the oaks provided the wherewithal for unlimited acorn flour." Stegner not only celebrated this imagined pre-European landscape, but the post-European one as well. As fields of wheat and fruit groves planted by Spanish missionaries began to transform the Bay Area into an agricultural landscape, Stegner celebrated these as "a glory"---that pears, prunes, apricots, cherry blossoms, and apples were an improvement upon nature. "This brief Eden," as Stegner referred to the Valley, fell to the original sin of industrialization.^[William S. Cooper, "Vegetational Development upon Alluvial Fans in the Vicinity of Palo Alto, CA," *Ecology* 7 (January 1927): 11.]
+Stegner was a newcomer to this land. Born in 1909 in north-central Iowa, he came to California to teach in the creative writing program at Stanford University. In Stegner's imagination the Santa Clara Valley had fallen from pristine grace. He wrote of "a park-like oak forest reaching southward from a clean bay" when the Native Ohlone's occupied the region. "The climate was mild and benevolent, the bay full of shellfish. The creeksides tangles grew wild berries and the oaks provided the wherewithal for unlimited acorn flour." Stegner not only celebrated this imagined pre-European landscape, but the post-European one as well. As fields of wheat and fruit groves planted by Spanish missionaries began to transform the Bay Area into an agricultural landscape, Stegner celebrated these as "a glory"---that pears, prunes, apricots, cherry blossoms, and apples were an improvement upon nature. "This brief Eden," as Stegner referred to the Valley, fell to the original sin of industrialization.^[William S. Cooper, "Vegetational Development upon Alluvial Fans in the Vicinity of Palo Alto, CA," *Ecology* 7 (January 1927): 11.] <!-- {TODO: check this footnote? He's not quoting Stegner here. } -->
 
 Frederick E. Terman interpreted the landscape differently. The Stanford University provost and dean of engineering---often referred to as the "Father of Silicon Valley"---saw suburbanization and expansion of industry in the Santa Clara Valley not as signs of degradation, but rather signposts towards a new prosperous future for Stanford, for Santa Clara County, for California, and for the nation. The newly--founded Stanford Industrial Park and the lands around the university, rather than seen as encroaching sprawl, were, in the words of one booster, a "pleasant place" of "broad lawns, employee patios, trees, flowers and shrubs, walls of glass, recreational clubs" that stood in contrast to the "smoke--stacks, noise, coal cars, soot and other things" found in the industrial East and Midwest.[^cf5] The landscape appeared campus--like and suburban, amenities that reflected the values of Stanford and surrounding suburban communities. Although complaints of traffic and air pollution had become common by the mid--1960s, Terman dismissed these complaints. The Industrial Park had done much for the Bay Area's economy, and Terman felt congestion and air pollution were "really a pretty small price to pay."[^cf6]
 
-<!--
-Not acknowledged by either Stegner or Terman was the environmental influence that these industrial activities had on the Santa Clara Valley. The celebrated orchards introduced exotic species in California, the result of European and American colonization. Furthermore, the cultivation of these species required an infrastructure to support canneries, cannery effluence, and controlling the land with pesticides and herbicides. Stegner's own contradiction of lament for Spaniard colonization and celebration of orchards poses significant questions: How should the land be treated? What counts as improvement or denigration upon the landscape? Terman's own views of the Valley reflect a similar set of questions: Should the built environment be assessed differently from the natural environment? Was the arrival of Silicon Valley an improvement upon nature? Implicit in both views revolves a core question: Who defines the valley landscape?
--->
 
-How is it that people look at the cities and see very different places? These competing visions of the Santa Clara Valley landscape reflected widely-held and conflicting ideas about the future of the Valley. In the face of residential growth and industrial development, the Santa Clara Valley's landscape changed remarkably. The arrival of machines in the Valley--- bulldozers and computers---transformed the landscape, and in the process sparked local environmental activism. Valley residents, business leaders, city officials, and university administrators vied over the definition of Santa Clara Valley's future, and in the process shaped debates about environmental change. Unrestricted urban growth and economic development characterized much of Santa Clara Valley in the latter half of the twentieth century, but little told is the story of the environmental consequences of Silicon Valley and those who attempted to shape the region's environmental future.[^cf7] California voters became increasingly aware of the environmental impact urban and industrial development was having, leading by the 1970s to residents attempting to curtail industrialization, limit urban growth, and reject large--scale water projects. Environmental organizations, formal and ad hoc, began criticizing high technology firms and city leaders for their ignorance of ecological negligence. Such organizing formed the burgeoning Bay Area environmental movement.
+<!-- {TODO: Work on another paragraph here on Latino perception of landscape? Loss of ag -> loss of jobs? }  -->
 
-The story told here is about a particular place and an expression of environmental thought. I do not venture into efforts of Bay conservation, fights over the Bay Area Rapid Transit transportation system, or open space battles beyond Santa Clara County. My focus is on a particular valley, the Santa Clara Valley, where the core of Silicon Valley was founded and expanded. Yet the story of Silicon Valley is also the story of America as a whole. American political economy in the postwar era was defined by markets, invention, creativity, migration, and technology. Yet Silicon Valley was also unique in its expression of growth politics and environmentalism interacting *regionally*. Building off of Andrew Needham's claim that the history of suburbanization must look beyond the borders of cities to understand how suburban growth affects spaces beyond the city, I argue that we best understand environmentalism not only as a suburban experience but also by "placing" environmentalism into a region. Although any one of the cities of the Bay Area---which numbered 14 municipal corporations by the 1990s---would work well for analyzing the trends in environmental politics in Silicon Valley, by thinking about these changes at a regional level shows how places across space shaped one another and worked collaboratively and at odds in shaping metropolitan space. In other studies of postwar urban environmentalism, namely Phoenix, Arizona, Gary, Indiana, and Seattle, Washington, the focus of historians remains almost squarely on the experience of the cities and their immediate hinterlands. The Santa Clara Valley, however, was unique. Several municipal incorporations already existed by 1945, as well as rings of unincorporated county lands and small incorporated communities. As new centers of high technology began expanding rapidly to serve new business and their affluent, suburban employees---Palo Alto, San Jose, Santa Clara, and others cities---these places came quickly into conflict as they sprawled rapidly from their cores. The experience of rapid city growth swallowing up neighboring communities is not new; but very little work has been done to study the environmental politics that emerged from that practice.
+Not acknowledged by either Stegner or Terman was the environmental influence that these industrial activities had on the Santa Clara Valley. The celebrated orchards introduced exotic species in California, the result of European and American colonization. Furthermore, the cultivation of these species required an infrastructure to support canneries, cannery effluence, and controlling the land with pesticides and herbicides. Stegner's own contradiction of lament for Spaniard colonization and celebration of orchards poses significant questions: How should the land be treated? What counts as improvement or denigration upon the landscape? Terman's own views of the Valley reflect a further set of complicated questions: Should the built environment be assessed differently from the natural environment? Was the arrival of Silicon Valley an improvement upon nature? Implicit in both views revolves a core question: Who defines the valley landscape?
 
-By standing at the intersection of historiographies of development, suburbanization, recreation, business, and environmentalism, this dissertation argues that the politics of growth intersected with a powerful nostalgia about the countryside of Santa Clara Valley. Environmental critics argued that industrialization and real estate development served to ruin the environment, introducing sprawling places that wrought ecological havoc and erased a sense of identity. Debates over land use of the Bay Area suggests the malleability of landscapes. More broadly, these attempts to define the landscape shape the political, cultural, and social norms that tend to shape space and geography. As other historians of space have noted, the spatial structures used to order the world produce a metageography that relies on myths and half-truths in order to create a narrative of place. How these ideas were created, negotiated, and challenged forms the subject of this study.^[Schulten, 3; Martin Lewis and Kären Wigen, Kenneth Jackson.] 
+These competing visions of the Santa Clara Valley landscape reflected widely-held and conflicting ideas about the future of the Valley. In the face of postwar residential growth and industrial development, the Santa Clara Valley's landscape changed remarkably. The arrival of machines in the Valley---bulldozers and computers---transformed the landscape, and in the process sparked local environmental activism. Valley residents, business leaders, city officials, and university administrators vied over the definition of Santa Clara Valley's future, and in the process shaped debates about environmental change. Unrestricted urban growth and economic development characterized much of Santa Clara Valley in the latter half of the twentieth century, but little told is the story of the environmental consequences of Silicon Valley and those who attempted to shape the region's environmental future.[^cf7] California voters became increasingly aware of the environmental impact urban and industrial development was having, leading by the 1970s to residents attempting to curtail industrialization, limit urban growth, and reject large--scale water projects. Environmental organizations, formal and ad hoc, criticized high technology firms and city leaders for their ignorance of ecological negligence. Such organizing formed the burgeoning Bay Area environmental movement.
+
+The story told here is about a particular place and an expression of environmental thought. I do not venture into efforts of the San Francisco Bay's conservation, fights over the Bay Area Rapid Transit transportation system, or open space battles beyond Santa Clara County. My focus is on a particular valley, the Santa Clara Valley, where the core of Silicon Valley was founded and expanded. The "where" of Silicon Valley is slightly harder to define and has been undergoing continuous reshaping since its beginnings in the 1940s as high technology firms expanded throughout Santa Clara, San Mateo, and San Francisco counties on the Peninsula. As we stand in 2015, the borders of Silicon Valley could easily extend northward into San Francisco, whose high-tech industry is rapidly growing, and as far south as Morgan Hill and as far east as Fremont or even Oakland. But for the majority of the history examined ahead, the bulk of high tech activity occurred largely in Santa Clara County. For the purposes of this study, Silicon Valley is largely bounded by Palo Alto in the northern end of Santa Clara County to San Jose in the southern end of the county (see Figure {TODO}). Between and including these two cities the greatest concentrations of high tech manufacturing took place.^[I am comprising a database of Silicon Valley tech companies between 1940 and 1990, which currently numbers close to 2,000 companies culled from archival sources, city directories, and industrial pamphlets and guidebooks. The bulk of these companies are located in the northern end of Santa Clara County. See Chapter 2 for more discussion about the spread and location of these companies. ] 
+
+![Silicon Valley.](figures/sv_outline_study.png)
+
+<!-- {TODO: fix this, too broad} --> 
+
+Yet the story of Silicon Valley is also the story of America as a whole. American political economy in the postwar era was defined by markets, invention, creativity, migration, and technology. Yet Silicon Valley was also unique in its expression of growth politics and environmentalism interacting *regionally*. Building off of Andrew Needham's claim that the history of suburbanization must look beyond the borders of cities to understand how suburban growth affects spaces beyond the city, I argue that we best understand environmentalism not only as a suburban experience but also by "placing" environmentalism into a region. Although any one of the cities of the Bay Area---which numbered 14 municipal corporations by the 1990s---would work well for analyzing the trends in environmental politics in Silicon Valley, by thinking about these changes at a regional level shows how places across space shaped one another and worked collaboratively and at odds in shaping metropolitan space. In other studies of postwar urban environmentalism, namely Phoenix, Arizona, Gary, Indiana, and Seattle, Washington, the focus of historians remains almost squarely on the experience of the cities and their immediate hinterlands. The Santa Clara Valley, however, was unique. Several municipal incorporations already existed by 1945, as well as rings of unincorporated county lands and small incorporated communities. As new centers of high technology began expanding rapidly to serve new business and their affluent, suburban employees---Palo Alto, San Jose, Santa Clara, and others cities---these places came quickly into conflict as they sprawled rapidly from their cores. The experience of rapid city growth swallowing up neighboring communities is not new; but very little work has been done to study the environmental politics that emerged from that practice.
+
+By standing at the intersection of historiographies of development, suburbanization, recreation, business, and environmentalism, this dissertation argues that the politics of growth intersected with a powerful nostalgia about the countryside of Santa Clara Valley. Environmental critics argued that industrialization and real estate development served to ruin the environment, introducing sprawling places that wrought ecological havoc and erased a sense of identity. Debates over land use of the Bay Area suggests the malleability of landscapes. More broadly, these attempts to define the landscape shape the political, cultural, and social norms that tend to shape space and geography. As other historians of space have noted, the spatial structures used to order the world produce a metageography that relies on myths and half-truths in order to create a narrative of place. How these ideas were created, negotiated, and challenged forms the subject of this study.^[Schulten, 3; Martin Lewis and Kären Wigen, Kenneth Jackson. {TODO: fix this footnote}] 
 
 Finally, an aim of this study is to think bigger about Silicon Valley, about California, and its national context. Silicon Valley is often given an exceptionalist thesis----a place with a unique set of circumstances that made it an anomaly in postindustrial America. Silicon Valley became a gold standard, cited by journalists, scholars, critics, and pundits throughout the country as an example of a friendly business climate, suburban paradise, and economic powerhouse. Places as varied as Atlanta, Georgia, Philadelphia, Pennsylvania, Cleveland, Ohio, Omaha, Nebraska, Bangalore, India, Mission Hills in the Guandong Province of China, and Shenzhen, China, have all looked to Silicon Valley as a vision for their futures----going so far as to model their architectural designs after the Spanish villa and ranch aesthetic of Stanford University.^[See, for example, Margaret O'Mara, "Silicon Valleys," *Boom: A Journal of California* 1 (Summer 2011) <http://www.boomcalifornia.com/2011/06/silicon-valleys/>.] But in viewing Silicon Valley as exceptional is to miss similar economic, cultural, and environmental transformations happening throughout the American Sunbelt and global sites of postindustrial capital. Phoenix, Arizona, for example, underwent its own high-technology transformations in the postwar era, and like Silicon Valley, had to deal with the fallout of manufacturing and pollution. Silicon Valley is not exceptional; like other Sunbelt postindustrial places, it became a physical expression of a new Cold War complex that radically transformed place and community. 
 
@@ -78,7 +85,6 @@ The San Francisco Peninsula followed---and in some ways led---the nation's shift
 
 Postwar prosperity encouraged widespread growth across the country. By the 1950s many American cities experienced sprawling suburbanization, but what was initially seen as a fulfillment of the American dream of homeownership became viewed as an environmental disaster. Critics took aim at suburban growth and environmental destruction, and nowhere was this change more obvious than in the West. Metropolitan growth doubled the population in the region between 1940 and 1960. By the 1980s, the region was among the fastest growing in the nation.[^cf44] Many westerners were unsettled by population growth, and raised concerns about the disappearance of rural landscapes being replaced by sprawl.[^cf45] Western political leaders such as Oregon Governor Thomas McCall condemned what he called "sagebrush suburbs" and sought limits on urban growth in the state. Anti--growth and environmental sentiments lay behind Bay Area residents placing new limits on urban growth and condemning boosters that supported plans for urban expansion.
 
-![Silicon Valley.](figures/sv_boundary.png)
 
 The Bay Area witnessed some of the most dramatic urban growth. During the 1940s, Santa Clara County experienced 66% growth in population, compared to a California wide growth of 53%. By the 1950s those figures surged upward; the population increased 121% in Santa Clara County compared to 49% statewide. Subdivisions sprang up to accommodate the influx of new residents. Most of these new subdivisions were located beyond existing city boundaries in unincorporated areas. Between 1945 and 1950 county farmland decreased from 727,000 acres to 589,000---a reduction of 81%.[^cf46] During that same period, Bay Area cities engaged in rapid annexations. San Jose annexed land thirty-two times between 1945 and 1950. During the same period, the City of Santa Clara annexed only four tracts, but in 1951 annexed six tracts and another nine in 1952. Santa Clara added 50 acres to the city in two years. In the same two year period, San Jose annexed sixteen parcels that totaled over 1000 acres.[^cf47] Between 1945 and 1970, San Jose approved over 1,400 annexations and expanded the city's footprint from fifteen square miles to 135 square miles. The city's land area expanded by 900 percent.[^cf48] 
 
@@ -95,75 +101,40 @@ Writing about environmental politics in the Bay Area also offers us ways to thin
 
 Simultaneously, entrepreneurs, urban planners, university administrators, and city leaders offered an alternative vision to the landscape: one that was increasingly urban and industrial rather than rural and agricultural. Often times support for growth was couched in the language of national defense: Cold War defense spending poured into Stanford University, for example, which eagerly sought out military contracts in research and development. Stanford administrators responded to citizens critiques of land development programs by dismissing their concerns as less important than national defense concerns. Unrestricted urban growth and economic development characterized much of Santa Clara Valley in the latter half of the twentieth century. California voters became increasingly aware of the environmental considerations urban growth and industrial development had for the region, leading to political activism, new environmental regulation laws, and community referendums. Furthermore, environmental groups criticized high technology firms and city leaders for their ignorance of ecological negligence.[^cf52] 
 
-\thoughtbreak{Silicon Valley has become a cultural center} in the United States; the wealth, political influence, environmental precedence, and place in the American imagination has led the Valley to take on an almost mystical quality in American life. Cities and universities across the country and across the world try and mimic the success of Silicon Valley and Stanford University. The Valley is synonymous with the technology industry, an industry that has taken on ever increasing importance to the nation's economy. Ideals about Silicon Valley are embedded in cultural and institutional arenas in America. Observers talk about "life hacks" or are pursuing ways to "disrupt higher education." By asking new questions of the Valley's history, this works seeks to probe the public to think more about Silicon Valley and its attendant costs.
+\thoughtbreak{Silicon Valley has become a cultural center} in the United States; the wealth, political influence, environmental precedence, and place in the American imagination has led the Valley to take on an almost mystical quality in American life. Cities and universities across the country and across the world try and mimic the success of Silicon Valley and Stanford University. The Valley is synonymous with the technology industry, an industry that has taken on ever increasing importance to the nation's economy. Ideals about Silicon Valley are embedded in cultural and institutional arenas in America. Observers talk about "life hacks" or pursue ways to "disrupt higher education." By asking new questions of the Valley's history, this works seeks to probe the public to think more about Silicon Valley and its attendant costs.
 
-The history is also about the history that Silicon Valley has inherited. The Valley often thinks of itself as outside of history---always looking to the future, at the forefront of change and progress. But the organization and imagination of Silicon Valley---its landscape, its space, its relationships---are inseparable from its past. People here live with its history daily. We must recognize how desires for beauty, nature, and pleasure shape our spatial history, landscape, and nostalgia embodied in cities. Cities, the novelist Italo Calvino reminds us in *Invisible Cities*, do "not tell [their] past" but are "like lines on a hand, written in the corners of the streets, the gratings of the windows, the banisters of the steps, the antennae of the lightning rods, the poles of the flags, every segment marked in turn with scratches, indentations, scrolls."^[Italo Calvino, *Invisible Cities*, trans. (New York: Harcourt Brace and Company, 1974), 11.] Cities and the nature that surrounds them, that is embedded in them, are reflections of past and present desires. To build better cities and protect nature, we must reflect the ways our landscapes match our aspirations.
+The history is also about the history that Silicon Valley has inherited. The Valley often thinks of itself as outside of history---always looking to the future, at the forefront of change and progress. But the organization and imagination of Silicon Valley---its landscape, its communities, its relationships---are inseparable from its past. People here live with its history daily. We must recognize how desires for beauty, nature, and pleasure shape our spatial history, landscape, and nostalgia embodied in cities. Cities, the novelist Italo Calvino reminds us in *Invisible Cities*, do "not tell [their] past" but are "like lines on a hand, written in the corners of the streets, the gratings of the windows, the banisters of the steps, the antennae of the lightning rods, the poles of the flags, every segment marked in turn with scratches, indentations, scrolls."^[Italo Calvino, *Invisible Cities*, trans. (New York: Harcourt Brace and Company, 1974), 11.] Cities and the nature that surrounds them---that is embedded in them---are reflections of past and present desires. To build better cities, we must reflect the ways our landscapes match our aspirations.
 
 [^cf1]: Yi--Fu Tuan, *Space and Place: The Perspective of Experience* (Minneapolis: University of Minnesota Press, 1997): 200--201.
 
 [^cf2]: Leo Marx, "The Idea of Nature in America," *Daedulus* 137:2 (Spring 2008): 9.
 
-[^cf3]: Wallace Stegner, "The Clouded Skies of Lotus Land," *St. Louis
-Post-Dispatch*, September 26, 1965, quoted in Friedly, "This Brief Eden: A
-History of Landscape Change in California's Santa Clara Valley," Ph.D.
-dissertation (Duke University, 2000), 5. Stegner's novel *All the Little Live
-Things*, was written based on the Valley. The novel's character, Joe Allston,
-lamented the bulldozers, subdivisions, and scars that cut into the Earth.
-Remarking on the work of the fiction's land developer, Allston remarked that
-the hills were "mutilated and ruined" and "only a land butcher could have
-proposed and carried it out. . . . There would be no restoring what he had
-ruined. It reminded me too painfully; it made me sick to look." Stegner, *The
-Little Live Things*, (New York: Viking, 1967), pp. 14--15.
+[^cf3]: Wallace Stegner, "The Clouded Skies of Lotus Land," *St. Louis Post-Dispatch*, September 26, 1965, quoted in [@friedly2000eden, 5]. Stegner's novel *All the Little Live Things*, was written based on the Valley. The novel's character, Joe Allston, lamented the bulldozers, subdivisions, and scars that cut into the Earth. Remarking on the work of the fiction's land developer, Allston remarked that the hills were "mutilated and ruined" and "only a land butcher could have proposed and carried it out. . . . There would be no restoring what he had ruined. It reminded me too painfully; it made me sick to look." Stegner, *The Little Live Things*, (New York: Viking, 1967), pp. 14--15.
 
-[^cf4]: Jackson J. Benson, *Wallace Stegner: His Life and Work* (New York:
-Viking, 1996), xii. See also Friedly, "This Brief Eden," 4--5.
+[^cf4]: Jackson J. Benson, *Wallace Stegner: His Life and Work* (New York: Viking, 1996), xii. See also [@friedly2000eden, 4--5].
 
-[^cf5]: Quoted in Findlay, *Magic Lands*, 130.
+[^cf5]: Quoted in [@findlay1993magic, 130].
 
-[^cf6]: Terman, quoted in Findlay, *Magic Lands*, 141.
+[^cf6]: Terman, quoted in [@findlay1993magic, 141].
 
-[^cf7]: On the rise of the modern environmental movement, see Hays, *Health, Beauty, and Permanence*,
-13--19; Rothman, *Saving the Planet*, 131--159; Steinberg, *Down to Earth*, 239--261;
-Opie, *Nature's Nation*, 404--433.
+[^cf7]: On the rise of the modern environmental movement, see [@hays1987beauty, 13--19]; [@rothman2000saving, 131--159]; [@steinberg2002earth, 239--261]; [@opie1998nature, 404--433].
 
-[^cf8]: Jackson, *Crabgrass Frontier*, 3.
+[^cf8]: [@jackson1985crabgrass, 3].
 
-[^cf10]: Findlay, *Magic Lands*, 117--159; O'Mara, *Cities of Knowledge*; @saxenian1996regional.
+[^cf10]: [@findlay1993magic, 117--159]; [@omara2005cities]; [@saxenian1996regional].
 
-[^cf11]: Michael S. Malone, *The Valley of Heart's Delight: A Silicon Valley
-Notebook, 1963--2001* (New York: John Wiley & Sons, 2002); Michael Malone,
-*Betting It All: The Entrepeurners of Technology* (New York: Wiley, 2001);
-Malone, *Bill & Dave: How Hewlett and Packard Built the World's Greatest
-Company* (New York: Portfolio, 2007); Robert Cringely, *Accidental Empires:
-How the Boys of Silicon Valley Made Their Millions, Battle Foreign
-Competition, and Still Can't Get a Date* (New York: HarperBusiness, 1996);
-James Wallace, *Hard Drive: Bill Gates and the Making of the Microsoft Empire*
-(New York: HarperBusiness, 1993); David A. Kaplan, *The Silicon Boys: And
-Their Valley of Dreams* (New York: William Morrow, 2000); Leslie R. Berlin,
-"Robert Noyce and Fairchild Semiconductor, 157--1968," *Business History
-Review* (Spring 2001): 63--100. Very few of these books address issues of
-women or gender, often reflected in the book titles. On the centrality of
-women and gender in the history of computing, see Nathan L. Ensmenger, *The
-Computer Boys Take Over: Computers, Programmers, and the Politics of Technical
-Expertise* (Cambridge: MIT Press, 2010); David Alan Grier, *When Computers
-Were Human* (Princeton: Princeton University Press, 2005).
+[^cf11]: Michael S. Malone, *The Valley of Heart's Delight: A Silicon Valley Notebook, 1963--2001* (New York: John Wiley & Sons, 2002); Michael Malone, *Betting It All: The Entrepeurners of Technology* (New York: Wiley, 2001); Malone, *Bill & Dave: How Hewlett and Packard Built the World's Greatest Company* (New York: Portfolio, 2007); Robert Cringely, *Accidental Empires: How the Boys of Silicon Valley Made Their Millions, Battle Foreign Competition, and Still Can't Get a Date* (New York: HarperBusiness, 1996); James Wallace, *Hard Drive: Bill Gates and the Making of the Microsoft Empire* (New York: HarperBusiness, 1993); David A. Kaplan, *The Silicon Boys: And Their Valley of Dreams* (New York: William Morrow, 2000); Leslie R. Berlin, "Robert Noyce and Fairchild Semiconductor, 157--1968," *Business History Review* (Spring 2001): 63--100. Very few of these books address issues of women or gender, often reflected in the book titles. On the centrality of women and gender in the history of computing, see Nathan L. Ensmenger, *The Computer Boys Take Over: Computers, Programmers, and the Politics of Technical Expertise* (Cambridge: MIT Press, 2010); David Alan Grier, *When Computers Were Human* (Princeton: Princeton University Press, 2005).
 
-[^cf12]: @walker2007countrycity, 3.
+[^cf12]: [@walker2007countrycity, 3].
 
 [^cf13]: I am not alone in suggesting the Bay Area anticipated the broader
 environmental movement. Historian Margaret O'Mara has noted that the Bay Area
 became "home to some of the environmental movement's most important early
-battles and precedent--setting land--use planning measures." O'Mara, *Cities of Knowledge*, 139.
+battles and precedent--setting land--use planning measures." [@omara2005cities, 139].
 
-[^cf14]: John B. Wright, "Land Tenure: The Spatial Musculature of the American West," in *Western Places, American Myths: How We Think About the West*, ed. Gary J. Hausladen, 85.
+[^cf14]: [@wright2003musculature, 85].
 
-[^cf15]: In his classic work, *Coming of the Post-Industrial Society*,
-sociologist Daniel Bell argued that the shift from a goods--producing economy
-to a service--based economy, the rise of a professional and technical class,
-the centrality of knowledge as the source of innovation, and the creation of
-intellectual technology embodied the postindustrial economy. Economic
-well--being was measured by quality of life measured by services and amenities
-rather than the quality of goods. Historian Hal Rothman, economist Thomas
+[^cf15]: Historian Hal Rothman, sociologist Daniel Bell, economist Thomas
 Michael Power, and geographer William Wyckoff have explored the larger
 ramifications of this shift in the American West. See @bell1999coming, 14;
 @rothman1997devils, 17; @power1996landscapes; @wyckoff1995postindustrial.
@@ -185,11 +156,11 @@ Sociological Imaginations* (Unwin Hyman, 1989); Cameron Blevins, "Space,
 Nation, and Triumph of Region: A View of the World from Houston," *Journal of
 American History* (June 2014).
 
-[^cf17]: @conard1985green: 5.
+[^cf17]: [@conard1985green, 5].
 
-[^cf18]: @self2003babylon, 17.
+[^cf18]: [@self2003babylon, 17].
 
-[^cf19]: @self2003babylon, 17.
+[^cf19]: [@self2003babylon, 17].
 
 [^cf20]: I am borrowing the idea of overlapping landscapes from Leisl
 Carr-Childers. She uses four overlapping landscapes---wild horse,
@@ -199,8 +170,7 @@ Great Basin. See Carr-Childers, "The Size of the Risk: An Environmental
 History of the Nuclear Great Basin," Ph.D. Dissertation, University of
 Nevada--Las Vegas, 2011.
 
-[^cf21]: Richard White, "From Wilderness to Hybrid Landscapes," *The
-Historian* 66 (September 2004): 562--664. In surveying the trends in
+[^cf21]: [@white2004hybrid, 562--664]. In surveying the trends in
 environmental history, Richard White reviewed the works of several
 environmental historians including Josephy Taylor, Mark Fiege, Nancy Langston,
 and William DeBuys, who reject any hard division between culture and natural.
@@ -228,20 +198,18 @@ physical world and identify these concepts as nature." White, "American
 Environmental History: The Development of a New Historical Field," *Pacific
 Historical Review* 54 (August 1985): 297--335.
 
-[^cf23]: @conard1985green: 5.
+[^cf23]: [@conard1985green, 5].
 
-[^cf24]: @self2003babylon, 17.
+[^cf24]: [@self2003babylon, 17].
 
-[^cf25]: @self2003babylon, 17.
+[^cf25]: [@self2003babylon, 17].
 
 [^cf26]: "Water made the orchards, silicon chip industry sprout faster," *San
 Jose Mercury*, December 22, 1999.
 
-[^cf27]: Friedly, "This Brief Eden," 20.
+[^cf27]: [@friedly2000eden, 20].
 
-[^cf29]: Robin M. Grossinger et al., "Historical Landscape Ecology of an
-Urbanized California Valley: Wetlands and Woodlands in the Santa Clara
-Valley," *Landscape Ecology* 22 (December 1, 2007): 110---115.
+[^cf29]: [@grossinger2007landscapeecology, 110---115].
 
 [^cf30]: R. T. Hanson, Zhen Li, and C. Faunt, *Documentation of the Santa
 Clara Valley Regional Ground-Water Surface-Water Flow Model*, Santa Clara
@@ -251,34 +219,32 @@ County, California. U.S. Geological Survey Scientific Investigations Report
 [^cf31]: L. McKee, J. Leatherbarrow, S. Pearce, and J. Davis, "A Review of
 Urban Runoff Processes in the Bay Area: Existing Knowledge, Conceptual Models,
 and Monitoring Recommendations," SFEI Contribution 66 (Oakland: San Francisco
-Estuary Institute, 2003); Robin M. Grossinger et al., "Historical Landscape
-Ecology of an Urbanized California Valley: Wetlands and Woodlands in the Santa
-Clara Valley," *Landscape Ecology* 22 (December 1, 2007): 110--115.
+Estuary Institute, 2003); [@grossinger2007landscapeecology].
 
 [^cf33]: Muir notes the appearance of orchards, wheat fields, vineyards, and
 alfalfa meadows. Muir, *John Muir*, 96.
 
-[^cf42]: Stegner quoted in Friedly, "This Brief Eden," 8.
+[^cf42]: Stegner quoted in [@friedly2000eden, 8].
 
-[^cf43]: Roger Lotchin notes that cities in California had already acquired a long history of military development prior to World War II. Every port city along the California coast had a naval, army, and air bases before the start of World War II. Militarization was a fundamental component to California's major cities. This was also true of Seattle. Lotchin, *Martial Metropolis*, 223--232; Lotchin, *Fortress California*, 1--2; Greg Hise, *Magnetic Los Angeles*, 117--120; Matthew Klingle, *Emerald City*, 205--211.
+[^cf43]: Roger Lotchin notes that cities in California had already acquired a long history of military development prior to World War II. Every port city along the California coast had a naval, army, and air bases before the start of World War II. Militarization was a fundamental component to California's major cities. This was also true of Seattle. Lotchin, *Martial Metropolis*, 223--232; [@lotchin1992fortress, 1--2]; Greg Hise, *Magnetic Los Angeles*, 117--120; [@klingle2007emerald, 205--211].
 
-[^cf44]: On environmental concerns over suburbanization see Kenneth T. Jackson, *Crabgrass Frontier*; Adam Rome, *Bulldozer in the Countryside*.
+[^cf44]: On environmental concerns over suburbanization see [@jackson1985crabgrass]; [@rome2001bulldozer].
 
-[^cf45]: On the emergence of sprawl in the Bay Area, see Richard A. Walker and Matthew J. Williams, "Water from Power," *Economic Geography*, 95--119; O'Mara, *Cities of Knowledge*, pp. 57--94.
+[^cf45]: On the emergence of sprawl in the Bay Area, see [@walker1982water]; [@omara2005cities, 57--94].
 
-[^cf46]: Conard, "Green Gold," 6.
+[^cf46]: [@conard1985green, 6].
 
-[^cf47]: Conard, "Green Gold," 6.
+[^cf47]: [@conard1985green, 6].
 
-[^cf48]: Cavin, "Borders of Citizenship," 231; Matthews, "The Los Angeles of the North: San Jose's Transition from Fruit Capital to High-Tech Metropolis"; Matthews, *Silicon Valley, Women, and the California Dream*, 7; Trounstine and Christensen, *Movers and Shakers*, 93; "Annexations by Year"; "City Size by Year," 2011, City of San Jose Planning Division.
+[^cf48]: [@cavin2012siliconvalley, 231]; [@matthews1999sanjose]; [@matthews2003dreams, 7]; [@trounstine1982movers, 93]. 
 
-[^cf49]: Conard, "Green Gold," 5.
+[^cf49]: [@conard1985green, 5].
 
 [^cf50]: Local and federal studies discovered that trichloroethane, a common industrial solvent used in the cleaning of semiconductor parts, was leaking out of storage takes and into groundwater. The problem was not limited to Fairchild; other high technology manufacturers had similar issues. Health effects of consuming the contaminated water ranges from liver and kidney damage, skin rashes, birth defects, and cancer. "U.S. to Study Pollution in High--Technology Area," *New York Times*, October 30, 1983, p. 33. For a summary of the history regarding groundwater contamination, see Craig E. Colten, "A Historical Perspective on Industrial Wastes and Groundwater Contamination," *Geographical Review* 81 (April 1991): 218--223.
 
 [^cf51]: Hofstadter quoted in Christopher Lasch, "Consensus: An Academic Question," *Journal of American History* 76 (September 1989): 458.
 
-[^cf52]: On the rise of the modern environmental movement, see Samuel P. Hays, *Beauty, Health, and Permanence: Environmental Politics in the United States*, 1955--1985 (Cambridge: Cambridge University Press, 1987), 13--19; Hal Rothman, *Saving the Planet*, 131--159; Ted Steinberg, *Down to Earth*, 239--261; John Opie, *Nature's Nation*, 404--433.
+[^cf52]: On the rise of the modern environmental movement, see [@hays1987beauty, 13--19]; [@rothman2000saving, 131--159]; [@steinberg2002earth, 239--261]; [@opie1998nature, 404--433].
 
 [^cf53]: Richard White, "What is Spatial History?" Spatial History Project
 <http://www.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29>.
