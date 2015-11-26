@@ -12,7 +12,7 @@ all: dissertation.Heppler.pdf $(PDF) $(DOCX)
 	pandoc $< -o $@ -V documentclass:acadpaper -V fontsize:12pt
 
 %.md.tex: %.md
-	pandoc $< --bibliography="/Users/jheppler/Dropbox/acad/bib/master.bib" --csl=chicago-jah.csl -o $@
+	pandoc $< --bibliography="/Users/jasonheppler/Dropbox/acad/bib/master.bib" --csl=chicago-jah.csl -o $@
 
 %.md.docx: %.md
 	pandoc $< -o $@ --smart
