@@ -16,14 +16,27 @@ base. Pass into the dreamy past of Love and tender Memories, and let your
 places be filled by the grape, the prune, the apricot, and other fruits whose
 rich juices shall carry to the end of the earth the life, drawn from the
 fertilizing mold formed by the countless years of your lavishness of cast off
-leaves and twig. 
+leaves and twig.
 \end{aquote}
 
 \begin{aquote}{C. L. Lawrence, 1927}
 A veritable Paradise.
 \end{aquote}
 
-The "Garden of the World" was constructed out of agriculture and the creation of a "garden
+The San Francisco Peninsula followed---and in some ways led---the nation's shift in population moving westward. The location of World War II military facilities drew millions to the Far West. But it also followed another wartime trend---the militarization of industry. The twentieth-century American West, according to Kevin Fernlund, "bristled with airfields, army bases, naval yards, marine camps, missile fields, nuclear test sites, proving grounds, bombing ranges, weapons plants, military reservations, training schools, toxic waste dumps, strategic mines, transportation routes, lines of communication, laboratories, command centers, and arsenals." The burgeoning industrial and military landscape in the West demanded a population to support it. California alone accounted for the most dramatic increase in population due to the militarization of its economy.[^cf43]
+
+Postwar prosperity encouraged widespread growth across the country. By the 1950s many American cities experienced sprawling suburbanization, but what was initially seen as a fulfillment of the American dream of homeownership became viewed as an environmental disaster. Critics took aim at suburban growth and environmental destruction, and nowhere was this change more obvious than in the West. Metropolitan growth doubled the population in the region between 1940 and 1960. By the 1980s, the region was among the fastest growing in the nation.[^cf44] Many westerners were unsettled by population growth, and raised concerns about the disappearance of rural landscapes being replaced by sprawl.[^cf45] Western political leaders such as Oregon Governor Thomas McCall condemned what he called "sagebrush suburbs" and sought limits on urban growth in the state. Anti--growth and environmental sentiments lay behind Bay Area residents placing new limits on urban growth and condemning boosters that supported plans for urban expansion.
+
+The Bay Area witnessed some of the most dramatic urban growth. During the 1940s, Santa Clara County experienced 66% growth in population, compared to a California wide growth of 53%. By the 1950s those figures surged upward; the population increased 121% in Santa Clara County compared to 49% statewide. Subdivisions sprang up to accommodate the influx of new residents. Most of these new subdivisions were located beyond existing city boundaries in unincorporated areas. Between 1945 and 1950 county farmland decreased from 727,000 acres to 589,000---a reduction of 81%.[^cf46] During that same period, Santa Clara County cities engaged in rapid annexations. San Jose annexed land thirty-two times between 1945 and 1950. During the same period, the City of Santa Clara annexed only four tracts, but in 1951 annexed six tracts and another nine in 1952. Santa Clara added 50 acres to the city in two years. In the same two year period, San Jose annexed sixteen parcels that totaled over 1000 acres.[^cf47] Between 1945 and 1970, San Jose approved over 1,400 annexations and expanded the city's footprint from fifteen square miles to 135 square miles. The city's land area expanded by 900 percent.[^cf48]
+
+![North Santa Clara Valley looking east towards San Jose, 1962. Photograph
+from Air--Photo Co., Inc., Palo Alto Airport, Palo Alto.](figures/scc_overhead.png)
+
+Populations surged simultaneously with industrial development. The combination of defense industries, electronics research and development contracts, Cold War defense agendas, abundant and inexpensive land, and cities willing and able to support the rapid expansion of city infrastructure welcomed the arrival of new industries. Industrial development began in the 1940s when the National Advisory Committee on Aeronautics started construction of the Ames Research Laboratory new Moffett Airfield. Stanford University leased its large land holdings to industrial entrepreneurs and researchers who were active in developing electronics equipment for military purposes. In just five years after the end of World War II, fifty new electronics industries began in the Valley. International Business Machines (IBM) established a card printing plant in 1948 in San Jose, and Russell and Sigurd Varian, inventors of the klystron tube, founded Varian Associates to manufacture devices.[^cf49] Other industrial developers founded their companies on what would become the Stanford Industrial Park in the late 1950s.
+
+Such Industrial development was widely welcomed and considered a preferred alternative to the dirty industry of the Northeast and Midwest. The so-considered "clean" industries held the appearance of suburban areas with broad lawns, trees, low-rise buildings, and hidden parking lots. Thanks to strict building guidelines laid out by Stanford University as well as city regulations on new construction, new high technology industries appeared more like a college campus than an industrial manufacturer or research center. But the promise of clean industry proved elusive as smog, radiation, water contamination, intense energy and water usage, traffic congestion, and rising housing and utility costs became common features of living in the Valley.
+
+Before the wartime transformations, however, Silicon Valley was known instead as the "Garden of the World." This landscape was constructed out of agriculture and the creation of a "garden
 myth."^[On the emergence of the garden myth, see Mark Fiege, *Irrigated Eden:
 The Making of an Agricultural Landscape in the American West* (Seattle:
 University of Washington Press, 1999); Leo Marx, *The Machine in the Garden:
@@ -443,7 +456,7 @@ face."[^69]
 
 ![Smudging in orchards to prevent frosts from damaging fruits. Reproduced from
 Jared Farmer, *Trees in Paradise: A California History* (New York: W. W. Norton
-& Company, 2013).](figures/Smudge-pots-photo.jpg) 
+& Company, 2013).](figures/Smudge-pots-photo.jpg)
 
 Cattle ranching, wheat and grain production, and quicksilver mining flourished
 in the Valley in the late nineteenth century prior to the Valley becoming "one
@@ -572,7 +585,7 @@ noted, was "all . . . enclosed, in farms, and under good cultivation.
 Farmhouses, orchards, etc., give it an *American* look . . . [The valley] is
 perhaps twelve or fourteen miles wide at San Jose, an almost perfect plain,
 very fertile, a perfect garden, and much of it in higher cultivation than any
-other part of California."[^65] 
+other part of California."[^65]
 
 What historian Mark Fiege concluded for nineteenth-century Idaho---that
 Americans crafted a story of "pioneers [who] conquered the howling wilderness
@@ -731,7 +744,7 @@ cherry, prune, and apricot trees, the "forerunners of the golden age."[^79] In t
     Spatial History Project, Stanford University,
     <https://web.stanford.edu/group/spatialhistory/cgi-bin/site/viz.php?id=23>.
 
-[^10]: Matthew Booker, *Down by the Bay: San Francisco's History between the Tides* (Berkeley: University of California Press, 2012), 22--26; Randall Milliken, *A Time of Little Choice: The Disintegration of Tribal Culture in the San Francisco Bay Area, 1769--1810* (Menlo Park, CA: Ballena Press, 1995); 
+[^10]: Matthew Booker, *Down by the Bay: San Francisco's History between the Tides* (Berkeley: University of California Press, 2012), 22--26; Randall Milliken, *A Time of Little Choice: The Disintegration of Tribal Culture in the San Francisco Bay Area, 1769--1810* (Menlo Park, CA: Ballena Press, 1995);
 James J. Rawls, *Indians of California: The Changing Image* (Norman: University of Oklahoma Press, 1986), 13--21; Albert L. Hurtado, *Indian Survival on the California Frontier* (New Haven: Yale University Press, 1990).
 
 [^11]: Pedro Font, *Font's Comlete Diary: A Chronicle of the Founding of
