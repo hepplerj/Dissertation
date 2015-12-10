@@ -16,7 +16,10 @@ pandoc $file \
 
 echo "Generating Word files"
 #file="$1"
-pandoc $file --smart -o drafts/$file.docx
+pandoc $file --smart \ 
+  --bibliography=/Users/jasonheppler/Dropbox/acad/bib/master.bib \
+  --csl=chicago-jah.csl \
+  -o drafts/$file.docx
 
 # hide the log
 #echo "Hiding log files"

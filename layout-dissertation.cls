@@ -105,7 +105,7 @@
 \bigskipamount=8pt plus 6pt minus 6pt
 \RequirePackage[letterpaper]{geometry}
 \ifbd@minmar
-  \geometry{left=1in, top=1in, right=1in, bottom=1in,
+\geometry{left=1.5in, top=1in, right=1in, bottom=1in,
     marginparwidth=.5in}
 \else
   \geometry{margin=1.5in,marginparwidth=1in}

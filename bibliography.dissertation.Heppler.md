@@ -2,8 +2,6 @@
 title: Bibliography
 ...
 
-*[STILL UNDER REVISION]*
-
 \hspace{-0.25in} **Archival Collections**
 
 *Special Collections, San Jose State University*    
