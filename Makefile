@@ -15,7 +15,7 @@ all: dissertation.Heppler.pdf $(PDF) $(DOCX)
 	pandoc $< --bibliography="/Users/jasonheppler/Dropbox/acad/bib/master.bib" --csl=chicago-jah.csl -o $@
 
 %.md.docx: %.md
-	pandoc $< -o $@ --smart
+	pandoc $< --filter pandoc-citeproc --bibliography="/Users/jasonheppler/Dropbox/acad/bib/master.bib" --csl=chicago-jah.csl -o $@ --smart
 
 clean:
 	latexmk -c
