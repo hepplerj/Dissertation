@@ -164,9 +164,21 @@ Cavanagh, Carlos. "Urban Expansion and Physical Planning in San Jose, California
 
 Friedly, Michael. "This Brief Eden: A History of Landscape Change in California's Santa Clara Valley." Ph.D. dissertation, Duke University, 2000.  
 
-Keyes, Lindsay Eileen. "Strategic Considerations for City Annexations in California". M.A. Thesis, Sacramento: California State University, 2008.  
+Keyes, Lindsay Eileen. "Strategic Considerations for City Annexations in California". M.A. Thesis, Sacramento: California State University, 2008.
+
+Lee, Yoon Jung. "Ecology of Power: The Politics of Environmental Health and Ethical Citizenship in Silicon Valley." Ph.D. dissertation, Stanford: Stanford University, 2011.
+
+Rhee, Nari. "Searching for Working Class Politics: Labor, Community and Urban Power in Silicon Valley." Ph.D. dissertation, Berkeley: University of California-Berkeley, 2007.
+
+Sandul, Paul Jason Prescott. "Harvesting Suburbs: Recalling the Suburban Side of California's Agricultural Colonization." Ph.D. dissertation, Sacramento: California State University, 2009.
+
+Shih, Johanna. "Ethnic and Gender Inequality in Silicon Valley: Mechanisms of Discrimination, Strategies of Resistnace." Ph.D. dissertation, Los Angeles: University of California-Los Angeles, 2001.
 
 Tijnai, Carolyn. "From the Valley of Heart's Delight to the Silicon Valley: A Study of Stanford University's Role in the Transformation." M.A. Thesis, Stanford University, 1996.  
+
+Wald, Sarah Dorothy. "The Nature of Citizenship: Race, Citizenship, and Nature in Representations of Californian Agricultural Labor." Ph.D. dissertation, Providence: Brown University, 2009.
+
+Wolpern, Steven F. "Suburban Reformers: Progressive Reform Movements and the Making of Silicon Valley, 1880--1980." Ph.D. dissertation, Pennsylvania: Pennsylvania State University, 2013.
 
 \vskip 0.75in
 

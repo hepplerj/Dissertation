@@ -19,10 +19,10 @@ particular have served to mold me into the historian I am today. My friends in
 graduate school have been the smartest, funniest, and most kind people I've had
 the opportunity to work with and talk to. To Brent Rogers, Robert Jordan,
 Rebecca Wingo, Michelle Tiedje, Brian Sarnacki, Sean Kammer, Andy Wilson, Dave
-Nesheim, Brandon Locke, Brenden Rensink, Pablo Rangel, Nathan Sanderson, and
-Shayla Swift: you have my undying gratitude. The time we spent together, and
-continue to spend together, remain the most rewarding moments I've had in my
-life. You are all amazing and lifelong friends.
+Nesheim, Brandon Locke, Brenden Rensink, Mikal Eckstrom, Pablo Rangel, Nathan
+Sanderson, and Shayla Swift: you have my undying gratitude. The time we spent
+together, and continue to spend together, remain the most rewarding moments
+I've had in my life. You are all amazing and lifelong friends.
 
 My thinking about digital humanities continued and was aided by my time at the
 Center for Digital Research in the Humanities at UNL. To Katherine Walter,
@@ -39,9 +39,10 @@ University Libraries, the Center for Spatial and Textual Analysis
 history. I am especially indebted to my numerous conversations with Mark
 Algee-Hewitt, Nicole Coleman, Elijah Meeks, Nick Bauch, Cameron Blevins, Carlos
 Seligos, Mike Widner, Maria Santos, Zephyr Frank, Gabriel Wolfenstein, Geoff
-McGee, Molly Taylor-Poleskey, Erik Steiner, Karl Grossner, and Paul Zenke.
-I also want to thank Kären Wigen, Richard Roberts, and Paula Findlan for their
-ever-important support, advice, and encouragement.
+McGee, Molly Taylor-Poleskey, Erik Steiner, Karl Grossner, Paul Zenke, and the
+graduate students in my Digital History Reading Group. I also want to thank
+Kären Wigen, Richard Roberts, and Paula Findlan for their ever-important
+support, advice, and encouragement.
 
 Some friends from afar need special mention for their encouragement, prodding,
 and discussions over drinks at conferences along the way. Thanks for everything
