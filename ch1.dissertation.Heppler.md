@@ -3,7 +3,7 @@ author:
 - 'Jason A. Heppler'
 title: |
     | Chapter 1
-    | "A land with which nature has been prodigal with gifts": Nature, History, and the Origins of the Countryside
+    | Nature, History, and the Origins of the Countryside
 ...
 
 \begin{aquote}{E. S. Harrison, 1888}
@@ -23,16 +23,16 @@ leaves and twig.
 A veritable Paradise.
 \end{aquote}
 
-The San Francisco Peninsula followed---and in some ways led---the nation's shift in population moving westward. The location of World War II military facilities drew millions to the Far West. But it also followed another wartime trend---the militarization of industry. The twentieth-century American West, according to Kevin Fernlund, "bristled with airfields, army bases, naval yards, marine camps, missile fields, nuclear test sites, proving grounds, bombing ranges, weapons plants, military reservations, training schools, toxic waste dumps, strategic mines, transportation routes, lines of communication, laboratories, command centers, and arsenals." The burgeoning industrial and military landscape in the West demanded a population to support it. California alone accounted for the most dramatic increase in population due to the militarization of its economy.[^cf43]
+The San Francisco Peninsula followed---and in some ways led---the nation's shift in population moving westward. The location of World War II military facilities drew millions to the Far West. But it also followed another wartime trend---the militarization of industry. The twentieth-century American West, according to Kevin Fernlund, "bristled with airfields, army bases, naval yards, marine camps, missile fields, nuclear test sites, proving grounds, bombing ranges, weapons plants, military reservations, training schools, toxic waste dumps, strategic mines, transportation routes, lines of communication, laboratories, command centers, and arsenals." The burgeoning industrial and military landscape in the West demanded a population to support it. California alone accounted for the most dramatic increase in population due to the militarization of its economy.[^43]
 
-Postwar prosperity encouraged widespread growth across the country. By the 1950s many American cities experienced sprawling suburbanization, but what was initially seen as a fulfillment of the American dream of homeownership became viewed as an environmental disaster. Critics took aim at suburban growth and environmental destruction, and nowhere was this change more obvious than in the West. Metropolitan growth doubled the population in the region between 1940 and 1960. By the 1980s, the region was among the fastest growing in the nation.[^cf44] Many westerners were unsettled by population growth, and raised concerns about the disappearance of rural landscapes being replaced by sprawl.[^cf45] Western political leaders such as Oregon Governor Thomas McCall condemned what he called "sagebrush suburbs" and sought limits on urban growth in the state. Anti--growth and environmental sentiments lay behind Bay Area residents placing new limits on urban growth and condemning boosters that supported plans for urban expansion.
+Postwar prosperity encouraged widespread growth across the country. By the 1950s many American cities experienced sprawling suburbanization, but what was initially seen as a fulfillment of the American dream of homeownership became viewed as an environmental disaster. Critics took aim at suburban growth and environmental destruction, and nowhere was this change more obvious than in the West. Metropolitan growth doubled the population in the region between 1940 and 1960. By the 1980s, the region was among the fastest growing in the nation.[^44] Many westerners were unsettled by population growth, and raised concerns about the disappearance of rural landscapes being replaced by sprawl.[^45] Western political leaders such as Oregon Governor Thomas McCall condemned what he called "sagebrush suburbs" and sought limits on urban growth in the state. Anti--growth and environmental sentiments lay behind Bay Area residents placing new limits on urban growth and condemning boosters that supported plans for urban expansion.
 
-The Bay Area witnessed some of the most dramatic urban growth. During the 1940s, Santa Clara County experienced 66% growth in population, compared to a California wide growth of 53%. By the 1950s those figures surged upward; the population increased 121% in Santa Clara County compared to 49% statewide. Subdivisions sprang up to accommodate the influx of new residents. Most of these new subdivisions were located beyond existing city boundaries in unincorporated areas. Between 1945 and 1950 county farmland decreased from 727,000 acres to 589,000---a reduction of 81%.[^cf46] During that same period, Santa Clara County cities engaged in rapid annexations. San Jose annexed land thirty-two times between 1945 and 1950. During the same period, the City of Santa Clara annexed only four tracts, but in 1951 annexed six tracts and another nine in 1952. Santa Clara added 50 acres to the city in two years. In the same two year period, San Jose annexed sixteen parcels that totaled over 1000 acres.[^cf47] Between 1945 and 1970, San Jose approved over 1,400 annexations and expanded the city's footprint from fifteen square miles to 135 square miles. The city's land area expanded by 900 percent.[^cf48]
+The Bay Area witnessed some of the most dramatic urban growth. During the 1940s, Santa Clara County experienced 66% growth in population, compared to a California wide growth of 53%. By the 1950s those figures surged upward; the population increased 121% in Santa Clara County compared to 49% statewide. Subdivisions sprang up to accommodate the influx of new residents. Most of these new subdivisions were located beyond existing city boundaries in unincorporated areas. Between 1945 and 1950 county farmland decreased from 727,000 acres to 589,000---a reduction of 81%.[^46] During that same period, Santa Clara County cities engaged in rapid annexations. San Jose annexed land thirty-two times between 1945 and 1950. During the same period, the City of Santa Clara annexed only four tracts, but in 1951 annexed six tracts and another nine in 1952. Santa Clara added 50 acres to the city in two years. In the same two year period, San Jose annexed sixteen parcels that totaled over 1000 acres.[^47] Between 1945 and 1970, San Jose approved over 1,400 annexations and expanded the city's footprint from fifteen square miles to 135 square miles. The city's land area expanded by 900 percent.[^48]
 
 ![North Santa Clara Valley looking east towards San Jose, 1962. Photograph
 from Air--Photo Co., Inc., Palo Alto Airport, Palo Alto.](figures/scc_overhead.png)
 
-Populations surged simultaneously with industrial development. The combination of defense industries, electronics research and development contracts, Cold War defense agendas, abundant and inexpensive land, and cities willing and able to support the rapid expansion of city infrastructure welcomed the arrival of new industries. Industrial development began in the 1940s when the National Advisory Committee on Aeronautics started construction of the Ames Research Laboratory new Moffett Airfield. Stanford University leased its large land holdings to industrial entrepreneurs and researchers who were active in developing electronics equipment for military purposes. In just five years after the end of World War II, fifty new electronics industries began in the Valley. International Business Machines (IBM) established a card printing plant in 1948 in San Jose, and Russell and Sigurd Varian, inventors of the klystron tube, founded Varian Associates to manufacture devices.[^cf49] Other industrial developers founded their companies on what would become the Stanford Industrial Park in the late 1950s.
+Populations surged simultaneously with industrial development. The combination of defense industries, electronics research and development contracts, Cold War defense agendas, abundant and inexpensive land, and cities willing and able to support the rapid expansion of city infrastructure welcomed the arrival of new industries. Industrial development began in the 1940s when the National Advisory Committee on Aeronautics started construction of the Ames Research Laboratory new Moffett Airfield. Stanford University leased its large land holdings to industrial entrepreneurs and researchers who were active in developing electronics equipment for military purposes. In just five years after the end of World War II, fifty new electronics industries began in the Valley. International Business Machines (IBM) established a card printing plant in 1948 in San Jose, and Russell and Sigurd Varian, inventors of the klystron tube, founded Varian Associates to manufacture devices.[^49] Other industrial developers founded their companies on what would become the Stanford Industrial Park in the late 1950s.
 
 Such Industrial development was widely welcomed and considered a preferred alternative to the dirty industry of the Northeast and Midwest. The so-considered "clean" industries held the appearance of suburban areas with broad lawns, trees, low-rise buildings, and hidden parking lots. Thanks to strict building guidelines laid out by Stanford University as well as city regulations on new construction, new high technology industries appeared more like a college campus than an industrial manufacturer or research center. But the promise of clean industry proved elusive as smog, radiation, water contamination, intense energy and water usage, traffic congestion, and rising housing and utility costs became common features of living in the Valley.
 
@@ -442,17 +442,14 @@ dumping of the city's waste into the Bay all but destroyed the clam and shrimp
 industries as the contamination of water caused steadily-increasing dieoffs
 that made the raising and harvesting of molluscan fisheries unprofitable.[^67]
 
-The orchards introduced additional modifications to the environment. In the
-late 1880s, the invention of a spray pump by John Bean of Los Gatos allowed
-growers to control pests and insects more easily.[^68] The orchards also
-clouded the skies with soot. Orchardists employed the use of smudgepots---a
-device comprised of a basin that held kerosene and a chimney-like pipe emerging
-roughly five feet high---to warm orchard fields and prevent frosts from
-damaging fruits. Usually lit and burned through the duration of the night, the
-smudgepots cast smoke and oily soot into the air. Californians recalled waking
-up after cool nights to find themselves covered in an oily film from the
-kerosene burners, and children were loathe to arrive at school with "smudge
-face."[^69]
+The orchards also clouded the skies with soot. Orchardists employed the use of
+smudgepots---a device comprised of a basin that held kerosene and
+a chimney-like pipe emerging roughly five feet high---to warm orchard fields
+and prevent frosts from damaging fruits. Usually lit and burned through the
+duration of the night, the smudgepots cast smoke and oily soot into the air.
+Californians recalled waking up after cool nights to find themselves covered in
+an oily film from the kerosene burners, and children were loathe to arrive at
+school with "smudge face."[^69]
 
 ![Smudging in orchards to prevent frosts from damaging fruits. Reproduced from
 Jared Farmer, *Trees in Paradise: A California History* (New York: W. W. Norton
@@ -659,8 +656,6 @@ The nineteenth century activities had great consequences on the region's people 
 environment, and each landscape greatly overlapped one another leading
 to strenuous debates about how each landscape affected the others.
 
-![The overlapping landscapes of the Santa Clara Valley. Colors indicate: gray, open space and parks; red, water resources; blue, rivers; yellow, high tech companies; red, Superfund sites; colored polygons, urban areas. Interactive version at <http://dissertation.jasonheppler.org/visualizations/rivers/>.](figures/all_landscapes.png)
-
 The Valley distinguished itself in the nineteenth and early twentieth centuries
 as a space for agricultural productivity. The monumental shifts in the Valley
 economy came with two wars in Europe and Asia, transforming the industrial
@@ -830,7 +825,7 @@ James J. Rawls, *Indians of California: The Changing Image* (Norman: University 
 
 [^40]: Mel Scott, *The San Francisco Bay Area: A Metropolis in Perspective* (Berkeley: University of California Press, 1959), 73.
 
-[^41]: Tsu, *Garden of the World*, 5.
+[^41]: [@tsu2013garden, 5].
 
 [^42]: San Jose Chamber of Commerce, *San José, Santa Clara County, California* (San Jose: San Jose Chamber of Commerce, 1910), 16, 28.
 
@@ -838,7 +833,7 @@ James J. Rawls, *Indians of California: The Changing Image* (Norman: University 
     of the Santa Clara Valley were devoted to the fruit industry in 1895. "Santa Clara Valley: A Favored Section," *San Francisco Chronicle*, July
     29, 1895.
 
-[^44]: Friedly, "'This Brief Eden'," 58.
+[^44]: [@friedly2000eden, 58].
 
 [^45]: Mars, *Reminiscences of Santa Clara Valley*, 58.
 
@@ -851,7 +846,7 @@ James J. Rawls, *Indians of California: The Changing Image* (Norman: University 
 
 [^48]: Mary McDougall Gordon, "'This Italy and Garden Spot of All-America': A Forty-Niner's Letters from the Santa Clara Valley in 1851," *Pacific Historian* 39:1 (1985): 12.
 
-[^49]: Friedly, "'This Brief Eden'," 317.
+[^49]: [@friedly2000eden, 317].
 
 [^50]: San Jose Chamber of Commerce, *San José, Santa Clara County,
     California* (San Jose: San Jose Chamber of Commerce, 1910), 4; Tsu,

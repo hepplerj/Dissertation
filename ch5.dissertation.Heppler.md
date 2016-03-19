@@ -2,8 +2,8 @@
 author:
 - 'Jason A. Heppler'
 title: |
-  | Chapter 5
-  | Something in the Soil
+  | Chapter 6
+  | Tap Water Rebellion
 ...
 
 \begin{aquote}{\textit{New York Times}, May 20, 1982}

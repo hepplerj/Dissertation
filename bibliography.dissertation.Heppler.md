@@ -40,21 +40,23 @@ Fred Ross Papers
 
 **Oral Histories**    
 
-Alf Brandin.  
+Brandin, Alf, typescript of an oral history conducted by Bob DeRoos, Regional Oral History Office, The Bancroft Library, University of California, Berkeley, n.d., 103 pp.
 
-Frederick Terman.  
+Interview with Frederick Emmons Terman, 1984, interviewed by Arthur L. Norberg, Charles Susskind, and Roger Hahn. Stanford Oral History Project and Bancroft Library.
 
-Ted Smith.  
+Ted Smith, "Pioneer Activist for Environmental Justice in Silicon Valley, 1967-2000," an oral history conducted in 2000 by Carl Wilmsen, Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 2003.
 
-Sig Sanchez.  
+Ted Smith, Oral History with Glenna Matthews.  
 
-Albert Henley.  
+Sig Sanchez, Oral History with Glenna Matthews.  
 
-Harvey O. Banks.  
+Albert Henley, Oral History with Glenna Matthews.  
 
-Wallace Stegner.  
+Stegner, Wallace, "The Artist as Environmental Advocate," typescript of an oral history conducted by Ann Lage, Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 1982, 68 pp.
 
-Ernesto Galarza.  
+Herman E. Gallegos, "Equity and Diversity: Hispanics in the Nonprofit World," an oral history conducted in 1988 by Gabrielle Morris, the Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 1989.  
+
+Lee, Pamela Tau, "Community and Union Organizing, and Environmental Justice in the San Francisco Bay Area, 1967-2000," typescript of an oral history conducted by Carl Wilmsen, Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 1999, 146 pp.
 
 \vskip 0.75in
 

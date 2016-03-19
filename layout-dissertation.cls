@@ -1,44 +1,9 @@
-%%
-%% This is file `brandeis-dissertation.cls',
-%% generated with the docstrip utility.
-%%
-%% The original source files were:
-%%
-%% brandeis-dissertation.dtx  (with options: `class')
-%% 
-%% IMPORTANT NOTICE:
-%% 
-%% For the copyright see the source file.
-%% 
-%% Any modified versions of this file must be renamed
-%% with new filenames distinct from brandeis-dissertation.cls.
-%% 
-%% For distribution of the original source see the terms
-%% for copying and modification in the file brandeis-dissertation.dtx.
-%% 
-%% This generated file may be distributed as long as the
-%% original source files, as listed above, are part of the
-%% same distribution. (The sources need not necessarily be
-%% in the same archive or directory.)
-%% \RCS$Id: brandeis-dissertation.dtx,v 2.0 2004/10/27 00:47:04 turtle Exp $
-%% \RCS$Revision: 2.0 $
-%% \RCS$Date: 2013/10/17 00:47:04 $
-%%
-%%  (C) 2000 Andy Garland (aeg@cs.brandeis.edu)
-%%  (C) 2001 Pablo Funes (pablo@cs.brandeis.edu)
-%%  (C) 2004 Peter Møller Neergaard
-%%  (C) 2013 Meg Peck and John Burt
-%%
-%%   This program may be distributed and/or modified under the
-%%   conditions of the LaTeX Project Public License, either version 1.2
-%%   of this license or (at your option) any later version.
-%%   The latest version of this license is in
-%%     http://www.latex-project.org/lppl.txt
-%%   and version 1.2 or later is part of all distributions of LaTeX
-%%   version 1999/12/01 or later.
+%% Modified from `brandeis-dissertation.cls', changed 
+% to conform to the University of Nebraska guidelines.
+
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{layout-dissertation}%
-  [2013/10/21 v1.0 Dissertation settings]
+  [2016/03/18 v1.0 Dissertation settings]
 \newif\ifbd@blankclear
 \DeclareOption{blankcleared}{\bd@blankcleartrue}
 \DeclareOption{numbercleared}{\bd@blankclearfalse}
@@ -105,54 +70,15 @@
 \bigskipamount=8pt plus 6pt minus 6pt
 \RequirePackage[letterpaper]{geometry}
 \ifbd@minmar
-\geometry{left=1.5in, top=1in, right=1in, bottom=1in,
-    marginparwidth=.5in}
+\geometry{left=1.5in, top=1in, right=1in, bottom=1in, marginparwidth=.5in}
 \else
   \geometry{margin=1.5in,marginparwidth=1in}
 \fi
-\if@twoside
-  \def\ps@brandeisheadings{%
-      \def\@evenfoot{\hfil\thepage\hfil}%
-      \def\@oddfoot{\hfil\thepage\hfil}%
-      \def\@evenhead{\relax}%
-      \def\@oddhead{\relax}%
- %     \def\@evenhead{\hfil{\slhape\leftmark}\hfil}%
-   %   \def\@oddhead{\hfil{\slshape\rightmark}\hfil}%
-      \let\@mkboth\markboth
-    \def\chaptermark##1{%
-      \markboth {\MakeUppercase{%
-        \ifnum \c@secnumdepth >\m@ne
-          \if@mainmatter
-            \@chapapp\ \thechapter. \ %
-          \fi
-        \fi
-        ##1}}{}}%
-    \def\sectionmark##1{%
-      \markright {\MakeUppercase{%
-        \ifnum \c@secnumdepth >\z@
-          \thesection. \ %
-        \fi
-        ##1}}}}
-\else
-  \def\ps@brandeisheadings{%
 
-          \def\@oddfoot{\hfil\thepage\hfil}%
-    \def\@oddhead{\hfil{\slshape\rightmark}\hfil}%
-    \let\@mkboth\markboth
-    \def\chaptermark##1{%
-      \markright {\MakeUppercase{%
-        \ifnum \c@secnumdepth >\m@ne
-          \if@mainmatter
-            \@chapapp\ \thechapter. \ %
-          \fi
-        \fi
-        ##1}}}}
-\fi
 \let\bd@ps@plain@saved\ps@plain
 \let\bd@ps@empty@saved\ps@empty
 \let\bd@ps@headings@saved\ps@headings
 \let\bd@ps@myheadings@saved\ps@myheadings
-\let\bd@ps@brandeisheadings@saved\ps@brandeisheadings
 \def\ps@plain{\geometry{includehead=false,includefoot}%
   \bd@ps@plain@saved}
 \def\ps@pempty{\geometry{includehead=false,includefoot=false}%
@@ -161,20 +87,15 @@
   \bd@ps@headings@saved}
 \def\ps@myheadings{\geometry{includehead,includefoot=false}%
   \bd@ps@myheadings@saved}
-\def\ps@brandeisheadings{\geometry{includehead,includefoot}%
-  \bd@ps@brandeisheadings@saved}
 \AtBeginDocument{%
   \let\ps@plain\bd@ps@plain@saved
   \let\ps@empty\bd@ps@empty@saved
   \let\ps@headings\bd@ps@headings@saved
   \let\ps@myheadings\bd@ps@myheadings@saved
-  \let\ps@brandeisheadings\bd@ps@brandeisheadings@saved
   \let\bd@ps@plain\@undefined
   \let\bd@ps@empty\@undefined
   \let\bd@ps@headings\@undefined
-  \let\bd@ps@myheadings\@undefined
-  \let\bd@ps@brandeisheadings\@undefined}
-\pagestyle{brandeisheadings}
+  \let\bd@ps@myheadings\@undefined}
 \newcommand{\thesisfront}[1][]{%
   \@for\bd@option:=#1\do{%
      \@ifundefined{bd@tf@\bd@option}{%
@@ -204,6 +125,7 @@ brandeis-dissertation class.}}%
   \cleardoublepage
   \bd@optpage{Preface}{\@preface}%
   \cleardoublepage
+  \renewcommand{\contentsname}{Table of Contents}
   \tableofcontents
   \cleardoublepage
   \if@bd@lot{\listoftables\cleardoublepage}%
@@ -242,7 +164,8 @@ brandeis-dissertation class.}}%
 \renewcommand\mainmatter{%
   \clearpage
   \@mainmattertrue
-  \pagenumbering{arabic}}
+  \pagenumbering{arabic}
+  }
 \gdef\@acknowledgments{}
 \gdef\@advisor{}
 \gdef\@dean{}
@@ -272,22 +195,24 @@ brandeis-dissertation class.}}%
   \thispagestyle{empty}%
   \begin{center}
     \vspace*{.25in}%
-    {\Large \bf\baselineskip=.8\baselineskip \@title\\}
-    \vspace*{.5in}%
-    A Dissertation\\
-    \vspace*{.25in}%
-    Presented to\\
-    The Faculty of the Graduate School of Arts and Sciences\\
-    University of Nebraska-Lincoln\\
-    \@department\\
-    \@advisor, Advisor\\
-    \vspace*{.5in}
-    In Partial Fulfillment\\
-    of the Requirements for the Degree\\
-    Doctor of Philosophy\\
-    \vspace*{.5in}
+    {\baselineskip=.8\baselineskip \@title\\}
+    \vspace*{.25in}
     by\\
     \@author\\
+    \vspace*{.5in}%
+    A DISSERTATION\\
+    \vspace*{.25in}%
+    Presented to the Faculty of\\
+    The Graduate College at the University of Nebraska\\
+    In Partial Fulfillment of the Requirements\\
+    For the Degree of Doctor of Philosophy\\
+    \vspace*{.5in}
+    Major: History\\
+    \vspace*{.5in}
+    Under the Supervision of Professor \@advisor\\
+    \vspace*{.5in}
+    Lincoln, Nebraska\\
+    \vspace*{.5in}
     \@graduationmonth, \@graduationyear\\
   \end{center}%
   \clearpage}
@@ -317,22 +242,20 @@ brandeis-dissertation class.}}%
   \end{center}%
   \clearpage}
 \newenvironment{abstract}{%
-  \addcontentsline{toc}{chapter}{Abstract}
-  \begin{singlespace}
-    \thispagestyle{plain}
+  \pagestyle{empty}
+  %\addcontentsline{toc}{chapter}{Abstract}
+  \begin{onehalfspacing}
     \begin{center}
-      {\Large\bf Abstract\\}%
-      \vspace*{.2in}%
-      {\large\bf  \@title \\}%
+      {\@title \\}%
       \vspace*{.1in}%
-      \noindent
-      A dissertation presented to the Faculty of \\
-      the Graduate School of Arts and Sciences of \\
-      University of Nebraska-Lincoln, Lincoln, Nebraska \\
-      \vspace*{0.1in}
-      by \@author
+      \@author, Ph.D.\\
+      \vspace*{.1in}%
+      University of Nebraska, 2016 \\
     \end{center}
-    \end{singlespace}%
+    \begin{flushleft}
+      Advisor: \@advisor
+    \end{flushleft}
+    \end{onehalfspacing}%
     \begin{doublespace}
     \noindent}%
   {\end{doublespace}%
@@ -390,7 +313,7 @@ brandeis-dissertation class.}}%
     \global\bd@comm@signline@lngth=\wd0
   \fi}}
 \newenvironment{optionalpage}[1]{%
-  \chapter{#1}}%
+  \chapter*{#1}}%
   {\clearpage}
 \newenvironment{optionalpage*}[1]{%
   \chapter*{#1}}%
@@ -404,6 +327,22 @@ brandeis-dissertation class.}}%
      \expandafter\@iden
   \fi
   {\begin{#1}{#2}#3\end{#1}}}
+
+% Fix page numbers to upper right
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhead[LE]{}
+\fancyhead[RO]{}
+\fancyhead[RE]{}
+\fancyhead[LO]{}
+\fancyfoot[C]{}
+\renewcommand{\headrulewidth}{0pt}
+\rhead{\thepage}
+
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \rhead{\thepage}
+}
 
 \endinput
 %%
