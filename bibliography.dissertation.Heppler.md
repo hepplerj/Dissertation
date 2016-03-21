@@ -46,11 +46,11 @@ Interview with Frederick Emmons Terman, 1984, interviewed by Arthur L. Norberg, 
 
 Ted Smith, "Pioneer Activist for Environmental Justice in Silicon Valley, 1967-2000," an oral history conducted in 2000 by Carl Wilmsen, Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 2003.
 
-Ted Smith, Oral History with Glenna Matthews.  
+Ted Smith, Glenna Matthews Oral History Collection, MSS-2010-05-11, San José State University Library Special Collections & Archives.
 
-Sig Sanchez, Oral History with Glenna Matthews.  
+Sig Sanchez, Glenna Matthews Oral History Collection, MSS-2010-05-11, San José State University Library Special Collections & Archives.
 
-Albert Henley, Oral History with Glenna Matthews.  
+Albert Henley, Glenna Matthews Oral History Collection, MSS-2010-05-11, San José State University Library Special Collections & Archives.
 
 Stegner, Wallace, "The Artist as Environmental Advocate," typescript of an oral history conducted by Ann Lage, Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 1982, 68 pp.
 

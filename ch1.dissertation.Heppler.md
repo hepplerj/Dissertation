@@ -34,7 +34,9 @@ from Air--Photo Co., Inc., Palo Alto Airport, Palo Alto.](figures/scc_overhead.p
 
 Populations surged simultaneously with industrial development. The combination of defense industries, electronics research and development contracts, Cold War defense agendas, abundant and inexpensive land, and cities willing and able to support the rapid expansion of city infrastructure welcomed the arrival of new industries. Industrial development began in the 1940s when the National Advisory Committee on Aeronautics started construction of the Ames Research Laboratory new Moffett Airfield. Stanford University leased its large land holdings to industrial entrepreneurs and researchers who were active in developing electronics equipment for military purposes. In just five years after the end of World War II, fifty new electronics industries began in the Valley. International Business Machines (IBM) established a card printing plant in 1948 in San Jose, and Russell and Sigurd Varian, inventors of the klystron tube, founded Varian Associates to manufacture devices.[^49] Other industrial developers founded their companies on what would become the Stanford Industrial Park in the late 1950s.
 
+<!--
 Such Industrial development was widely welcomed and considered a preferred alternative to the dirty industry of the Northeast and Midwest. The so-considered "clean" industries held the appearance of suburban areas with broad lawns, trees, low-rise buildings, and hidden parking lots. Thanks to strict building guidelines laid out by Stanford University as well as city regulations on new construction, new high technology industries appeared more like a college campus than an industrial manufacturer or research center. But the promise of clean industry proved elusive as smog, radiation, water contamination, intense energy and water usage, traffic congestion, and rising housing and utility costs became common features of living in the Valley.
+-->
 
 Before the wartime transformations, however, Silicon Valley was known instead as the "Garden of the World." This landscape was constructed out of agriculture and the creation of a "garden
 myth."^[On the emergence of the garden myth, see Mark Fiege, *Irrigated Eden:
@@ -46,12 +48,12 @@ Technology and the Pastoral Ideal in America* (Oxford: Oxford University Press,
 the Valley was thought of as a desired place influenced by the Valley's
 agricultural productivity and climate. The past peculiarities of the Valley's
 agriculture history illustrates how nineteenth century Spanish, Mexican, and
-Americans came to define land use around climate and productivity. To
+American settlers came to define land use around climate and productivity. To
 understand the tensions between users of the land---should a hillside be
-a Presidential Library or preserved in a natural state?---a consideration of
+a research laboratory, suburb, or preserved in a "natural" state?---a consideration of
 the "garden myth" helps explain later patterns of metropolitan development and
 environmental thought in the twentieth century. As the lands became understood
-as an agricultural bounty, it also influenced how cities were shaped. The
+as an agricultural bounty, it also influenced the shape and character of cities. The
 market towns of Santa Clara Valley adapted to this landscape, seen specifically
 through San Jose and its canneries and railroads or Saratoga and Los Gatos and
 "agricultural tourism." These places became defined by their "nature." Before
@@ -67,8 +69,8 @@ along the San Andreas fault and caused additional uplift along the entire
 coast, generating the coastal range. The new coastal ranges interrupted the
 flow of air coming off the Pacific Ocean. At the northern end of the Bay,
 a stubborn marine layer created by regular temperature inversions that trapped
-cool, moist air and causing regular fog to drift into the mouth of the Bay. On
-the Pacific-facing site of the coastal ranges, the moisture-heavy air allowed
+cool, moist air caused regular fog to drift into the mouth of the Bay. On
+the Pacific-facing side of the coastal ranges, the moisture-heavy air allowed
 coastal redwoods to flourish, giving the Santa Cruz Mountains a green vale
 year-round. Yet the range also produced a rain shadow for the flatlands of the
 Valley, where trees became scarcer and native grasses took their place. The
@@ -90,7 +92,7 @@ along the Coastal Range. Glaciers never reached coastal California and did
 little to carve the land into shape, but glaciers influenced the land as they
 began to melt. The melting glaciers increased global sea levels, flooding the
 majority of ancient valleys and creating the San Francisco Bay. Uplift allowed
-new trickles of water to slowly carve paths into the landscape, but the
+new trickles of water to slowly carve paths into the landscape, but they
 remained narrow, shallow, and prone to flooding. Most mountain run--off
 dissipated quickly into the well--drained alluvial soils and replenished
 underground aquifers. Freshwater marshes, seasonally--flooded meadows, forested
@@ -275,10 +277,9 @@ the hands of humans. The flow of the Valley's waterscape---the rivers, canals,
 reservoirs, dams, creeks, and streams that comprised this landscape---would
 emerge as a hybrid landscape that both aided and hindered humans. The
 ecological transformations of the Valley swung between destruction and
-creation. The engineering of a new waterscape meant destruction. The building
-of new dams, reservoirs, and canals interrupted the water's flow across the
-landscape, which in turn destroyed or drastically altered habitats used by
-other flora and fauna.
+creation. The building of new dams, reservoirs, and canals interrupted the
+water's flow across the landscape, which in turn destroyed or drastically
+altered habitats used by other flora and fauna.
 
 The water engineers thought little about the destructive aspects of their
 projects. Indeed, for many these projects were signs of progress and
@@ -318,7 +319,7 @@ preference away from ranching.[^25] The instability of cattle raising initiated
 the conversion of rangelands to croplands. The cattle culture introduced by the
 Spanish ninety years earlier fell away as ranchers sold their lands to farmers.
 Wheat cultivation especially took off in the 1860s. While ranching remained
-dominant in 1860, nearly 26,000 acres were converted into farmers by 1857. By
+dominant in 1860, nearly 26,000 acres were converted into farms by 1857. By
 1863, 165,000 acres were under cultivation, and by the end of the decade
 farming dominated the valley.[^26]
 
@@ -435,7 +436,7 @@ the orchards generated tremendous levels of waste. Much of the waste came in
 the form of cannery effluence. To aid the canneries in their production, San
 Jose especially became a willing partner. Beginning in the 1870s the small farm
 town began construction of a storm and sewage system that would funnel wastes
-away from the city. Much of the waste found itself dumped into the San
+away from the city. Much of the waste found itself simply dumped into the San
 Francisco Bay. While the system seemed to effectively deal with the problem of
 waste in the city, it had the effect of upsetting the Bay's ecosystems. The
 dumping of the city's waste into the Bay all but destroyed the clam and shrimp
@@ -471,12 +472,12 @@ the Valley, mostly family--run operations that totaled around 132,000 acres and
 some eight million cherry, apricot, and pear trees.[^53] By the end of the
 nineteenth century, as the region became a prominent agricultural producer,
 *Sunset* magazine writers labeled it "The Valley of Heart's Delight" and "The
-Delectable Valley" due to its reputation as a major fruit producer. The
-production of prunes, walnuts, and apricots.[^54] As late as the 1950s, canneries
-processed more than thirty percent of the state's crop of fruit and vegetables.
-Although the valley itself only produced a small portion of the crop, the
-facilities for canning, drying, and freezing were located near rail, highway,
-and water routes in the South Bay.[^55] The Valley had become a major agricultural center, and with it came the "garden myths."
+Delectable Valley" due to its reputation as a major fruit producer.[^54] As
+late as the 1950s, canneries processed more than thirty percent of the state's
+crop of fruit and vegetables. Although the valley itself only produced a small
+portion of the crop, the facilities for canning, drying, and freezing were
+located near rail, highway, and water routes in the South Bay.[^55] The Valley
+had become a major agricultural center, and with it came the "garden myths."
 
 \thoughtbreak{The agrarian culture that had come to dominate} the Valley was
 exalted not only for its remarkable productivity but also for its aesthetics
